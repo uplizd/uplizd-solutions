@@ -1,0 +1,14 @@
+# 🚀 Scheduled Task Orchestrator
+
+## 📝 Solution Description
+Automated workflow management for recurring backend operations
+
+## 🏷️ Metadata
+- **Category:** Operations
+- **Use Case:** Meetings
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+**[Launch 'Scheduled Task Orchestrator'](https://uplizd.ai/solutions/ff762cf0-2071-5c4c-ad88-c0145e1be496)**
+

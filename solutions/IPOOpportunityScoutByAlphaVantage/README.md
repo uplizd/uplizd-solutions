@@ -1,0 +1,14 @@
+# 🚀 IPO Opportunity Scout
+
+## 📝 Solution Description
+Never miss promising IPO opportunities with automated market scanning
+
+## 🏷️ Metadata
+- **Category:** Operations
+- **Use Case:** Others
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+**[Launch 'IPO Opportunity Scout'](https://uplizd.ai/solutions/896fcf66-e0ee-5ed1-a96e-28fbdb19306f)**
+

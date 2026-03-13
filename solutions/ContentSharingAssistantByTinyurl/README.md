@@ -1,0 +1,14 @@
+# 🚀 Content Sharing Assistant
+
+## 📝 Solution Description
+Streamline content distribution with automatic URL shortening
+
+## 🏷️ Metadata
+- **Category:** Marketing
+- **Use Case:** Others
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+**[Launch 'Content Sharing Assistant'](https://uplizd.ai/solutions/0c659d20-9b13-530b-95ff-2a4d487f5836)**
+
