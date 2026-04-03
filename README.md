@@ -4,6 +4,28 @@ A comprehensive collection of **2,500+ pre-built solution templates** designed t
 
 ---
 
+## 🚀 Featured CRM & Productivity Agents
+
+Quickly access our core CRM and productivity optimization agents:
+
+- [Deal Pipeline Manager](./solutions/deal-pipeline-manager)
+- [Deal Opportunity Tracker](./solutions/deal-oppotunity-tracker)
+- [CRM Data Sync Agent](./solutions/crm-data-sync-agent)
+- [CRM Data Hygiene Manager](./solutions/crm-data-hygiene-manager)
+- [Team Workload Balancer](./solutions/team-workload-balancer)
+- [CRM Permissions Analyzer](./solutions/crm-permissions-analyzer)
+- [CRM System Health Monitor](./solutions/crm-system-health-monitor)
+- [CRM Data Cleaner](./solutions/crm-data-cleaner)
+- [CRM Address Data Cleanup Agent](./solutions/crm-address-data-cleanup-agent)
+- [Contact Data Cleanup Agent](./solutions/contact-data-cleanup-agent)
+- [CRM Email Data Quality Monitor](./solutions/crm-email-data-quality-monitor)
+- [CRM Data Hygienist](./solutions/crm-data-hygienist)
+- [CRM Data Sync Manager](./solutions/crm-data-sync-manager)
+- [CRM Data Quality Agent](./solutions/crm-data-quality-agent)
+- [Smart Task Management Agent](./solutions/smart-task-management-agent)
+
+---
+
 ## 📖 What Is This Repository?
 
 This repository serves as a **template catalog** for the Uplizd platform. Each solution is organized into its own directory under [`solutions/`](./solutions/), complete with a dedicated `README.md` containing:
