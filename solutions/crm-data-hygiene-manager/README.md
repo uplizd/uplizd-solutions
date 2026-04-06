@@ -14,7 +14,7 @@ A Uplizd AI workflow that acts as a continuous "cleanup crew" for your CRM, auto
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/ae2361ac-20e4-5fb4-a52d-8e411b0586e9)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/8ae36f06-4dc8-5f19-8c30-3830e5e1ff27/)
 
 ---
 ## Who is this for?

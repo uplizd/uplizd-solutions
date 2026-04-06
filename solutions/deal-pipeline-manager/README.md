@@ -15,7 +15,7 @@ A Uplizd AI workflow that monitors deal stages, updates progress, and automatica
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/c69c3ba3-f868-5adf-89b4-fe272b5a62a9)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/0b7bdce2-561f-5bff-8c70-562b1b0ed531)
 
 ---
 ## Who is this for?

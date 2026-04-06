@@ -14,7 +14,7 @@ A Uplizd AI workflow designed for the high-level management and oversight of all
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/1e07db58-502a-579e-a89c-49a6296df448)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/e0dfd543-7e06-59ca-8494-f3abb79da833)
 
 ---
 ## Who is this for?

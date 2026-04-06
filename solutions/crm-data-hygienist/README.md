@@ -14,7 +14,7 @@ A Uplizd AI workflow that functions as a dedicated data specialist, focusing on 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/2ae18a55-ba58-5cf2-832f-a64d1cd3f211)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/da6576a5-97e4-5a49-9939-459021561deb)
 
 ---
 ## Who is this for?

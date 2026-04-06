@@ -14,7 +14,7 @@ A Uplizd AI workflow that ensures your CRM data is perfectly synchronized across
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/96053350-0a88-518a-9a99-b1411c504ca0)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/8983c74f-735c-567e-99a3-b5f715140908)
 
 ---
 ## Who is this for?
