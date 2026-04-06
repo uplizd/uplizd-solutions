@@ -121,14 +121,14 @@ The agent can call tools for:
 
 ## Related Solutions
 
-* **[CRM Data Sync Manager](../CRMDataSyncManagerByAirtable/README.md)**  
-  High-level management and monitoring of all your CRM sync processes.
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[CRM Data Quality Agent](../crm-data-quality-agent/README.md)**  
-  Ensure data is clean *before* you sync it across your entire stack.
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+  Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[CRM System Health Monitor](../CRMSystemHealthMonitorByEspocrm/README.md)**  
-  Monitor the overall health and performance of your CRM integrations.
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[Lead Enrichment Agent](../lead-enrichment-agent/README.md)**  
-  Automatically enrich leads as they are synced into your CRM.
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+  Specialized verification and standardization of physical address and location data.

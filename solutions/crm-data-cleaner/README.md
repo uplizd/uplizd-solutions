@@ -121,14 +121,14 @@ The agent can call tools for:
 
 ## Related Solutions
 
-* **[CRM Data Quality Agent](../crm-data-quality-agent/README.md)**  
-  The primary agent for overall CRM data health and enrichment.
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[CRM Data Hygiene Manager](../CRMDataHygieneManagerByMailsSo/README.md)**  
-  Continuous, long-term maintenance of your CRM's overall data hygiene.
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+  Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[Contact Data Cleanup Agent](../ContactDataCleanupAgentByCapsuleCrm/README.md)**  
-  Specifically focused on cleaning and standardizing individual contact records.
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[CRM Address Data Cleanup Agent](../CRMAddressDataCleanupAgentByAddresszen/README.md)**  
-  Deep-dive into cleaning and verifying physical address information.
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+  Specialized verification and standardization of physical address and location data.

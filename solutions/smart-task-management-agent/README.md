@@ -121,14 +121,14 @@ The agent can call tools for:
 
 ## Related Solutions
 
-* **[Team Workload Balancer](../TeamWorkloadBalancerByGorgias/README.md)**  
-  Optimize the distribution of tasks across the entire team based on real-time capacity.
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[Deal Pipeline Manager](../DealPipelineManagerByAgiled/README.md)**  
-  Focused management of tasks specifically related to sales deal progression.
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+  Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[CRM Data Quality Agent](../crm-data-quality-agent/README.md)**  
-  Ensure the data driving your task prioritization is clean and accurate.
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[Project Status Tracker](../ProjectStatusTrackerByNotion/README.md)**  
-  High-level monitoring of the projects that your tasks are a part of.
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+  Specialized verification and standardization of physical address and location data.

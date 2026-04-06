@@ -121,14 +121,14 @@ The agent can call tools for:
 
 ## Related Solutions
 
-* **[CRM Data Cleaner](../CRMDataCleanerByCentralstationcrm/README.md)**  
-  Broad data cleaning tools for all CRM fields including names and company titles.
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[Delivery Route Optimizer](../DeliveryRouteOptimizerByGoogleMaps/README.md)**  
-  Use cleaned address data to build efficient delivery and service routes.
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+  Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[Local Business Scout](../LocalBusinessScoutByFoursquare/README.md)**  
-  Find and verify new business locations based on geographic search.
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[Geographic Targeting Optimizer](../GeographicTargetingOptimizerByShortIo/README.md)**  
-  Optimize your marketing links and content based on customer location data.
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+  Specialized verification and standardization of physical address and location data.

@@ -185,17 +185,14 @@ Once Composio actions are loaded, the agent can call tools such as:
 
 ## Related Solutions
 
-* **[CRM Data Hygiene Manager](../CRMDataHygieneManagerByMailsSo/README.md)**  
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
   Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[CRM Data Sync Manager](../CRMDataSyncManagerByAirtable/README.md)**  
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
   Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[Deal Pipeline Manager](../DealPipelineManagerByAgiled/README.md)**  
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
   Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[CRM Permissions Analyzer](../CRMPermissionsAnalyzerByEspocrm/README.md)**  
-  Systematically audit and secure user access and permissions within your CRM.
-
-* **[CRM Address Data Cleanup Agent](../CRMAddressDataCleanupAgentByAddresszen/README.md)**  
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
   Specialized verification and standardization of physical address and location data.

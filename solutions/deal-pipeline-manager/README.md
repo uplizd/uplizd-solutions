@@ -122,14 +122,14 @@ The agent can call tools for:
 
 ## Related Solutions
 
-* **[Deal Opportunity Tracker](../DealOpportunityTrackerByCentralstationcrm/README.md)**  
-  Identify and track new sales opportunities in real-time.
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[CRM Data Quality Agent](../crm-data-quality-agent/README.md)**  
-  Ensure all deal and contact information is clean, validated, and enriched.
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+  Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[Team Workload Balancer](../TeamWorkloadBalancerByGorgias/README.md)**  
-  Distribute new leads and deals fairly across your sales team.
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[Smart Task Management Agent](../SmartTaskManagementAgentByCapsuleCrm/README.md)**  
-  A general-purpose agent for intelligent task prioritization beyond just sales deals.
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+  Specialized verification and standardization of physical address and location data.

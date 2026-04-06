@@ -121,14 +121,14 @@ The agent can call tools for:
 
 ## Related Solutions
 
-* **[CRM Data Sync Agent](../CRMDataSyncAgentByNango/README.md)**  
-  The specific agent for executing the individual sync tasks between platforms.
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[CRM System Health Monitor](../CRMSystemHealthMonitorByEspocrm/README.md)**  
-  Monitor the overall uptime and technical performance of your CRM and its integrations.
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+  Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[CRM Data Quality Agent](../crm-data-quality-agent/README.md)**  
-  Ensuring the data being synced is clean, validated, and enriched.
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[Lead Enrichment Agent](../lead-enrichment-agent/README.md)**  
-  Automatically enrich leads as they are orchestrated into your primary sales tools.
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+  Specialized verification and standardization of physical address and location data.

@@ -121,14 +121,14 @@ The agent can call tools for:
 
 ## Related Solutions
 
-* **[Smart Task Management Agent](../SmartTaskManagementAgentByCapsuleCrm/README.md)**  
-  Individual-focused task prioritization and organization.
+* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
 
-* **[Deal Pipeline Manager](../DealPipelineManagerByAgiled/README.md)**  
-  Manage the progression of sales deals once they are assigned.
+* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+  Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[CRM User Onboarding Assistant](../CRMUserOnboardingAssistantByEspocrm/README.md)**  
-  Get new team members up to speed and integrated into the workload balancer.
+* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
 
-* **[Project Status Tracker](../ProjectStatusTrackerByNotion/README.md)**  
-  High-level monitoring of project progress across the balanced team.
+* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+  Specialized verification and standardization of physical address and location data.
