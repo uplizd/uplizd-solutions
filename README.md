@@ -4,10 +4,11 @@ A comprehensive collection of **2,500+ pre-built solution templates** designed t
 
 ---
 
-## 🚀 Featured CRM & Productivity Agents
+## 📂 Quick Access Solutions
 
-Quickly access our core CRM and productivity optimization agents:
+Access our most popular solution templates by category:
 
+### 💼 CRM
 - [Deal Pipeline Manager](./solutions/deal-pipeline-manager)
 - [Deal Opportunity Tracker](./solutions/deal-oppotunity-tracker)
 - [CRM Data Sync Agent](./solutions/crm-data-sync-agent)
@@ -23,6 +24,31 @@ Quickly access our core CRM and productivity optimization agents:
 - [CRM Data Sync Manager](./solutions/crm-data-sync-manager)
 - [CRM Data Quality Agent](./solutions/crm-data-quality-agent)
 - [Smart Task Management Agent](./solutions/smart-task-management-agent)
+
+### 🤖 Chatbot
+- [Contact Sync Manager](./solutions/contact-sync-manager)
+- [Daily Standup Bot](./solutions/daily-standup-bot)
+- [Roleplay Scenario Generator](./solutions/RoleplayScenarioGeneratorByChatfai)
+
+### 👥 Teams
+- [Workforce Onboarding Automator](./solutions/workforce-onboarding-automator)
+- [Team Productivity Monitor](./solutions/team-productivity-monitor)
+- [Meeting Room Coordinator](./solutions/meeting-room-coordinator)
+
+### 📊 Data Processing
+- [Invoice Processing Agent](./solutions/invoice-processing-agent)
+- [Compliance Document Processor](./solutions/compliance-document-processor)
+- [Business Proposal Generator](./solutions/business-proposal-generator)
+
+### 📧 Emails
+- [Event Registration Email Checker](./solutions/event-registration-email-checker)
+- [Event Attendee Manager](./solutions/event-attendee-manager)
+- [Professional Email Clarity Assistant](./solutions/professional-email-clarity-assistant)
+
+### 🔍 Knowledge Retrieval
+- [Research Insight Synthesizer](./solutions/research-insight-synthesizer)
+- [Market Research Assistant](./solutions/market-research-assistant)
+- [Content Research Assistant](./solutions/content-research-assistant)
 
 ---
 
