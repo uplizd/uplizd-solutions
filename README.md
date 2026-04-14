@@ -28,7 +28,7 @@ Access our most popular solution templates by category:
 ### 🤖 Chatbot
 - [Contact Sync Manager](./solutions/contact-sync-manager)
 - [Daily Standup Bot](./solutions/daily-standup-bot)
-- [Roleplay Scenario Generator](./solutions/RoleplayScenarioGeneratorByChatfai)
+- [Roleplay Scenario Generator](./solutions/roleplay-scenario-generator)
 
 ### 👥 Teams
 - [Workforce Onboarding Automator](./solutions/workforce-onboarding-automator)
