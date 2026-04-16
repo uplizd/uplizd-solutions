@@ -6,7 +6,7 @@ The Brand News Sentiment Tracker is an intelligent Uplizd workflow that automate
 ---
 
 ## Demo
-![Brand News Sentiment Tracker dashboard showing real-time news mentions and sentiment scores](image.png)
+![Brand News Sentiment Tracker dashboard showing real-time news mentions and sentiment scores](../image.png)
 **Alt text (SEO-ready):** Brand News Sentiment Tracker dashboard showing real-time news mentions and sentiment scores for Uplizd AI workflow automation and media monitoring.
 
 ---

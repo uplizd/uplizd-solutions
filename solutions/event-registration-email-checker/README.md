@@ -7,7 +7,7 @@ A Uplizd AI workflow that verifies attendee email addresses during event registr
 
 ## Demo
 
-![Uplizd Event Registration Email Checker flow verifying attendee emails and categorizing results](image.png)
+![Uplizd Event Registration Email Checker flow verifying attendee emails and categorizing results](../image.png)
 
 **Alt text:** Uplizd Event Registration Email Checker integrating EmailListVerify to automate email validation and categorization for successful event registrations.
 

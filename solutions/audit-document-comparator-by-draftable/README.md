@@ -6,7 +6,7 @@ The Audit Document Comparator by Draftable is an intelligent Uplizd workflow des
 ---
 
 ## Demo
-![Audit Document Comparator workflow showing document upload, Draftable comparison, and change summary output](image.png)
+![Audit Document Comparator workflow showing document upload, Draftable comparison, and change summary output](../image.png)
 **Alt text (SEO-ready):** Uplizd Audit Document Comparator workflow using Draftable API for automated document comparison, change detection, and compliance reporting.
 
 ---

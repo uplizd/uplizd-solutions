@@ -6,7 +6,7 @@ The Account Reconciliation Helper is an intelligent Uplizd AI workflow designed 
 ---
 
 ## Demo
-![Account Reconciliation Helper workflow diagram showing automated transaction matching between QuickBooks and internal ledgers](image.png)
+![Account Reconciliation Helper workflow diagram showing automated transaction matching between QuickBooks and internal ledgers](../image.png)
 **Alt text (SEO-ready):** Account Reconciliation Helper workflow diagram showing automated transaction matching between QuickBooks and internal ledgers, powered by Uplizd AI and Composio integrations.
 
 ---

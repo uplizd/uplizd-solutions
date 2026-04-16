@@ -6,7 +6,7 @@ The Call Log Analyzer is an intelligent Uplizd workflow that processes raw call 
 ---
 
 ## Demo
-![Call Log Analyzer workflow showing transcription processing and Pipedrive CRM update nodes](image.png)
+![Call Log Analyzer workflow showing transcription processing and Pipedrive CRM update nodes](../image.png)
 **Alt text (SEO-ready):** Uplizd Call Log Analyzer workflow for Pipedrive, automating CRM data entry, sales call transcription, and lead qualification.
 
 ---

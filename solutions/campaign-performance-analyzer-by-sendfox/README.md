@@ -6,7 +6,7 @@ The Campaign Performance Analyzer is an intelligent Uplizd workflow that ingests
 ---
 
 ## Demo
-![Campaign Performance Analyzer workflow dashboard showing SendFox data integration and AI-generated insights](image.png)
+![Campaign Performance Analyzer workflow dashboard showing SendFox data integration and AI-generated insights](../image.png)
 **Alt text (SEO-ready):** Campaign Performance Analyzer dashboard showing Uplizd AI workflow, SendFox email marketing integration, and automated campaign performance metrics.
 
 ---

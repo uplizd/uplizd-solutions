@@ -6,7 +6,7 @@ The AI Lead Enrichment Engine by ScrapeGraph AI streamlines your sales pipeline 
 ---
 
 ## Demo
-![AI Lead Enrichment Engine workflow showing data extraction from web sources to CRM](image.png)
+![AI Lead Enrichment Engine workflow showing data extraction from web sources to CRM](../image.png)
 **Alt text (SEO-ready):** Uplizd AI Lead Enrichment Engine workflow using ScrapeGraph AI for automated web scraping, CRM data synchronization, and sales lead intelligence.
 
 ---

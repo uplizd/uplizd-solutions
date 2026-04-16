@@ -6,7 +6,7 @@ The AI-Powered SMS Response Handler by Dripcel streamlines customer engagement b
 ---
 
 ## Demo
-![AI-Powered SMS Response Handler workflow interface showing message ingestion and automated response generation](image.png)
+![AI-Powered SMS Response Handler workflow interface showing message ingestion and automated response generation](../image.png)
 **Alt text (SEO-ready):** AI-Powered SMS Response Handler workflow in Uplizd, demonstrating automated customer SMS processing, intelligent response generation, and Composio integration for real-time messaging.
 
 ---

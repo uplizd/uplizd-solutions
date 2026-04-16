@@ -6,7 +6,7 @@ The API Testing Validator (Uplizd) streamlines the testing of APIs protected by 
 ---
 
 ## Demo
-![API Testing Validator workflow showing automated CAPTCHA resolution and API response validation](image.png)
+![API Testing Validator workflow showing automated CAPTCHA resolution and API response validation](../image.png)
 **Alt text (SEO-ready):** API Testing Validator workflow using Uplizd and 2Captcha for automated CAPTCHA resolution, API endpoint testing, and data validation.
 
 ---

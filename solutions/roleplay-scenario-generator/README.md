@@ -8,7 +8,7 @@ An Uplizd AI workflow designed for creative writers, educators, and trainers to 
 
 ## Demo
 
-![Uplizd Roleplay Scenario Generator flow creating dynamic dialogue and character interactions](image.png)
+![Uplizd Roleplay Scenario Generator flow creating dynamic dialogue and character interactions](../image.png)
 
 **Alt text:** Uplizd Roleplay Scenario Generator integrating Chatfai toolsets to automate character creation and immersive scenario branching.
 

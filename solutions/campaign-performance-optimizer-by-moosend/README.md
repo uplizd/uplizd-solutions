@@ -6,7 +6,7 @@ The Campaign Performance Optimizer (Uplizd) is an AI-driven workflow that connec
 ---
 
 ## Demo
-![Uplizd AI workflow dashboard showing Moosend campaign performance analytics and optimization suggestions](image.png)
+![Uplizd AI workflow dashboard showing Moosend campaign performance analytics and optimization suggestions](../image.png)
 **Alt text (SEO-ready):** Uplizd AI workflow for Moosend campaign performance optimization, email marketing analytics, and automated data-driven insights.
 
 ---

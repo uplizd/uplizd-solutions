@@ -6,7 +6,7 @@ The CI/CD Health Monitor is an intelligent Uplizd workflow that provides real-ti
 ---
 
 ## Demo
-![CI/CD Health Monitor dashboard showing real-time pipeline status and incident alerts](image.png)
+![CI/CD Health Monitor dashboard showing real-time pipeline status and incident alerts](../image.png)
 **Alt text (SEO-ready):** CI/CD Health Monitor dashboard showing real-time pipeline status, build failure alerts, and deployment metrics powered by Uplizd and CircleCI.
 
 ---

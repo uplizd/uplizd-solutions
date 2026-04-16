@@ -6,7 +6,7 @@ The Automated Invoice Generator is an Uplizd AI workflow designed to transform r
 ---
 
 ## Demo
-![Automated Invoice Generator workflow showing data input, APITemplate.io integration, and PDF output](image.png)
+![Automated Invoice Generator workflow showing data input, APITemplate.io integration, and PDF output](../image.png)
 **Alt text (SEO-ready):** Automated Invoice Generator workflow on Uplizd using APITemplate.io for professional document creation and billing automation.
 
 ---

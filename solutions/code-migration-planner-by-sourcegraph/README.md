@@ -6,7 +6,7 @@ The Code Migration Planner is an intelligent Uplizd workflow designed to streaml
 ---
 
 ## Demo
-![Code Migration Planner dashboard showing dependency mapping and refactoring task generation](image.png)
+![Code Migration Planner dashboard showing dependency mapping and refactoring task generation](../image.png)
 **Alt text (SEO-ready):** Uplizd Code Migration Planner workflow interface showing automated dependency mapping, refactoring task generation, and Sourcegraph integration for software migration.
 
 ---

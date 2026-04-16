@@ -6,7 +6,7 @@ The Company Data Enricher is an intelligent Uplizd workflow that automatically f
 ---
 
 ## Demo
-![Company Data Enricher workflow showing automated CRM record enrichment and data validation](image.png)
+![Company Data Enricher workflow showing automated CRM record enrichment and data validation](../image.png)
 **Alt text (SEO-ready):** Company Data Enricher workflow for automated CRM record enrichment, data hygiene, and sales pipeline optimization using Uplizd and Composio.
 
 ---

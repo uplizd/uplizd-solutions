@@ -6,7 +6,7 @@ The Anthropic Usage Intelligence Monitor is an automated AI workflow designed to
 ---
 
 ## Demo
-![Anthropic Usage Intelligence Monitor dashboard showing real-time token consumption and cost alerts](image.png)
+![Anthropic Usage Intelligence Monitor dashboard showing real-time token consumption and cost alerts](../image.png)
 **Alt text (SEO-ready):** Anthropic Usage Intelligence Monitor dashboard displaying real-time Claude API token consumption, cost tracking, and automated usage alerts within the Uplizd AI workflow environment.
 
 ---

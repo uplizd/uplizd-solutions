@@ -6,7 +6,7 @@ The Bulk User Operations Manager is an intelligent Uplizd workflow designed to s
 ---
 
 ## Demo
-![Bulk User Operations Manager dashboard showing batch processing status and user status updates](image.png)
+![Bulk User Operations Manager dashboard showing batch processing status and user status updates](../image.png)
 **Alt text (SEO-ready):** Bulk User Operations Manager dashboard showing batch processing status and user status updates for MemberSpot, Uplizd AI workflow, and automated user lifecycle management.
 
 ---

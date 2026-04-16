@@ -6,7 +6,7 @@ The Automated PR Review Assistant leverages AI to perform real-time code analysi
 ---
 
 ## Demo
-![Automated PR Review Assistant workflow visualizing Bitbucket integration, AI analysis, and feedback loop](image.png)
+![Automated PR Review Assistant workflow visualizing Bitbucket integration, AI analysis, and feedback loop](../image.png)
 **Alt text (SEO-ready):** Automated PR Review Assistant by Uplizd, Bitbucket code review workflow, AI-powered pull request analysis, and automated engineering feedback.
 
 ---

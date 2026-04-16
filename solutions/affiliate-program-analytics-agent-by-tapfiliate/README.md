@@ -6,7 +6,7 @@ The Affiliate Program Analytics Agent is an intelligent workflow designed to str
 ---
 
 ## Demo
-![Affiliate Program Analytics Agent workflow dashboard showing data integration between Tapfiliate and reporting tools](image.png)
+![Affiliate Program Analytics Agent workflow dashboard showing data integration between Tapfiliate and reporting tools](../image.png)
 **Alt text (SEO-ready):** Affiliate Program Analytics Agent dashboard showing Uplizd workflow automation, Tapfiliate data integration, and real-time affiliate performance reporting.
 
 ---

@@ -6,7 +6,7 @@ The Bot Conversation Analyzer is an intelligent Uplizd workflow designed to inge
 ---
 
 ## Demo
-![Bot Conversation Analyzer workflow showing Chat Input, Agent analysis, and ChatbotKit integration](image.png)
+![Bot Conversation Analyzer workflow showing Chat Input, Agent analysis, and ChatbotKit integration](../image.png)
 **Alt text (SEO-ready):** Bot Conversation Analyzer Uplizd workflow for automated chatbot log analysis, sentiment tracking, and conversation optimization using Composio integrations.
 
 ---

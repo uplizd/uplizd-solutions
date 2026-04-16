@@ -6,7 +6,7 @@ The Automated Insights Report Generator (Uplizd) streamlines the extraction, ana
 ---
 
 ## Demo
-![Automated Insights Report Generator workflow diagram showing PostHog data ingestion, AI analysis, and automated report distribution](image.png)
+![Automated Insights Report Generator workflow diagram showing PostHog data ingestion, AI analysis, and automated report distribution](../image.png)
 **Alt text (SEO-ready):** Automated Insights Report Generator workflow using Uplizd, PostHog analytics, and AI-driven data synthesis for product teams.
 
 ---

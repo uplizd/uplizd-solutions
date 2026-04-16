@@ -6,7 +6,7 @@ The AI Model Experiment Manager (Uplizd) automates the lifecycle of AI model eva
 ---
 
 ## Demo
-![AI Model Experiment Manager workflow showing model comparison and performance tracking metrics](image.png)
+![AI Model Experiment Manager workflow showing model comparison and performance tracking metrics](../image.png)
 **Alt text (SEO-ready):** AI Model Experiment Manager by Uplizd, showing automated model evaluation, performance tracking, and experiment comparison workflow using Composio integrations.
 
 ---

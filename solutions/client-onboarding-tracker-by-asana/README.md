@@ -6,7 +6,7 @@ The Client Onboarding Tracker is an intelligent Uplizd workflow designed to auto
 ---
 
 ## Demo
-![Client Onboarding Tracker workflow showing data flow from Chat Input to Asana project creation](image.png)
+![Client Onboarding Tracker workflow showing data flow from Chat Input to Asana project creation](../image.png)
 **Alt text (SEO-ready):** Client Onboarding Tracker workflow in Uplizd, automating Asana task creation and project tracking for seamless customer onboarding and CRM data integration.
 
 ---

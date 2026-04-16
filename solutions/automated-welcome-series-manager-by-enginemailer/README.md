@@ -6,7 +6,7 @@ The Automated Welcome Series Manager by Enginemailer streamlines subscriber onbo
 ---
 
 ## Demo
-![Automated Welcome Series Manager workflow showing Enginemailer integration and email sequencing nodes](image.png)
+![Automated Welcome Series Manager workflow showing Enginemailer integration and email sequencing nodes](../image.png)
 **Alt text (SEO-ready):** Automated Welcome Series Manager by Uplizd showing Enginemailer email sequencing, subscriber onboarding, and automated marketing workflow.
 
 ---

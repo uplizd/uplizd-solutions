@@ -6,7 +6,7 @@ The Code Quality Monitor is an intelligent Uplizd workflow that integrates with 
 ---
 
 ## Demo
-![Code Quality Monitor dashboard showing real-time technical debt and security alerts from Codacy](image.png)
+![Code Quality Monitor dashboard showing real-time technical debt and security alerts from Codacy](../image.png)
 **Alt text (SEO-ready):** Code Quality Monitor dashboard showing real-time technical debt and security alerts from Codacy, powered by Uplizd AI workflow automation.
 
 ---

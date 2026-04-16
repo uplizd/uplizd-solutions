@@ -6,7 +6,7 @@ The Bulk Verification Orchestrator by NeverBounce is an AI-powered workflow desi
 ---
 
 ## Demo
-![Bulk Verification Orchestrator workflow showing Chat Input, Agent, NeverBounce Toolset, and Chat Output nodes](image.png)
+![Bulk Verification Orchestrator workflow showing Chat Input, Agent, NeverBounce Toolset, and Chat Output nodes](../image.png)
 **Alt text (SEO-ready):** Bulk Verification Orchestrator workflow for email hygiene, automated list cleaning, and NeverBounce integration on Uplizd.
 
 ---

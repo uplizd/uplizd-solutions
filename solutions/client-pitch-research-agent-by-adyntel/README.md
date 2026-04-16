@@ -6,7 +6,7 @@ The Client Pitch Research Agent automates the discovery of prospect advertising 
 ---
 
 ## Demo
-![Client Pitch Research Agent workflow diagram showing Adyntel data integration and automated pitch generation](image.png)
+![Client Pitch Research Agent workflow diagram showing Adyntel data integration and automated pitch generation](../image.png)
 **Alt text (SEO-ready):** Client Pitch Research Agent workflow on Uplizd, featuring Adyntel advertising intelligence integration for automated sales pitch preparation and prospect research.
 
 ---

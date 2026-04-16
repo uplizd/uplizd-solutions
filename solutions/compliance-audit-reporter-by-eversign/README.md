@@ -6,7 +6,7 @@ The Compliance Audit Reporter (Uplizd) streamlines the verification of signed do
 ---
 
 ## Demo
-![Compliance Audit Reporter dashboard showing document audit trail extraction and validation status](image.png)
+![Compliance Audit Reporter dashboard showing document audit trail extraction and validation status](../image.png)
 **Alt text (SEO-ready):** Compliance Audit Reporter dashboard showing document audit trail extraction and validation status via Uplizd AI workflow and eversign integration.
 
 ---

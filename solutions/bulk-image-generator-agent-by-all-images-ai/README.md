@@ -6,7 +6,7 @@ The Bulk Image Generator Agent streamlines marketing and creative workflows by a
 ---
 
 ## Demo
-![Bulk Image Generator Agent workflow showing prompt processing and image synthesis](image.png)
+![Bulk Image Generator Agent workflow showing prompt processing and image synthesis](../image.png)
 **Alt text (SEO-ready):** Bulk Image Generator Agent workflow for automated visual content creation using Uplizd, AI image synthesis, and Composio integrations.
 
 ---

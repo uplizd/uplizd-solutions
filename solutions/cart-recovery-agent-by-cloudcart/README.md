@@ -6,7 +6,7 @@ The Cart Recovery Agent is an intelligent Uplizd workflow designed to identify, 
 ---
 
 ## Demo
-![Cart Recovery Agent workflow showing data ingestion, AI analysis, and automated outreach](image.png)
+![Cart Recovery Agent workflow showing data ingestion, AI analysis, and automated outreach](../image.png)
 **Alt text (SEO-ready):** Cart Recovery Agent workflow for Uplizd, automating e-commerce abandoned cart recovery, customer outreach, and conversion optimization via Composio integrations.
 
 ---

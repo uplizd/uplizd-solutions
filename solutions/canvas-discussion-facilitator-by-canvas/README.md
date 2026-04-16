@@ -6,7 +6,7 @@ The Canvas Discussion Facilitator is an intelligent Uplizd workflow designed to 
 ---
 
 ## Demo
-![Canvas Discussion Facilitator interface showing AI-generated prompts and student engagement metrics](image.png)
+![Canvas Discussion Facilitator interface showing AI-generated prompts and student engagement metrics](../image.png)
 **Alt text (SEO-ready):** Canvas Discussion Facilitator Uplizd workflow, AI-powered classroom engagement, LMS discussion automation, and Canvas integration.
 
 ---

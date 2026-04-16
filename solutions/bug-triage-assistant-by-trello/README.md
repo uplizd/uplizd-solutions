@@ -6,7 +6,7 @@ The Bug Triage Assistant is an intelligent Uplizd workflow designed to streamlin
 ---
 
 ## Demo
-![Bug Triage Assistant workflow showing automated issue categorization and Trello integration](image.png)
+![Bug Triage Assistant workflow showing automated issue categorization and Trello integration](../image.png)
 
 **Alt text (SEO-ready):** Bug Triage Assistant workflow for automated issue categorization, Trello bug prioritization, and Uplizd AI-driven software development pipeline management.
 

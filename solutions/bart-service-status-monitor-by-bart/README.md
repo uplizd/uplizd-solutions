@@ -6,7 +6,7 @@ The BART Service Status Monitor is an intelligent Uplizd AI workflow designed to
 ---
 
 ## Demo
-![BART Service Status Monitor dashboard showing real-time transit delays and station alerts](image.png)
+![BART Service Status Monitor dashboard showing real-time transit delays and station alerts](../image.png)
 **Alt text (SEO-ready):** BART Service Status Monitor dashboard showing real-time transit delays, service alerts, and Uplizd AI workflow automation.
 
 ---

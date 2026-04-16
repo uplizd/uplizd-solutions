@@ -6,7 +6,7 @@ The Action Item Prioritizer is an automated Uplizd AI workflow designed to strea
 ---
 
 ## Demo
-![Action Item Prioritizer workflow showing task ingestion, AI-driven prioritization, and automated update to project management tools](image.png)
+![Action Item Prioritizer workflow showing task ingestion, AI-driven prioritization, and automated update to project management tools](../image.png)
 **Alt text (SEO-ready):** Action Item Prioritizer workflow in Uplizd, automated task ranking, AI project management, Composio integration, and operational efficiency.
 
 ---

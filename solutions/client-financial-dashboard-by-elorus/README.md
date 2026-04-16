@@ -6,7 +6,7 @@ The Client Financial Dashboard (Uplizd) workflow automates the aggregation and v
 ---
 
 ## Demo
-![Client Financial Dashboard interface showing automated revenue reports and invoice status summaries](image.png)
+![Client Financial Dashboard interface showing automated revenue reports and invoice status summaries](../image.png)
 **Alt text (SEO-ready):** Client Financial Dashboard Uplizd workflow showing automated financial reporting, invoice tracking, and revenue insights integrated with Elorus.
 
 ---

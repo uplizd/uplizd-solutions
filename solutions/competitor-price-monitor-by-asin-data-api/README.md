@@ -6,7 +6,7 @@ The Competitor Price Monitor is an automated Uplizd AI workflow designed to trac
 ---
 
 ## Demo
-![Competitor Price Monitor workflow dashboard showing real-time ASIN price tracking and automated alert triggers](image.png)
+![Competitor Price Monitor workflow dashboard showing real-time ASIN price tracking and automated alert triggers](../image.png)
 **Alt text (SEO-ready):** Competitor Price Monitor dashboard showing Uplizd AI workflow for e-commerce pricing intelligence, automated ASIN tracking, and real-time competitor data integration.
 
 ---

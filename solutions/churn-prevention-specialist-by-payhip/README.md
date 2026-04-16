@@ -6,7 +6,7 @@ The Churn Prevention Specialist is an intelligent Uplizd workflow designed to pr
 ---
 
 ## Demo
-![Churn Prevention Specialist workflow diagram showing automated retention offer triggers](image.png)
+![Churn Prevention Specialist workflow diagram showing automated retention offer triggers](../image.png)
 **Alt text (SEO-ready):** Uplizd Churn Prevention Specialist workflow for automated customer retention, subscription management, and churn reduction via Composio integrations.
 
 ---

@@ -6,7 +6,7 @@ The Bonsai Space Compliance Auditor is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Bonsai Space Compliance Auditor workflow interface showing automated policy check nodes and alert triggers](image.png)
+![Bonsai Space Compliance Auditor workflow interface showing automated policy check nodes and alert triggers](../image.png)
 **Alt text (SEO-ready):** Bonsai Space Compliance Auditor Uplizd workflow for automated Elasticsearch governance, security policy enforcement, and infrastructure compliance monitoring.
 
 ---

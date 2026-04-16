@@ -6,7 +6,7 @@ The AppVeyor Build Monitor is an intelligent automation workflow designed to tra
 ---
 
 ## Demo
-![AppVeyor Build Monitor dashboard showing real-time CI/CD pipeline status, build success metrics, and automated alert triggers](image.png)
+![AppVeyor Build Monitor dashboard showing real-time CI/CD pipeline status, build success metrics, and automated alert triggers](../image.png)
 **Alt text (SEO-ready):** AppVeyor Build Monitor dashboard showing real-time CI/CD pipeline status, build success metrics, and automated alert triggers for Uplizd AI workflow integration.
 
 ---

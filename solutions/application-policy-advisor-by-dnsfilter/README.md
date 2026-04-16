@@ -6,7 +6,7 @@ The Application Policy Advisor by DNSFilter is an AI-driven workflow designed to
 ---
 
 ## Demo
-![Application Policy Advisor workflow dashboard showing DNSFilter integration and policy recommendation nodes](image.png)
+![Application Policy Advisor workflow dashboard showing DNSFilter integration and policy recommendation nodes](../image.png)
 **Alt text (SEO-ready):** Application Policy Advisor workflow dashboard showing DNSFilter integration, automated security policy recommendations, and Uplizd AI orchestration.
 
 ---

@@ -6,7 +6,7 @@ The Cash Flow Forecaster (Uplizd) is an intelligent automation workflow that ana
 ---
 
 ## Demo
-![Cash Flow Forecaster dashboard showing invoice trends and projected revenue](image.png)
+![Cash Flow Forecaster dashboard showing invoice trends and projected revenue](../image.png)
 **Alt text (SEO-ready):** Cash Flow Forecaster dashboard in Uplizd showing automated invoice analysis and financial projection trends via Zoho Invoice integration.
 
 ---

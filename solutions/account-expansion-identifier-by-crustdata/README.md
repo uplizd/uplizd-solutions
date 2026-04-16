@@ -6,7 +6,7 @@ The Account Expansion Identifier is an intelligent Uplizd workflow that monitors
 ---
 
 ## Demo
-![Account Expansion Identifier workflow showing data ingestion from Crustdata to identify upsell opportunities](image.png)
+![Account Expansion Identifier workflow showing data ingestion from Crustdata to identify upsell opportunities](../image.png)
 **Alt text (SEO-ready):** Account Expansion Identifier Uplizd workflow, automated upsell discovery, Crustdata CRM integration, sales pipeline growth, and revenue intelligence.
 
 ---

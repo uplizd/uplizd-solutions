@@ -6,7 +6,7 @@ The Call Center Performance Optimizer is an intelligent Uplizd workflow that bri
 ---
 
 ## Demo
-![Call Center Performance Optimizer dashboard showing real-time agent metrics and staffing recommendations](image.png)
+![Call Center Performance Optimizer dashboard showing real-time agent metrics and staffing recommendations](../image.png)
 **Alt text (SEO-ready):** Call Center Performance Optimizer Uplizd workflow dashboard for real-time agent metrics, Dialpad integration, and staffing optimization.
 
 ---

@@ -6,7 +6,7 @@ The Client Deliverable Formatter is an intelligent Uplizd workflow that streamli
 ---
 
 ## Demo
-![Client Deliverable Formatter workflow showing document ingestion, automated conversion, and final output generation](image.png)
+![Client Deliverable Formatter workflow showing document ingestion, automated conversion, and final output generation](../image.png)
 **Alt text (SEO-ready):** Client Deliverable Formatter Uplizd workflow, automated document conversion, professional file formatting, and ConvertAPI integration for streamlined client delivery.
 
 ---

@@ -6,7 +6,7 @@ The Campaign Performance Optimizer is an intelligent Uplizd workflow that synchr
 ---
 
 ## Demo
-![Campaign Performance Optimizer workflow dashboard showing lemlist integration and automated optimization triggers](image.png)
+![Campaign Performance Optimizer workflow dashboard showing lemlist integration and automated optimization triggers](../image.png)
 **Alt text (SEO-ready):** Campaign Performance Optimizer Uplizd workflow, lemlist outreach automation, marketing campaign analytics, and real-time performance adjustment agent.
 
 ---

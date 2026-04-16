@@ -6,7 +6,7 @@ The Campaign Performance Analyst is an intelligent Uplizd workflow designed to b
 ---
 
 ## Demo
-![Campaign Performance Analyst workflow dashboard showing automated data ingestion and optimization suggestions](image.png)
+![Campaign Performance Analyst workflow dashboard showing automated data ingestion and optimization suggestions](../image.png)
 **Alt text (SEO-ready):** Uplizd Campaign Performance Analyst workflow dashboard for ActiveCampaign marketing automation, data synchronization, and performance optimization.
 
 ---

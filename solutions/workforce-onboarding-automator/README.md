@@ -7,7 +7,7 @@ An Uplizd AI workflow specialized in automating the new hire setup for deskless 
 
 ## Demo
 
-![Uplizd Workforce Onboarding Automator flow creating Connecteam profiles and assigning smart groups](image.png)
+![Uplizd Workforce Onboarding Automator flow creating Connecteam profiles and assigning smart groups](../image.png)
 
 **Alt text:** Uplizd Workforce Onboarding Automator integrating Connecteam toolsets to automate employee profile creation and smart group assignment.
 

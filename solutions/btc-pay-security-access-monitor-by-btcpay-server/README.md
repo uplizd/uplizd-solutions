@@ -6,7 +6,7 @@ The BTCPay Security & Access Monitor is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![BTCPay Security & Access Monitor workflow diagram showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](image.png)
+![BTCPay Security & Access Monitor workflow diagram showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](../image.png)
 **Alt text (SEO-ready):** BTCPay Security & Access Monitor workflow diagram showing Chat Input, Agent, Composio Toolset, and Chat Output nodes for automated security auditing and API key management on Uplizd.
 
 ---

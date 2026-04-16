@@ -6,7 +6,7 @@ The Bulk Email Validation Assistant is an automated Uplizd AI workflow designed 
 ---
 
 ## Demo
-![Bulk Email Validation Assistant workflow showing Chat Input, Agent, Findymail Toolset, and Chat Output nodes](image.png)
+![Bulk Email Validation Assistant workflow showing Chat Input, Agent, Findymail Toolset, and Chat Output nodes](../image.png)
 
 **Alt text (SEO-ready):** Bulk Email Validation Assistant workflow by Uplizd, featuring automated email list scrubbing, Findymail integration, and real-time bounce rate reduction.
 

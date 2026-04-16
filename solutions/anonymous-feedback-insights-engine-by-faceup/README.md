@@ -6,7 +6,7 @@ The Anonymous Feedback Insights Engine is an AI-powered workflow designed to pro
 ---
 
 ## Demo
-![Anonymous Feedback Insights Engine workflow dashboard showing feedback categorization and sentiment analysis](image.png)
+![Anonymous Feedback Insights Engine workflow dashboard showing feedback categorization and sentiment analysis](../image.png)
 **Alt text (SEO-ready):** Uplizd Anonymous Feedback Insights Engine workflow dashboard showing feedback categorization, sentiment analysis, and workplace risk reporting using Composio integrations.
 
 ---

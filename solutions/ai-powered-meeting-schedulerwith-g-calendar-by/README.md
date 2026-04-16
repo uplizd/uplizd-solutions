@@ -6,7 +6,7 @@ The AI-Powered Meeting Scheduler streamlines your calendar management by intelli
 ---
 
 ## Demo
-![AI-Powered Meeting Scheduler workflow interface showing Chat Input, Agent node, Google Calendar toolset, and Chat Output](image.png)
+![AI-Powered Meeting Scheduler workflow interface showing Chat Input, Agent node, Google Calendar toolset, and Chat Output](../image.png)
 **Alt text (SEO-ready):** AI-Powered Meeting Scheduler workflow on Uplizd, demonstrating automated Google Calendar integration, real-time availability sync, and AI-driven meeting coordination.
 
 ---

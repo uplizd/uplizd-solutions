@@ -6,7 +6,7 @@ The Automated Invoice Generator by Carbone is an intelligent Uplizd workflow des
 ---
 
 ## Demo
-![Automated Invoice Generator workflow interface showing CRM data mapping to Carbone document templates](image.png)
+![Automated Invoice Generator workflow interface showing CRM data mapping to Carbone document templates](../image.png)
 **Alt text (SEO-ready):** Automated Invoice Generator workflow in Uplizd using Carbone for CRM data integration and document automation.
 
 ---

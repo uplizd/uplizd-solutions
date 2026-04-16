@@ -6,7 +6,7 @@ The Business Portfolio Analyzer (Uplizd) is an AI-powered workflow designed to a
 ---
 
 ## Demo
-![Business Portfolio Analyzer dashboard showing cross-entity financial metrics and project status updates](image.png)
+![Business Portfolio Analyzer dashboard showing cross-entity financial metrics and project status updates](../image.png)
 **Alt text (SEO-ready):** Business Portfolio Analyzer dashboard showing cross-entity financial metrics, FreshBooks project status, and Uplizd AI workflow integration.
 
 ---

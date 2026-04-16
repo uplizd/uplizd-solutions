@@ -6,7 +6,7 @@ The Automated Delivery Completion Tracker is an intelligent Uplizd workflow desi
 ---
 
 ## Demo
-![Automated Delivery Completion Tracker dashboard showing real-time status updates and Route4Me integration](image.png)
+![Automated Delivery Completion Tracker dashboard showing real-time status updates and Route4Me integration](../image.png)
 **Alt text (SEO-ready):** Automated Delivery Completion Tracker dashboard showing real-time status updates and Route4Me integration for logistics and supply chain optimization on Uplizd.
 
 ---

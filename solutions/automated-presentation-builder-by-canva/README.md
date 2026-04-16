@@ -6,7 +6,7 @@ The Automated Presentation Builder by Uplizd streamlines the creation of high-im
 ---
 
 ## Demo
-![Automated Presentation Builder workflow interface showing data input to slide generation](image.png)
+![Automated Presentation Builder workflow interface showing data input to slide generation](../image.png)
 **Alt text (SEO-ready):** Automated Presentation Builder workflow in Uplizd showing AI-driven slide deck generation, Canva integration, and data-to-presentation automation.
 
 ---

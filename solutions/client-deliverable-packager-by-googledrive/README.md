@@ -6,7 +6,7 @@ The Client Deliverable Packager is an automated Uplizd AI workflow designed to s
 ---
 
 ## Demo
-![Client Deliverable Packager workflow showing Google Drive asset organization and automated folder creation](image.png)
+![Client Deliverable Packager workflow showing Google Drive asset organization and automated folder creation](../image.png)
 **Alt text (SEO-ready):** Client Deliverable Packager Uplizd workflow, automated Google Drive file organization, professional project asset delivery, and AI-powered document management.
 
 ---

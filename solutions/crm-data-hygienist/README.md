@@ -7,7 +7,7 @@ A Uplizd AI workflow that functions as a dedicated data specialist, focusing on 
 
 ## Demo
 
-![Uplizd CRM Data Hygienist flow performing deep contact and company data enrichment in CRM](image.png)
+![Uplizd CRM Data Hygienist flow performing deep contact and company data enrichment in CRM](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Data Hygienist using specialized tools to enrich and clean CRM records for maximum sales and marketing effectiveness.
 

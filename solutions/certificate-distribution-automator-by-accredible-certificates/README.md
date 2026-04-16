@@ -6,7 +6,7 @@ The Certificate Distribution Automator is an intelligent Uplizd workflow designe
 ---
 
 ## Demo
-![Certificate Distribution Automator workflow showing Accredible API integration and automated email delivery](image.png)
+![Certificate Distribution Automator workflow showing Accredible API integration and automated email delivery](../image.png)
 **Alt text (SEO-ready):** Certificate Distribution Automator Uplizd workflow, automated credential generation, Accredible API integration, digital certificate delivery, and automated email notification system.
 
 ---

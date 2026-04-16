@@ -6,7 +6,7 @@ The Client Project Onboarding Agent automates the transition from signed contrac
 ---
 
 ## Demo
-![Client Project Onboarding Agent workflow diagram showing BugHerd integration for automated project setup and task creation](image.png)
+![Client Project Onboarding Agent workflow diagram showing BugHerd integration for automated project setup and task creation](../image.png)
 **Alt text (SEO-ready):** Client Project Onboarding Agent workflow for automated project setup, BugHerd integration, and seamless client intake using Uplizd AI.
 
 ---

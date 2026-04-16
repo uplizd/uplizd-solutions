@@ -6,7 +6,7 @@ The Client Milestone Notifier is an intelligent Uplizd workflow designed to brid
 ---
 
 ## Demo
-![Client Milestone Notifier workflow showing project status tracking and Pushbullet notification delivery](image.png)
+![Client Milestone Notifier workflow showing project status tracking and Pushbullet notification delivery](../image.png)
 **Alt text (SEO-ready):** Client Milestone Notifier Uplizd workflow, project status tracking, Pushbullet notification automation, client communication pipeline, and automated project updates.
 
 ---

@@ -6,7 +6,7 @@ The Automated Sales Dashboard with Google Sheets workflow enables sales teams to
 ---
 
 ## Demo
-![Automated Sales Dashboard with Google Sheets workflow showing CRM data syncing to a spreadsheet](image.png)
+![Automated Sales Dashboard with Google Sheets workflow showing CRM data syncing to a spreadsheet](../image.png)
 **Alt text (SEO-ready):** Automated Sales Dashboard with Google Sheets, Uplizd workflow for CRM data synchronization, sales pipeline reporting, and automated spreadsheet updates via Composio.
 
 ---

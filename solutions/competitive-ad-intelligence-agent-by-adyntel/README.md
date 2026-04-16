@@ -6,7 +6,7 @@ The Competitive Ad Intelligence Agent by Adyntel empowers marketing teams to mon
 ---
 
 ## Demo
-![Competitive Ad Intelligence Agent workflow showing Adyntel integration and ad data analysis](image.png)
+![Competitive Ad Intelligence Agent workflow showing Adyntel integration and ad data analysis](../image.png)
 **Alt text (SEO-ready):** Competitive Ad Intelligence Agent by Adyntel workflow for tracking competitor ad performance and marketing strategy on Uplizd.
 
 ---

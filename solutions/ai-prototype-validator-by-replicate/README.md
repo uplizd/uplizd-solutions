@@ -6,7 +6,7 @@ The AI Prototype Validator (Uplizd) streamlines the pre-development phase by ena
 ---
 
 ## Demo
-![AI Prototype Validator workflow interface showing model input, validation logic, and output results](image.png)
+![AI Prototype Validator workflow interface showing model input, validation logic, and output results](../image.png)
 **Alt text (SEO-ready):** AI Prototype Validator workflow in Uplizd, showing model testing, Replicate integration, and automated validation results for AI development.
 
 ---

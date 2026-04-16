@@ -6,7 +6,7 @@ The Changelog Publisher (Uplizd) is an automated AI workflow designed to transfo
 ---
 
 ## Demo
-![Changelog Publisher workflow showing automated feature extraction and Canny publishing](image.png)
+![Changelog Publisher workflow showing automated feature extraction and Canny publishing](../image.png)
 **Alt text (SEO-ready):** Changelog Publisher Uplizd workflow automating feature release notes and product updates via Canny integration.
 
 ---

@@ -6,7 +6,7 @@ The Basic Prompting solution provides a foundational AI workflow designed to bri
 ---
 
 ## Demo
-![Basic Prompting workflow interface showing Chat Input, Agent node, and Chat Output nodes](image.png)
+![Basic Prompting workflow interface showing Chat Input, Agent node, and Chat Output nodes](../image.png)
 **Alt text (SEO-ready):** Basic Prompting workflow interface in Uplizd, demonstrating AI agent task execution, Composio tool integration, and automated chat output.
 
 ---

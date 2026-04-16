@@ -6,7 +6,7 @@ The Academic Writing Precision Assistant is an AI-powered workflow designed to e
 ---
 
 ## Demo
-![Academic Writing Precision Assistant workflow interface showing text analysis and dictionary lookup integration](image.png)
+![Academic Writing Precision Assistant workflow interface showing text analysis and dictionary lookup integration](../image.png)
 **Alt text (SEO-ready):** Academic Writing Precision Assistant workflow in Uplizd for research paper vocabulary enhancement and dictionary integration.
 
 ---

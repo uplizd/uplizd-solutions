@@ -6,7 +6,7 @@ The Community Moderation Assistant (Uplizd) leverages AI-driven workflows to aut
 ---
 
 ## Demo
-![Community Moderation Assistant workflow showing Sendbird integration and automated moderation logic](image.png)
+![Community Moderation Assistant workflow showing Sendbird integration and automated moderation logic](../image.png)
 **Alt text (SEO-ready):** Community Moderation Assistant workflow for Sendbird, featuring Uplizd AI-driven moderation, automated user management, and real-time content filtering.
 
 ---

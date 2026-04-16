@@ -8,7 +8,7 @@ A Uplizd AI workflow specialized in streamlining event marketing through automat
 
 ## Demo
 
-![Event Attendee Manager flow automating attendee lists and post-event segmentation](image.png)
+![Event Attendee Manager flow automating attendee lists and post-event segmentation](../image.png)
 
 **Alt text:** Uplizd Event Attendee Manager integrating multiple EmailOctopus tools via Composio to automate list management, attendee segmentation, and duplicate cleanup.
 

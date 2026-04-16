@@ -6,7 +6,7 @@ The Carbon Footprint Tracker is an intelligent Uplizd workflow designed to monit
 ---
 
 ## Demo
-![Carbon Footprint Tracker dashboard showing real-time CO₂ emission metrics and energy consumption trends](image.png)
+![Carbon Footprint Tracker dashboard showing real-time CO₂ emission metrics and energy consumption trends](../image.png)
 **Alt text (SEO-ready):** Carbon Footprint Tracker dashboard showing real-time CO₂ emission metrics, energy consumption trends, and Uplizd sustainability workflow automation.
 
 ---

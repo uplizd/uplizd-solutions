@@ -6,7 +6,7 @@ The Automated Call Recording Ingestion workflow enables revenue teams to automat
 ---
 
 ## Demo
-![Automated Call Recording Ingestion workflow diagram showing file source to Gong integration](image.png)
+![Automated Call Recording Ingestion workflow diagram showing file source to Gong integration](../image.png)
 **Alt text (SEO-ready):** Automated Call Recording Ingestion workflow by Uplizd, syncing external media to Gong for sales intelligence and revenue operations.
 
 ---

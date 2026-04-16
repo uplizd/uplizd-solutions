@@ -6,7 +6,7 @@ The Certificate Issuer workflow automates the creation, personalization, and sec
 ---
 
 ## Demo
-![Uplizd Certificate Issuer workflow showing document generation and distribution nodes](image.png)
+![Uplizd Certificate Issuer workflow showing document generation and distribution nodes](../image.png)
 
 **Alt text (SEO-ready):** Uplizd Certificate Issuer workflow automating document generation and distribution via APITemplate.io and email integrations.
 

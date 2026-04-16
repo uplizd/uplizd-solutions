@@ -6,7 +6,7 @@ The Admin User Onboarding Assistant automates the complex process of provisionin
 ---
 
 ## Demo
-![Admin User Onboarding Assistant workflow diagram showing automated user provisioning and training sequence](image.png)
+![Admin User Onboarding Assistant workflow diagram showing automated user provisioning and training sequence](../image.png)
 **Alt text (SEO-ready):** Admin User Onboarding Assistant workflow diagram showing automated user provisioning and training sequence on Uplizd with Composio integrations for streamlined admin setup.
 
 ---

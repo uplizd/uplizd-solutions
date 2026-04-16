@@ -6,7 +6,7 @@ The Brand Mention and Sentiment Monitor is an automated Uplizd AI workflow desig
 ---
 
 ## Demo
-![Brand Mention and Sentiment Monitor dashboard showing real-time sentiment analysis and mention volume trends](image.png)
+![Brand Mention and Sentiment Monitor dashboard showing real-time sentiment analysis and mention volume trends](../image.png)
 **Alt text (SEO-ready):** Brand Mention and Sentiment Monitor dashboard showing real-time sentiment analysis, mention volume trends, and social media reputation tracking on Uplizd.
 
 ---

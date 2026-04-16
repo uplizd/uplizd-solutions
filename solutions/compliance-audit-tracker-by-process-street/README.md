@@ -6,7 +6,7 @@ The Compliance Audit Tracker is an intelligent Uplizd workflow designed to strea
 ---
 
 ## Demo
-![Compliance Audit Tracker workflow interface showing automated evidence collection and status updates in Process Street](image.png)
+![Compliance Audit Tracker workflow interface showing automated evidence collection and status updates in Process Street](../image.png)
 **Alt text (SEO-ready):** Compliance Audit Tracker Uplizd workflow, automated evidence collection, Process Street integration, audit readiness automation, regulatory compliance management.
 
 ---

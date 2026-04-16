@@ -6,7 +6,7 @@ The Application Performance Insights Agent leverages ElasticSearch data to provi
 ---
 
 ## Demo
-![Application Performance Insights Agent dashboard showing latency trends and optimization recommendations](image.png)
+![Application Performance Insights Agent dashboard showing latency trends and optimization recommendations](../image.png)
 **Alt text (SEO-ready):** Application Performance Insights Agent dashboard showing latency trends, ElasticSearch data integration, and automated performance optimization recommendations for Uplizd workflows.
 
 ---

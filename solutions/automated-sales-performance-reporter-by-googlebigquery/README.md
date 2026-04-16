@@ -6,7 +6,7 @@ The Automated Sales Performance Reporter (Uplizd) streamlines the conversion of 
 ---
 
 ## Demo
-![Automated Sales Performance Reporter workflow showing BigQuery data extraction and AI-driven report generation](image.png)
+![Automated Sales Performance Reporter workflow showing BigQuery data extraction and AI-driven report generation](../image.png)
 **Alt text (SEO-ready):** Automated Sales Performance Reporter (Uplizd) workflow showing Google BigQuery data extraction, AI-driven sales insights, and automated reporting for RevOps teams.
 
 ---

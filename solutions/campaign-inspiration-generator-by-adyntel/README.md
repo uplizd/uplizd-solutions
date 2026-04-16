@@ -6,7 +6,7 @@ The Campaign Inspiration Generator is an intelligent Uplizd workflow that analyz
 ---
 
 ## Demo
-![Campaign Inspiration Generator workflow showing Adyntel integration for trend analysis and creative output](image.png)
+![Campaign Inspiration Generator workflow showing Adyntel integration for trend analysis and creative output](../image.png)
 **Alt text (SEO-ready):** Campaign Inspiration Generator Uplizd workflow for creative ad strategy, trend analysis, and marketing automation using Adyntel integrations.
 
 ---

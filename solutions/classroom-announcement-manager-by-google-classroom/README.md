@@ -6,7 +6,7 @@ The Classroom Announcement Manager is an intelligent Uplizd AI workflow designed
 ---
 
 ## Demo
-![Classroom Announcement Manager workflow showing Chat Input, Agent, Google Classroom Composio toolset, and Chat Output nodes](image.png)
+![Classroom Announcement Manager workflow showing Chat Input, Agent, Google Classroom Composio toolset, and Chat Output nodes](../image.png)
 **Alt text (SEO-ready):** Classroom Announcement Manager Uplizd workflow for automated Google Classroom updates and course communication management.
 
 ---

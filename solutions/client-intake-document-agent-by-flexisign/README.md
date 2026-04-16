@@ -6,7 +6,7 @@ The Client Intake Document Agent streamlines the onboarding process by automatin
 ---
 
 ## Demo
-![Client Intake Document Agent workflow showing automated document parsing and CRM update steps](image.png)
+![Client Intake Document Agent workflow showing automated document parsing and CRM update steps](../image.png)
 **Alt text (SEO-ready):** Client Intake Document Agent workflow for automated onboarding, document parsing, and CRM data synchronization using Uplizd and Composio.
 
 ---

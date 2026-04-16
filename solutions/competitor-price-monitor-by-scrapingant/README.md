@@ -6,7 +6,7 @@ The Competitor Price Monitor is an automated Uplizd AI workflow designed to trac
 ---
 
 ## Demo
-![Competitor Price Monitor workflow showing ScrapingAnt data extraction and AI analysis](image.png)
+![Competitor Price Monitor workflow showing ScrapingAnt data extraction and AI analysis](../image.png)
 **Alt text (SEO-ready):** Competitor Price Monitor Uplizd workflow using ScrapingAnt for real-time pricing intelligence, market data extraction, and automated competitive analysis.
 
 ---

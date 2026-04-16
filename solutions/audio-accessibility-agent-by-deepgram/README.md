@@ -6,7 +6,7 @@ The Audio Accessibility Agent by Deepgram is an automated workflow designed to b
 ---
 
 ## Demo
-![Audio Accessibility Agent workflow diagram showing audio file input processed by Deepgram and output as text](image.png)
+![Audio Accessibility Agent workflow diagram showing audio file input processed by Deepgram and output as text](../image.png)
 **Alt text (SEO-ready):** Audio Accessibility Agent workflow for automated transcription, Uplizd AI integration, Deepgram speech-to-text, and content accessibility pipeline.
 
 ---

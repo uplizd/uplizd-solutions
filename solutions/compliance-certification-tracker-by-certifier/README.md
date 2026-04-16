@@ -6,7 +6,7 @@ The Compliance Certification Tracker is an automated Uplizd AI workflow designed
 ---
 
 ## Demo
-![Compliance Certification Tracker dashboard showing automated renewal alerts and employee status updates](image.png)
+![Compliance Certification Tracker dashboard showing automated renewal alerts and employee status updates](../image.png)
 **Alt text (SEO-ready):** Compliance Certification Tracker Uplizd workflow showing automated renewal alerts, employee training status, and regulatory compliance data synchronization.
 
 ---

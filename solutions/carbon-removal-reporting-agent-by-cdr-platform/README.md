@@ -6,7 +6,7 @@ The Carbon Removal Reporting Agent streamlines the complex process of tracking, 
 ---
 
 ## Demo
-![Carbon Removal Reporting Agent workflow showing data ingestion from sustainability platforms to automated report generation](image.png)
+![Carbon Removal Reporting Agent workflow showing data ingestion from sustainability platforms to automated report generation](../image.png)
 **Alt text (SEO-ready):** Carbon Removal Reporting Agent workflow for automated sustainability data tracking, carbon credit verification, and ESG reporting using Uplizd and Composio.
 
 ---

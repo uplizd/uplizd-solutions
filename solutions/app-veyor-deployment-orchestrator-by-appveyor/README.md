@@ -6,7 +6,7 @@ The AppVeyor Deployment Orchestrator is an intelligent AI workflow designed to s
 ---
 
 ## Demo
-![AppVeyor Deployment Orchestrator workflow showing automated build triggers and status monitoring](image.png)
+![AppVeyor Deployment Orchestrator workflow showing automated build triggers and status monitoring](../image.png)
 **Alt text (SEO-ready):** AppVeyor Deployment Orchestrator workflow for automated CI/CD pipeline management, build status tracking, and deployment automation using Uplizd and Composio.
 
 ---

@@ -6,7 +6,7 @@ The A/B Test Performance Analyzer (Uplizd) streamlines the evaluation of experim
 ---
 
 ## Demo
-![A/B Test Performance Analyzer workflow showing data ingestion from Microsoft Clarity to AI-driven analysis](image.png)
+![A/B Test Performance Analyzer workflow showing data ingestion from Microsoft Clarity to AI-driven analysis](../image.png)
 **Alt text (SEO-ready):** Uplizd A/B Test Performance Analyzer workflow visualizing Microsoft Clarity data integration for automated conversion rate optimization and experiment analysis.
 
 ---

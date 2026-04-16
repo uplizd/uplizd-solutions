@@ -6,7 +6,7 @@ The Competitor SEO Monitor is an intelligent Uplizd workflow that automates the 
 ---
 
 ## Demo
-![Competitor SEO Monitor dashboard showing keyword ranking trends and competitor gap analysis](image.png)
+![Competitor SEO Monitor dashboard showing keyword ranking trends and competitor gap analysis](../image.png)
 **Alt text (SEO-ready):** Competitor SEO Monitor dashboard showing keyword ranking trends and competitor gap analysis for Uplizd AI marketing workflows and Ahrefs integration.
 
 ---

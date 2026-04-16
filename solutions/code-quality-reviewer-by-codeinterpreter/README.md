@@ -6,7 +6,7 @@ The Code Quality Reviewer is an automated AI workflow designed to streamline sof
 ---
 
 ## Demo
-![Code Quality Reviewer workflow interface showing automated analysis of a GitHub pull request](image.png)
+![Code Quality Reviewer workflow interface showing automated analysis of a GitHub pull request](../image.png)
 **Alt text (SEO-ready):** Code Quality Reviewer Uplizd workflow showing automated static analysis, security scanning, and code improvement suggestions using Composio integrations.
 
 ---

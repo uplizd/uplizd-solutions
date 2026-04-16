@@ -6,7 +6,7 @@ The Blockchain Compliance Event Tracker is an automated Uplizd AI workflow desig
 ---
 
 ## Demo
-![Blockchain Compliance Event Tracker dashboard showing real-time transaction monitoring and automated regulatory alert logs](image.png)
+![Blockchain Compliance Event Tracker dashboard showing real-time transaction monitoring and automated regulatory alert logs](../image.png)
 **Alt text (SEO-ready):** Blockchain Compliance Event Tracker dashboard showing real-time transaction monitoring and automated regulatory alert logs on the Uplizd platform for Web3 compliance.
 
 ---

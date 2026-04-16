@@ -6,7 +6,7 @@ The Clinical Suggestion and JSON Export workflow streamlines medical research by
 ---
 
 ## Demo
-![Clinical suggestion and save to JSON workflow interface showing disease keyword input and structured JSON output](image.png)
+![Clinical suggestion and save to JSON workflow interface showing disease keyword input and structured JSON output](../image.png)
 **Alt text (SEO-ready):** Clinical suggestion and save to JSON workflow for medical data extraction, Uplizd AI automation, and structured JSON export.
 
 ---

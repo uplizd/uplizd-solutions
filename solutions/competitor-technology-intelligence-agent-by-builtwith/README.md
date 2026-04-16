@@ -6,7 +6,7 @@ The Competitor Technology Intelligence Agent leverages the BuiltWith API to auto
 ---
 
 ## Demo
-![Competitor Technology Intelligence Agent workflow dashboard showing automated stack analysis and market opportunity reporting](image.png)
+![Competitor Technology Intelligence Agent workflow dashboard showing automated stack analysis and market opportunity reporting](../image.png)
 
 **Alt text (SEO-ready):** Competitor Technology Intelligence Agent dashboard showing automated tech stack analysis, market opportunity reporting, and Uplizd workflow integration.
 

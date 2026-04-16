@@ -6,7 +6,7 @@ The Anthropic Model Optimizer is an intelligent Uplizd AI workflow designed to d
 ---
 
 ## Demo
-![Anthropic Model Optimizer workflow showing model selection logic and API routing](image.png)
+![Anthropic Model Optimizer workflow showing model selection logic and API routing](../image.png)
 **Alt text (SEO-ready):** Anthropic Model Optimizer Uplizd workflow for automated Claude model selection, cost optimization, and AI performance management.
 
 ---

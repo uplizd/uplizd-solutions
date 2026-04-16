@@ -6,7 +6,7 @@ The Certificate Reporting Optimizer is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Certificate Reporting Optimizer dashboard showing automated compliance status and upcoming expiration alerts](image.png)
+![Certificate Reporting Optimizer dashboard showing automated compliance status and upcoming expiration alerts](../image.png)
 **Alt text (SEO-ready):** Certificate Reporting Optimizer dashboard visualizing automated security compliance, SSL certificate expiration tracking, and DigiCert data integration within the Uplizd AI workflow.
 
 ---

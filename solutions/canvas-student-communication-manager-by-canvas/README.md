@@ -6,7 +6,7 @@ The Canvas Student Communication Manager is an intelligent Uplizd AI workflow de
 ---
 
 ## Demo
-![Canvas Student Communication Manager workflow showing automated outreach and engagement tracking in Uplizd](image.png)
+![Canvas Student Communication Manager workflow showing automated outreach and engagement tracking in Uplizd](../image.png)
 **Alt text (SEO-ready):** Uplizd AI workflow for Canvas Student Communication Manager, automating student outreach, LMS data integration, and engagement tracking via Composio.
 
 ---

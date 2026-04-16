@@ -6,7 +6,7 @@ The Billing Compliance Checker is an intelligent Uplizd workflow designed to aut
 ---
 
 ## Demo
-![Billing Compliance Checker workflow interface showing automated invoice validation steps](image.png)
+![Billing Compliance Checker workflow interface showing automated invoice validation steps](../image.png)
 **Alt text (SEO-ready):** Billing Compliance Checker Uplizd workflow interface showing automated invoice validation, tax regulation checks, and financial data integration.
 
 ---

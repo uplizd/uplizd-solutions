@@ -6,7 +6,7 @@ The Client Onboarding Optimizer is an intelligent Uplizd AI workflow designed to
 ---
 
 ## Demo
-![Client Onboarding Optimizer workflow showing automated data ingestion and form processing](image.png)
+![Client Onboarding Optimizer workflow showing automated data ingestion and form processing](../image.png)
 **Alt text (SEO-ready):** Client Onboarding Optimizer Uplizd workflow, automated client paperwork processing, Boloforms integration, and AI-driven onboarding automation.
 
 ---

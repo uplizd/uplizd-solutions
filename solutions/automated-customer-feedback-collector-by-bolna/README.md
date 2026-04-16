@@ -6,7 +6,7 @@ The Automated Customer Feedback Collector is an intelligent Uplizd workflow that
 ---
 
 ## Demo
-![Automated Customer Feedback Collector workflow diagram showing voice input processing and feedback logging](image.png)
+![Automated Customer Feedback Collector workflow diagram showing voice input processing and feedback logging](../image.png)
 **Alt text (SEO-ready):** Automated Customer Feedback Collector workflow diagram showing voice input processing, Bolna voice AI integration, and feedback logging on Uplizd.
 
 ---

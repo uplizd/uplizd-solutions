@@ -6,7 +6,7 @@ The 24/7 Customer Support Assistant is an intelligent AI workflow designed to pr
 ---
 
 ## Demo
-![24/7 Customer Support Assistant workflow showing chat input, AI agent processing, and automated response output](image.png)
+![24/7 Customer Support Assistant workflow showing chat input, AI agent processing, and automated response output](../image.png)
 **Alt text (SEO-ready):** 24/7 Customer Support Assistant Uplizd workflow, AI-powered automated helpdesk resolution, real-time customer support automation, Composio integration.
 
 ---

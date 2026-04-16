@@ -6,7 +6,7 @@ The Competitor Website Monitor is an Uplizd AI workflow that leverages the Scree
 ---
 
 ## Demo
-![Competitor Website Monitor dashboard showing visual change detection and alert logs](image.png)
+![Competitor Website Monitor dashboard showing visual change detection and alert logs](../image.png)
 **Alt text (SEO-ready):** Competitor Website Monitor by Uplizd, visual change detection, automated web scraping workflow, competitive intelligence, ScreenshotOne integration.
 
 ---

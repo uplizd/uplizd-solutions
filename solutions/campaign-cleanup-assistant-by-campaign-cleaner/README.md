@@ -6,7 +6,7 @@ The Campaign Cleanup Assistant is an intelligent Uplizd workflow designed to mai
 ---
 
 ## Demo
-![Campaign Cleanup Assistant workflow interface showing automated campaign filtering and archival logic](image.png)
+![Campaign Cleanup Assistant workflow interface showing automated campaign filtering and archival logic](../image.png)
 **Alt text (SEO-ready):** Campaign Cleanup Assistant Uplizd workflow for automated marketing campaign hygiene, data synchronization, and performance optimization.
 
 ---

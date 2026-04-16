@@ -6,7 +6,7 @@ The Carbon Offset Progress Tracker is an intelligent Uplizd AI workflow designed
 ---
 
 ## Demo
-![Carbon Offset Progress Tracker workflow showing data ingestion, impact analysis, and automated reporting nodes](image.png)
+![Carbon Offset Progress Tracker workflow showing data ingestion, impact analysis, and automated reporting nodes](../image.png)
 **Alt text (SEO-ready):** Carbon Offset Progress Tracker Uplizd AI workflow for automated sustainability reporting, carbon credit monitoring, and ESG data integration.
 
 ---

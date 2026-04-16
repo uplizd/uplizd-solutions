@@ -6,7 +6,7 @@ The Channel Performance Optimizer (Uplizd) is an AI-powered workflow designed to
 ---
 
 ## Demo
-![Channel Performance Optimizer dashboard showing communication channel metrics and AI-driven optimization insights](image.png)
+![Channel Performance Optimizer dashboard showing communication channel metrics and AI-driven optimization insights](../image.png)
 **Alt text (SEO-ready):** Uplizd Channel Performance Optimizer workflow dashboard showing communication channel metrics, Respond.io integration, and AI-driven optimization insights.
 
 ---

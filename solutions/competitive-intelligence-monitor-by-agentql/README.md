@@ -6,7 +6,7 @@ The Competitive Intelligence Monitor is an automated AI workflow designed to tra
 ---
 
 ## Demo
-![Competitive Intelligence Monitor dashboard showing real-time competitor data tracking and automated analysis reports](image.png)
+![Competitive Intelligence Monitor dashboard showing real-time competitor data tracking and automated analysis reports](../image.png)
 
 **Alt text (SEO-ready):** Competitive Intelligence Monitor dashboard showing real-time competitor data tracking and automated analysis reports using Uplizd, AgentQL, and AI-driven market intelligence workflows.
 

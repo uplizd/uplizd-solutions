@@ -6,7 +6,7 @@ The Competitor SERP Monitor is an intelligent Uplizd workflow that automates the
 ---
 
 ## Demo
-![Competitor SERP Monitor dashboard showing keyword ranking shifts and competitor domain performance](image.png)
+![Competitor SERP Monitor dashboard showing keyword ranking shifts and competitor domain performance](../image.png)
 **Alt text (SEO-ready):** Competitor SERP Monitor dashboard displaying search engine ranking tracking, keyword performance metrics, and Uplizd AI workflow automation.
 
 ---

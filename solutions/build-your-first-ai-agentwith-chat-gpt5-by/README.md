@@ -6,7 +6,7 @@ The Build Your First AI Agent with ChatGPT-5 solution provides a streamlined fra
 ---
 
 ## Demo
-![Workflow diagram showing the connection from Chat Input to Agent, Composio Toolset, and Chat Output](image.png)
+![Workflow diagram showing the connection from Chat Input to Agent, Composio Toolset, and Chat Output](../image.png)
 **Alt text (SEO-ready):** Uplizd AI workflow diagram for building intelligent agents with ChatGPT-5, Composio Toolset, and automated chat interactions.
 
 ---

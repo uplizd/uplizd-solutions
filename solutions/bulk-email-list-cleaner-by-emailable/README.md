@@ -6,7 +6,7 @@ The Bulk Email List Cleaner by Emailable is an automated AI workflow designed to
 ---
 
 ## Demo
-![Bulk Email List Cleaner workflow dashboard showing automated validation of contact lists via Emailable integration](image.png)
+![Bulk Email List Cleaner workflow dashboard showing automated validation of contact lists via Emailable integration](../image.png)
 **Alt text (SEO-ready):** Bulk Email List Cleaner workflow dashboard showing automated validation of contact lists via Emailable integration, Uplizd AI automation, and email deliverability optimization.
 
 ---

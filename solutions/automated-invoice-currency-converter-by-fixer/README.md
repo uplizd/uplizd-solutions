@@ -6,7 +6,7 @@ The Automated Invoice Currency Converter is an intelligent Uplizd workflow desig
 ---
 
 ## Demo
-![Automated Invoice Currency Converter workflow showing Chat Input, Agent, Fixer API integration, and Chat Output](image.png)
+![Automated Invoice Currency Converter workflow showing Chat Input, Agent, Fixer API integration, and Chat Output](../image.png)
 **Alt text (SEO-ready):** Uplizd Automated Invoice Currency Converter workflow using Composio Toolset for real-time exchange rate data and financial document processing.
 
 ---

@@ -6,7 +6,7 @@ The Compliance Action Monitor is an intelligent Uplizd workflow designed to auto
 ---
 
 ## Demo
-![Compliance Action Monitor dashboard showing incident action item status and audit compliance logs](image.png)
+![Compliance Action Monitor dashboard showing incident action item status and audit compliance logs](../image.png)
 **Alt text (SEO-ready):** Compliance Action Monitor dashboard showing incident action item status, audit compliance logs, and Rootly integration for automated incident response.
 
 ---

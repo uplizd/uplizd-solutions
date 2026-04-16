@@ -6,7 +6,7 @@ The Adaptive Learning Curriculum Builder is an intelligent Uplizd workflow that 
 ---
 
 ## Demo
-![Adaptive Learning Curriculum Builder workflow screenshot showing Chat Input, Agent node with Perplexity AI, and Composio Toolset output](image.png)
+![Adaptive Learning Curriculum Builder workflow screenshot showing Chat Input, Agent node with Perplexity AI, and Composio Toolset output](../image.png)
 **Alt text (SEO-ready):** Adaptive Learning Curriculum Builder workflow on Uplizd, featuring AI-driven content curation, automated syllabus generation, and Perplexity AI integration for personalized education paths.
 
 ---

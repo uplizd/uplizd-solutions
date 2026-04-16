@@ -6,7 +6,7 @@ The Company Data Enrichment Agent leverages the Hunter API via the Composio Tool
 ---
 
 ## Demo
-![Company Data Enrichment Agent workflow interface showing Hunter API integration and CRM data mapping](image.png)
+![Company Data Enrichment Agent workflow interface showing Hunter API integration and CRM data mapping](../image.png)
 
 **Alt text (SEO-ready):** Company Data Enrichment Agent by Uplizd, automated B2B lead research, Hunter API integration, CRM data hygiene, and sales intelligence workflow.
 

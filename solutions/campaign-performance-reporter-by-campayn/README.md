@@ -6,7 +6,7 @@ The Campaign Performance Reporter is an intelligent Uplizd workflow designed to 
 ---
 
 ## Demo
-![Campaign Performance Reporter dashboard showing automated email engagement metrics and trend analysis](image.png)
+![Campaign Performance Reporter dashboard showing automated email engagement metrics and trend analysis](../image.png)
 **Alt text (SEO-ready):** Campaign Performance Reporter dashboard showing automated email engagement metrics and trend analysis for Uplizd marketing automation workflows.
 
 ---

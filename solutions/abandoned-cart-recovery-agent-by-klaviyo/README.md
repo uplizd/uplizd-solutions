@@ -6,7 +6,7 @@ The Abandoned Cart Recovery Agent is an intelligent Uplizd workflow designed to 
 ---
 
 ## Demo
-![Abandoned Cart Recovery Agent workflow interface showing Klaviyo integration and automated messaging nodes](image.png)
+![Abandoned Cart Recovery Agent workflow interface showing Klaviyo integration and automated messaging nodes](../image.png)
 
 **Alt text (SEO-ready):** Abandoned Cart Recovery Agent (Uplizd) workflow interface showing Klaviyo integration, automated messaging, and e-commerce conversion tracking.
 

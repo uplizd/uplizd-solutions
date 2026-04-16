@@ -6,7 +6,7 @@ The Affiliate Program Optimizer is an intelligent Uplizd workflow designed to st
 ---
 
 ## Demo
-![Affiliate Program Optimizer workflow dashboard showing performance metrics and automated payout triggers](image.png)
+![Affiliate Program Optimizer workflow dashboard showing performance metrics and automated payout triggers](../image.png)
 **Alt text (SEO-ready):** Affiliate Program Optimizer dashboard in Uplizd showing automated performance tracking, Lemon Squeezy integration, and affiliate ROI analytics.
 
 ---

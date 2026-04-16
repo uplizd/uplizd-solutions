@@ -6,7 +6,7 @@ The Automated Invoice Generator by Moneybird is an intelligent Uplizd workflow d
 ---
 
 ## Demo
-![Automated Invoice Generator workflow in Uplizd showing Moneybird integration](image.png)
+![Automated Invoice Generator workflow in Uplizd showing Moneybird integration](../image.png)
 **Alt text (SEO-ready):** Automated Invoice Generator workflow in Uplizd, demonstrating Moneybird integration for seamless billing, invoice automation, and financial data synchronization.
 
 ---

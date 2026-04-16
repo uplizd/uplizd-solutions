@@ -6,7 +6,7 @@ The Account Verification Assistant is an automated Uplizd workflow designed to s
 ---
 
 ## Demo
-![Account Verification Assistant workflow showing automated captcha solving and account validation steps](image.png)
+![Account Verification Assistant workflow showing automated captcha solving and account validation steps](../image.png)
 **Alt text (SEO-ready):** Account Verification Assistant workflow for automated captcha solving, identity validation, and CRM account synchronization using Uplizd and TwoCaptcha.
 
 ---

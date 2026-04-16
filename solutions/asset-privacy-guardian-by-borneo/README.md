@@ -6,7 +6,7 @@ The Asset Privacy Guardian is an automated Uplizd workflow designed to scan, ide
 ---
 
 ## Demo
-![Asset Privacy Guardian workflow showing data discovery, risk scanning, and privacy report generation](image.png)
+![Asset Privacy Guardian workflow showing data discovery, risk scanning, and privacy report generation](../image.png)
 **Alt text (SEO-ready):** Asset Privacy Guardian Uplizd workflow for automated data discovery, privacy risk assessment, and security compliance monitoring using Borneo.
 
 ---

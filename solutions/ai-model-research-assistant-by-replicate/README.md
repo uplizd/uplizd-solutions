@@ -6,7 +6,7 @@ The AI Model Research Assistant is an intelligent workflow designed to automate 
 ---
 
 ## Demo
-![AI Model Research Assistant workflow interface showing model search, evaluation, and comparison nodes](image.png)
+![AI Model Research Assistant workflow interface showing model search, evaluation, and comparison nodes](../image.png)
 **Alt text (SEO-ready):** AI Model Research Assistant (Uplizd) workflow interface showing model search, evaluation, and comparison nodes for Replicate integration.
 
 ---

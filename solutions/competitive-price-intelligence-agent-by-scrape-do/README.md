@@ -6,7 +6,7 @@ The Competitive Price Intelligence Agent is an automated workflow designed to tr
 ---
 
 ## Demo
-![Competitive Price Intelligence Agent dashboard showing real-time competitor price tracking and automated alerts](image.png)
+![Competitive Price Intelligence Agent dashboard showing real-time competitor price tracking and automated alerts](../image.png)
 **Alt text (SEO-ready):** Competitive Price Intelligence Agent dashboard showing real-time competitor price tracking, market data analysis, and automated alerts using Uplizd and Scrape.do.
 
 ---

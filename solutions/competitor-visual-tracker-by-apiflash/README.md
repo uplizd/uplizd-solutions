@@ -6,7 +6,7 @@ The Competitor Visual Tracker is an intelligent Uplizd workflow that automates t
 ---
 
 ## Demo
-![Competitor Visual Tracker workflow dashboard showing automated screenshot captures and change detection alerts](image.png)
+![Competitor Visual Tracker workflow dashboard showing automated screenshot captures and change detection alerts](../image.png)
 **Alt text (SEO-ready):** Competitor Visual Tracker dashboard showing automated screenshot captures, website change detection, and visual intelligence workflow on Uplizd.
 
 ---

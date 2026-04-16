@@ -6,7 +6,7 @@ The Automated Report Generator by API2PDF is an intelligent Uplizd workflow that
 ---
 
 ## Demo
-![Automated Report Generator workflow showing data input, PDF conversion, and document output](image.png)
+![Automated Report Generator workflow showing data input, PDF conversion, and document output](../image.png)
 **Alt text (SEO-ready):** Automated Report Generator workflow on Uplizd, PDF document automation using API2PDF, data-to-document pipeline, and professional reporting integration.
 
 ---

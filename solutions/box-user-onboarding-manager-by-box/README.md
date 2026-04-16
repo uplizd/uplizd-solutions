@@ -6,7 +6,7 @@ The Box User Onboarding Manager streamlines identity and access management by au
 ---
 
 ## Demo
-![Box User Onboarding Manager workflow diagram showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](image.png)
+![Box User Onboarding Manager workflow diagram showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](../image.png)
 **Alt text (SEO-ready):** Box User Onboarding Manager workflow diagram, Uplizd automation for user provisioning, group assignment, and Box API integration.
 
 ---

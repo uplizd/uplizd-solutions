@@ -6,7 +6,7 @@ The Client Demo Application Builder is an automated AI workflow designed to stre
 ---
 
 ## Demo
-![Client Demo Application Builder workflow interface showing the integration of Chat Input, Agent, Composio Toolset, and Chat Output nodes.](image.png)
+![Client Demo Application Builder workflow interface showing the integration of Chat Input, Agent, Composio Toolset, and Chat Output nodes.](../image.png)
 **Alt text (SEO-ready):** Client Demo Application Builder Uplizd workflow for automated demo environment provisioning, web application deployment, and sales demo automation using Composio integrations.
 
 ---

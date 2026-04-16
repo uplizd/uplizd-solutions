@@ -6,7 +6,7 @@ The BART Accessibility Navigator is an intelligent Uplizd workflow designed to p
 ---
 
 ## Demo
-![BART Accessibility Navigator workflow interface showing real-time station status and elevator availability](image.png)
+![BART Accessibility Navigator workflow interface showing real-time station status and elevator availability](../image.png)
 **Alt text (SEO-ready):** BART Accessibility Navigator Uplizd workflow interface, real-time transit accessibility, station navigation, and elevator status monitoring.
 
 ---

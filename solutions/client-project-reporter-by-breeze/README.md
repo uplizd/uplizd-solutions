@@ -6,7 +6,7 @@ The Client Project Reporter is an intelligent Uplizd workflow designed to stream
 ---
 
 ## Demo
-![Client Project Reporter workflow showing data aggregation from project management tools to automated report generation](image.png)
+![Client Project Reporter workflow showing data aggregation from project management tools to automated report generation](../image.png)
 **Alt text (SEO-ready):** Client Project Reporter Uplizd workflow for automated project status updates, data aggregation, and client communication reporting.
 
 ---

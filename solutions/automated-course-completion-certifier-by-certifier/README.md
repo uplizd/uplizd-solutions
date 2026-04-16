@@ -6,7 +6,7 @@ The Automated Course Completion Certifier is an intelligent Uplizd workflow that
 ---
 
 ## Demo
-![Automated Course Completion Certifier workflow diagram showing LMS trigger, agent verification, and certificate generation](image.png)
+![Automated Course Completion Certifier workflow diagram showing LMS trigger, agent verification, and certificate generation](../image.png)
 **Alt text (SEO-ready):** Automated Course Completion Certifier workflow in Uplizd, showing LMS integration, agent-led verification, and automated certificate delivery for improved learner engagement.
 
 ---

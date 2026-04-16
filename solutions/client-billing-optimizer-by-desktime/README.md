@@ -6,7 +6,7 @@ The Client Billing Optimizer is an intelligent Uplizd workflow that bridges the 
 ---
 
 ## Demo
-![Client Billing Optimizer workflow dashboard showing time-to-invoice automation](image.png)
+![Client Billing Optimizer workflow dashboard showing time-to-invoice automation](../image.png)
 **Alt text (SEO-ready):** Uplizd Client Billing Optimizer workflow dashboard showing automated time-to-invoice data synchronization and DeskTime integration.
 
 ---

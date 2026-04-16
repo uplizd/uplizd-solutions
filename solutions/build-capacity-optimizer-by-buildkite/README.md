@@ -6,7 +6,7 @@ The Build Capacity Optimizer (Uplizd) is an intelligent workflow designed to mon
 ---
 
 ## Demo
-![Build Capacity Optimizer dashboard showing agent utilization metrics and cost-saving recommendations](image.png)
+![Build Capacity Optimizer dashboard showing agent utilization metrics and cost-saving recommendations](../image.png)
 **Alt text (SEO-ready):** Build Capacity Optimizer dashboard showing agent utilization metrics, CI/CD cost-saving recommendations, and Buildkite infrastructure analytics on Uplizd.
 
 ---

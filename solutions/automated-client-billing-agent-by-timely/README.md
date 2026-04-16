@@ -6,7 +6,7 @@ The Automated Client Billing Agent streamlines the transition from logged work h
 ---
 
 ## Demo
-![Automated Client Billing Agent workflow diagram showing time logs flowing into an AI agent for invoice generation](image.png)
+![Automated Client Billing Agent workflow diagram showing time logs flowing into an AI agent for invoice generation](../image.png)
 **Alt text (SEO-ready):** Automated Client Billing Agent workflow in Uplizd, showing time tracking data integration, AI-driven invoice generation, and Composio toolset connectivity for financial automation.
 
 ---

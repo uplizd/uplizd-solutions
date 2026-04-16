@@ -6,7 +6,7 @@ The Behavioral Email Campaign Trigger is an intelligent Uplizd workflow that mon
 ---
 
 ## Demo
-![Behavioral Email Campaign Trigger workflow showing Chat Input, Agent node, Resend integration, and Chat Output](image.png)
+![Behavioral Email Campaign Trigger workflow showing Chat Input, Agent node, Resend integration, and Chat Output](../image.png)
 **Alt text (SEO-ready):** Behavioral Email Campaign Trigger workflow in Uplizd, featuring automated Resend email dispatch, user behavior tracking, and AI-driven marketing automation.
 
 ---

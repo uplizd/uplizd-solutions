@@ -6,7 +6,7 @@ The Automated Survey Curator (Uplizd) is an intelligent AI-driven workflow desig
 ---
 
 ## Demo
-![Automated Survey Curator workflow dashboard showing SurveyMonkey integration and data processing nodes](image.png)
+![Automated Survey Curator workflow dashboard showing SurveyMonkey integration and data processing nodes](../image.png)
 **Alt text (SEO-ready):** Automated Survey Curator workflow for SurveyMonkey data management, Uplizd AI integration, and automated survey response organization.
 
 ---

@@ -7,7 +7,7 @@ A Uplizd AI workflow specifically engineered to clean, standardize, and enrich i
 
 ## Demo
 
-![Uplizd Contact Data Cleanup Agent flow cleaning and optimizing individual contact records in CRM](image.png)
+![Uplizd Contact Data Cleanup Agent flow cleaning and optimizing individual contact records in CRM](../image.png)
 
 **Alt text (SEO-ready):** Uplizd Contact Data Cleanup Agent identifying and fixing errors in individual CRM contact profiles for better relationship management.
 

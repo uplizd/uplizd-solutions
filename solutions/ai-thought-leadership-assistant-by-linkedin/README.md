@@ -6,7 +6,7 @@ The AI Thought Leadership Assistant streamlines the process of transforming raw 
 ---
 
 ## Demo
-![AI Thought Leadership Assistant workflow interface showing LinkedIn integration and content generation nodes](image.png)
+![AI Thought Leadership Assistant workflow interface showing LinkedIn integration and content generation nodes](../image.png)
 **Alt text (SEO-ready):** AI Thought Leadership Assistant workflow for LinkedIn content automation, featuring Uplizd integration, Composio Toolset, and automated social media publishing.
 
 ---

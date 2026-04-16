@@ -6,7 +6,7 @@ The Compliance Audit Assistant is an intelligent Uplizd workflow designed to str
 ---
 
 ## Demo
-![Compliance Audit Assistant workflow interface showing Ragic data integration and automated compliance reporting](image.png)
+![Compliance Audit Assistant workflow interface showing Ragic data integration and automated compliance reporting](../image.png)
 **Alt text (SEO-ready):** Compliance Audit Assistant dashboard showing Uplizd workflow, Ragic data integration, and automated compliance reporting for audit readiness.
 
 ---

@@ -6,7 +6,7 @@ The Competitive Intelligence Agent by Hunter is an automated workflow designed t
 ---
 
 ## Demo
-![Competitive Intelligence Agent workflow dashboard showing Hunter integration and data extraction nodes](image.png)
+![Competitive Intelligence Agent workflow dashboard showing Hunter integration and data extraction nodes](../image.png)
 **Alt text (SEO-ready):** Competitive Intelligence Agent by Uplizd, automated market research workflow, Hunter email discovery, competitor tracking, and sales intelligence integration.
 
 ---

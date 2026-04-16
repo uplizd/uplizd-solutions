@@ -6,7 +6,7 @@ The Cohort Performance Tracker (Uplizd) is an automated AI workflow designed to 
 ---
 
 ## Demo
-![Cohort Performance Tracker dashboard showing retention curves and user cohort breakdown](image.png)
+![Cohort Performance Tracker dashboard showing retention curves and user cohort breakdown](../image.png)
 **Alt text (SEO-ready):** Cohort Performance Tracker dashboard showing retention curves and user cohort breakdown for Uplizd AI workflow and Mixpanel data integration.
 
 ---

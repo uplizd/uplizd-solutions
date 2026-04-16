@@ -6,7 +6,7 @@ The Brand Asset Collector by Uplizd is an intelligent workflow designed to autom
 ---
 
 ## Demo
-![Brand Asset Collector workflow diagram showing Brandfetch integration and automated asset organization](image.png)
+![Brand Asset Collector workflow diagram showing Brandfetch integration and automated asset organization](../image.png)
 **Alt text (SEO-ready):** Uplizd Brand Asset Collector workflow automating brand identity retrieval, logo collection, and asset synchronization via Brandfetch API.
 
 ---

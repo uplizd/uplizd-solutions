@@ -6,7 +6,7 @@ The Audiobook Production Pipeline automates the transformation of written manusc
 ---
 
 ## Demo
-![Audiobook Production Pipeline workflow showing text input, ElevenLabs narration, and audio output](image.png)
+![Audiobook Production Pipeline workflow showing text input, ElevenLabs narration, and audio output](../image.png)
 **Alt text (SEO-ready):** Audiobook Production Pipeline workflow in Uplizd, featuring ElevenLabs voice synthesis, automated manuscript narration, and audio file generation.
 
 ---

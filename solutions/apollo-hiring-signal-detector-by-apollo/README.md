@@ -6,7 +6,7 @@ The Apollo Hiring Signal Detector is an intelligent Uplizd workflow that monitor
 ---
 
 ## Demo
-![Apollo Hiring Signal Detector workflow dashboard showing real-time job posting alerts and lead enrichment](image.png)
+![Apollo Hiring Signal Detector workflow dashboard showing real-time job posting alerts and lead enrichment](../image.png)
 **Alt text (SEO-ready):** Apollo Hiring Signal Detector workflow dashboard showing real-time job posting alerts, lead enrichment, and sales pipeline integration via Uplizd.
 
 ---

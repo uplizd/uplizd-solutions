@@ -6,7 +6,7 @@ The Brand Consistency Guardian is an automated AI workflow designed to ensure th
 ---
 
 ## Demo
-![Brand Consistency Guardian workflow showing automated image analysis and alt text generation via AltText.ai](image.png)
+![Brand Consistency Guardian workflow showing automated image analysis and alt text generation via AltText.ai](../image.png)
 **Alt text (SEO-ready):** Brand Consistency Guardian workflow by Uplizd, automating image accessibility, alt text generation, and brand voice compliance using AltText.ai and Composio integrations.
 
 ---

@@ -6,7 +6,7 @@ The Alerting Rule Curator is an automated Uplizd workflow designed to streamline
 ---
 
 ## Demo
-![Alerting Rule Curator workflow showing automated rule analysis and cleanup](image.png)
+![Alerting Rule Curator workflow showing automated rule analysis and cleanup](../image.png)
 **Alt text (SEO-ready):** Uplizd Alerting Rule Curator workflow for automated monitoring rule cleanup, noise reduction, and incident management integration.
 
 ---

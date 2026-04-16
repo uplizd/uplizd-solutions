@@ -6,7 +6,7 @@ The App Performance Monitor (Uplizd) is an intelligent AI workflow designed to p
 ---
 
 ## Demo
-![App Performance Monitor dashboard showing real-time latency spikes and automated incident alerts](image.png)
+![App Performance Monitor dashboard showing real-time latency spikes and automated incident alerts](../image.png)
 **Alt text (SEO-ready):** App Performance Monitor dashboard showing real-time latency spikes and automated incident alerts in the Uplizd AI workflow for backend observability.
 
 ---

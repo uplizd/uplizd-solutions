@@ -6,7 +6,7 @@ The Automated Sales Follow-up Agent leverages advanced AI voice technology to en
 ---
 
 ## Demo
-![Automated Sales Follow-up Agent workflow diagram showing CRM integration and AI voice outreach](image.png)
+![Automated Sales Follow-up Agent workflow diagram showing CRM integration and AI voice outreach](../image.png)
 **Alt text (SEO-ready):** Automated Sales Follow-up Agent workflow diagram showing CRM integration, AI voice outreach, lead nurturing, and Uplizd pipeline management.
 
 ---

@@ -6,7 +6,7 @@ The Competitive Event Analyzer is an intelligent Uplizd workflow designed to str
 ---
 
 ## Demo
-![Competitive Event Analyzer workflow dashboard showing Eventbrite integration and AI analysis nodes](image.png)
+![Competitive Event Analyzer workflow dashboard showing Eventbrite integration and AI analysis nodes](../image.png)
 **Alt text (SEO-ready):** Competitive Event Analyzer by Uplizd, showing Eventbrite event data integration, AI-powered competitor research, and automated market positioning reports.
 
 ---

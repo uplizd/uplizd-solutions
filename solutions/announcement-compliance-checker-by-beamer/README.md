@@ -6,7 +6,7 @@ The Announcement Compliance Checker is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Announcement Compliance Checker workflow interface showing Beamer integration and AI validation nodes](image.png)
+![Announcement Compliance Checker workflow interface showing Beamer integration and AI validation nodes](../image.png)
 **Alt text (SEO-ready):** Announcement Compliance Checker workflow in Uplizd, featuring AI-powered brand guideline validation and automated regulatory compliance checks for Beamer product updates.
 
 ---

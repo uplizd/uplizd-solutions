@@ -6,7 +6,7 @@ The Blacklist Management Guardian is an automated Uplizd workflow designed to mo
 ---
 
 ## Demo
-![Blacklist Management Guardian workflow diagram showing CRM integration and automated filtering](image.png)
+![Blacklist Management Guardian workflow diagram showing CRM integration and automated filtering](../image.png)
 **Alt text (SEO-ready):** Uplizd Blacklist Management Guardian workflow for CRM data hygiene, automated prospect filtering, and sales pipeline protection.
 
 ---

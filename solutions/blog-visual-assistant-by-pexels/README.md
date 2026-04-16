@@ -6,7 +6,7 @@ The Blog Visual Assistant is an intelligent Uplizd workflow that streamlines the
 ---
 
 ## Demo
-![Blog Visual Assistant workflow interface showing image search and selection automation](image.png)
+![Blog Visual Assistant workflow interface showing image search and selection automation](../image.png)
 **Alt text (SEO-ready):** Uplizd Blog Visual Assistant workflow, automated image sourcing for content marketing, Pexels integration, and AI-driven media selection.
 
 ---

@@ -6,7 +6,7 @@ The Brand Protection Scanner is an intelligent Uplizd workflow designed to autom
 ---
 
 ## Demo
-![Brand Protection Scanner workflow interface showing MX Toolbox integration for BIMI and DMARC verification](image.png)
+![Brand Protection Scanner workflow interface showing MX Toolbox integration for BIMI and DMARC verification](../image.png)
 **Alt text (SEO-ready):** Brand Protection Scanner Uplizd workflow for automated BIMI, DMARC, and email security verification using MX Toolbox and Composio.
 
 ---

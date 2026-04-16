@@ -6,7 +6,7 @@ The BART Travel Assistant is an intelligent Uplizd AI workflow designed to provi
 ---
 
 ## Demo
-![BART Travel Assistant workflow interface showing real-time route planning and transit status updates](image.png)
+![BART Travel Assistant workflow interface showing real-time route planning and transit status updates](../image.png)
 **Alt text (SEO-ready):** BART Travel Assistant Uplizd workflow interface for real-time Bay Area transit navigation, route planning, and station status updates.
 
 ---

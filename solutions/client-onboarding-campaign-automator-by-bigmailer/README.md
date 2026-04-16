@@ -6,7 +6,7 @@ The Client Onboarding Campaign Automator is an intelligent Uplizd workflow desig
 ---
 
 ## Demo
-![Client Onboarding Campaign Automator workflow interface showing email sequence triggers and BigMailer integration](image.png)
+![Client Onboarding Campaign Automator workflow interface showing email sequence triggers and BigMailer integration](../image.png)
 **Alt text (SEO-ready):** Client Onboarding Campaign Automator workflow in Uplizd, featuring automated email sequences, BigMailer integration, and CRM data synchronization for marketing operations.
 
 ---

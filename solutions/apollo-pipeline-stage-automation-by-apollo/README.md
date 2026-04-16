@@ -6,7 +6,7 @@ The Apollo Pipeline Stage Automation workflow enables sales teams to synchronize
 ---
 
 ## Demo
-![Apollo Pipeline Stage Automation workflow interface showing automated deal movement triggers](image.png)
+![Apollo Pipeline Stage Automation workflow interface showing automated deal movement triggers](../image.png)
 **Alt text (SEO-ready):** Uplizd Apollo Pipeline Stage Automation workflow for CRM sales pipeline management and automated deal stage updates using Composio integrations.
 
 ---

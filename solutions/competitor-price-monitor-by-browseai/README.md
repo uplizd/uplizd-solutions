@@ -6,7 +6,7 @@ The Competitor Price Monitor is an intelligent Uplizd workflow that automates th
 ---
 
 ## Demo
-![Competitor Price Monitor workflow dashboard showing automated scraping nodes and price alert triggers](image.png)
+![Competitor Price Monitor workflow dashboard showing automated scraping nodes and price alert triggers](../image.png)
 **Alt text (SEO-ready):** Competitor Price Monitor Uplizd workflow, automated web scraping for price tracking, real-time market intelligence, and dynamic pricing alerts using Composio.
 
 ---

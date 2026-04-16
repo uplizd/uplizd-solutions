@@ -6,7 +6,7 @@ The Accessibility Compliance Generator is an automated Uplizd AI workflow design
 ---
 
 ## Demo
-![Accessibility Compliance Generator workflow interface showing text input, AI processing, and audio output nodes](image.png)
+![Accessibility Compliance Generator workflow interface showing text input, AI processing, and audio output nodes](../image.png)
 **Alt text (SEO-ready):** Uplizd Accessibility Compliance Generator workflow interface for automated text-to-speech conversion and WCAG compliance.
 
 ---

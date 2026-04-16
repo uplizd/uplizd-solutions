@@ -6,7 +6,7 @@ The Certificate Lifecycle Manager by Uplizd automates the end-to-end monitoring,
 ---
 
 ## Demo
-![Certificate Lifecycle Manager workflow dashboard showing automated renewal triggers and status alerts](image.png)
+![Certificate Lifecycle Manager workflow dashboard showing automated renewal triggers and status alerts](../image.png)
 **Alt text (SEO-ready):** Certificate Lifecycle Manager Uplizd workflow for automated SSL certificate renewal, infrastructure monitoring, and security compliance tracking.
 
 ---

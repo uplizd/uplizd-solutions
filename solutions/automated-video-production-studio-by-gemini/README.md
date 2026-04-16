@@ -6,7 +6,7 @@ The Automated Video Production Studio is an Uplizd AI workflow that streamlines 
 ---
 
 ## Demo
-![Automated Video Production Studio workflow showing script generation, asset assembly, and final rendering](image.png)
+![Automated Video Production Studio workflow showing script generation, asset assembly, and final rendering](../image.png)
 **Alt text (SEO-ready):** Automated Video Production Studio workflow by Uplizd for AI-driven video creation, script-to-screen automation, and creative asset management.
 
 ---

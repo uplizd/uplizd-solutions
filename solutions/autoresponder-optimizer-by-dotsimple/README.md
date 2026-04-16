@@ -6,7 +6,7 @@ The Autoresponder Optimizer by DotSimple is an AI-driven workflow designed to re
 ---
 
 ## Demo
-![Autoresponder Optimizer workflow interface showing AI-driven message refinement and campaign management](image.png)
+![Autoresponder Optimizer workflow interface showing AI-driven message refinement and campaign management](../image.png)
 **Alt text (SEO-ready):** Autoresponder Optimizer Uplizd workflow for automated messaging, CRM integration, and AI-driven campaign performance management.
 
 ---

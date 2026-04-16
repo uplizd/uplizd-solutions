@@ -6,7 +6,7 @@ The Automated Onboarding Assistant by Intercom is an intelligent workflow design
 ---
 
 ## Demo
-![Automated Onboarding Assistant workflow in the Uplizd builder showing Intercom integration nodes](image.png)
+![Automated Onboarding Assistant workflow in the Uplizd builder showing Intercom integration nodes](../image.png)
 **Alt text (SEO-ready):** Automated Onboarding Assistant by Intercom workflow in Uplizd for personalized customer activation, feature education, and CRM data sync.
 
 ---

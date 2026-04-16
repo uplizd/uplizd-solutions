@@ -6,7 +6,7 @@ The Client Portal Generator (Uplizd) is an automated workflow that streamlines t
 ---
 
 ## Demo
-![Client Portal Generator workflow showing Coda integration for automated document and project tracking setup](image.png)
+![Client Portal Generator workflow showing Coda integration for automated document and project tracking setup](../image.png)
 **Alt text (SEO-ready):** Client Portal Generator workflow by Uplizd, automating branded client hubs and project tracking via Coda and Composio integrations.
 
 ---

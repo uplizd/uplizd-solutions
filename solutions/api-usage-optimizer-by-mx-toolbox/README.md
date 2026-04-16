@@ -6,7 +6,7 @@ The API Usage Optimizer (Uplizd) is an automated workflow designed to track, ana
 ---
 
 ## Demo
-![API Usage Optimizer workflow dashboard showing real-time MxToolbox API consumption metrics and automated threshold alerts](image.png)
+![API Usage Optimizer workflow dashboard showing real-time MxToolbox API consumption metrics and automated threshold alerts](../image.png)
 **Alt text (SEO-ready):** API Usage Optimizer workflow dashboard showing real-time MxToolbox API consumption metrics and automated threshold alerts, powered by Uplizd and the Composio Toolset.
 
 ---

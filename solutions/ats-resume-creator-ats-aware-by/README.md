@@ -6,7 +6,7 @@ The ATS Resume Creator is an intelligent Uplizd workflow designed to bridge the 
 ---
 
 ## Demo
-![ATS Resume Creator workflow interface showing job description analysis and resume optimization steps](image.png)
+![ATS Resume Creator workflow interface showing job description analysis and resume optimization steps](../image.png)
 **Alt text (SEO-ready):** Uplizd ATS Resume Creator workflow interface showing automated job description analysis, keyword extraction, and resume optimization for ATS compatibility.
 
 ---

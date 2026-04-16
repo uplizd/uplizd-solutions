@@ -6,7 +6,7 @@ The AI Fashion Assistant is an automated workflow that leverages computer vision
 ---
 
 ## Demo
-![AI Fashion Assistant workflow showing image analysis and product search integration](image.png)
+![AI Fashion Assistant workflow showing image analysis and product search integration](../image.png)
 **Alt text (SEO-ready):** AI Fashion Assistant workflow using Uplizd, computer vision, and Composio toolset for automated apparel discovery and real-time shopping link generation.
 
 ---

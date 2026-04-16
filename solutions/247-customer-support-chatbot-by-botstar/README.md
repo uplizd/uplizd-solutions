@@ -6,7 +6,7 @@ The 24/7 Customer Support Chatbot by Botstar is an intelligent AI workflow desig
 ---
 
 ## Demo
-![24/7 Customer Support Chatbot workflow interface showing automated inquiry handling and agent response routing](image.png)
+![24/7 Customer Support Chatbot workflow interface showing automated inquiry handling and agent response routing](../image.png)
 **Alt text (SEO-ready):** 24/7 Customer Support Chatbot workflow in Uplizd, featuring automated AI inquiry resolution and Botstar integration for real-time customer service.
 
 ---

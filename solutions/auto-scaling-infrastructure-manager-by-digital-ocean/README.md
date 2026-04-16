@@ -6,7 +6,7 @@ The Auto-Scaling Infrastructure Manager provides an intelligent, automated workf
 ---
 
 ## Demo
-![Auto-Scaling Infrastructure Manager workflow showing automated resource adjustment based on demand triggers](image.png)
+![Auto-Scaling Infrastructure Manager workflow showing automated resource adjustment based on demand triggers](../image.png)
 **Alt text (SEO-ready):** Auto-Scaling Infrastructure Manager (Uplizd) workflow for DigitalOcean cloud resource optimization and automated scaling.
 
 ---

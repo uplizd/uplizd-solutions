@@ -6,7 +6,7 @@ The Automated Lead Qualifier by Retell AI is an intelligent voice workflow that 
 ---
 
 ## Demo
-![Automated Lead Qualifier workflow diagram showing Retell AI voice interaction and CRM data sync](image.png)
+![Automated Lead Qualifier workflow diagram showing Retell AI voice interaction and CRM data sync](../image.png)
 **Alt text (SEO-ready):** Automated Lead Qualifier workflow by Uplizd, featuring Retell AI voice integration, CRM lead scoring, and automated sales pipeline routing.
 
 ---

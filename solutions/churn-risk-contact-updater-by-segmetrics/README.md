@@ -6,7 +6,7 @@ The Churn Risk Contact Updater is an intelligent Uplizd workflow that bridges th
 ---
 
 ## Demo
-![Churn Risk Contact Updater workflow showing SegMetrics data ingestion, risk scoring, and CRM update nodes](image.png)
+![Churn Risk Contact Updater workflow showing SegMetrics data ingestion, risk scoring, and CRM update nodes](../image.png)
 **Alt text (SEO-ready):** Churn Risk Contact Updater workflow by Uplizd, featuring SegMetrics data integration, CRM contact synchronization, and automated churn risk scoring for proactive customer retention.
 
 ---

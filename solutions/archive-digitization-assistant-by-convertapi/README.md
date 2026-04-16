@@ -6,7 +6,7 @@ The Archive Digitization Assistant streamlines the transformation of legacy phys
 ---
 
 ## Demo
-![Archive Digitization Assistant workflow showing file conversion and archival process](image.png)
+![Archive Digitization Assistant workflow showing file conversion and archival process](../image.png)
 **Alt text (SEO-ready):** Archive Digitization Assistant workflow for automated document conversion, legacy record archiving, and file management using Uplizd and ConvertAPI.
 
 ---

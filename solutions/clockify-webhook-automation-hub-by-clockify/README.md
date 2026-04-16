@@ -6,7 +6,7 @@ The Clockify Webhook Automation Hub is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Clockify Webhook Automation Hub workflow diagram showing webhook capture, agent processing, and CRM synchronization](image.png)
+![Clockify Webhook Automation Hub workflow diagram showing webhook capture, agent processing, and CRM synchronization](../image.png)
 **Alt text (SEO-ready):** Uplizd workflow for Clockify webhook automation, real-time time tracking synchronization, and project data management.
 
 ---

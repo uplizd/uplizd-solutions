@@ -6,7 +6,7 @@ The Client Proposal & Agreement Agent streamlines the transition from sales prop
 ---
 
 ## Demo
-![Client Proposal & Agreement Agent workflow screenshot showing document generation and SignWell integration](image.png)
+![Client Proposal & Agreement Agent workflow screenshot showing document generation and SignWell integration](../image.png)
 **Alt text (SEO-ready):** Client Proposal and Agreement Agent workflow for automated document signing, featuring Uplizd, SignWell integration, and sales contract automation.
 
 ---

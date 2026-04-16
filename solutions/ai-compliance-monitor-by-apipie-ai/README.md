@@ -6,7 +6,7 @@ The AI Compliance Monitor (Uplizd) provides a robust framework for ensuring AI m
 ---
 
 ## Demo
-![AI Compliance Monitor workflow dashboard showing automated geographic validation and regulatory status checks](image.png)
+![AI Compliance Monitor workflow dashboard showing automated geographic validation and regulatory status checks](../image.png)
 **Alt text (SEO-ready):** AI Compliance Monitor dashboard showing automated geographic validation, regulatory status checks, and Uplizd workflow compliance automation.
 
 ---

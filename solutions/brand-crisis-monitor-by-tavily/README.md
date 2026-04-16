@@ -6,7 +6,7 @@ The Brand Crisis Monitor is an intelligent Uplizd workflow that leverages Tavily
 ---
 
 ## Demo
-![Brand Crisis Monitor workflow dashboard showing real-time web search integration and sentiment analysis alerts](image.png)
+![Brand Crisis Monitor workflow dashboard showing real-time web search integration and sentiment analysis alerts](../image.png)
 **Alt text (SEO-ready):** Brand Crisis Monitor Uplizd workflow for real-time PR sentiment tracking, web search automation, and brand reputation management.
 
 ---

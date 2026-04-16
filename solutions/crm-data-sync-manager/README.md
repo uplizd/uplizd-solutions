@@ -7,7 +7,7 @@ A Uplizd AI workflow designed for the high-level management and oversight of all
 
 ## Demo
 
-![Uplizd CRM Data Sync Manager flow orchestrating and managing data synchronization across the enterprise tech stack](image.png)
+![Uplizd CRM Data Sync Manager flow orchestrating and managing data synchronization across the enterprise tech stack](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Data Sync Manager coordinating real-time data flows between CRM, ERP, and marketing automation systems.
 

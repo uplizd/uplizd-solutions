@@ -6,7 +6,7 @@ The AI Meeting Follow-up Generator is an intelligent Uplizd workflow designed to
 ---
 
 ## Demo
-![AI Meeting Follow-up Generator workflow diagram showing transcript processing and email drafting](image.png)
+![AI Meeting Follow-up Generator workflow diagram showing transcript processing and email drafting](../image.png)
 **Alt text (SEO-ready):** AI Meeting Follow-up Generator workflow diagram showing transcript processing, action item extraction, and email drafting using Uplizd and Composio.
 
 ---

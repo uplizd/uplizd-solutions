@@ -6,7 +6,7 @@ The Competitive Price Monitoring Agent is an automated AI workflow designed to t
 ---
 
 ## Demo
-![Competitive Price Monitoring Agent dashboard showing real-time price extraction from competitor websites and automated reporting](image.png)
+![Competitive Price Monitoring Agent dashboard showing real-time price extraction from competitor websites and automated reporting](../image.png)
 **Alt text (SEO-ready):** Competitive Price Monitoring Agent by Uplizd, automated web scraping workflow for e-commerce, real-time price tracking, and competitor intelligence integration.
 
 ---

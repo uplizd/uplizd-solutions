@@ -6,7 +6,7 @@ The Call Center Optimization Agent by TPSCheck leverages AI-driven analytics to 
 ---
 
 ## Demo
-![Call Center Optimization Agent dashboard showing real-time call metrics and AI-driven performance insights](image.png)
+![Call Center Optimization Agent dashboard showing real-time call metrics and AI-driven performance insights](../image.png)
 **Alt text (SEO-ready):** Call Center Optimization Agent dashboard showing real-time call metrics, support workflow automation, and AI-driven performance insights on Uplizd.
 
 ---

@@ -6,7 +6,7 @@ The Compliance Audit Tracker by Raisely is an intelligent Uplizd workflow design
 ---
 
 ## Demo
-![Compliance Audit Tracker dashboard displaying real-time regulatory status and fundraising compliance alerts](image.png)
+![Compliance Audit Tracker dashboard displaying real-time regulatory status and fundraising compliance alerts](../image.png)
 **Alt text (SEO-ready):** Compliance Audit Tracker dashboard displaying real-time regulatory status and fundraising compliance alerts for Uplizd AI workflows and Raisely integrations.
 
 ---

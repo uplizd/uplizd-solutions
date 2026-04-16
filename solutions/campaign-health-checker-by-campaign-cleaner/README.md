@@ -6,7 +6,7 @@ The Campaign Health Checker is an automated Uplizd AI workflow designed to monit
 ---
 
 ## Demo
-![Campaign Health Checker workflow interface showing automated monitoring of email metrics and alert triggers](image.png)
+![Campaign Health Checker workflow interface showing automated monitoring of email metrics and alert triggers](../image.png)
 **Alt text (SEO-ready):** Campaign Health Checker Uplizd workflow, email marketing automation, campaign performance monitoring, and real-time alert integration.
 
 ---

@@ -6,7 +6,7 @@ The Carbon Budget Optimization Agent is an intelligent workflow designed to help
 ---
 
 ## Demo
-![Carbon Budget Optimization Agent workflow showing data ingestion, analysis, and budget allocation nodes](image.png)
+![Carbon Budget Optimization Agent workflow showing data ingestion, analysis, and budget allocation nodes](../image.png)
 **Alt text (SEO-ready):** Carbon Budget Optimization Agent workflow for Uplizd, featuring automated carbon removal project analysis, budget allocation, and sustainability reporting integrations.
 
 ---

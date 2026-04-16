@@ -6,7 +6,7 @@ The AI Assistant Manager provides a centralized framework for deploying and gove
 ---
 
 ## Demo
-![AI Assistant Manager workflow interface showing agent node configuration and toolset integration](image.png)
+![AI Assistant Manager workflow interface showing agent node configuration and toolset integration](../image.png)
 **Alt text (SEO-ready):** Uplizd AI Assistant Manager workflow interface showing agent node configuration, Composio toolset integration, and automated task execution pipeline.
 
 ---

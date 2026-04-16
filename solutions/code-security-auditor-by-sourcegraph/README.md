@@ -6,7 +6,7 @@ The Code Security Auditor by Uplizd provides an automated workflow to scan, iden
 ---
 
 ## Demo
-![Code Security Auditor workflow diagram showing automated vulnerability scanning and reporting](image.png)
+![Code Security Auditor workflow diagram showing automated vulnerability scanning and reporting](../image.png)
 **Alt text (SEO-ready):** Uplizd Code Security Auditor workflow diagram, automated vulnerability detection, Sourcegraph integration, and secure code analysis pipeline.
 
 ---

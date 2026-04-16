@@ -6,7 +6,7 @@ The Blog Writer (Uplizd) solution streamlines the content creation lifecycle by 
 ---
 
 ## Demo
-![Blog Writer workflow interface showing input, AI processing, and content output](image.png)
+![Blog Writer workflow interface showing input, AI processing, and content output](../image.png)
 **Alt text (SEO-ready):** Uplizd Blog Writer workflow interface for automated content generation, AI-powered copywriting, and blog post publishing.
 
 ---

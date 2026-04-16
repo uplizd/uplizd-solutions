@@ -6,7 +6,7 @@ The Competitor Price Monitor is an automated AI workflow designed to track, anal
 ---
 
 ## Demo
-![Competitor Price Monitor workflow showing BrightData integration, AI analysis, and automated reporting](image.png)
+![Competitor Price Monitor workflow showing BrightData integration, AI analysis, and automated reporting](../image.png)
 **Alt text (SEO-ready):** Competitor Price Monitor workflow by Uplizd, featuring BrightData web scraping, AI-driven market intelligence, and automated competitor pricing analysis.
 
 ---

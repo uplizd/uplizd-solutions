@@ -6,7 +6,7 @@ The Automated Invoice Processor by Elorus is an intelligent Uplizd workflow desi
 ---
 
 ## Demo
-![Automated Invoice Processor workflow diagram showing project data input, Elorus invoice generation, and automated delivery](image.png)
+![Automated Invoice Processor workflow diagram showing project data input, Elorus invoice generation, and automated delivery](../image.png)
 **Alt text (SEO-ready):** Automated Invoice Processor workflow for Elorus, featuring AI-driven billing, Uplizd integration, and automated financial data synchronization.
 
 ---

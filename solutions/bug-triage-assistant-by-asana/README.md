@@ -6,7 +6,7 @@ The Bug Triage Assistant is an intelligent Uplizd workflow that automates the in
 ---
 
 ## Demo
-![Bug Triage Assistant workflow dashboard showing automated Asana ticket routing](image.png)
+![Bug Triage Assistant workflow dashboard showing automated Asana ticket routing](../image.png)
 **Alt text (SEO-ready):** Bug Triage Assistant Uplizd workflow for automated Asana bug report categorization and routing.
 
 ---

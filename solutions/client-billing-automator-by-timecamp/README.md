@@ -6,7 +6,7 @@ The Client Billing Automator is an intelligent Uplizd workflow designed to bridg
 ---
 
 ## Demo
-![Client Billing Automator workflow interface showing TimeCamp integration and automated invoice generation](image.png)
+![Client Billing Automator workflow interface showing TimeCamp integration and automated invoice generation](../image.png)
 **Alt text (SEO-ready):** Client Billing Automator workflow in Uplizd, featuring TimeCamp integration for automated time tracking, billing data synchronization, and invoice preparation.
 
 ---

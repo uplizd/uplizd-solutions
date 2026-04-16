@@ -6,7 +6,7 @@ The Brand Asset Production Suite is an AI-powered workflow designed to streamlin
 ---
 
 ## Demo
-![Brand Asset Production Suite workflow interface showing Gemini integration for automated asset generation](image.png)
+![Brand Asset Production Suite workflow interface showing Gemini integration for automated asset generation](../image.png)
 **Alt text (SEO-ready):** Brand Asset Production Suite Uplizd workflow, automated brand asset generation, Gemini AI marketing content creation, and creative asset management integration.
 
 ---

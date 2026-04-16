@@ -6,7 +6,7 @@ The Client Onboarding Automator is an intelligent Uplizd workflow designed to el
 ---
 
 ## Demo
-![Client Onboarding Automator workflow diagram showing automated triggers from CRM to account provisioning systems](image.png)
+![Client Onboarding Automator workflow diagram showing automated triggers from CRM to account provisioning systems](../image.png)
 **Alt text (SEO-ready):** Client Onboarding Automator workflow diagram, Uplizd AI automation, CRM to account provisioning integration, automated client setup pipeline.
 
 ---

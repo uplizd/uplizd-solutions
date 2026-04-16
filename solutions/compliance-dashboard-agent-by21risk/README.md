@@ -6,7 +6,7 @@ The Compliance Dashboard Agent is an intelligent workflow designed to automate r
 ---
 
 ## Demo
-![Compliance Dashboard Agent interface showing real-time risk alerts and automated regulatory report generation](image.png)
+![Compliance Dashboard Agent interface showing real-time risk alerts and automated regulatory report generation](../image.png)
 **Alt text (SEO-ready):** Compliance Dashboard Agent interface showing real-time risk alerts, automated regulatory report generation, Uplizd AI workflow, and compliance monitoring integration.
 
 ---

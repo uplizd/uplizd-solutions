@@ -6,7 +6,7 @@ The Business Intelligence Lead Qualifier is an automated Uplizd AI workflow that
 ---
 
 ## Demo
-![Business Intelligence Lead Qualifier workflow showing data enrichment, scoring, and CRM update nodes](image.png)
+![Business Intelligence Lead Qualifier workflow showing data enrichment, scoring, and CRM update nodes](../image.png)
 **Alt text (SEO-ready):** Business Intelligence Lead Qualifier workflow for Uplizd, featuring automated lead enrichment, sales pipeline qualification, and CRM data integration.
 
 ---

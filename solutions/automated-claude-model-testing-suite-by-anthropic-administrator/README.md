@@ -6,7 +6,7 @@ The Automated Claude Model Testing Suite is an intelligent Uplizd workflow desig
 ---
 
 ## Demo
-![Automated Claude Model Testing Suite workflow diagram showing prompt input, model routing, and performance analysis](image.png)
+![Automated Claude Model Testing Suite workflow diagram showing prompt input, model routing, and performance analysis](../image.png)
 **Alt text (SEO-ready):** Automated Claude Model Testing Suite workflow on Uplizd for AI prompt benchmarking, model performance analysis, and LLM output evaluation.
 
 ---

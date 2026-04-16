@@ -6,7 +6,7 @@ The BTCPay Merchant Onboarding Agent streamlines the complex process of setting 
 ---
 
 ## Demo
-![BTCPay Merchant Onboarding Agent workflow diagram showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](image.png)
+![BTCPay Merchant Onboarding Agent workflow diagram showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](../image.png)
 **Alt text (SEO-ready):** BTCPay Merchant Onboarding Agent workflow in Uplizd, automating Bitcoin payment gateway configuration and merchant store setup via Composio integrations.
 
 ---

@@ -6,7 +6,7 @@ The Client Access Manager by Wrike is an intelligent Uplizd workflow designed to
 ---
 
 ## Demo
-![Client Access Manager workflow diagram showing Wrike integration for automated workspace provisioning and permission assignment](image.png)
+![Client Access Manager workflow diagram showing Wrike integration for automated workspace provisioning and permission assignment](../image.png)
 **Alt text (SEO-ready):** Client Access Manager workflow for Wrike, automating workspace setup, user permission management, and client onboarding via Uplizd AI.
 
 ---

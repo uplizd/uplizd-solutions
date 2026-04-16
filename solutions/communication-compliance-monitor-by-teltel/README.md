@@ -6,7 +6,7 @@ The Communication Compliance Monitor is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![Communication Compliance Monitor dashboard showing real-time audit logs and regulatory flag alerts](image.png)
+![Communication Compliance Monitor dashboard showing real-time audit logs and regulatory flag alerts](../image.png)
 **Alt text (SEO-ready):** Communication Compliance Monitor dashboard showing real-time audit logs and regulatory flag alerts for Uplizd AI workflow and voice/SMS integration.
 
 ---

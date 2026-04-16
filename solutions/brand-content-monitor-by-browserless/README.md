@@ -6,7 +6,7 @@ The Brand Content Monitor is an intelligent Uplizd workflow designed to track br
 ---
 
 ## Demo
-![Brand Content Monitor workflow showing Browserless integration for web scraping and content tracking](image.png)
+![Brand Content Monitor workflow showing Browserless integration for web scraping and content tracking](../image.png)
 **Alt text (SEO-ready):** Brand Content Monitor workflow in Uplizd using Browserless for automated web scraping, brand mention tracking, and real-time content change alerts.
 
 ---

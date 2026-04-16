@@ -6,7 +6,7 @@ The Appointment Booking Bot is an Uplizd AI workflow designed to streamline the 
 ---
 
 ## Demo
-![Appointment Booking Bot workflow interface showing automated scheduling conversation and calendar integration](image.png)
+![Appointment Booking Bot workflow interface showing automated scheduling conversation and calendar integration](../image.png)
 **Alt text (SEO-ready):** Appointment Booking Bot Uplizd workflow interface showing automated scheduling conversation and calendar integration for CRM and meeting management.
 
 ---

@@ -6,7 +6,7 @@ The Campaign Health Monitor is an automated Uplizd AI workflow designed to track
 ---
 
 ## Demo
-![Campaign Health Monitor dashboard showing real-time lemlist outreach metrics and automated alert triggers](image.png)
+![Campaign Health Monitor dashboard showing real-time lemlist outreach metrics and automated alert triggers](../image.png)
 **Alt text (SEO-ready):** Campaign Health Monitor dashboard showing real-time lemlist outreach metrics and automated alert triggers for Uplizd marketing automation workflows.
 
 ---

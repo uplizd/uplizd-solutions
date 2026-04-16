@@ -6,7 +6,7 @@ The Attendee Engagement Optimizer is an intelligent Uplizd workflow designed to 
 ---
 
 ## Demo
-![Attendee Engagement Optimizer workflow showing Eventzilla integration and automated follow-up logic](image.png)
+![Attendee Engagement Optimizer workflow showing Eventzilla integration and automated follow-up logic](../image.png)
 **Alt text (SEO-ready):** Attendee Engagement Optimizer workflow for Eventzilla, featuring automated registrant follow-ups, Uplizd AI agent orchestration, and event marketing pipeline synchronization.
 
 ---

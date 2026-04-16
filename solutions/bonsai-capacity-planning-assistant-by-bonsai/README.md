@@ -6,7 +6,7 @@ The Bonsai Capacity Planning Assistant is an automated Uplizd workflow designed 
 ---
 
 ## Demo
-![Bonsai Capacity Planning Assistant workflow dashboard showing resource utilization metrics and automated scaling recommendations](image.png)
+![Bonsai Capacity Planning Assistant workflow dashboard showing resource utilization metrics and automated scaling recommendations](../image.png)
 **Alt text (SEO-ready):** Bonsai Capacity Planning Assistant dashboard showing Uplizd workflow, Elasticsearch resource utilization metrics, and automated scaling recommendations for DevOps teams.
 
 ---

@@ -6,7 +6,7 @@ The Certificate Incident Responder is an automated Uplizd AI workflow designed t
 ---
 
 ## Demo
-![Certificate Incident Responder dashboard showing real-time SSL certificate monitoring and automated alert triage](image.png)
+![Certificate Incident Responder dashboard showing real-time SSL certificate monitoring and automated alert triage](../image.png)
 **Alt text (SEO-ready):** Certificate Incident Responder dashboard showing real-time SSL certificate monitoring, automated alert triage, Uplizd AI workflow, and SSLMate Cert Spotter API integration.
 
 ---

@@ -6,7 +6,7 @@ The Auto Ticket Triage Agent is an automated Uplizd workflow that leverages AI t
 ---
 
 ## Demo
-![Auto Ticket Triage Agent workflow diagram showing Freshdesk ticket ingestion, AI-driven classification, and automated priority routing](image.png)
+![Auto Ticket Triage Agent workflow diagram showing Freshdesk ticket ingestion, AI-driven classification, and automated priority routing](../image.png)
 **Alt text (SEO-ready):** Auto Ticket Triage Agent workflow for Freshdesk, featuring AI-powered ticket categorization, priority routing, and automated support ticket management on Uplizd.
 
 ---

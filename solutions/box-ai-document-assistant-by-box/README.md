@@ -6,7 +6,7 @@ The Box AI Document Assistant is an automated workflow that bridges the gap betw
 ---
 
 ## Demo
-![Box AI Document Assistant interface showing a document query workflow](image.png)
+![Box AI Document Assistant interface showing a document query workflow](../image.png)
 **Alt text (SEO-ready):** Box AI Document Assistant workflow in Uplizd, showing automated document retrieval, content summarization, and AI-powered Q&A using the Composio Toolset.
 
 ---

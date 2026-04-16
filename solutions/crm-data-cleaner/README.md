@@ -7,7 +7,7 @@ A Uplizd AI workflow designed for targeted data cleaning tasks, allowing you to 
 
 ## Demo
 
-![Uplizd CRM Data Cleaner flow performing targeted data scrubbing and sanitization on CRM records](image.png)
+![Uplizd CRM Data Cleaner flow performing targeted data scrubbing and sanitization on CRM records](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Data Cleaner executing bulk data cleaning and sanitization rules to improve CRM data accuracy.
 

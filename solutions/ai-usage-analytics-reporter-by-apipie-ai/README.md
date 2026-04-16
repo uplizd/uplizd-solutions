@@ -6,7 +6,7 @@ The AI Usage Analytics Reporter is an automated workflow designed to track, aggr
 ---
 
 ## Demo
-![AI Usage Analytics Reporter dashboard showing consumption trends and cost breakdowns](image.png)
+![AI Usage Analytics Reporter dashboard showing consumption trends and cost breakdowns](../image.png)
 **Alt text (SEO-ready):** AI Usage Analytics Reporter dashboard showing consumption trends, cost breakdowns, and API integration metrics within the Uplizd workflow platform.
 
 ---

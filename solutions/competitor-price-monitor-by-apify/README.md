@@ -6,7 +6,7 @@ The Competitor Price Monitor is an intelligent Uplizd workflow that automates th
 ---
 
 ## Demo
-![Competitor Price Monitor workflow showing Apify data extraction and price alert generation](image.png)
+![Competitor Price Monitor workflow showing Apify data extraction and price alert generation](../image.png)
 **Alt text (SEO-ready):** Competitor Price Monitor workflow by Uplizd, featuring Apify web scraping, automated price tracking, and real-time market intelligence integration.
 
 ---

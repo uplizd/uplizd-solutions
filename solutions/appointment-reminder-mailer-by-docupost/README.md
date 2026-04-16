@@ -6,7 +6,7 @@ The Appointment Reminder Mailer is an intelligent Uplizd workflow designed to br
 ---
 
 ## Demo
-![Appointment Reminder Mailer workflow showing status monitoring, DocuPost integration, and automated mail dispatch](image.png)
+![Appointment Reminder Mailer workflow showing status monitoring, DocuPost integration, and automated mail dispatch](../image.png)
 **Alt text (SEO-ready):** Uplizd Appointment Reminder Mailer workflow, DocuPost automated mailing, patient communication automation, and missed appointment recovery.
 
 ---

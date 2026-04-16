@@ -6,7 +6,7 @@ The Booking Widget Optimizer is an intelligent Uplizd workflow designed to analy
 ---
 
 ## Demo
-![Booking Widget Optimizer workflow interface showing data analysis and widget configuration nodes](image.png)
+![Booking Widget Optimizer workflow interface showing data analysis and widget configuration nodes](../image.png)
 **Alt text (SEO-ready):** Uplizd Booking Widget Optimizer workflow for automated conversion rate optimization and scheduling interface performance tuning.
 
 ---

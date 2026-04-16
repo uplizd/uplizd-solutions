@@ -6,7 +6,7 @@ The Agile Retrospective Analyzer (Uplizd) streamlines the post-sprint review pro
 ---
 
 ## Demo
-![Agile Retrospective Analyzer workflow diagram showing Miro board integration, AI analysis, and summary report generation](image.png)
+![Agile Retrospective Analyzer workflow diagram showing Miro board integration, AI analysis, and summary report generation](../image.png)
 **Alt text (SEO-ready):** Agile Retrospective Analyzer workflow for Miro, featuring automated sprint feedback synthesis, team sentiment analysis, and Uplizd AI-driven retrospective reporting.
 
 ---

@@ -6,7 +6,7 @@ The Automated Bug Triager by Uplizd streamlines software development lifecycles 
 ---
 
 ## Demo
-![Automated Bug Triager workflow screenshot showing Jira integration, AI analysis, and ticket routing](image.png)
+![Automated Bug Triager workflow screenshot showing Jira integration, AI analysis, and ticket routing](../image.png)
 **Alt text (SEO-ready):** Automated Bug Triager workflow in Uplizd, showing Jira issue analysis, AI-driven categorization, and automated ticket routing for engineering teams.
 
 ---

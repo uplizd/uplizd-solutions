@@ -6,7 +6,7 @@ The Box Secure Sharing Assistant is an intelligent Uplizd workflow that automate
 ---
 
 ## Demo
-![Box Secure Sharing Assistant workflow showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](image.png)
+![Box Secure Sharing Assistant workflow showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](../image.png)
 **Alt text (SEO-ready):** Box Secure Sharing Assistant Uplizd workflow for automated file security, permission management, and secure document sharing via Composio and Box API.
 
 ---

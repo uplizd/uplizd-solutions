@@ -6,7 +6,7 @@ The Automated Prospect Pipeline Builder is an intelligent Uplizd workflow design
 ---
 
 ## Demo
-![Automated Prospect Pipeline Builder workflow showing LinkedIn data extraction and CRM sync](image.png)
+![Automated Prospect Pipeline Builder workflow showing LinkedIn data extraction and CRM sync](../image.png)
 **Alt text (SEO-ready):** Automated Prospect Pipeline Builder workflow in Uplizd, featuring LinkedIn prospect data extraction, CRM integration, and automated email campaign orchestration.
 
 ---

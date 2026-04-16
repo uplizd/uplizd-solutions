@@ -6,7 +6,7 @@ The Backup Validation Monitor is an intelligent Uplizd AI workflow designed to e
 ---
 
 ## Demo
-![Backup Validation Monitor workflow dashboard showing automated file integrity checks and Dropbox sync status](image.png)
+![Backup Validation Monitor workflow dashboard showing automated file integrity checks and Dropbox sync status](../image.png)
 **Alt text (SEO-ready):** Backup Validation Monitor dashboard showing automated file integrity checks, cloud storage synchronization, and Uplizd AI workflow status.
 
 ---

@@ -6,7 +6,7 @@ The Bulk Media Processor is an intelligent Uplizd workflow designed to automate 
 ---
 
 ## Demo
-![Bulk Media Processor workflow diagram showing image input, TinyPNG compression, and cloud storage output](image.png)
+![Bulk Media Processor workflow diagram showing image input, TinyPNG compression, and cloud storage output](../image.png)
 **Alt text (SEO-ready):** Bulk Media Processor Uplizd workflow for automated image compression, TinyPNG integration, and cloud storage synchronization.
 
 ---

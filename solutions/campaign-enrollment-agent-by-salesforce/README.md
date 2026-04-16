@@ -6,7 +6,7 @@ The Campaign Enrollment Agent is an intelligent automation workflow designed to 
 ---
 
 ## Demo
-![Campaign Enrollment Agent workflow diagram showing CRM integration and automated lead routing](image.png)
+![Campaign Enrollment Agent workflow diagram showing CRM integration and automated lead routing](../image.png)
 **Alt text (SEO-ready):** Campaign Enrollment Agent workflow diagram showing Salesforce CRM integration, automated lead routing, and Uplizd AI pipeline management.
 
 ---

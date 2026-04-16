@@ -7,7 +7,7 @@ A Uplizd AI workflow that systematically audits and analyzes user permissions wi
 
 ## Demo
 
-![Uplizd CRM Permissions Analyzer flow auditing and analyzing CRM user permissions for security and compliance](image.png)
+![Uplizd CRM Permissions Analyzer flow auditing and analyzing CRM user permissions for security and compliance](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Permissions Analyzer scanning user roles and permissions to ensure secure access and compliance within the CRM system.
 

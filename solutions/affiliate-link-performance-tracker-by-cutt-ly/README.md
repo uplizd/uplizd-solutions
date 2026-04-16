@@ -6,7 +6,7 @@ The Affiliate Link Performance Tracker (Uplizd) automates the monitoring and ana
 ---
 
 ## Demo
-![Affiliate Link Performance Tracker dashboard showing real-time click metrics and link optimization suggestions](image.png)
+![Affiliate Link Performance Tracker dashboard showing real-time click metrics and link optimization suggestions](../image.png)
 **Alt text (SEO-ready):** Affiliate Link Performance Tracker dashboard showing real-time click metrics, Uplizd workflow automation, and Cutt.ly link optimization integrations.
 
 ---

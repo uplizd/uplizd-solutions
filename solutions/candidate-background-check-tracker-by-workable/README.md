@@ -6,7 +6,7 @@ The Candidate Background Check Tracker is an intelligent Uplizd AI workflow desi
 ---
 
 ## Demo
-![Uplizd AI workflow for tracking candidate background check status in Workable](image.png)
+![Uplizd AI workflow for tracking candidate background check status in Workable](../image.png)
 **Alt text (SEO-ready):** Uplizd AI workflow for tracking candidate background check status in Workable, featuring automated status updates, recruitment compliance monitoring, and Composio tool integration.
 
 ---

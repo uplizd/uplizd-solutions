@@ -6,7 +6,7 @@ The Carbon Market Intelligence Agent provides automated, real-time tracking and 
 ---
 
 ## Demo
-![Carbon Market Intelligence Agent dashboard showing real-time carbon credit price tracking and market trend analysis](image.png)
+![Carbon Market Intelligence Agent dashboard showing real-time carbon credit price tracking and market trend analysis](../image.png)
 
 **Alt text (SEO-ready):** Carbon Market Intelligence Agent dashboard showing real-time carbon credit price tracking, market trend analysis, and Uplizd workflow automation for sustainability teams.
 

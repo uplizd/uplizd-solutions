@@ -6,7 +6,7 @@ The Automated Creative Testing Manager is an intelligent Uplizd workflow designe
 ---
 
 ## Demo
-![Automated Creative Testing Manager workflow interface showing Meta Ads integration and performance analysis nodes](image.png)
+![Automated Creative Testing Manager workflow interface showing Meta Ads integration and performance analysis nodes](../image.png)
 **Alt text (SEO-ready):** Automated Creative Testing Manager by Uplizd, Meta Ads creative optimization workflow, ad performance A/B testing, and AI-driven marketing automation.
 
 ---

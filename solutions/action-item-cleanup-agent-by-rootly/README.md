@@ -6,7 +6,7 @@ The Action Item Cleanup Agent is an intelligent workflow designed to streamline 
 ---
 
 ## Demo
-![Action Item Cleanup Agent workflow interface showing automated task filtering and archival logic](image.png)
+![Action Item Cleanup Agent workflow interface showing automated task filtering and archival logic](../image.png)
 **Alt text (SEO-ready):** Uplizd Action Item Cleanup Agent workflow interface showing automated task filtering, archival logic, and task management integration.
 
 ---

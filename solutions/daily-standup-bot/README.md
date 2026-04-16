@@ -7,7 +7,7 @@ An Uplizd AI workflow designed for game masters, facilitators, and writers to ge
 
 ## Demo
 
-![Uplizd Daily Standup Bot flow analyzing characters and creating narrative plot hooks](image.png)
+![Uplizd Daily Standup Bot flow analyzing characters and creating narrative plot hooks](../image.png)
 
 **Alt text:** Uplizd Daily Standup Bot integrating ChatFAI toolsets to automate character research and scenario generation.
 

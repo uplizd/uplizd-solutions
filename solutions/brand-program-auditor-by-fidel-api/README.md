@@ -6,7 +6,7 @@ The Brand Program Auditor is an intelligent Uplizd workflow designed to automate
 ---
 
 ## Demo
-![Brand Program Auditor dashboard showing real-time compliance alerts and transaction monitoring metrics](image.png)
+![Brand Program Auditor dashboard showing real-time compliance alerts and transaction monitoring metrics](../image.png)
 **Alt text (SEO-ready):** Brand Program Auditor dashboard showing real-time compliance alerts and transaction monitoring metrics for payment card programs on Uplizd.
 
 ---

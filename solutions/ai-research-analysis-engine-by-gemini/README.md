@@ -6,7 +6,7 @@ The AI Research Analysis Engine is a powerful Uplizd workflow designed to automa
 ---
 
 ## Demo
-![AI Research Analysis Engine workflow diagram showing data input, processing, and synthesis](image.png)
+![AI Research Analysis Engine workflow diagram showing data input, processing, and synthesis](../image.png)
 **Alt text (SEO-ready):** Uplizd AI Research Analysis Engine workflow for automated data synthesis, knowledge retrieval, and research reporting using Composio integrations.
 
 ---

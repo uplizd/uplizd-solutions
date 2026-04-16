@@ -6,7 +6,7 @@ The Competitive Intelligence Scout is an Uplizd AI workflow designed to automate
 ---
 
 ## Demo
-![Competitive Intelligence Scout workflow dashboard showing automated search queries and data extraction](image.png)
+![Competitive Intelligence Scout workflow dashboard showing automated search queries and data extraction](../image.png)
 **Alt text (SEO-ready):** Competitive Intelligence Scout Uplizd workflow, automated market research, competitor monitoring, Zenserp integration, and AI-driven data extraction.
 
 ---

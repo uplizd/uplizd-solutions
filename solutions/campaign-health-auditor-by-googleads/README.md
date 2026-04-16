@@ -6,7 +6,7 @@ The Campaign Health Auditor is an intelligent Uplizd workflow designed to provid
 ---
 
 ## Demo
-![Campaign Health Auditor dashboard showing automated performance insights and budget optimization alerts](image.png)
+![Campaign Health Auditor dashboard showing automated performance insights and budget optimization alerts](../image.png)
 **Alt text (SEO-ready):** Campaign Health Auditor Uplizd workflow for Google Ads performance monitoring, budget optimization, and automated marketing data analysis.
 
 ---

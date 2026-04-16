@@ -6,7 +6,7 @@ The Benefits Enrollment Advisor is an intelligent Uplizd workflow designed to st
 ---
 
 ## Demo
-![Benefits Enrollment Advisor workflow interface showing AI-driven plan recommendations and BambooHR integration](image.png)
+![Benefits Enrollment Advisor workflow interface showing AI-driven plan recommendations and BambooHR integration](../image.png)
 **Alt text (SEO-ready):** Benefits Enrollment Advisor Uplizd workflow for HR automation, personalized benefits recommendations, and BambooHR integration.
 
 ---

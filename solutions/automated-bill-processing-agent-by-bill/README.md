@@ -6,7 +6,7 @@ The Automated Bill Processing Agent is an intelligent workflow designed to elimi
 ---
 
 ## Demo
-![Automated Bill Processing Agent workflow showing invoice extraction and payment synchronization](image.png)
+![Automated Bill Processing Agent workflow showing invoice extraction and payment synchronization](../image.png)
 **Alt text (SEO-ready):** Automated Bill Processing Agent workflow for Uplizd, invoice data extraction, and accounting system synchronization via Composio.
 
 ---

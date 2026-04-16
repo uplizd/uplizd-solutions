@@ -6,7 +6,7 @@ The Backup Compliance Manager is an intelligent Uplizd workflow designed to auto
 ---
 
 ## Demo
-![Backup Compliance Manager dashboard showing automated audit logs and compliance status reports](image.png)
+![Backup Compliance Manager dashboard showing automated audit logs and compliance status reports](../image.png)
 **Alt text (SEO-ready):** Backup Compliance Manager dashboard showing automated audit logs, data integrity checks, and compliance status reports within the Uplizd AI workflow.
 
 ---

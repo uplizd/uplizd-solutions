@@ -6,7 +6,7 @@ The Apollo Email Sequence Intelligence workflow leverages Uplizd and the Composi
 ---
 
 ## Demo
-![Apollo Email Sequence Intelligence workflow dashboard showing automated prospect enrollment and sequence tracking](image.png)
+![Apollo Email Sequence Intelligence workflow dashboard showing automated prospect enrollment and sequence tracking](../image.png)
 **Alt text (SEO-ready):** Apollo Email Sequence Intelligence workflow for automated sales outreach, Uplizd AI integration, and CRM lead management.
 
 ---

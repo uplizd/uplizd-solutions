@@ -6,7 +6,7 @@ The CDN Health Monitor is an automated Uplizd AI workflow designed to provide re
 ---
 
 ## Demo
-![CDN Health Monitor dashboard showing real-time latency and cache hit ratio metrics](image.png)
+![CDN Health Monitor dashboard showing real-time latency and cache hit ratio metrics](../image.png)
 **Alt text (SEO-ready):** CDN Health Monitor dashboard showing real-time latency, error rates, and cache hit ratio metrics for Uplizd AI infrastructure workflows.
 
 ---

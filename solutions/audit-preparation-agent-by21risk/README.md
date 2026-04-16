@@ -6,7 +6,7 @@ The Audit Preparation Agent streamlines the complex process of gathering, organi
 ---
 
 ## Demo
-![Audit Preparation Agent dashboard showing automated data collection and compliance validation workflows](image.png)
+![Audit Preparation Agent dashboard showing automated data collection and compliance validation workflows](../image.png)
 **Alt text (SEO-ready):** Audit Preparation Agent workflow dashboard by Uplizd for automated compliance data collection, document validation, and audit readiness reporting.
 
 ---

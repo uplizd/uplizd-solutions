@@ -6,7 +6,7 @@ The Character Research Assistant is an AI-powered workflow designed to streamlin
 ---
 
 ## Demo
-![Character Research Assistant workflow interface showing AI agent processing character trait queries and narrative data](image.png)
+![Character Research Assistant workflow interface showing AI agent processing character trait queries and narrative data](../image.png)
 **Alt text (SEO-ready):** Character Research Assistant Uplizd workflow, AI-driven character profiling, creative writing automation, and narrative data integration.
 
 ---

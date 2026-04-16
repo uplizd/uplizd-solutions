@@ -6,7 +6,7 @@ The Commission Reconciliation Agent streamlines the complex process of matching 
 ---
 
 ## Demo
-![Commission Reconciliation Agent workflow diagram showing data flow from Tapfiliate to the AI agent for verification](image.png)
+![Commission Reconciliation Agent workflow diagram showing data flow from Tapfiliate to the AI agent for verification](../image.png)
 **Alt text (SEO-ready):** Commission Reconciliation Agent workflow diagram showing data flow from Tapfiliate to the AI agent for verification and automated affiliate payout matching.
 
 ---

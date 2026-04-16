@@ -6,7 +6,7 @@ The Astronomy Event Tracker is an automated Uplizd AI workflow that monitors NAS
 ---
 
 ## Demo
-![Astronomy Event Tracker workflow dashboard showing NASA API integration and notification triggers](image.png)
+![Astronomy Event Tracker workflow dashboard showing NASA API integration and notification triggers](../image.png)
 **Alt text (SEO-ready):** Astronomy Event Tracker Uplizd workflow, NASA API data integration, celestial event monitoring, and automated space notification system.
 
 ---

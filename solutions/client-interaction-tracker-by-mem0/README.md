@@ -6,7 +6,7 @@ The Client Interaction Tracker by Mem0 is an intelligent Uplizd workflow that ca
 ---
 
 ## Demo
-![Client Interaction Tracker workflow dashboard showing memory retrieval and CRM update nodes](image.png)
+![Client Interaction Tracker workflow dashboard showing memory retrieval and CRM update nodes](../image.png)
 **Alt text (SEO-ready):** Uplizd Client Interaction Tracker workflow using Mem0 for automated CRM data synchronization and personalized client engagement.
 
 ---

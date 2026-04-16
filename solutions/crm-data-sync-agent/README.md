@@ -7,7 +7,7 @@ A Uplizd AI workflow that ensures your CRM data is perfectly synchronized across
 
 ## Demo
 
-![Uplizd CRM Data Sync Agent flow synchronizing customer data across multiple platforms automatically](image.png)
+![Uplizd CRM Data Sync Agent flow synchronizing customer data across multiple platforms automatically](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Data Sync Agent integrating multiple CRM and marketing tools to maintain real-time data synchronization.
 

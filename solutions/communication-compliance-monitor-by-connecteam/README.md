@@ -6,7 +6,7 @@ The Communication Compliance Monitor is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![Communication Compliance Monitor workflow dashboard showing automated message scanning and policy violation alerts](image.png)
+![Communication Compliance Monitor workflow dashboard showing automated message scanning and policy violation alerts](../image.png)
 **Alt text (SEO-ready):** Uplizd Communication Compliance Monitor workflow for Connecteam, featuring automated policy enforcement, message auditing, and real-time compliance reporting.
 
 ---

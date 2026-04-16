@@ -6,7 +6,7 @@ The Brand Mention Ad Monitor is an automated Uplizd workflow designed to track c
 ---
 
 ## Demo
-![Brand Mention Ad Monitor workflow dashboard showing automated scraping, analysis, and notification triggers](image.png)
+![Brand Mention Ad Monitor workflow dashboard showing automated scraping, analysis, and notification triggers](../image.png)
 **Alt text (SEO-ready):** Brand Mention Ad Monitor (Uplizd) workflow dashboard showing automated scraping, competitor analysis, and notification triggers for marketing intelligence.
 
 ---

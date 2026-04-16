@@ -6,7 +6,7 @@ The Booking Insights Reporter is an intelligent Uplizd workflow designed to auto
 ---
 
 ## Demo
-![Booking Insights Reporter workflow dashboard showing automated data extraction and summary generation](image.png)
+![Booking Insights Reporter workflow dashboard showing automated data extraction and summary generation](../image.png)
 **Alt text (SEO-ready):** Booking Insights Reporter Uplizd workflow dashboard showing automated data extraction, BookingMood integration, and AI-generated performance summary.
 
 ---

@@ -6,7 +6,7 @@ The AppVeyor Project Health Analyzer is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![AppVeyor Project Health Analyzer dashboard showing real-time build status and automated optimization suggestions](image.png)
+![AppVeyor Project Health Analyzer dashboard showing real-time build status and automated optimization suggestions](../image.png)
 **Alt text (SEO-ready):** AppVeyor Project Health Analyzer dashboard showing real-time build status, CI/CD pipeline monitoring, and automated optimization suggestions using Uplizd and Composio.
 
 ---

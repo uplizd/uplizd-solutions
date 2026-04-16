@@ -6,7 +6,7 @@ The Automated Employee Onboarding Agent is an intelligent workflow designed to e
 ---
 
 ## Demo
-![Automated Employee Onboarding Agent workflow showing Google Workspace user provisioning and group assignment](image.png)
+![Automated Employee Onboarding Agent workflow showing Google Workspace user provisioning and group assignment](../image.png)
 
 **Alt text (SEO-ready):** Automated Employee Onboarding Agent (Uplizd) workflow for Google Workspace user provisioning, account setup, and automated onboarding tasks.
 

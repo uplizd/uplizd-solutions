@@ -6,7 +6,7 @@ The Box Compliance Manager is an intelligent Uplizd workflow designed to automat
 ---
 
 ## Demo
-![Box Compliance Manager workflow showing automated file classification and legal hold triggers in the Uplizd builder](image.png)
+![Box Compliance Manager workflow showing automated file classification and legal hold triggers in the Uplizd builder](../image.png)
 **Alt text (SEO-ready):** Box Compliance Manager Uplizd workflow for automated file classification, legal hold management, and enterprise data governance using Composio integrations.
 
 ---

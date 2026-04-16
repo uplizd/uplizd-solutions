@@ -6,7 +6,7 @@ The Bookmark Cleanup Assistant is an AI-powered workflow designed to restore ord
 ---
 
 ## Demo
-![Bookmark Cleanup Assistant interface showing automated URL validation and categorization workflow](image.png)
+![Bookmark Cleanup Assistant interface showing automated URL validation and categorization workflow](../image.png)
 **Alt text (SEO-ready):** Bookmark Cleanup Assistant workflow in Uplizd, showing automated URL validation, link hygiene, and bookmark categorization using the Composio Toolset.
 
 ---

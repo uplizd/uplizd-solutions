@@ -6,7 +6,7 @@ The B2B Lead Generation Prospector is an intelligent Uplizd workflow designed to
 ---
 
 ## Demo
-![B2B Lead Generation Prospector workflow interface showing lead extraction and qualification nodes](image.png)
+![B2B Lead Generation Prospector workflow interface showing lead extraction and qualification nodes](../image.png)
 **Alt text (SEO-ready):** B2B Lead Generation Prospector Uplizd workflow for automated lead discovery, sales pipeline qualification, and data integration.
 
 ---

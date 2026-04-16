@@ -6,7 +6,7 @@ The Chat with PostgreSQL Database solution enables users to interact with their 
 ---
 
 ## Demo
-![Chat with PostgreSQL Database interface showing natural language query execution and data output](image.png)
+![Chat with PostgreSQL Database interface showing natural language query execution and data output](../image.png)
 **Alt text (SEO-ready):** Chat with PostgreSQL Database interface showing natural language query execution, SQL data retrieval, and Uplizd AI workflow integration for database management.
 
 ---

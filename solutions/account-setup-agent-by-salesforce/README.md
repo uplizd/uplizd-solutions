@@ -6,7 +6,7 @@ The Account Setup Agent streamlines the complex process of initializing new busi
 ---
 
 ## Demo
-![Account Setup Agent workflow showing automated CRM record creation and contact mapping](image.png)
+![Account Setup Agent workflow showing automated CRM record creation and contact mapping](../image.png)
 
 **Alt text (SEO-ready):** Account Setup Agent workflow for automated CRM data entry, contact mapping, and account initialization using Uplizd and Composio.
 

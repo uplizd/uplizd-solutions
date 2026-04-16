@@ -6,7 +6,7 @@ The Analyst Rating Monitor is an intelligent Uplizd workflow that tracks real-ti
 ---
 
 ## Demo
-![Analyst Rating Monitor workflow dashboard showing real-time sentiment tracking and Benzinga data integration](image.png)
+![Analyst Rating Monitor workflow dashboard showing real-time sentiment tracking and Benzinga data integration](../image.png)
 **Alt text (SEO-ready):** Analyst Rating Monitor Uplizd workflow dashboard for real-time financial sentiment tracking, Benzinga data integration, and investment opportunity discovery.
 
 ---

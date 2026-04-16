@@ -6,7 +6,7 @@ The Client Onboarding Assistant automates the complex process of initializing ne
 ---
 
 ## Demo
-![Client Onboarding Assistant workflow interface showing automated Webex space creation and welcome message dispatch](image.png)
+![Client Onboarding Assistant workflow interface showing automated Webex space creation and welcome message dispatch](../image.png)
 
 **Alt text (SEO-ready):** Client Onboarding Assistant Uplizd workflow, automated Webex space creation, customer onboarding automation, AI-driven client setup, Composio integration.
 

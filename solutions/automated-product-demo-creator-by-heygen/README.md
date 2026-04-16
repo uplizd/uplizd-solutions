@@ -6,7 +6,7 @@ The Automated Product Demo Creator (Uplizd) streamlines the sales cycle by lever
 ---
 
 ## Demo
-![Automated Product Demo Creator workflow showing HeyGen avatar integration and CRM data mapping](image.png)
+![Automated Product Demo Creator workflow showing HeyGen avatar integration and CRM data mapping](../image.png)
 **Alt text (SEO-ready):** Automated Product Demo Creator workflow using Uplizd, HeyGen AI avatars, and CRM data integration for personalized sales video generation.
 
 ---

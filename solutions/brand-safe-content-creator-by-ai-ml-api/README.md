@@ -6,7 +6,7 @@ The Brand-Safe Content Creator is an Uplizd AI workflow designed to streamline m
 ---
 
 ## Demo
-![Brand-Safe Content Creator workflow interface showing AI-driven content generation and compliance validation nodes](image.png)
+![Brand-Safe Content Creator workflow interface showing AI-driven content generation and compliance validation nodes](../image.png)
 **Alt text (SEO-ready):** Brand-Safe Content Creator Uplizd workflow interface showing AI-driven content generation, marketing automation, and compliance validation nodes.
 
 ---

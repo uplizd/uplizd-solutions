@@ -6,7 +6,7 @@ The Client Milestone Celebration Agent is an automated Uplizd workflow designed 
 ---
 
 ## Demo
-![Client Milestone Celebration Agent workflow showing CRM data trigger, Amcards integration, and automated card dispatch](image.png)
+![Client Milestone Celebration Agent workflow showing CRM data trigger, Amcards integration, and automated card dispatch](../image.png)
 **Alt text (SEO-ready):** Client Milestone Celebration Agent workflow for Uplizd, automating personalized Amcards greetings based on CRM milestones and customer success triggers.
 
 ---

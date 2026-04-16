@@ -6,7 +6,7 @@ The Competitor Intelligence Agent leverages the Composio Toolset to monitor Hack
 ---
 
 ## Demo
-![Competitor Intelligence Agent dashboard showing real-time HackerNews sentiment analysis and competitor mention alerts](image.png)
+![Competitor Intelligence Agent dashboard showing real-time HackerNews sentiment analysis and competitor mention alerts](../image.png)
 **Alt text (SEO-ready):** Competitor Intelligence Agent dashboard showing real-time HackerNews sentiment analysis and competitor mention alerts on the Uplizd AI workflow platform.
 
 ---

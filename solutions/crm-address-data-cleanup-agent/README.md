@@ -7,7 +7,7 @@ A Uplizd AI workflow specialized in the verification, standardization, and enric
 
 ## Demo
 
-![Uplizd CRM Address Data Cleanup Agent flow verifying and standardizing physical address data in CRM](image.png)
+![Uplizd CRM Address Data Cleanup Agent flow verifying and standardizing physical address data in CRM](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Address Data Cleanup Agent integrating geolocation tools to validate and standardize CRM address information.
 

@@ -6,7 +6,7 @@ The Backlink Health Auditor is an automated Uplizd AI workflow designed to monit
 ---
 
 ## Demo
-![Backlink Health Auditor workflow showing Ahrefs integration and alert nodes](image.png)
+![Backlink Health Auditor workflow showing Ahrefs integration and alert nodes](../image.png)
 **Alt text (SEO-ready):** Uplizd Backlink Health Auditor workflow dashboard showing automated Ahrefs link monitoring, SEO health alerts, and domain authority tracking.
 
 ---

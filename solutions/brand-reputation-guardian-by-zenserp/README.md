@@ -6,7 +6,7 @@ The Brand Reputation Guardian is an intelligent Uplizd AI workflow designed to p
 ---
 
 ## Demo
-![Brand Reputation Guardian workflow dashboard showing real-time sentiment analysis and Zenserp search result tracking](image.png)
+![Brand Reputation Guardian workflow dashboard showing real-time sentiment analysis and Zenserp search result tracking](../image.png)
 **Alt text (SEO-ready):** Brand Reputation Guardian Uplizd workflow showing real-time sentiment analysis, Zenserp search result tracking, and automated brand protection alerts.
 
 ---

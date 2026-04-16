@@ -6,7 +6,7 @@ The Campaign Performance Monitor is an automated AI workflow designed to track, 
 ---
 
 ## Demo
-![Campaign Performance Monitor dashboard showing real-time fundraising metrics and automated report generation](image.png)
+![Campaign Performance Monitor dashboard showing real-time fundraising metrics and automated report generation](../image.png)
 **Alt text (SEO-ready):** Campaign performance monitor dashboard by Uplizd, showing real-time fundraising analytics, Raisely data integration, and automated reporting workflow.
 
 ---

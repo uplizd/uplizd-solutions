@@ -6,7 +6,7 @@ The Certificate Issuer Agent by PDFLess streamlines the end-to-end process of cr
 ---
 
 ## Demo
-![Certificate Issuer Agent workflow showing PDF generation and distribution](image.png)
+![Certificate Issuer Agent workflow showing PDF generation and distribution](../image.png)
 **Alt text (SEO-ready):** Certificate Issuer Agent by Uplizd, automated document generation workflow, PDFLess integration, and digital credential distribution.
 
 ---

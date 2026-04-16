@@ -6,7 +6,7 @@ The Competitor Website Monitor is an automated Uplizd AI workflow designed to tr
 ---
 
 ## Demo
-![Competitor Website Monitor dashboard showing real-time change detection alerts and pricing comparison tables](image.png)
+![Competitor Website Monitor dashboard showing real-time change detection alerts and pricing comparison tables](../image.png)
 **Alt text (SEO-ready):** Competitor Website Monitor dashboard showing real-time change detection alerts and pricing comparison tables for Uplizd AI workflow and Browserless integration.
 
 ---

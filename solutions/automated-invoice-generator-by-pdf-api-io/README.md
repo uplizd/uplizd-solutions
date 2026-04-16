@@ -6,7 +6,7 @@ The Automated Invoice Generator is an intelligent Uplizd workflow that bridges t
 ---
 
 ## Demo
-![Automated Invoice Generator workflow interface showing data extraction from CRM to PDF generation](image.png)
+![Automated Invoice Generator workflow interface showing data extraction from CRM to PDF generation](../image.png)
 **Alt text (SEO-ready):** Automated Invoice Generator workflow in Uplizd showing CRM data integration, PDF document processing, and automated billing pipeline.
 
 ---

@@ -6,7 +6,7 @@ The Competitor Location Tracker by Uplizd automates the monitoring of competitor
 ---
 
 ## Demo
-![Competitor Location Tracker dashboard showing real-time competitor footprint mapping and market intelligence insights](image.png)
+![Competitor Location Tracker dashboard showing real-time competitor footprint mapping and market intelligence insights](../image.png)
 **Alt text (SEO-ready):** Competitor Location Tracker dashboard showing real-time competitor footprint mapping, market intelligence insights, Uplizd workflow, and Placekey integration.
 
 ---

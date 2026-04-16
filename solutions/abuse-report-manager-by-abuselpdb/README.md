@@ -6,7 +6,7 @@ The Abuse Report Manager is an automated Uplizd workflow designed to centralize,
 ---
 
 ## Demo
-![Abuse Report Manager workflow interface showing incident triage and automated reporting pipeline](image.png)
+![Abuse Report Manager workflow interface showing incident triage and automated reporting pipeline](../image.png)
 **Alt text (SEO-ready):** Abuse Report Manager Uplizd workflow for automated incident triage, security reporting, and data hygiene using Composio integrations.
 
 ---

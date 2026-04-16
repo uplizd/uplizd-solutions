@@ -6,7 +6,7 @@ The Competitor Price Monitor (Uplizd) is an intelligent automation workflow desi
 ---
 
 ## Demo
-![Competitor Price Monitor dashboard showing real-time price tracking and competitor comparison charts](image.png)
+![Competitor Price Monitor dashboard showing real-time price tracking and competitor comparison charts](../image.png)
 **Alt text (SEO-ready):** Competitor Price Monitor dashboard displaying real-time e-commerce pricing intelligence, Uplizd workflow automation, and ZenRows data integration.
 
 ---

@@ -6,7 +6,7 @@ The Campaign Banner Generator is an intelligent Uplizd workflow that transforms 
 ---
 
 ## Demo
-![Campaign Banner Generator workflow showing text input to AdRapid banner output](image.png)
+![Campaign Banner Generator workflow showing text input to AdRapid banner output](../image.png)
 **Alt text (SEO-ready):** Campaign Banner Generator by AdRapid for Uplizd, automating marketing asset creation and visual design workflows.
 
 ---

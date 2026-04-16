@@ -6,7 +6,7 @@ The Bitcoin Payment Request Manager is an intelligent Uplizd workflow that autom
 ---
 
 ## Demo
-![Bitcoin Payment Request Manager workflow interface showing invoice creation and status tracking nodes](image.png)
+![Bitcoin Payment Request Manager workflow interface showing invoice creation and status tracking nodes](../image.png)
 **Alt text (SEO-ready):** Bitcoin Payment Request Manager Uplizd workflow, automated crypto billing, BTCPay Server invoice generation, and real-time payment tracking.
 
 ---

@@ -6,7 +6,7 @@ The Brand Mention & Content Monitor is an automated Uplizd AI workflow designed 
 ---
 
 ## Demo
-![Brand Mention & Content Monitor workflow dashboard showing automated web scraping and sentiment analysis](image.png)
+![Brand Mention & Content Monitor workflow dashboard showing automated web scraping and sentiment analysis](../image.png)
 **Alt text (SEO-ready):** Brand Mention & Content Monitor dashboard in Uplizd, showcasing automated web scraping, brand sentiment analysis, and real-time content tracking workflows.
 
 ---

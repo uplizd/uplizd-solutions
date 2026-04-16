@@ -6,7 +6,7 @@ The Account Health & Usage Monitor is an automated Uplizd workflow designed to t
 ---
 
 ## Demo
-![Account Health & Usage Monitor workflow dashboard showing Jotform API integration and alert triggers](image.png)
+![Account Health & Usage Monitor workflow dashboard showing Jotform API integration and alert triggers](../image.png)
 **Alt text (SEO-ready):** Account Health & Usage Monitor dashboard showing Uplizd workflow, Jotform API integration, and automated usage alert triggers for data hygiene.
 
 ---

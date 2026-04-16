@@ -9,7 +9,7 @@ A Uplizd AI workflow that receives user input, routes decisions via a CRM Data Q
 
 ## Demo
 
-![Uplizd CRM Data Quality Agent Flow with Composio toolset, agent decision node, chat input, and chat output](image.png)
+![Uplizd CRM Data Quality Agent Flow with Composio toolset, agent decision node, chat input, and chat output](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Data Quality Agent flow integrating Composio toolset to validate and clean CRM data from chat input to chat output.
 

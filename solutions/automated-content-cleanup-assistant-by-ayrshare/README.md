@@ -6,7 +6,7 @@ The Automated Content Cleanup Assistant is an intelligent Uplizd workflow design
 ---
 
 ## Demo
-![Automated Content Cleanup Assistant workflow interface showing content filtering and deletion nodes](image.png)
+![Automated Content Cleanup Assistant workflow interface showing content filtering and deletion nodes](../image.png)
 **Alt text (SEO-ready):** Automated Content Cleanup Assistant workflow in Uplizd, featuring content filtering, Ayrshare integration, and automated digital hygiene processes.
 
 ---

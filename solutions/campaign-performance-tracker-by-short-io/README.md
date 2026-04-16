@@ -6,7 +6,7 @@ The Campaign Performance Tracker is an automated Uplizd AI workflow designed to 
 ---
 
 ## Demo
-![Campaign Performance Tracker dashboard showing real-time link click analytics and geographic distribution](image.png)
+![Campaign Performance Tracker dashboard showing real-time link click analytics and geographic distribution](../image.png)
 **Alt text (SEO-ready):** Campaign Performance Tracker dashboard showing real-time link click analytics, geographic distribution, and marketing automation insights via Uplizd and Short.io.
 
 ---

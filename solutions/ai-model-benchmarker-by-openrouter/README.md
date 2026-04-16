@@ -6,7 +6,7 @@ The AI Model Benchmarker (Uplizd) provides a robust framework for evaluating and
 ---
 
 ## Demo
-![AI Model Benchmarker workflow showing model comparison and output analysis](image.png)
+![AI Model Benchmarker workflow showing model comparison and output analysis](../image.png)
 **Alt text (SEO-ready):** AI Model Benchmarker workflow for comparing LLM performance, output quality, and latency using Uplizd and OpenRouter integrations.
 
 ---

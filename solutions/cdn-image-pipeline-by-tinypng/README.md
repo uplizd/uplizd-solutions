@@ -6,7 +6,7 @@ The CDN Image Pipeline by TinyPNG is an automated workflow designed to streamlin
 ---
 
 ## Demo
-![CDN Image Pipeline workflow showing automated compression and CDN delivery](image.png)
+![CDN Image Pipeline workflow showing automated compression and CDN delivery](../image.png)
 **Alt text (SEO-ready):** Uplizd CDN Image Pipeline workflow for automated image compression, TinyPNG integration, and CDN delivery optimization.
 
 ---

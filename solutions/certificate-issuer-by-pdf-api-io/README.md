@@ -6,7 +6,7 @@ The Certificate Issuer (Uplizd) is an automated AI workflow designed to streamli
 ---
 
 ## Demo
-![Certificate Issuer workflow showing PDF generation and email distribution](image.png)
+![Certificate Issuer workflow showing PDF generation and email distribution](../image.png)
 **Alt text (SEO-ready):** Certificate Issuer Uplizd workflow for automated PDF generation, document distribution, and AI-powered certificate management.
 
 ---

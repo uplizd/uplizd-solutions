@@ -6,7 +6,7 @@ The Automated Contact List Hygiene Manager is an intelligent Uplizd workflow tha
 ---
 
 ## Demo
-![Automated Contact List Hygiene Manager workflow showing data scrubbing and validation steps](image.png)
+![Automated Contact List Hygiene Manager workflow showing data scrubbing and validation steps](../image.png)
 **Alt text (SEO-ready):** Automated Contact List Hygiene Manager workflow for email list scrubbing, data validation, and CRM hygiene using Uplizd and Composio.
 
 ---

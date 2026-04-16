@@ -6,7 +6,7 @@ The Commodity Price Monitor is an intelligent Uplizd workflow designed to track 
 ---
 
 ## Demo
-![Uplizd Commodity Price Monitor workflow showing Alpha Vantage integration and automated alert triggers](image.png)
+![Uplizd Commodity Price Monitor workflow showing Alpha Vantage integration and automated alert triggers](../image.png)
 **Alt text (SEO-ready):** Uplizd Commodity Price Monitor workflow, Alpha Vantage market data integration, automated trading alerts, and real-time price tracking pipeline.
 
 ---

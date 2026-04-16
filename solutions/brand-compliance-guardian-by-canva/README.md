@@ -6,7 +6,7 @@ The Brand Compliance Guardian is an intelligent Uplizd workflow that automatical
 ---
 
 ## Demo
-![Brand Compliance Guardian workflow interface showing automated design audit and feedback loop](image.png)
+![Brand Compliance Guardian workflow interface showing automated design audit and feedback loop](../image.png)
 **Alt text (SEO-ready):** Brand Compliance Guardian Uplizd workflow, automated design audit, Canva brand guideline enforcement, marketing asset consistency, and AI-powered design review.
 
 ---

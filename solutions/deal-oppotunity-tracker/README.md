@@ -7,7 +7,7 @@ A Uplizd AI workflow that scans your incoming data streams to identify and track
 
 ## Demo
 
-![Uplizd Deal Opportunity Tracker flow identifying and tracking new sales opportunities in real-time](image.png)
+![Uplizd Deal Opportunity Tracker flow identifying and tracking new sales opportunities in real-time](../image.png)
 
 **Alt text (SEO-ready):** Uplizd Deal Opportunity Tracker scanning data to identify sales leads and track them through the opportunity lifecycle.
 

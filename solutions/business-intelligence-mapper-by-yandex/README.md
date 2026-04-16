@@ -6,7 +6,7 @@ The Business Intelligence Mapper is an intelligent Uplizd workflow designed to s
 ---
 
 ## Demo
-![Business Intelligence Mapper workflow dashboard showing competitor location mapping and market opportunity analysis](image.png)
+![Business Intelligence Mapper workflow dashboard showing competitor location mapping and market opportunity analysis](../image.png)
 **Alt text (SEO-ready):** Business Intelligence Mapper Uplizd workflow for competitor location mapping, market opportunity analysis, and automated data integration.
 
 ---

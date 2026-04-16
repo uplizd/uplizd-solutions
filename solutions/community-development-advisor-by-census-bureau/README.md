@@ -6,7 +6,7 @@ The Community Development Advisor is an intelligent Uplizd workflow that synthes
 ---
 
 ## Demo
-![Community Development Advisor workflow diagram showing data ingestion from Census Bureau APIs to AI-driven analysis](image.png)
+![Community Development Advisor workflow diagram showing data ingestion from Census Bureau APIs to AI-driven analysis](../image.png)
 **Alt text (SEO-ready):** Community Development Advisor Uplizd workflow for Census Bureau data analysis, urban planning insights, and demographic reporting.
 
 ---

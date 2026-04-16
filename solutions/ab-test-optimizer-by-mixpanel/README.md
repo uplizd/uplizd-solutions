@@ -6,7 +6,7 @@ The A/B Test Optimizer is an intelligent Uplizd AI workflow designed to bridge t
 ---
 
 ## Demo
-![A/B Test Optimizer workflow dashboard showing real-time variant performance metrics and statistical significance alerts](image.png)
+![A/B Test Optimizer workflow dashboard showing real-time variant performance metrics and statistical significance alerts](../image.png)
 **Alt text (SEO-ready):** A/B Test Optimizer dashboard showing real-time variant performance metrics, statistical significance alerts, and automated experiment insights powered by Uplizd and Mixpanel.
 
 ---

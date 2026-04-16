@@ -7,7 +7,7 @@ An Uplizd AI workflow designed to maintain accurate team contact information acr
 
 ## Demo
 
-![Uplizd Contact Sync Manager flow synchronizing team contact data and identifying membership changes](image.png)
+![Uplizd Contact Sync Manager flow synchronizing team contact data and identifying membership changes](../image.png)
 
 **Alt text:** Uplizd Contact Sync Manager integrating Chatwork toolsets to automate team contact synchronization and membership reporting.
 

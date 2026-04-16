@@ -8,7 +8,7 @@ The Research Insight Synthesizer is a high-performance Uplizd AI workflow engine
 
 ## Demo
 
-![Research Insight Synthesizer flow processing research highlights](image.png)
+![Research Insight Synthesizer flow processing research highlights](../image.png)
 
 **Alt text:** Uplizd Research Insight Synthesizer workflow showing a central AI agent connected to multiple Dovetail actions to extract patterns and generate actionable product insights.
 

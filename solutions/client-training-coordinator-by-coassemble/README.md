@@ -6,7 +6,7 @@ The Client Training Coordinator is an intelligent Uplizd workflow designed to br
 ---
 
 ## Demo
-![Client Training Coordinator workflow interface showing Coassemble integration nodes and automated progress tracking logic](image.png)
+![Client Training Coordinator workflow interface showing Coassemble integration nodes and automated progress tracking logic](../image.png)
 **Alt text (SEO-ready):** Client Training Coordinator Uplizd workflow, Coassemble integration, automated learner progress tracking, and customer onboarding automation.
 
 ---

@@ -6,7 +6,7 @@ The CMS Compliance Monitor is an intelligent Uplizd AI workflow designed to auto
 ---
 
 ## Demo
-![CMS Compliance Monitor workflow dashboard showing automated content audit results and compliance status alerts](image.png)
+![CMS Compliance Monitor workflow dashboard showing automated content audit results and compliance status alerts](../image.png)
 **Alt text (SEO-ready):** CMS Compliance Monitor Uplizd workflow dashboard showing automated content audit results, headless CMS integration, and real-time compliance status alerts.
 
 ---

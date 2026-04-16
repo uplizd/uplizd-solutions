@@ -6,7 +6,7 @@ The Analytics Data Quality Monitor is an automated Uplizd workflow designed to e
 ---
 
 ## Demo
-![Analytics Data Quality Monitor workflow showing event validation nodes and automated alerting](image.png)
+![Analytics Data Quality Monitor workflow showing event validation nodes and automated alerting](../image.png)
 **Alt text (SEO-ready):** Analytics Data Quality Monitor workflow in Uplizd for real-time event validation, data integrity, and automated anomaly detection using Amplitude.
 
 ---

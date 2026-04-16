@@ -6,7 +6,7 @@ The Brand Media Monitor (Uplizd) is an intelligent AI workflow designed to track
 ---
 
 ## Demo
-![Brand Media Monitor dashboard showing real-time web mention tracking and sentiment analysis](image.png)
+![Brand Media Monitor dashboard showing real-time web mention tracking and sentiment analysis](../image.png)
 **Alt text (SEO-ready):** Brand Media Monitor dashboard showing real-time web mention tracking, sentiment analysis, and automated intelligence reporting using Uplizd and Diffbot.
 
 ---

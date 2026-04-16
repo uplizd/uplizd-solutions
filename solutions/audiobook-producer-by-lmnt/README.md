@@ -6,7 +6,7 @@ The Audiobook Producer (Uplizd) workflow streamlines the transformation of writt
 ---
 
 ## Demo
-![Audiobook Producer workflow dashboard showing text-to-speech conversion and audio file generation](image.png)
+![Audiobook Producer workflow dashboard showing text-to-speech conversion and audio file generation](../image.png)
 **Alt text (SEO-ready):** Audiobook Producer (Uplizd) workflow interface for automated text-to-speech conversion, audio narration, and AI-driven audiobook production.
 
 ---

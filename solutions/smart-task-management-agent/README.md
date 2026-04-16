@@ -7,7 +7,7 @@ A Uplizd AI workflow that acts as a personal productivity assistant, intelligent
 
 ## Demo
 
-![Uplizd Smart Task Management Agent flow prioritizing and assigning tasks automatically based on deal value and urgency](image.png)
+![Uplizd Smart Task Management Agent flow prioritizing and assigning tasks automatically based on deal value and urgency](../image.png)
 
 **Alt text (SEO-ready):** Uplizd Smart Task Management Agent using AI to rank and distribute CRM tasks for maximum sales efficiency.
 

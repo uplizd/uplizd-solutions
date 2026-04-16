@@ -6,7 +6,7 @@ The Client Deliverable Manager is an intelligent Uplizd workflow designed to str
 ---
 
 ## Demo
-![Client Deliverable Manager workflow showing Google Tasks integration and automated status updates](image.png)
+![Client Deliverable Manager workflow showing Google Tasks integration and automated status updates](../image.png)
 **Alt text (SEO-ready):** Client Deliverable Manager Uplizd workflow, automated project milestone tracking, Google Tasks integration, and project management automation.
 
 ---

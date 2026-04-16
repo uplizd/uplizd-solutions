@@ -6,7 +6,7 @@ The Bug Report Enrichment Agent streamlines software development workflows by au
 ---
 
 ## Demo
-![Bug Report Enrichment Agent workflow showing automated data gathering from BugHerd and issue enrichment](image.png)
+![Bug Report Enrichment Agent workflow showing automated data gathering from BugHerd and issue enrichment](../image.png)
 **Alt text (SEO-ready):** Bug Report Enrichment Agent workflow by Uplizd, showing automated technical data gathering, issue tracking, and BugHerd integration for software engineering teams.
 
 ---

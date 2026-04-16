@@ -6,7 +6,7 @@ The Asset Cleanup Manager is an intelligent Uplizd workflow designed to automate
 ---
 
 ## Demo
-![Asset Cleanup Manager workflow showing Cloudinary integration for automated media asset auditing and deletion](image.png)
+![Asset Cleanup Manager workflow showing Cloudinary integration for automated media asset auditing and deletion](../image.png)
 **Alt text (SEO-ready):** Asset Cleanup Manager workflow for Cloudinary, showing automated media asset auditing, storage optimization, and redundant file deletion in the Uplizd AI platform.
 
 ---

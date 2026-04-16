@@ -6,7 +6,7 @@ The Automated Expense Tracker (Uplizd) is an intelligent AI workflow designed to
 ---
 
 ## Demo
-![Automated Expense Tracker workflow showing receipt ingestion, AI categorization, and Google Sheets logging](image.png)
+![Automated Expense Tracker workflow showing receipt ingestion, AI categorization, and Google Sheets logging](../image.png)
 
 **Alt text (SEO-ready):** Automated Expense Tracker workflow using Uplizd, AI-driven receipt categorization, Google Sheets integration, and Composio toolset for financial data management.
 

@@ -6,7 +6,7 @@ The Automated Aquarium Life Support workflow provides a centralized AI-driven sy
 ---
 
 ## Demo
-![Automated Aquarium Life Support interface showing real-time water quality metrics and IoT device status](image.png)
+![Automated Aquarium Life Support interface showing real-time water quality metrics and IoT device status](../image.png)
 **Alt text (SEO-ready):** Automated Aquarium Life Support dashboard displaying Uplizd workflow, IoT sensor integration, and real-time aquatic environment monitoring.
 
 ---

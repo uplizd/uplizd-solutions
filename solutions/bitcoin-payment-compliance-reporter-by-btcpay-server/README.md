@@ -6,7 +6,7 @@ The Bitcoin Payment Compliance Reporter is an intelligent Uplizd AI workflow des
 ---
 
 ## Demo
-![Bitcoin Payment Compliance Reporter workflow showing transaction monitoring and automated reporting nodes](image.png)
+![Bitcoin Payment Compliance Reporter workflow showing transaction monitoring and automated reporting nodes](../image.png)
 **Alt text (SEO-ready):** Bitcoin Payment Compliance Reporter workflow in Uplizd for automated crypto transaction monitoring, AML reporting, and BTCPay Server integration.
 
 ---

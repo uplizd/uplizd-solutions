@@ -6,7 +6,7 @@ The Blockchain Audit Assistant is an intelligent Uplizd workflow designed to str
 ---
 
 ## Demo
-![Blockchain Audit Assistant workflow interface showing automated smart contract analysis and wallet monitoring nodes](image.png)
+![Blockchain Audit Assistant workflow interface showing automated smart contract analysis and wallet monitoring nodes](../image.png)
 **Alt text (SEO-ready):** Blockchain Audit Assistant workflow interface showing automated smart contract analysis and wallet monitoring nodes in the Uplizd platform with Composio integrations.
 
 ---

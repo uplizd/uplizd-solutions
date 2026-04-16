@@ -6,7 +6,7 @@ The BART Schedule Optimizer is an intelligent Uplizd workflow designed to analyz
 ---
 
 ## Demo
-![BART Schedule Optimizer workflow diagram showing data input, AI analysis, and schedule output nodes](image.png)
+![BART Schedule Optimizer workflow diagram showing data input, AI analysis, and schedule output nodes](../image.png)
 **Alt text (SEO-ready):** BART Schedule Optimizer Uplizd workflow, transit scheduling automation, AI-driven operations, and schedule optimization integration.
 
 ---

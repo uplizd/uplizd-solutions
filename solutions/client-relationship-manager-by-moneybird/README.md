@@ -6,7 +6,7 @@ The Client Relationship Manager (Uplizd) workflow streamlines your business oper
 ---
 
 ## Demo
-![Client Relationship Manager workflow showing automated contact data sync and interaction logging in Moneybird](image.png)
+![Client Relationship Manager workflow showing automated contact data sync and interaction logging in Moneybird](../image.png)
 **Alt text (SEO-ready):** Client Relationship Manager Uplizd workflow, automated contact data synchronization, Moneybird CRM integration, and sales pipeline management.
 
 ---

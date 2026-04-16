@@ -6,7 +6,7 @@ The Asset Compliance Monitor is an intelligent Uplizd workflow that automates th
 ---
 
 ## Demo
-![Asset Compliance Monitor workflow dashboard showing real-time ServiceNow asset status and compliance alerts](image.png)
+![Asset Compliance Monitor workflow dashboard showing real-time ServiceNow asset status and compliance alerts](../image.png)
 **Alt text (SEO-ready):** Asset Compliance Monitor Uplizd workflow for ServiceNow IT asset management, regulatory compliance tracking, and automated audit reporting.
 
 ---

@@ -6,7 +6,7 @@ The Collaborative Workspace Optimizer is an intelligent Uplizd workflow designed
 ---
 
 ## Demo
-![Collaborative Workspace Optimizer dashboard showing real-time activity heatmaps and automated optimization suggestions](image.png)
+![Collaborative Workspace Optimizer dashboard showing real-time activity heatmaps and automated optimization suggestions](../image.png)
 **Alt text (SEO-ready):** Collaborative Workspace Optimizer dashboard showing real-time activity heatmaps, Uplizd workflow automation, and team productivity analytics.
 
 ---

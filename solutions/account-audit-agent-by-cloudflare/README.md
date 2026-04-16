@@ -6,7 +6,7 @@ The Account Audit Agent is an intelligent Uplizd workflow designed to automate t
 ---
 
 ## Demo
-![Account Audit Agent workflow showing automated security scanning and compliance reporting](image.png)
+![Account Audit Agent workflow showing automated security scanning and compliance reporting](../image.png)
 **Alt text (SEO-ready):** Account Audit Agent workflow for Cloudflare security scanning, compliance monitoring, and automated infrastructure auditing on Uplizd.
 
 ---

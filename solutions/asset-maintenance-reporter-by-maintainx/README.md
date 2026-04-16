@@ -6,7 +6,7 @@ The Asset Maintenance Reporter (Uplizd) streamlines facility and equipment manag
 ---
 
 ## Demo
-![Asset Maintenance Reporter workflow dashboard showing automated work order data synthesis and performance reporting](image.png)
+![Asset Maintenance Reporter workflow dashboard showing automated work order data synthesis and performance reporting](../image.png)
 **Alt text (SEO-ready):** Asset Maintenance Reporter workflow dashboard showing automated work order data synthesis and performance reporting on Uplizd, integrating MaintainX for facility management and maintenance automation.
 
 ---
