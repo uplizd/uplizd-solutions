@@ -10,5 +10,5 @@ Track sprint progress and automatically flag risks
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sprint Health Monitor'](https://uplizd.ai/solutions/78b84cbc-a4af-5d72-8b1d-8f07ab095496)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/78b84cbc-a4af-5d72-8b1d-8f07ab095496)
 

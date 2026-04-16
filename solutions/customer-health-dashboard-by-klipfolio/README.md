@@ -10,5 +10,5 @@ Automatically track customer health metrics and predict churn risk
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Health Dashboard'](https://uplizd.ai/solutions/77abf97e-cdfe-5d8b-8902-149d2a320c19)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/77abf97e-cdfe-5d8b-8902-149d2a320c19)
 

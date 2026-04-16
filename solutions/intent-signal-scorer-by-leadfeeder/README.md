@@ -10,5 +10,5 @@ Score and rank website visitors based on buying intent signals
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Intent Signal Scorer'](https://uplizd.ai/solutions/c07e3a1d-50f3-5419-8f2e-526c5d8dac54)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c07e3a1d-50f3-5419-8f2e-526c5d8dac54)
 

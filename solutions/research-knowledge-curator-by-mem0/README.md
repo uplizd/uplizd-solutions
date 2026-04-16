@@ -10,5 +10,5 @@ Transform scattered research into actionable insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Research Knowledge Curator'](https://uplizd.ai/solutions/8e410e1a-a3f1-5e2b-90b1-43cfacaf5fb2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8e410e1a-a3f1-5e2b-90b1-43cfacaf5fb2)
 

@@ -10,5 +10,5 @@ Automatically extract and process invoice data from any format
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Processing Agent'](https://uplizd.ai/solutions/b48bee06-0029-5a97-a54b-36b953f854e5)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b48bee06-0029-5a97-a54b-36b953f854e5)
 

@@ -10,5 +10,5 @@ Identify and consolidate duplicate customer tickets to eliminate redundant work
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Duplicate Ticket Merger'](https://uplizd.ai/solutions/4d4e5d12-311f-5e47-ac3f-0968888d0324)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4d4e5d12-311f-5e47-ac3f-0968888d0324)
 

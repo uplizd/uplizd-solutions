@@ -10,5 +10,5 @@ Process images instantly when events occur in your system
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Real-time Image Processing Agent'](https://uplizd.ai/solutions/12431da7-f504-5028-8e4e-0f7a4a62e880)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/12431da7-f504-5028-8e4e-0f7a4a62e880)
 

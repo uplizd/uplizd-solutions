@@ -10,5 +10,5 @@ Automatically organize and structure sprint planning in Asana
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sprint Planning Automator'](https://uplizd.ai/solutions/932fb5ae-d7bd-53c3-9492-eb289500ec52)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/932fb5ae-d7bd-53c3-9492-eb289500ec52)
 

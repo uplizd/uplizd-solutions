@@ -10,5 +10,5 @@ Instant MCA eligibility assessment from bank statements
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Merchant Cash Advance Analyzer'](https://uplizd.ai/solutions/e51dc83b-381c-55a4-92d7-393770dc166d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e51dc83b-381c-55a4-92d7-393770dc166d)
 

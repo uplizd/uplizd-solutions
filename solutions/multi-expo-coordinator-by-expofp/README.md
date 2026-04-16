@@ -10,5 +10,5 @@ Coordinate and standardize categories across multiple simultaneous expos
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-Expo Coordinator'](https://uplizd.ai/solutions/cc3facc3-101e-5456-a9f7-7b399afabcf8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cc3facc3-101e-5456-a9f7-7b399afabcf8)
 

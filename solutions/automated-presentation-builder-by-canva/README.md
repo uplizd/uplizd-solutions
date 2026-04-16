@@ -12,7 +12,7 @@ The Automated Presentation Builder by Uplizd streamlines the creation of high-im
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/bb16a035-3980-5c98-b7a5-06128e3e3800)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bb16a035-3980-5c98-b7a5-06128e3e3800)
 
 ---
 

@@ -10,5 +10,5 @@ Automatically generate comprehensive documentation for complex home automation s
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Home Documentation Generator'](https://uplizd.ai/solutions/1160fa55-6c6a-5b2a-984e-65524a942446)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1160fa55-6c6a-5b2a-984e-65524a942446)
 

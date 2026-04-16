@@ -10,5 +10,5 @@ Automatically qualify and route leads based on predefined criteria
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Agent'](https://uplizd.ai/solutions/cd0281c0-d90a-5652-a383-58cb704069d6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cd0281c0-d90a-5652-a383-58cb704069d6)
 

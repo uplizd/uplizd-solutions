@@ -12,7 +12,7 @@ The Certificate Issuer Agent by PDFLess streamlines the end-to-end process of cr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f6d2dc10-bb73-5c1b-8365-e093778a4985)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f6d2dc10-bb73-5c1b-8365-e093778a4985)
 
 ---
 

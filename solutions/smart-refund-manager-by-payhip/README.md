@@ -10,5 +10,5 @@ Automatically process refunds and maintain customer relationships
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Refund Manager'](https://uplizd.ai/solutions/7984d82c-dc08-5c65-86ae-0c926d1736c3)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7984d82c-dc08-5c65-86ae-0c926d1736c3)
 

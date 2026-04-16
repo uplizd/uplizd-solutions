@@ -10,5 +10,5 @@ Discover high-value keyword opportunities with automated research
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Keyword Opportunity Finder'](https://uplizd.ai/solutions/8c27e01f-bf77-5461-ad59-071044bc1819)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8c27e01f-bf77-5461-ad59-071044bc1819)
 

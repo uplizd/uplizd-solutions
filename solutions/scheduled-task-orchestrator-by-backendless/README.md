@@ -10,5 +10,5 @@ Automated workflow management for recurring backend operations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Scheduled Task Orchestrator'](https://uplizd.ai/solutions/ff762cf0-2071-5c4c-ad88-c0145e1be496)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ff762cf0-2071-5c4c-ad88-c0145e1be496)
 

@@ -10,5 +10,5 @@ Automatically processes and categorizes business expenses from receipts and emai
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Expense Tracker'](https://uplizd.ai/solutions/e5de45e9-f87c-5546-9410-97c196831bf8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e5de45e9-f87c-5546-9410-97c196831bf8)
 

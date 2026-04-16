@@ -10,5 +10,5 @@ Automated visual and functional testing of web applications
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Web Application Tester'](https://uplizd.ai/solutions/8743f4dd-05b0-57c0-b8bc-51b2c2072cf1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8743f4dd-05b0-57c0-b8bc-51b2c2072cf1)
 

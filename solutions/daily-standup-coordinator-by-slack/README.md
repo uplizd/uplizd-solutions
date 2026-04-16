@@ -10,5 +10,5 @@ Streamline daily standups with automated reminders and status collection
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Daily Standup Coordinator'](https://uplizd.ai/solutions/64fc1b44-7394-548b-aae4-e8f7fc9f9c27)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/64fc1b44-7394-548b-aae4-e8f7fc9f9c27)
 

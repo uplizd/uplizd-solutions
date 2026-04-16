@@ -13,7 +13,7 @@ The Automated Correspondence Manager leverages Uplizd AI workflows to streamline
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea23f171-c0b7-5314-83cf-89e634bb8e98)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ea23f171-c0b7-5314-83cf-89e634bb8e98)
 
 ---
 

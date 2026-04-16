@@ -10,5 +10,5 @@ Ensure educational materials are age-appropriate and pedagogically sound
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Educational Content Validator'](https://uplizd.ai/solutions/d41d33c1-0d50-591c-b392-dbecd3480bf6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d41d33c1-0d50-591c-b392-dbecd3480bf6)
 

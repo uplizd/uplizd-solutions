@@ -10,5 +10,5 @@ Automated supplier research and price comparison across multiple platforms
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Procurement Price Monitor'](https://uplizd.ai/solutions/67d13322-227d-5652-bf8e-369994a8d40b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/67d13322-227d-5652-bf8e-369994a8d40b)
 

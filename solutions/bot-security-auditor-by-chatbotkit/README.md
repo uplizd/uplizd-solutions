@@ -12,7 +12,7 @@ The Bot Security Auditor (Uplizd) is an automated workflow designed to continuou
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ad581351-3434-5aa5-bd39-2abf7cc29786)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ad581351-3434-5aa5-bd39-2abf7cc29786)
 
 ---
 

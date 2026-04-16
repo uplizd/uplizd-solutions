@@ -12,7 +12,7 @@ The Account Intelligence Reporter (Uplizd) workflow automates the extraction and
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAHAAABAAABAAAA//8DABJkAAU=)](https://uplizd.ai/solutions/ca85555b-5b18-5b50-9677-58bcaf9fa178)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ca85555b-5b18-5b50-9677-58bcaf9fa178)
 
 ---
 

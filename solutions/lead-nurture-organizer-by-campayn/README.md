@@ -10,5 +10,5 @@ Automatically segment and organize leads for targeted nurturing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Nurture Organizer'](https://uplizd.ai/solutions/7da2c7cc-8460-5c7e-9a80-72cc83dd4aec)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7da2c7cc-8460-5c7e-9a80-72cc83dd4aec)
 

@@ -10,5 +10,5 @@ Processes input text through a language model to determine whether the expressed
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sentiment Analysis'](https://uplizd.ai/solutions/119e719e-4da9-5e6b-83d9-5a521ccd1841)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/119e719e-4da9-5e6b-83d9-5a521ccd1841)
 

@@ -10,5 +10,5 @@ Generate automated insights and reports from multi-channel customer conversation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Conversation Analytics Reporter'](https://uplizd.ai/solutions/9219fc44-05ce-50d1-9260-87294cd45292)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9219fc44-05ce-50d1-9260-87294cd45292)
 

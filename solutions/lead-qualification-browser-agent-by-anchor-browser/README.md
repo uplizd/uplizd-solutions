@@ -10,5 +10,5 @@ Automatically research and qualify leads using web intelligence
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Browser Agent'](https://uplizd.ai/solutions/93d6c75a-78e4-5920-b0dc-686b851e780f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/93d6c75a-78e4-5920-b0dc-686b851e780f)
 

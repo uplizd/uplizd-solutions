@@ -10,5 +10,5 @@ Automated threat detection and network security oversight
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Network Security Monitor'](https://uplizd.ai/solutions/0ef97513-e42c-59a0-a347-ce9fa796f5f8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0ef97513-e42c-59a0-a347-ce9fa796f5f8)
 

@@ -10,5 +10,5 @@ Automatically create interactive property maps with market data visualization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Real Estate Property Mapping Agent'](https://uplizd.ai/solutions/d7c20c6b-f278-56c4-82c4-fc8cf722bead)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d7c20c6b-f278-56c4-82c4-fc8cf722bead)
 

@@ -10,5 +10,5 @@ Automated cryptocurrency transaction data collection for tax reporting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Crypto Tax Preparation Assistant'](https://uplizd.ai/solutions/278d961d-6cff-5e86-895d-fedb6fcc9089)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/278d961d-6cff-5e86-895d-fedb6fcc9089)
 

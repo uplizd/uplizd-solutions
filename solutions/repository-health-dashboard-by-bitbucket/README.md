@@ -10,5 +10,5 @@ Monitors and maintains code repository health metrics
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Repository Health Dashboard'](https://uplizd.ai/solutions/d24f92fa-0eab-513b-847c-510ba636f86a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d24f92fa-0eab-513b-847c-510ba636f86a)
 

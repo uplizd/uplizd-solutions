@@ -10,5 +10,5 @@ Provide clean, shortened links in customer support interactions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Support Link Helper'](https://uplizd.ai/solutions/d48555e1-f73e-50fd-b4d0-025c0222d53c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d48555e1-f73e-50fd-b4d0-025c0222d53c)
 

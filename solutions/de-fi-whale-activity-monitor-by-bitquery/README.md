@@ -10,5 +10,5 @@ Track large wallet movements and DeFi protocol interactions in real-time
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DeFi Whale Activity Monitor'](https://uplizd.ai/solutions/a5c78dca-1238-5ee9-98af-24ea5cd39f99)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a5c78dca-1238-5ee9-98af-24ea5cd39f99)
 

@@ -10,5 +10,5 @@ Comprehensive customer sentiment analysis across all channels
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Feedback Aggregator'](https://uplizd.ai/solutions/5b71e562-505f-515a-977e-32cac8b8f69c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5b71e562-505f-515a-977e-32cac8b8f69c)
 

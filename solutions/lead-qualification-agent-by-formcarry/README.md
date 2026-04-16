@@ -10,5 +10,5 @@ Automatically qualify and route form submissions to the right sales team
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Agent'](https://uplizd.ai/solutions/e0982b78-4694-56a2-8e6a-2e66367ffd7d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e0982b78-4694-56a2-8e6a-2e66367ffd7d)
 

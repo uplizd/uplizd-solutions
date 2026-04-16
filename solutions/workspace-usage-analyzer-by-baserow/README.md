@@ -10,5 +10,5 @@ Track database utilization patterns and optimize workspace efficiency
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Workspace Usage Analyzer'](https://uplizd.ai/solutions/a338559b-33c5-58c8-b314-70fd4da395da)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a338559b-33c5-58c8-b314-70fd4da395da)
 

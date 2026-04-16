@@ -13,7 +13,7 @@ The Call Analytics Reporting Agent by Callingly leverages Uplizd AI workflows to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b2cc03d-1b5e-5353-815d-eb7aa6689158)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9b2cc03d-1b5e-5353-815d-eb7aa6689158)
 
 ---
 

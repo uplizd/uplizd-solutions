@@ -10,5 +10,5 @@ Automate renewal agreements and upsell documentation for existing customers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Renewal Documentation Agent'](https://uplizd.ai/solutions/06d7fbac-0c77-582d-ad93-d3475664ac60)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/06d7fbac-0c77-582d-ad93-d3475664ac60)
 

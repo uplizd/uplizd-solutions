@@ -10,5 +10,5 @@ Streamline event registrations with automated confirmation and follow-up sequenc
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Registration Manager'](https://uplizd.ai/solutions/7fd03c89-aa67-5c33-be7b-defd78d111f5)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7fd03c89-aa67-5c33-be7b-defd78d111f5)
 

@@ -12,7 +12,7 @@ The Client Project Organizer by Everhour is an intelligent workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-Launch%20Solution-blue)](https://uplizd.ai/solutions/1c6f2b5e-b834-53d9-b4f6-f8cefe51086d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1c6f2b5e-b834-53d9-b4f6-f8cefe51086d)
 
 ---
 

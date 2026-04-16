@@ -10,5 +10,5 @@ Automatically organize new customers into targeted onboarding sequences
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'New Customer Onboarding Assistant'](https://uplizd.ai/solutions/67f65267-6eb4-5bd6-afd8-14b7bf782fe6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/67f65267-6eb4-5bd6-afd8-14b7bf782fe6)
 

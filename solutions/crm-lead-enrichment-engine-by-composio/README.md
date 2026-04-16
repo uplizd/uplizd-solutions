@@ -10,5 +10,5 @@ Automatically enrich leads with data from multiple sources
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'CRM Lead Enrichment Engine'](https://uplizd.ai/solutions/a96acb2a-fef8-5209-a211-3cdc2953bef2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a96acb2a-fef8-5209-a211-3cdc2953bef2)
 

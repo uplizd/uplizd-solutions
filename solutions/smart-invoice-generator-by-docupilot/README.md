@@ -10,5 +10,5 @@ Generate and organize invoices automatically from project completion
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Invoice Generator'](https://uplizd.ai/solutions/94780587-1daf-597c-b712-c96e7ea97142)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/94780587-1daf-597c-b712-c96e7ea97142)
 

@@ -10,5 +10,5 @@ Monitor and analyze donor behavior across campaigns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Donor Engagement Tracker'](https://uplizd.ai/solutions/62d0cb5f-973a-5c1a-bcab-dfac020978ac)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/62d0cb5f-973a-5c1a-bcab-dfac020978ac)
 

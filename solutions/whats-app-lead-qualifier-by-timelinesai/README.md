@@ -10,5 +10,5 @@ Automatically qualify and route WhatsApp leads based on conversation analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'WhatsApp Lead Qualifier'](https://uplizd.ai/solutions/15dcf985-2121-5187-9597-d3a38b017db9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/15dcf985-2121-5187-9597-d3a38b017db9)
 

@@ -10,5 +10,5 @@ Automatically qualify and route incoming leads
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Bot'](https://uplizd.ai/solutions/cac4e0a7-8816-5d57-b4ab-e4cafc58beb4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cac4e0a7-8816-5d57-b4ab-e4cafc58beb4)
 

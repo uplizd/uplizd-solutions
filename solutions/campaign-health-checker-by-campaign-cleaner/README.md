@@ -12,7 +12,7 @@ The Campaign Health Checker is an automated Uplizd AI workflow designed to monit
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/4c4986ed-e396-5e9d-91b8-b896a8cf35b9)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4c4986ed-e396-5e9d-91b8-b896a8cf35b9)
 
 ---
 

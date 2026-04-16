@@ -12,7 +12,7 @@ The Backup Compliance Manager is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9859b963-00c3-543e-9227-0d9d30b14b64)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9859b963-00c3-543e-9227-0d9d30b14b64)
 
 ---
 

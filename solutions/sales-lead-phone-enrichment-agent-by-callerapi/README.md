@@ -10,5 +10,5 @@ Enrich sales leads with phone number intelligence for better qualification
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sales Lead Phone Enrichment Agent'](https://uplizd.ai/solutions/0ea1e537-c00b-5491-bbfb-03e130b4a912)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0ea1e537-c00b-5491-bbfb-03e130b4a912)
 

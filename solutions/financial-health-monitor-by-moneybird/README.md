@@ -10,5 +10,5 @@ Track key financial metrics and alert on important changes in your business
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Financial Health Monitor'](https://uplizd.ai/solutions/da755f8f-cad2-5412-82dd-9e4f20941865)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/da755f8f-cad2-5412-82dd-9e4f20941865)
 

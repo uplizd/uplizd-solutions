@@ -10,5 +10,5 @@ Automated property discovery and investment analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Real Estate Deal Analyzer'](https://uplizd.ai/solutions/89da6ac6-ab91-57c4-8070-97358babf659)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/89da6ac6-ab91-57c4-8070-97358babf659)
 

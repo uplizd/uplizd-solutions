@@ -13,7 +13,7 @@ The Airtable Data Explorer is an intelligent AI workflow designed to bridge the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d6204a3f-348e-52c2-b493-8c79c53d2421)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d6204a3f-348e-52c2-b493-8c79c53d2421)
 
 ---
 

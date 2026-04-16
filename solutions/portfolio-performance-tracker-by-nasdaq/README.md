@@ -10,5 +10,5 @@ Automated daily portfolio monitoring with real-time alerts
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Portfolio Performance Tracker'](https://uplizd.ai/solutions/bc34c195-216b-5c68-86fa-77c7b8d9d666)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bc34c195-216b-5c68-86fa-77c7b8d9d666)
 

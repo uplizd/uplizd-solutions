@@ -10,5 +10,5 @@ Automatically manage webhook subscriptions and integrate WhatsApp data with exte
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'WhatsApp Webhook Integration Manager'](https://uplizd.ai/solutions/d72641fb-686a-5c59-bb22-89926f7c4c40)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d72641fb-686a-5c59-bb22-89926f7c4c40)
 

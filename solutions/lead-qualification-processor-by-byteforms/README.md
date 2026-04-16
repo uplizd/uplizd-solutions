@@ -10,5 +10,5 @@ Automatically score and route leads from contact forms
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Processor'](https://uplizd.ai/solutions/7c024607-26cd-524d-b7a1-a29144654055)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7c024607-26cd-524d-b7a1-a29144654055)
 

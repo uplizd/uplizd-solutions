@@ -10,5 +10,5 @@ Streamline new hire scheduling across multiple team members
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Onboarding Scheduler'](https://uplizd.ai/solutions/c5efbad9-b9e6-59ae-a8d2-f22ef290b2f7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c5efbad9-b9e6-59ae-a8d2-f22ef290b2f7)
 

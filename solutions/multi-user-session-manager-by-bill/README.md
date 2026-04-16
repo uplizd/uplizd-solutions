@@ -10,5 +10,5 @@ Efficiently manage user sessions and partner logins across teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-User Session Manager'](https://uplizd.ai/solutions/b8cdb69a-7194-5917-875d-1701e5084059)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b8cdb69a-7194-5917-875d-1701e5084059)
 

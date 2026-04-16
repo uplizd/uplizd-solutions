@@ -10,5 +10,5 @@ Automatically capture and document UI bugs with animated evidence
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Visual Bug Reporter'](https://uplizd.ai/solutions/93e2c044-4866-53b2-b343-420920ae348f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/93e2c044-4866-53b2-b343-420920ae348f)
 

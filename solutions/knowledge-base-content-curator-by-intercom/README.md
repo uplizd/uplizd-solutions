@@ -10,5 +10,5 @@ Automatically create and update help articles from support conversations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Knowledge Base Content Curator'](https://uplizd.ai/solutions/ec07a52e-179f-50ff-9c48-f5634929168b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ec07a52e-179f-50ff-9c48-f5634929168b)
 

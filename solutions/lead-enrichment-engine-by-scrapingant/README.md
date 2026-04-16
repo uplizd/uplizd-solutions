@@ -10,5 +10,5 @@ Automatically enrich leads with company data from public sources
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Enrichment Engine'](https://uplizd.ai/solutions/b1f35c7f-bdf7-53ab-bd8b-74515fadc16c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b1f35c7f-bdf7-53ab-bd8b-74515fadc16c)
 

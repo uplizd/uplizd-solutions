@@ -10,5 +10,5 @@ Book appointments and consultations directly through WhatsApp conversations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'WhatsApp Appointment Scheduler'](https://uplizd.ai/solutions/38e289ed-b4eb-57dd-97fd-68bcea48b141)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/38e289ed-b4eb-57dd-97fd-68bcea48b141)
 

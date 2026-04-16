@@ -12,7 +12,7 @@ The Brand Protection Scanner is an intelligent Uplizd workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b7382311-7b28-5af5-9b6e-d7204c1f45e3)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b7382311-7b28-5af5-9b6e-d7204c1f45e3)
 
 ---
 

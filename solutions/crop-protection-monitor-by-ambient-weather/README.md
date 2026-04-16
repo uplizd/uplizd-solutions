@@ -10,5 +10,5 @@ Early warning system for weather conditions that threaten crop health
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Crop Protection Monitor'](https://uplizd.ai/solutions/04d97b41-ea54-5ed4-8c6c-e86fc17b06cf)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/04d97b41-ea54-5ed4-8c6c-e86fc17b06cf)
 

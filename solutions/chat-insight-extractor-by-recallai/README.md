@@ -12,7 +12,7 @@ The Chat Insight Extractor is an intelligent Uplizd workflow designed to process
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b167580d-d79f-5811-955a-9b896b3bde05)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b167580d-d79f-5811-955a-9b896b3bde05)
 
 ---
 

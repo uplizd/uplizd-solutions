@@ -10,5 +10,5 @@ Automatically organize and maintain product catalogs with intelligent categoriza
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Product Catalog Manager'](https://uplizd.ai/solutions/b7f44e42-fb61-5011-b042-18694febfcf6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b7f44e42-fb61-5011-b042-18694febfcf6)
 

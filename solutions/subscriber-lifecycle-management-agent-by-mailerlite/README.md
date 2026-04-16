@@ -10,5 +10,5 @@ Automatically manage subscriber data quality and lifecycle stages
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Subscriber Lifecycle Management Agent'](https://uplizd.ai/solutions/f5bafcf8-cf2a-51a9-8494-57328665d255)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f5bafcf8-cf2a-51a9-8494-57328665d255)
 

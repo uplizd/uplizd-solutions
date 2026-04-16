@@ -10,5 +10,5 @@ Automatically segment and update customers based on purchase behavior
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Lifecycle Manager'](https://uplizd.ai/solutions/b46b9477-1edd-51b8-ba7e-e2d88dfcf0d4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b46b9477-1edd-51b8-ba7e-e2d88dfcf0d4)
 

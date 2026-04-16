@@ -10,5 +10,5 @@ Optimize trade execution timing using market status and technical analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Market Timing Assistant'](https://uplizd.ai/solutions/f95ce945-8acc-5abf-a673-9f629a10a6c9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f95ce945-8acc-5abf-a673-9f629a10a6c9)
 

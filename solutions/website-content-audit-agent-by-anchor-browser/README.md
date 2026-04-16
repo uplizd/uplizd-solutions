@@ -10,5 +10,5 @@ Comprehensive website analysis for SEO and content optimization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Website Content Audit Agent'](https://uplizd.ai/solutions/c225f9a9-328d-5447-a957-6c99b6baea1f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c225f9a9-328d-5447-a957-6c99b6baea1f)
 

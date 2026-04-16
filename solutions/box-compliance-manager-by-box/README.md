@@ -12,7 +12,7 @@ The Box Compliance Manager is an intelligent Uplizd workflow designed to automat
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AMKFRQy4766yQAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABCSURBVEjHY2AYBaNgFIyCUUAK+A8DAwAABAAA/38KAAAAAElFTkSuQmCC)](https://uplizd.ai/solutions/66baa29d-cad7-5779-aaef-c874ffc88b02)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/66baa29d-cad7-5779-aaef-c874ffc88b02)
 
 ---
 

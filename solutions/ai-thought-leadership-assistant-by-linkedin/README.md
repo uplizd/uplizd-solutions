@@ -12,7 +12,7 @@ The AI Thought Leadership Assistant streamlines the process of transforming raw 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c34d59d3-fb72-58c6-b51e-9b5b375e389a)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c34d59d3-fb72-58c6-b51e-9b5b375e389a)
 
 ---
 

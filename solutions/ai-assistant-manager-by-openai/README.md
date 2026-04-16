@@ -12,7 +12,7 @@ The AI Assistant Manager provides a centralized framework for deploying and gove
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/29958e4d-070c-5313-98af-a068ae4fc2a1)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/29958e4d-070c-5313-98af-a068ae4fc2a1)
 
 ---
 

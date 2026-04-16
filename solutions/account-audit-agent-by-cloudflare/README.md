@@ -12,7 +12,7 @@ The Account Audit Agent is an intelligent Uplizd workflow designed to automate t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6266e7fe-1e59-595e-9d7d-342b2f1cd375)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6266e7fe-1e59-595e-9d7d-342b2f1cd375)
 
 ---
 

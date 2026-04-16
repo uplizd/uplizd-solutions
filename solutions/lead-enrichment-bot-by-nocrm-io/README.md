@@ -10,5 +10,5 @@ Automatically enhance lead profiles with contextual information
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Enrichment Bot'](https://uplizd.ai/solutions/e1fe9ddf-57b2-5cae-97b5-622d6a437a28)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e1fe9ddf-57b2-5cae-97b5-622d6a437a28)
 

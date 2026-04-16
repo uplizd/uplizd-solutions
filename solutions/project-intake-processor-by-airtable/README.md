@@ -10,5 +10,5 @@ Transform client requests into structured project records with automated task br
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Intake Processor'](https://uplizd.ai/solutions/155bd6aa-519d-5696-a90d-b027970a1350)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/155bd6aa-519d-5696-a90d-b027970a1350)
 

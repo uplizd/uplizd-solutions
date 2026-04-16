@@ -10,5 +10,5 @@ Identify emerging risk patterns before they become problems
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Risk Trend Analyzer'](https://uplizd.ai/solutions/93dcb571-7236-587c-9391-c5647f6d7ff2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/93dcb571-7236-587c-9391-c5647f6d7ff2)
 

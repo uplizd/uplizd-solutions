@@ -10,5 +10,5 @@ Prepare targeted customer lists for seasonal marketing campaigns automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Seasonal Campaign List Manager'](https://uplizd.ai/solutions/a0a15b9b-7de0-5247-a2dc-e24ace72c613)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a0a15b9b-7de0-5247-a2dc-e24ace72c613)
 

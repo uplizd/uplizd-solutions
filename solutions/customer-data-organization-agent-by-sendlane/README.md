@@ -10,5 +10,5 @@ Clean and organize customer data fields for better campaign targeting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Data Organization Agent'](https://uplizd.ai/solutions/2bb5e962-2571-552f-8830-f56fd38c5095)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2bb5e962-2571-552f-8830-f56fd38c5095)
 

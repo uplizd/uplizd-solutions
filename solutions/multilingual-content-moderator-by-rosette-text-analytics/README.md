@@ -10,5 +10,5 @@ Automatically detect language and moderate content across 364 language combinati
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multilingual Content Moderator'](https://uplizd.ai/solutions/f41ba0be-fd5e-5abb-919f-37e9dab33bd1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f41ba0be-fd5e-5abb-919f-37e9dab33bd1)
 

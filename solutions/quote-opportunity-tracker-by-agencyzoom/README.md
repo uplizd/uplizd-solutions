@@ -10,5 +10,5 @@ Streamline quote creation and opportunity management for insurance prospects
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Quote & Opportunity Tracker'](https://uplizd.ai/solutions/3886d88d-26de-52bb-b6c7-b5f3a9b2bf5e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3886d88d-26de-52bb-b6c7-b5f3a9b2bf5e)
 

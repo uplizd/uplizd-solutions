@@ -10,5 +10,5 @@ Automated sales reporting and customer insights from your DPD2 storefront
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DPD2 Sales Analytics Agent'](https://uplizd.ai/solutions/d825af78-4e63-5d52-8844-875afbfc3f59)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d825af78-4e63-5d52-8844-875afbfc3f59)
 

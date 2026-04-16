@@ -10,5 +10,5 @@ Monitor pipeline health and automatically optimize deal progression
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Pipeline Health Monitor'](https://uplizd.ai/solutions/6e93932f-4c7d-524e-ac9b-b41747f1db6a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6e93932f-4c7d-524e-ac9b-b41747f1db6a)
 

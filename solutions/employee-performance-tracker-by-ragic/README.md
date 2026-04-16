@@ -10,5 +10,5 @@ Automated performance monitoring and review preparation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Employee Performance Tracker'](https://uplizd.ai/solutions/90aa1321-5dd2-5a35-8dfb-4d69ac63be3a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/90aa1321-5dd2-5a35-8dfb-4d69ac63be3a)
 

@@ -10,5 +10,5 @@ Automatically detect and alert on unusual patterns in application logs
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Log Anomaly Detection Agent'](https://uplizd.ai/solutions/54df7d17-e85c-51a7-8681-99a10ab73c7a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/54df7d17-e85c-51a7-8681-99a10ab73c7a)
 

@@ -10,5 +10,5 @@ Real-time fleet monitoring with automated status updates
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Fleet Status Monitor Agent'](https://uplizd.ai/solutions/57a9874a-f62e-51a5-b2d6-cee8464791b6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/57a9874a-f62e-51a5-b2d6-cee8464791b6)
 

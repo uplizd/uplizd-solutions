@@ -10,5 +10,5 @@ Research and qualify leads by analyzing their company websites
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Website Lead Qualifier'](https://uplizd.ai/solutions/77702830-2fcd-5488-a288-9d10b7dac311)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/77702830-2fcd-5488-a288-9d10b7dac311)
 

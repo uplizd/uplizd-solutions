@@ -10,5 +10,5 @@ Personalized vocabulary building with instant definitions and pronunciation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Interactive Language Learning Tutor'](https://uplizd.ai/solutions/57b76a02-0602-5a91-9dcc-dea37a164126)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/57b76a02-0602-5a91-9dcc-dea37a164126)
 

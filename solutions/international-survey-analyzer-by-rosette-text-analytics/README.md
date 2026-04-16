@@ -10,5 +10,5 @@ Automatically detect languages in survey responses and standardize participant i
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'International Survey Analyzer'](https://uplizd.ai/solutions/babd4815-92cd-5fff-af87-df1b3d284bdd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/babd4815-92cd-5fff-af87-df1b3d284bdd)
 

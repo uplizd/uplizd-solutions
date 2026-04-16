@@ -10,5 +10,5 @@ Generate complete marketing campaigns with branded visuals on demand
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Marketing Asset Factory'](https://uplizd.ai/solutions/e4649f40-bdec-50b3-b665-af9414d3e315)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e4649f40-bdec-50b3-b665-af9414d3e315)
 

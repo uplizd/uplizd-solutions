@@ -10,5 +10,5 @@ Ensure your forms meet security standards and manage access tokens safely
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Form Security Compliance Monitor'](https://uplizd.ai/solutions/a5919252-6fbc-59ca-9a9a-a1afed4be83c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a5919252-6fbc-59ca-9a9a-a1afed4be83c)
 

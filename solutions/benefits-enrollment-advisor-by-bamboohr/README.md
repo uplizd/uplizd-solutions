@@ -12,7 +12,7 @@ The Benefits Enrollment Advisor is an intelligent Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/247aeb49-0262-5eda-923c-910f11ed110b)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/247aeb49-0262-5eda-923c-910f11ed110b)
 
 ---
 

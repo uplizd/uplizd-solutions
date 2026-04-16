@@ -12,7 +12,7 @@ The AI Model Research Assistant is an intelligent workflow designed to automate 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/94236c22-b28b-527d-b8b9-4eb5573754d9)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/94236c22-b28b-527d-b8b9-4eb5573754d9)
 
 ---
 

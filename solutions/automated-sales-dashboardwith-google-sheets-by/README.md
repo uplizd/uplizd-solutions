@@ -12,7 +12,7 @@ The Automated Sales Dashboard with Google Sheets workflow enables sales teams to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,...)](https://uplizd.ai/solutions/31332203-f843-5822-831f-6a91fd08053d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/31332203-f843-5822-831f-6a91fd08053d)
 
 ---
 

@@ -10,5 +10,5 @@ Optimize document workflows by analyzing patterns and automating cleanup
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Document Lifecycle Optimizer'](https://uplizd.ai/solutions/8fbc4a55-54dd-5649-ae25-edec3cdf949a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8fbc4a55-54dd-5649-ae25-edec3cdf949a)
 

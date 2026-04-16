@@ -10,5 +10,5 @@ Monitor stock levels and automate reorder alerts with real-time inventory update
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Inventory Tracker'](https://uplizd.ai/solutions/44213491-58ab-5cbd-b1a2-f6e4480587ca)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/44213491-58ab-5cbd-b1a2-f6e4480587ca)
 

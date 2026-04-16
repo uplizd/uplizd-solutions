@@ -10,5 +10,5 @@ Monitor project progress and automatically complete tasks based on external trig
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Completion Tracker'](https://uplizd.ai/solutions/0d48979c-d052-57f0-93bf-06dc061e00d4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0d48979c-d052-57f0-93bf-06dc061e00d4)
 

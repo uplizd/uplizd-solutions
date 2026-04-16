@@ -10,5 +10,5 @@ Automatically respond to and escalate IT incidents based on severity
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Incident Auto-Responder'](https://uplizd.ai/solutions/5bf375c4-9671-5409-884b-9e3ad10f29fc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5bf375c4-9671-5409-884b-9e3ad10f29fc)
 

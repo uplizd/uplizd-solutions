@@ -12,7 +12,7 @@ The Blackboard Group Formation Agent streamlines academic administration by auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blackboard--group--formation--agent-blue?logo=uplizd)](https://uplizd.ai/solutions/73b2cad3-6a34-5707-a594-4d4c34bfb83d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/73b2cad3-6a34-5707-a594-4d4c34bfb83d)
 
 ---
 

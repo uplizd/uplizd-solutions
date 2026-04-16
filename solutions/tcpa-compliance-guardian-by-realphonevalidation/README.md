@@ -10,5 +10,5 @@ Ensure TCPA compliance by checking phone number reassignment status
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'TCPA Compliance Guardian'](https://uplizd.ai/solutions/7ac4cf99-fc57-5326-b6f2-c9ed00b4f458)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7ac4cf99-fc57-5326-b6f2-c9ed00b4f458)
 

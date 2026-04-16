@@ -10,5 +10,5 @@ Transform your Google Sheets into smart, self-updating business intelligence too
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Intelligent Spreadsheet Management Agent'](https://uplizd.ai/solutions/15af4e8b-5123-54f3-810b-4d511f3c0d69)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/15af4e8b-5123-54f3-810b-4d511f3c0d69)
 

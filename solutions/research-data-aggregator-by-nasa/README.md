@@ -10,5 +10,5 @@ Automated NASA data collection for scientific research projects
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Research Data Aggregator'](https://uplizd.ai/solutions/1e085f90-9be3-57ee-a9a0-b0e7c074d2eb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1e085f90-9be3-57ee-a9a0-b0e7c074d2eb)
 

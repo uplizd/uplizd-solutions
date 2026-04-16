@@ -10,5 +10,5 @@ Automatically generate and organize contracts from deal data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contract Automation Agent'](https://uplizd.ai/solutions/febc45aa-1a81-5c6c-9516-9f983a192194)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/febc45aa-1a81-5c6c-9516-9f983a192194)
 

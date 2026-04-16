@@ -10,5 +10,5 @@ Identify at-risk customers before they churn using behavioral data patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Churn Risk Analyzer'](https://uplizd.ai/solutions/7f0d8f12-1f44-54b5-b0c0-887c9f67fe91)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7f0d8f12-1f44-54b5-b0c0-887c9f67fe91)
 

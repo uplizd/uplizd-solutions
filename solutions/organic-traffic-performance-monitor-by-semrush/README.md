@@ -10,5 +10,5 @@ Track and analyze organic search performance across multiple domains and pages
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Organic Traffic Performance Monitor'](https://uplizd.ai/solutions/c61b9f59-3a32-544a-b1df-fbe7d7c382d4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c61b9f59-3a32-544a-b1df-fbe7d7c382d4)
 

@@ -10,5 +10,5 @@ Automatically qualify, score, and convert high-value leads
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Engine'](https://uplizd.ai/solutions/6e3d5f2e-8106-5fbb-b607-496c8814de3a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6e3d5f2e-8106-5fbb-b607-496c8814de3a)
 

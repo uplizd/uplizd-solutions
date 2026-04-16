@@ -10,5 +10,5 @@ Identify and manage duplicate or outdated files
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Document Cleanup Assistant'](https://uplizd.ai/solutions/b0d38520-156f-5544-a406-2c031ababab3)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b0d38520-156f-5544-a406-2c031ababab3)
 

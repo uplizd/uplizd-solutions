@@ -10,5 +10,5 @@ Automated DNS monitoring and domain health tracking for IT teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Technical Infrastructure Monitor'](https://uplizd.ai/solutions/ef5a9c0d-ba5e-58ce-92e0-80836e3cac0d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ef5a9c0d-ba5e-58ce-92e0-80836e3cac0d)
 

@@ -10,5 +10,5 @@ Smart storage management and cleanup automation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'OneDrive Storage Optimizer'](https://uplizd.ai/solutions/ab15e2cf-a111-5041-8abe-a6a758063188)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ab15e2cf-a111-5041-8abe-a6a758063188)
 

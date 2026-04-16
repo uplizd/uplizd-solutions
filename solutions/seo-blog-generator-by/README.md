@@ -10,5 +10,5 @@ Generate an intro and the outline for a blog using LLM
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'SEO Blog Generator'](https://uplizd.ai/solutions/02f957de-31b6-5980-96ce-7f10205c0567)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/02f957de-31b6-5980-96ce-7f10205c0567)
 

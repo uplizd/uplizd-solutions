@@ -10,5 +10,5 @@ Ensure all video content meets accessibility compliance requirements
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Video Accessibility Enforcer'](https://uplizd.ai/solutions/28b121c3-af7b-566d-9ead-cf50bd41e433)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/28b121c3-af7b-566d-9ead-cf50bd41e433)
 

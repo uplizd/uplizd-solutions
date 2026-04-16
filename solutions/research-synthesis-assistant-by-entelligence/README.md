@@ -10,5 +10,5 @@ Automatically synthesize insights from multiple research repositories and knowle
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Research Synthesis Assistant'](https://uplizd.ai/solutions/d4b892a5-c413-5c7f-87d1-1ab05bd91a8a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d4b892a5-c413-5c7f-87d1-1ab05bd91a8a)
 

@@ -10,5 +10,5 @@ This workflow demonstrates how to perform web crawling to extract information fr
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Web Crawling and Save to SQL database'](https://uplizd.ai/solutions/074f671d-aab2-527d-b293-326f56997dab)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/074f671d-aab2-527d-b293-326f56997dab)
 

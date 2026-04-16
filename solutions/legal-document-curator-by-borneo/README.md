@@ -10,5 +10,5 @@ Intelligent legal document management and compliance tracking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Legal Document Curator'](https://uplizd.ai/solutions/db29d84a-9355-56ba-8be9-67c898ed6cd9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/db29d84a-9355-56ba-8be9-67c898ed6cd9)
 

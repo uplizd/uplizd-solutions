@@ -10,5 +10,5 @@ AI-powered market news analysis and stock impact assessment
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Market News Intelligence Agent'](https://uplizd.ai/solutions/b8189274-cdc5-57e2-a94a-a94acbe4224f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b8189274-cdc5-57e2-a94a-a94acbe4224f)
 

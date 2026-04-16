@@ -12,7 +12,7 @@ The Automated Follow-up Coordinator is an Uplizd AI workflow designed to streaml
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cf56f7c2-3938-5e45-90d6-d193438757d6)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cf56f7c2-3938-5e45-90d6-d193438757d6)
 
 ---
 

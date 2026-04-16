@@ -10,5 +10,5 @@ Automatically qualify and route leads based on conversation context
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Lead Qualification Agent'](https://uplizd.ai/solutions/8626a6f9-11a7-5cbf-9de0-a866524e781c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8626a6f9-11a7-5cbf-9de0-a866524e781c)
 

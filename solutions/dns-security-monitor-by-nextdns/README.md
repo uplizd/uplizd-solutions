@@ -10,5 +10,5 @@ Automated DNS threat detection and response system
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DNS Security Monitor'](https://uplizd.ai/solutions/9233cc93-9752-5cab-9027-886ef9f0c3de)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9233cc93-9752-5cab-9027-886ef9f0c3de)
 

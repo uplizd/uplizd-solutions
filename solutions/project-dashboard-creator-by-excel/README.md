@@ -10,5 +10,5 @@ Build comprehensive project tracking dashboards with real-time data visualizatio
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Dashboard Creator'](https://uplizd.ai/solutions/dafa7b4e-e606-576f-bea2-038fbc592ef8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dafa7b4e-e606-576f-bea2-038fbc592ef8)
 

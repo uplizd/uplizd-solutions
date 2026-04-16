@@ -12,7 +12,7 @@ The Client Portal Generator (Uplizd) is an automated workflow that streamlines t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3ec2cf27-31dc-5e21-9984-3811719e37b8)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3ec2cf27-31dc-5e21-9984-3811719e37b8)
 
 ---
 

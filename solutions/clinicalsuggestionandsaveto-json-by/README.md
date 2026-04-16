@@ -12,7 +12,7 @@ The Clinical Suggestion and JSON Export workflow streamlines medical research by
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b3eeab71-d9ea-57a2-a7ba-b8e052453f62)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b3eeab71-d9ea-57a2-a7ba-b8e052453f62)
 
 ---
 

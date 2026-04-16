@@ -12,7 +12,7 @@ The Appointment Booking Bot is an Uplizd AI workflow designed to streamline the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ef27407b-8d1e-57bc-8bb9-634ed451922c)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ef27407b-8d1e-57bc-8bb9-634ed451922c)
 
 ---
 

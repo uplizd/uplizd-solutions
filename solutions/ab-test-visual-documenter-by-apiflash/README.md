@@ -12,7 +12,7 @@ The A/B Test Visual Documenter is an automated Uplizd AI workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f4731716-5966-5acd-b2db-904f1844bb30)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f4731716-5966-5acd-b2db-904f1844bb30)
 
 ---
 

@@ -12,7 +12,7 @@ The Canvas Student Communication Manager is an intelligent Uplizd AI workflow de
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-Launch%20Solution-blue)](https://uplizd.ai/solutions/e7558fb2-f231-5add-bc6a-74964822a432)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e7558fb2-f231-5add-bc6a-74964822a432)
 
 ---
 

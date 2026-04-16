@@ -12,7 +12,7 @@ The Automated Call Recording Ingestion workflow enables revenue teams to automat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cbdee46d-54c8-5de7-9cee-788c97b49e41)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cbdee46d-54c8-5de7-9cee-788c97b49e41)
 
 ---
 

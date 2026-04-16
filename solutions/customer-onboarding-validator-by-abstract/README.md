@@ -10,5 +10,5 @@ Streamline customer onboarding with automated data validation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Onboarding Validator'](https://uplizd.ai/solutions/8b4064a2-1c90-539a-b8e3-121256de8c02)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8b4064a2-1c90-539a-b8e3-121256de8c02)
 

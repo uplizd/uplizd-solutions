@@ -10,5 +10,5 @@ Seamlessly migrate multimedia assets from old websites to new media platforms
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Website Asset Migrator'](https://uplizd.ai/solutions/639d795f-08b7-5213-af70-2a2aec3d0497)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/639d795f-08b7-5213-af70-2a2aec3d0497)
 

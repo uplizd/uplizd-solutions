@@ -10,5 +10,5 @@ Intelligently manage Google Ads customer lists based on behavior and engagement
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Dynamic Customer List Management Agent'](https://uplizd.ai/solutions/168fc45e-e928-562f-8346-f4a33a430fe9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/168fc45e-e928-562f-8346-f4a33a430fe9)
 

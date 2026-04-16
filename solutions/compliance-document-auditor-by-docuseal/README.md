@@ -10,5 +10,5 @@ Ensure regulatory compliance across all document templates and submissions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Compliance Document Auditor'](https://uplizd.ai/solutions/e94e6cfe-b6e9-5948-890f-4c3165edb9e1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e94e6cfe-b6e9-5948-890f-4c3165edb9e1)
 

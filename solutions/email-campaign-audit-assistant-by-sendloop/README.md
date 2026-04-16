@@ -10,5 +10,5 @@ Comprehensive campaign performance auditing and optimization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Email Campaign Audit Assistant'](https://uplizd.ai/solutions/db005c0d-085a-5e04-b68d-0dbd1a4b4de8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/db005c0d-085a-5e04-b68d-0dbd1a4b4de8)
 

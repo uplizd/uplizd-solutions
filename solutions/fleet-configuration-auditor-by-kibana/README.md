@@ -10,5 +10,5 @@ Automated fleet management and configuration compliance
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Fleet Configuration Auditor'](https://uplizd.ai/solutions/bc3d03e4-262c-5d32-a9fb-ef0c90a360eb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bc3d03e4-262c-5d32-a9fb-ef0c90a360eb)
 

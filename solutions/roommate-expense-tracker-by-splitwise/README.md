@@ -10,5 +10,5 @@ Seamlessly manage shared household expenses
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Roommate Expense Tracker'](https://uplizd.ai/solutions/53c9c2f2-94e2-53d6-a8b6-e4f534820ee9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/53c9c2f2-94e2-53d6-a8b6-e4f534820ee9)
 

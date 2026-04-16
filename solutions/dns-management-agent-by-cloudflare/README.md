@@ -10,5 +10,5 @@ Automate DNS record management and zone operations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DNS Management Agent'](https://uplizd.ai/solutions/4450b5ba-d2c9-53c2-821d-a649fa57a902)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4450b5ba-d2c9-53c2-821d-a649fa57a902)
 

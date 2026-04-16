@@ -10,5 +10,5 @@ Streamline inventory management by removing discontinued items and outdated stoc
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Inventory Database Optimizer'](https://uplizd.ai/solutions/946e54bc-8441-5021-b427-a6e4275996b7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/946e54bc-8441-5021-b427-a6e4275996b7)
 

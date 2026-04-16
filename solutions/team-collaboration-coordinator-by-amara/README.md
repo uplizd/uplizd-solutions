@@ -10,5 +10,5 @@ Streamline subtitle team workflows and task assignments
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Collaboration Coordinator'](https://uplizd.ai/solutions/33cdf134-ac67-5b86-a26a-d7b5e111db8c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/33cdf134-ac67-5b86-a26a-d7b5e111db8c)
 

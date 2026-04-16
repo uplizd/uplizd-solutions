@@ -10,5 +10,5 @@ Detect unusual patterns in social proof events and alert teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Proof Anomaly Detector'](https://uplizd.ai/solutions/21e04033-4f2f-56ca-ae3f-1a068e4337cf)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/21e04033-4f2f-56ca-ae3f-1a068e4337cf)
 

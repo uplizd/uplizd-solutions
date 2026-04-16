@@ -10,5 +10,5 @@ Comprehensive CIDR block security assessment and reporting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Network Security Auditor'](https://uplizd.ai/solutions/f66e2696-5fac-5160-9cb1-bd3de8ce816b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f66e2696-5fac-5160-9cb1-bd3de8ce816b)
 

@@ -10,5 +10,5 @@ Ensure all project deliverables are complete before invoice generation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Readiness Checker'](https://uplizd.ai/solutions/046dd7e0-e5f1-5c65-9c06-9198d9b43755)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/046dd7e0-e5f1-5c65-9c06-9198d9b43755)
 

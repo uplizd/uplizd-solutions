@@ -10,5 +10,5 @@ Streamline content distribution and management across multiple newsletter public
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-Newsletter Publication Manager'](https://uplizd.ai/solutions/c0b247a0-357f-5c16-a549-d4f74f84ace6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c0b247a0-357f-5c16-a549-d4f74f84ace6)
 

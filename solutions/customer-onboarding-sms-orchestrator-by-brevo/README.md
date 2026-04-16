@@ -10,5 +10,5 @@ Deliver timely SMS reminders and tips during customer onboarding journeys
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Onboarding SMS Orchestrator'](https://uplizd.ai/solutions/161aa1bb-1434-5781-b298-181ca13efcee)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/161aa1bb-1434-5781-b298-181ca13efcee)
 

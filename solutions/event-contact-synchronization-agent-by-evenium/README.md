@@ -10,5 +10,5 @@ Keep event contacts synchronized across all platforms
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Contact Synchronization Agent'](https://uplizd.ai/solutions/e724a38d-4aff-55f7-91d4-f65be4a9974d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e724a38d-4aff-55f7-91d4-f65be4a9974d)
 

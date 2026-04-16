@@ -12,7 +12,7 @@ The Account Health Compliance Monitor (Uplizd) is an automated workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/63ccd582-8a03-50db-86c5-7a7ddf7f16f6)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/63ccd582-8a03-50db-86c5-7a7ddf7f16f6)
 
 ---
 

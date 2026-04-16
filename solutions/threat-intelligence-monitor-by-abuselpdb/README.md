@@ -10,5 +10,5 @@ Automated IP reputation monitoring and alerting system
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Threat Intelligence Monitor'](https://uplizd.ai/solutions/ffff3c20-0afb-5695-b159-5cf4e56fb1f7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ffff3c20-0afb-5695-b159-5cf4e56fb1f7)
 

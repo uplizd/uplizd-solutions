@@ -10,5 +10,5 @@ Convert proposals to client-preferred formats while maintaining professional pre
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Proposal Format Optimizer'](https://uplizd.ai/solutions/5f1dcb3a-e5be-5a10-9f0d-dec301bceeba)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5f1dcb3a-e5be-5a10-9f0d-dec301bceeba)
 

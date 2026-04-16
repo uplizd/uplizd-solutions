@@ -10,5 +10,5 @@ Automatically update deal stages and forecast revenue
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sales Pipeline Tracker'](https://uplizd.ai/solutions/282f2e43-1861-5eac-b7f3-f61ab611d124)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/282f2e43-1861-5eac-b7f3-f61ab611d124)
 

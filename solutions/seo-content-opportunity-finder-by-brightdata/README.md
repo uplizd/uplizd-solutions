@@ -10,5 +10,5 @@ Discover high-value content gaps and keyword opportunities automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'SEO Content Opportunity Finder'](https://uplizd.ai/solutions/ef2ac70b-e127-5a84-a760-d07265b998d6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ef2ac70b-e127-5a84-a760-d07265b998d6)
 

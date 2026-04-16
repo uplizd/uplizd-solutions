@@ -10,5 +10,5 @@ Intelligently organize and prioritize daily tasks based on energy levels and dea
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Personal Productivity Optimizer'](https://uplizd.ai/solutions/72c3523e-96b1-5d82-96b2-4d695c5c7f77)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/72c3523e-96b1-5d82-96b2-4d695c5c7f77)
 

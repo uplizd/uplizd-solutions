@@ -10,5 +10,5 @@ Transform contract data into professional PDF agreements
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contract Document Processor'](https://uplizd.ai/solutions/a05a3165-c19a-5b10-ba24-d6385254f97a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a05a3165-c19a-5b10-ba24-d6385254f97a)
 

@@ -10,5 +10,5 @@ Optimize event capacity and prevent overbooking automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Capacity Optimization Agent'](https://uplizd.ai/solutions/6f4f5aa4-c522-5464-8a53-3d1fd9142918)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6f4f5aa4-c522-5464-8a53-3d1fd9142918)
 

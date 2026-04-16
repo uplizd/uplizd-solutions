@@ -10,5 +10,5 @@ Analyze currency trends and provide strategic timing recommendations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Currency Trend Analysis Agent'](https://uplizd.ai/solutions/a6dd71a1-0e8b-57b3-b728-ed956afc642c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a6dd71a1-0e8b-57b3-b728-ed956afc642c)
 

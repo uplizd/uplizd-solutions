@@ -10,5 +10,5 @@ Automatically organize and tag research links for easy retrieval
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Research Bookmark Curator'](https://uplizd.ai/solutions/9ccdf4fa-aa68-55ba-9f31-c4b294d3df18)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9ccdf4fa-aa68-55ba-9f31-c4b294d3df18)
 

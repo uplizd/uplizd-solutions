@@ -10,5 +10,5 @@ Validate IBAN numbers and payment details before processing transactions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Payment Verification Agent'](https://uplizd.ai/solutions/24f79238-52d4-5db3-bd5e-c5ae3e824dff)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/24f79238-52d4-5db3-bd5e-c5ae3e824dff)
 

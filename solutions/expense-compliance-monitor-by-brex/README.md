@@ -10,5 +10,5 @@ Real-time expense policy enforcement and automated compliance reporting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Expense Compliance Monitor'](https://uplizd.ai/solutions/080994ca-0d2b-5a2b-872e-79da9203d15c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/080994ca-0d2b-5a2b-872e-79da9203d15c)
 

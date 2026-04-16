@@ -10,5 +10,5 @@ Automatically process and organize new leads into your CRM
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Intake Processor'](https://uplizd.ai/solutions/a8339241-48cf-5f37-8abd-c22a9e010107)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a8339241-48cf-5f37-8abd-c22a9e010107)
 

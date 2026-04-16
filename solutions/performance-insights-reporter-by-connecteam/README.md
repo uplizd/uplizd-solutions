@@ -10,5 +10,5 @@ Generate automated performance reports for deskless teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Performance Insights Reporter'](https://uplizd.ai/solutions/742bbc6d-96f8-52eb-b9f2-55d5b08b7a0c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/742bbc6d-96f8-52eb-b9f2-55d5b08b7a0c)
 

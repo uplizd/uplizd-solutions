@@ -10,5 +10,5 @@ Discover trending event categories and optimize event portfolio strategy
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Category Intelligence'](https://uplizd.ai/solutions/a3770753-41fe-5b0b-9f59-9322e58ad157)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a3770753-41fe-5b0b-9f59-9322e58ad157)
 

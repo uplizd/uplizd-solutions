@@ -10,5 +10,5 @@ Identify and clean duplicate contacts and companies in Folk CRM
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'CRM Data Cleanup Agent'](https://uplizd.ai/solutions/6340a205-79e3-5357-905e-fb28b00e9553)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6340a205-79e3-5357-905e-fb28b00e9553)
 

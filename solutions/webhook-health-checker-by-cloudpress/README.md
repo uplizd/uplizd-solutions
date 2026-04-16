@@ -10,5 +10,5 @@ Ensure your content automation workflows stay connected and functional
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Webhook Health Checker'](https://uplizd.ai/solutions/e6625e4d-3ad0-5c57-b3fb-e8504f09d2e1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e6625e4d-3ad0-5c57-b3fb-e8504f09d2e1)
 

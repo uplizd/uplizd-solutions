@@ -10,5 +10,5 @@ Automated compliance reporting and policy enforcement tracking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DNS Compliance Auditor'](https://uplizd.ai/solutions/ace8362a-7fec-5c43-883f-4d802e6e97bc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ace8362a-7fec-5c43-883f-4d802e6e97bc)
 

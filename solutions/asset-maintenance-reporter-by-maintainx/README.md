@@ -12,7 +12,7 @@ The Asset Maintenance Reporter (Uplizd) streamlines facility and equipment manag
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1f201534-6fbe-5b01-b1d3-aa05e4fca11a)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1f201534-6fbe-5b01-b1d3-aa05e4fca11a)
 
 ---
 

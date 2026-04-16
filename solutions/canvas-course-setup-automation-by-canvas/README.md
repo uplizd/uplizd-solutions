@@ -12,7 +12,7 @@ The Canvas Course Setup Automation workflow enables educators and instructional 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c781bf2f-ebad-5bc4-9589-0c50080ab243)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c781bf2f-ebad-5bc4-9589-0c50080ab243)
 
 ---
 

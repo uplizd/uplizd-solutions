@@ -10,5 +10,5 @@ Automate personalized holiday cards and seasonal greetings for clients and prosp
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Holiday Greeting Agent'](https://uplizd.ai/solutions/beb0fc41-f9ab-53b9-9bbb-d15d7d56f219)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/beb0fc41-f9ab-53b9-9bbb-d15d7d56f219)
 

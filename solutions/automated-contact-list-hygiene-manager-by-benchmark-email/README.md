@@ -12,7 +12,7 @@ The Automated Contact List Hygiene Manager is an intelligent Uplizd workflow tha
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-0bae26b2--0d57--576c--a61c--a462d52af3f3-blue)](https://uplizd.ai/solutions/0bae26b2-0d57-576c-a61c-a462d52af3f3)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0bae26b2-0d57-576c-a61c-a462d52af3f3)
 
 ---
 

@@ -10,5 +10,5 @@ Automatically organize incoming emails by importance and urgency
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Email Priority Sorter'](https://uplizd.ai/solutions/18bfa656-0a0e-5c99-af6a-db7edc4bdecb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/18bfa656-0a0e-5c99-af6a-db7edc4bdecb)
 

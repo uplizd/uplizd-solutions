@@ -10,5 +10,5 @@ Analyze and optimize email sequences for maximum engagement
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Outreach Sequence Optimizer'](https://uplizd.ai/solutions/865d9bd0-7583-5060-bdad-b20518de7ccc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/865d9bd0-7583-5060-bdad-b20518de7ccc)
 

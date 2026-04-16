@@ -10,5 +10,5 @@ Automated project updates and deadline reminders for better team coordination
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Status Tracker'](https://uplizd.ai/solutions/acf999d3-e935-5695-81a7-e7097c7c23a3)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/acf999d3-e935-5695-81a7-e7097c7c23a3)
 

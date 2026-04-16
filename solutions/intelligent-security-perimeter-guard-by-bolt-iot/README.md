@@ -10,5 +10,5 @@
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Intelligent Security Perimeter Guard'](https://uplizd.ai/solutions/96e7e9fe-b9c3-56da-bdc0-ee4e0ac24748)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/96e7e9fe-b9c3-56da-bdc0-ee4e0ac24748)
 

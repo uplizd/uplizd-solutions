@@ -10,5 +10,5 @@ Monitor customer satisfaction through email sentiment analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Sentiment Tracker'](https://uplizd.ai/solutions/7fee3794-d84e-52dc-ac48-25628b9d6915)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7fee3794-d84e-52dc-ac48-25628b9d6915)
 

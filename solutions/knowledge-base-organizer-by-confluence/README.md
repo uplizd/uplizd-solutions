@@ -10,5 +10,5 @@ Automatically organize and label team documentation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Knowledge Base Organizer'](https://uplizd.ai/solutions/8f9ddcad-4bdc-5aec-a87b-8b6b81f3a09a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8f9ddcad-4bdc-5aec-a87b-8b6b81f3a09a)
 

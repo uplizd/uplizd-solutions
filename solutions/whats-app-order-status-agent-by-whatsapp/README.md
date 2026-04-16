@@ -10,5 +10,5 @@ Send proactive order updates and handle delivery inquiries
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'WhatsApp Order Status Agent'](https://uplizd.ai/solutions/bdf0bf45-20d1-550e-9966-5fdb5231c485)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bdf0bf45-20d1-550e-9966-5fdb5231c485)
 

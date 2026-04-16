@@ -10,5 +10,5 @@ Automatically generate recurring task sequences for standardized processes
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Recurring Workflow Automator'](https://uplizd.ai/solutions/7dc46742-1a7c-56fe-abc6-6a35d3a8d2d8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7dc46742-1a7c-56fe-abc6-6a35d3a8d2d8)
 

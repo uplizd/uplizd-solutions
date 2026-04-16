@@ -10,5 +10,5 @@ Automatically manage SLOs and ensure service reliability targets are met
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'SLO Compliance Manager'](https://uplizd.ai/solutions/5bb880aa-251d-5320-b701-6848f84097cd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5bb880aa-251d-5320-b701-6848f84097cd)
 

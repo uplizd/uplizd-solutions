@@ -10,5 +10,5 @@ Automatically identify and block suspicious phone numbers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Spam Call Detection Agent'](https://uplizd.ai/solutions/7c373ef7-d913-5c3c-8092-388c79fa31df)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7c373ef7-d913-5c3c-8092-388c79fa31df)
 

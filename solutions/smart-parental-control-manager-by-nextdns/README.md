@@ -10,5 +10,5 @@ Intelligent DNS filtering for family internet safety
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Parental Control Manager'](https://uplizd.ai/solutions/17b300d0-03c8-5589-ad31-e8939d0bf92f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/17b300d0-03c8-5589-ad31-e8939d0bf92f)
 

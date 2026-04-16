@@ -10,5 +10,5 @@ Create executive dashboards and financial reports on demand
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Financial Report Automator'](https://uplizd.ai/solutions/c474a011-823a-52ab-ae8f-6442f9c2c811)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c474a011-823a-52ab-ae8f-6442f9c2c811)
 

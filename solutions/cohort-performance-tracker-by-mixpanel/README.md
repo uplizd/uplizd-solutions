@@ -12,7 +12,7 @@ The Cohort Performance Tracker (Uplizd) is an automated AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAK+A81/w8EwP8fA/8/fPj/Pwb+f/j//z8G/n9A8v8/Bv5/GPj/wYgBwP8fA/8/fPj/PwAAL0Y/m0u63+cAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/f76440f1-ca40-57e8-8f5f-c40f3a45865b)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f76440f1-ca40-57e8-8f5f-c40f3a45865b)
 
 ---
 

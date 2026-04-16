@@ -10,5 +10,5 @@ Automate NFT collection deployment and monitoring from concept to launch
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'NFT Collection Deployment Manager'](https://uplizd.ai/solutions/f32b1576-1ae0-5478-a16c-d1ae2e123a2b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f32b1576-1ae0-5478-a16c-d1ae2e123a2b)
 

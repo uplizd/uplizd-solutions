@@ -10,5 +10,5 @@ Generate comprehensive reports on your photography portfolio health
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Portfolio Health Monitor'](https://uplizd.ai/solutions/0c92c3bd-29d9-5d1c-abee-7e42fc9b31e1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0c92c3bd-29d9-5d1c-abee-7e42fc9b31e1)
 

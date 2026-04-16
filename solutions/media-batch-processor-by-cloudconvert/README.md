@@ -10,5 +10,5 @@ Automatically convert and organize media files at scale
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Media Batch Processor'](https://uplizd.ai/solutions/a0ad5fd8-51e1-50f9-b16b-6e6f2a438152)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a0ad5fd8-51e1-50f9-b16b-6e6f2a438152)
 

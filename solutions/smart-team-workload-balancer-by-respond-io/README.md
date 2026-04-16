@@ -10,5 +10,5 @@ Automatically balance conversation workloads across team members for optimal eff
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Team Workload Balancer'](https://uplizd.ai/solutions/8ebcb7cb-ea07-51c4-ad0c-c689dd822aa4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8ebcb7cb-ea07-51c4-ad0c-c689dd822aa4)
 

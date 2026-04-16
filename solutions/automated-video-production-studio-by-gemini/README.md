@@ -12,7 +12,7 @@ The Automated Video Production Studio is an Uplizd AI workflow that streamlines 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b75cc7b-1f08-5e63-85d6-11649a6debcc)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9b75cc7b-1f08-5e63-85d6-11649a6debcc)
 
 ---
 

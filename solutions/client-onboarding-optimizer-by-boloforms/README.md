@@ -12,7 +12,7 @@ The Client Onboarding Optimizer is an intelligent Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e677f4b0-525d-5b0f-83c2-b84595778d50)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e677f4b0-525d-5b0f-83c2-b84595778d50)
 
 ---
 

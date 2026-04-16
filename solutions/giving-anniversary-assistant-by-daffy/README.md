@@ -10,5 +10,5 @@ Automated anniversary and milestone giving reminders with personalized donation 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Giving Anniversary Assistant'](https://uplizd.ai/solutions/050dc9b0-7dda-5338-9e2f-e849fe97b686)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/050dc9b0-7dda-5338-9e2f-e849fe97b686)
 

@@ -10,5 +10,5 @@ Instantly detect unusual user behavior patterns and potential issues
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'User Behavior Anomaly Detector'](https://uplizd.ai/solutions/0590fb9a-3684-5c09-9fc0-ce00b649c21f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0590fb9a-3684-5c09-9fc0-ce00b649c21f)
 

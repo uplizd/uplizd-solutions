@@ -10,5 +10,5 @@ Screen and analyze mutual funds based on custom criteria
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Intelligent Mutual Fund Screener'](https://uplizd.ai/solutions/ae53b086-778f-5854-9b24-02d53774478a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ae53b086-778f-5854-9b24-02d53774478a)
 

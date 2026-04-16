@@ -10,5 +10,5 @@ Generate comprehensive Bible studies on any topic with discussion questions and 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Topical Bible Study Creator'](https://uplizd.ai/solutions/de7135cc-bf66-51c4-8883-a212ba93a09a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/de7135cc-bf66-51c4-8883-a212ba93a09a)
 

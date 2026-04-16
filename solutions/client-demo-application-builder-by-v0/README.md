@@ -12,7 +12,7 @@ The Client Demo Application Builder is an automated AI workflow designed to stre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/514eeec1-17b9-5fea-a5cb-43c66df50312)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/514eeec1-17b9-5fea-a5cb-43c66df50312)
 
 ---
 

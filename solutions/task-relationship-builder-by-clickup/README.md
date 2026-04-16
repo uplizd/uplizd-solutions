@@ -10,5 +10,5 @@ Intelligently connect related tasks and organize project workflows
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Task Relationship Builder'](https://uplizd.ai/solutions/da94ffb2-2838-5b23-b707-5774aced7f21)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/da94ffb2-2838-5b23-b707-5774aced7f21)
 

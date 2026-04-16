@@ -10,5 +10,5 @@ Prevent team burnout by automatically redistributing workload and flagging capac
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Task Overload Monitor'](https://uplizd.ai/solutions/5ff4f245-b6b4-53c3-84b5-98993cb98208)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5ff4f245-b6b4-53c3-84b5-98993cb98208)
 

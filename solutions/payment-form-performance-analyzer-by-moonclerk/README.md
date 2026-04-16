@@ -10,5 +10,5 @@ Optimize payment forms for higher conversion rates and better user experience
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Payment Form Performance Analyzer'](https://uplizd.ai/solutions/6b77647e-c424-5453-80e0-e54829985145)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6b77647e-c424-5453-80e0-e54829985145)
 

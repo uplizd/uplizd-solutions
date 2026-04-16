@@ -12,7 +12,7 @@ The Client Work Transparency Agent is an automated Uplizd workflow designed to b
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9254297b-c418-55a4-b1c4-1107688575ce)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9254297b-c418-55a4-b1c4-1107688575ce)
 
 ---
 

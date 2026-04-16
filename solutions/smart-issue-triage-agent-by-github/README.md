@@ -10,5 +10,5 @@ Automatically categorize and prioritize GitHub issues
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Issue Triage Agent'](https://uplizd.ai/solutions/f9d28851-4da3-52bb-ac5f-bdc7c4bfc09f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f9d28851-4da3-52bb-ac5f-bdc7c4bfc09f)
 

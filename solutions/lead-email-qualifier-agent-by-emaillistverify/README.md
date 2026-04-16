@@ -10,5 +10,5 @@ Automatically verify and score lead email addresses for sales outreach
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Email Qualifier Agent'](https://uplizd.ai/solutions/c708b152-f0d0-58a1-93c9-122f4ccc0776)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c708b152-f0d0-58a1-93c9-122f4ccc0776)
 

@@ -12,7 +12,7 @@ The Analytics Data Quality Monitor is an automated Uplizd workflow designed to e
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data)](https://uplizd.ai/solutions/da40c3ea-c2aa-5a64-be9d-371b324b7b9f)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/da40c3ea-c2aa-5a64-be9d-371b324b7b9f)
 
 ---
 

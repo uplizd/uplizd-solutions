@@ -10,5 +10,5 @@ Track customer satisfaction and proactively identify at-risk accounts
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Health Monitor'](https://uplizd.ai/solutions/57d6880d-75e5-57ba-a7fd-485ec6734582)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/57d6880d-75e5-57ba-a7fd-485ec6734582)
 

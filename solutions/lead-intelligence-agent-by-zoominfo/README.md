@@ -10,5 +10,5 @@ Automatically enrich and qualify leads with comprehensive company and contact da
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Intelligence Agent'](https://uplizd.ai/solutions/5bc7ca2d-40b2-52d2-aa50-33b7e62e1b6f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5bc7ca2d-40b2-52d2-aa50-33b7e62e1b6f)
 

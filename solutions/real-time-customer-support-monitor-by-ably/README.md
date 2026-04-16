@@ -10,5 +10,5 @@ Monitor and analyze customer support interactions in real-time
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Real-Time Customer Support Monitor'](https://uplizd.ai/solutions/c174b335-bae5-5456-8bba-d6e52e1428f6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c174b335-bae5-5456-8bba-d6e52e1428f6)
 

@@ -12,7 +12,7 @@ The Code Reference Tracker is an intelligent Uplizd AI workflow designed to scan
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AMKFRQ5X5l/JgAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lQ4ucJ6AAAAElJREFUOE9jYBgFo2AUjIJRMApGATkBAAEAAAE=)](https://uplizd.ai/solutions/347a00de-50f3-5efe-a395-27dc1138c5f9)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/347a00de-50f3-5efe-a395-27dc1138c5f9)
 
 ---
 

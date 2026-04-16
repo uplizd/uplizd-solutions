@@ -12,7 +12,7 @@ The Community Moderation Assistant is an intelligent Uplizd workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7b841785-9063-5a7a-a17c-28b1609e427d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7b841785-9063-5a7a-a17c-28b1609e427d)
 
 ---
 

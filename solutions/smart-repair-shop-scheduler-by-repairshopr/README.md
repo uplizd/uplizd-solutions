@@ -10,5 +10,5 @@ Automatically optimize appointment scheduling and send customer reminders
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Repair Shop Scheduler'](https://uplizd.ai/solutions/320fff6b-4b12-5041-9170-788094aa531b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/320fff6b-4b12-5041-9170-788094aa531b)
 

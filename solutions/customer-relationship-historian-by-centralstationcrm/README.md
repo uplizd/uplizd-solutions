@@ -10,5 +10,5 @@ Automatically track and document all customer interactions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Relationship Historian'](https://uplizd.ai/solutions/991a1123-a134-5409-a511-2001d8f74f00)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/991a1123-a134-5409-a511-2001d8f74f00)
 

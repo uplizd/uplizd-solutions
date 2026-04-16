@@ -10,5 +10,5 @@ Automate contract creation, routing, and tracking from CRM to signature
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contract Automation Agent'](https://uplizd.ai/solutions/bd4d8afb-7ae2-5598-a63b-fe96e875985c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bd4d8afb-7ae2-5598-a63b-fe96e875985c)
 

@@ -10,5 +10,5 @@ Convert leads faster with automated immediate follow-up
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Instant Lead Response Manager'](https://uplizd.ai/solutions/3e00d0d0-ede0-519c-bc89-e3807be8ed73)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3e00d0d0-ede0-519c-bc89-e3807be8ed73)
 

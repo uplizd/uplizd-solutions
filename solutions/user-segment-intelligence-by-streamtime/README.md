@@ -10,5 +10,5 @@ Smart analysis of user segments and behavioral patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'User Segment Intelligence'](https://uplizd.ai/solutions/276466e4-0eb7-5924-8b84-c8c30a1e85ce)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/276466e4-0eb7-5924-8b84-c8c30a1e85ce)
 

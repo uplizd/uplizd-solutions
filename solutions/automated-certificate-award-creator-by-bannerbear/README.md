@@ -12,7 +12,7 @@ The Automated Certificate Award Creator (Uplizd) is an intelligent workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d92da89-6e1f-5a84-af96-e3760c4e376a)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8d92da89-6e1f-5a84-af96-e3760c4e376a)
 
 ---
 

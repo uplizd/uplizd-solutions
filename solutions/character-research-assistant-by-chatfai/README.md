@@ -12,7 +12,7 @@ The Character Research Assistant is an AI-powered workflow designed to streamlin
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e14a6b6-f3a2-5d87-b2fb-9352ea791454)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6e14a6b6-f3a2-5d87-b2fb-9352ea791454)
 
 ---
 

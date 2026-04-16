@@ -12,7 +12,7 @@ The Communication Security Guardian is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/221fb43f-62ef-52a3-bd88-83ced1727480)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/221fb43f-62ef-52a3-bd88-83ced1727480)
 
 ---
 

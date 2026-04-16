@@ -10,5 +10,5 @@ Automatically chase overdue payments with personalized follow-ups
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Overdue Payment Chaser'](https://uplizd.ai/solutions/b94941b3-4f74-5789-9f84-3964abf78fe6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b94941b3-4f74-5789-9f84-3964abf78fe6)
 

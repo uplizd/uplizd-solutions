@@ -10,5 +10,5 @@ Real-time portfolio monitoring with automated alerts and performance tracking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Portfolio Health Monitor'](https://uplizd.ai/solutions/f74ea1ed-7d9c-5790-b324-56113ec78172)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f74ea1ed-7d9c-5790-b324-56113ec78172)
 

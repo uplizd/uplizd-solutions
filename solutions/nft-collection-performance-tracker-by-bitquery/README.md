@@ -10,5 +10,5 @@ Monitor NFT collection metrics and trading patterns across blockchains
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'NFT Collection Performance Tracker'](https://uplizd.ai/solutions/9c56d114-37df-547c-98e2-01f2213d4db8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c56d114-37df-547c-98e2-01f2213d4db8)
 

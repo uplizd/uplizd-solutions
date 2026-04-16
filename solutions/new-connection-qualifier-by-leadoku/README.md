@@ -10,5 +10,5 @@ Automatically qualify and prioritize new connections from your growth campaigns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'New Connection Qualifier'](https://uplizd.ai/solutions/969b77b7-a032-5bcc-a698-2e263036b842)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/969b77b7-a032-5bcc-a698-2e263036b842)
 

@@ -10,5 +10,5 @@ Automatically backup critical multimedia content from external sources
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Content Backup Guardian'](https://uplizd.ai/solutions/f4b8a9cd-d1cc-545d-b18a-e08abf2228bc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f4b8a9cd-d1cc-545d-b18a-e08abf2228bc)
 

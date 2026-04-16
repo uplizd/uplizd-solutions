@@ -12,7 +12,7 @@ The Channel Performance Optimizer (Uplizd) is an AI-powered workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9a6aeae5-0bc5-5e37-b0de-448da2a9e54e)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9a6aeae5-0bc5-5e37-b0de-448da2a9e54e)
 
 ---
 

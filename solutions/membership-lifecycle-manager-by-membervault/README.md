@@ -10,5 +10,5 @@ Manage member enrollments and removals based on subscription status
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Membership Lifecycle Manager'](https://uplizd.ai/solutions/d27fba7b-3e55-53f6-9b11-f5ff2d5a33cd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d27fba7b-3e55-53f6-9b11-f5ff2d5a33cd)
 

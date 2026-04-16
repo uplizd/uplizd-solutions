@@ -14,7 +14,7 @@ A Uplizd AI workflow specifically engineered to clean, standardize, and enrich i
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/af99d55b-7952-5efc-9dab-115a8ca3a4b6)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/af99d55b-7952-5efc-9dab-115a8ca3a4b6)
 
 ---
 ## Who is this for?

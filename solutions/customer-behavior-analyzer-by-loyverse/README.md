@@ -10,5 +10,5 @@ Transform customer data into actionable business insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Behavior Analyzer'](https://uplizd.ai/solutions/d3647fc8-80ed-5299-b8d6-5ff212db3bb7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d3647fc8-80ed-5299-b8d6-5ff212db3bb7)
 

@@ -10,5 +10,5 @@ Create engaging Instagram posts with AI-generated content and image prompts, str
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Instagram Copywriter'](https://uplizd.ai/solutions/f7694557-4322-56ac-8485-eee3c5198d5b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f7694557-4322-56ac-8485-eee3c5198d5b)
 

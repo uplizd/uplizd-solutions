@@ -10,5 +10,5 @@ Automated portfolio tracking and performance analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Portfolio Performance Monitor'](https://uplizd.ai/solutions/2ad614ad-45fe-59db-8317-b3b92beab7fb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2ad614ad-45fe-59db-8317-b3b92beab7fb)
 

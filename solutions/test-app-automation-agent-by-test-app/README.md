@@ -10,5 +10,5 @@ Automate your test app workflows with intelligent action sequencing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Test App Automation Agent'](https://uplizd.ai/solutions/8a9ebc6b-cdcb-5fc2-ba76-cf234eca677a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8a9ebc6b-cdcb-5fc2-ba76-cf234eca677a)
 

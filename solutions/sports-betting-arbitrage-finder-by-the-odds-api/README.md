@@ -10,5 +10,5 @@ Identify guaranteed profit opportunities across multiple bookmakers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sports Betting Arbitrage Finder'](https://uplizd.ai/solutions/a43f823b-97e3-53b5-856b-f58d7e421943)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a43f823b-97e3-53b5-856b-f58d7e421943)
 

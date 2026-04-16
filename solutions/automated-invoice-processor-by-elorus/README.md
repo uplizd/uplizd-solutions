@@ -12,7 +12,7 @@ The Automated Invoice Processor by Elorus is an intelligent Uplizd workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ab2d1a20-93ca-5aa6-8655-af947326d55e)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ab2d1a20-93ca-5aa6-8655-af947326d55e)
 
 ---
 

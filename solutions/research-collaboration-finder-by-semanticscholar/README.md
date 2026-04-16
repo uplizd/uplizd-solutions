@@ -10,5 +10,5 @@ Discover potential research collaborators based on publication history and exper
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Research Collaboration Finder'](https://uplizd.ai/solutions/eaee9a97-8817-569a-84f4-b20487eeeddc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/eaee9a97-8817-569a-84f4-b20487eeeddc)
 

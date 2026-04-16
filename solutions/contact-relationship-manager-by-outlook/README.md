@@ -10,5 +10,5 @@ Intelligently organize and maintain professional contacts with automated relatio
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contact Relationship Manager'](https://uplizd.ai/solutions/ccdb72a7-4c4c-5bc4-8126-175b8f8e8824)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ccdb72a7-4c4c-5bc4-8126-175b8f8e8824)
 

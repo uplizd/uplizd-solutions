@@ -10,5 +10,5 @@ Automated role compliance and permission tracking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Role & Permission Auditor'](https://uplizd.ai/solutions/b4737aee-325d-5ada-bd2a-70b4ca934208)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b4737aee-325d-5ada-bd2a-70b4ca934208)
 

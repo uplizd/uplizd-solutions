@@ -10,5 +10,5 @@ Track and optimize the complete attendee experience across multiple events
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event User Journey Mapper'](https://uplizd.ai/solutions/a3290157-908e-5bcc-b8bd-217db59a9253)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a3290157-908e-5bcc-b8bd-217db59a9253)
 

@@ -10,5 +10,5 @@ Streamline new employee setup in QuickBooks
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Employee Onboarding Assistant'](https://uplizd.ai/solutions/a8f50c6d-931e-5853-9081-78c2e23290ef)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a8f50c6d-931e-5853-9081-78c2e23290ef)
 

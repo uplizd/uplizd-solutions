@@ -10,5 +10,5 @@ Analyze proposal performance and recommend template improvements
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Template Performance Optimizer'](https://uplizd.ai/solutions/59a6ff65-b352-5db0-b4ce-6aff5e20369d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/59a6ff65-b352-5db0-b4ce-6aff5e20369d)
 

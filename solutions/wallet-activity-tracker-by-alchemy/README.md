@@ -10,5 +10,5 @@ Comprehensive wallet monitoring and transaction analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Wallet Activity Tracker'](https://uplizd.ai/solutions/2d197640-844c-5f7b-80eb-4a92f71415a8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2d197640-844c-5f7b-80eb-4a92f71415a8)
 

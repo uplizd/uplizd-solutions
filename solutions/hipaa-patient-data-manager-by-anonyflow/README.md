@@ -10,5 +10,5 @@ Ensure HIPAA compliance when sharing patient data across healthcare systems
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'HIPAA Patient Data Manager'](https://uplizd.ai/solutions/35e7e6b2-7737-5590-96ad-2a7aab3cf6ba)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/35e7e6b2-7737-5590-96ad-2a7aab3cf6ba)
 

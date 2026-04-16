@@ -10,5 +10,5 @@ Instantly retrieve customer order history and status
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Order Assistant'](https://uplizd.ai/solutions/963fa52d-a680-5f14-925c-4512cbdd3ad8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/963fa52d-a680-5f14-925c-4512cbdd3ad8)
 

@@ -10,5 +10,5 @@ Automatically extract prospect data from LinkedIn and company websites
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Data Extractor'](https://uplizd.ai/solutions/22235d69-8558-5055-9b27-c0934a062c68)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/22235d69-8558-5055-9b27-c0934a062c68)
 

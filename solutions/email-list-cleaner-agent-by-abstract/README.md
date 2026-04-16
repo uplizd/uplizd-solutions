@@ -10,5 +10,5 @@ Automatically clean and score email lists for marketing campaigns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Email List Cleaner Agent'](https://uplizd.ai/solutions/d06f58a5-4d62-5759-8cc8-a9823eba966a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d06f58a5-4d62-5759-8cc8-a9823eba966a)
 

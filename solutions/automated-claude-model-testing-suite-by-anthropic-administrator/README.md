@@ -12,7 +12,7 @@ The Automated Claude Model Testing Suite is an intelligent Uplizd workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDTAQ6Y4Y6QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABCSURBVEjHY2AYBaNgFIyCUUAK+A8DAwAABAAAEyX61gAAAABJRU5ErkJggg==)](https://uplizd.ai/solutions/f7eaa060-1583-5c0e-8dc8-1cf19a32ca54)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f7eaa060-1583-5c0e-8dc8-1cf19a32ca54)
 
 ---
 

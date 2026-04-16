@@ -10,5 +10,5 @@ Automated research for high-quality content creation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Content Research Specialist'](https://uplizd.ai/solutions/e2f8b498-4178-53fe-946b-43e8dbef9924)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e2f8b498-4178-53fe-946b-43e8dbef9924)
 

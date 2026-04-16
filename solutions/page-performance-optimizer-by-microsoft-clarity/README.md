@@ -10,5 +10,5 @@ Identify and prioritize page optimization opportunities based on user behavior
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Page Performance Optimizer'](https://uplizd.ai/solutions/049cf1f5-fa88-5e8e-aeaf-44d76275f9e1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/049cf1f5-fa88-5e8e-aeaf-44d76275f9e1)
 

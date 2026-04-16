@@ -10,5 +10,5 @@ Optimize delivery routes and track business locations automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Delivery Route Optimizer'](https://uplizd.ai/solutions/1e08b884-c946-52b3-ba12-33a01f7f62e4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1e08b884-c946-52b3-ba12-33a01f7f62e4)
 

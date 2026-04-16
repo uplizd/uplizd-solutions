@@ -12,7 +12,7 @@ The Automated Welcome Email Sequence is an intelligent Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f5c49a4d-72ed-5a6b-abbe-f9d5d89fd2cb)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f5c49a4d-72ed-5a6b-abbe-f9d5d89fd2cb)
 
 ---
 

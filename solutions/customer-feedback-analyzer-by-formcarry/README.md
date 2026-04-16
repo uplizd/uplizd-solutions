@@ -10,5 +10,5 @@ Transform form feedback into actionable product insights and automated responses
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Feedback Analyzer'](https://uplizd.ai/solutions/9f6d674a-5d0b-527d-b7e6-bbf0b6ab3717)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9f6d674a-5d0b-527d-b7e6-bbf0b6ab3717)
 

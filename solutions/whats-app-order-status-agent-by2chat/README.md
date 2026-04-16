@@ -10,5 +10,5 @@ Provide instant order updates and tracking info via WhatsApp
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'WhatsApp Order Status Agent'](https://uplizd.ai/solutions/dc403700-81ed-563e-8543-76172ac86ecb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dc403700-81ed-563e-8543-76172ac86ecb)
 

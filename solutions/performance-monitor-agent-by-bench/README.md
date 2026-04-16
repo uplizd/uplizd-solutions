@@ -10,5 +10,5 @@ Automated system performance benchmarking and alerting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Performance Monitor Agent'](https://uplizd.ai/solutions/65980fd3-56fc-5d8d-9b9a-30f07bb05604)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/65980fd3-56fc-5d8d-9b9a-30f07bb05604)
 

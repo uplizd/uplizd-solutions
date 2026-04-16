@@ -10,5 +10,5 @@ Optimize delivery routes and track fleet locations in real-time
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Delivery Route Optimizer'](https://uplizd.ai/solutions/ea2f40a8-55ed-5989-95b0-d537c35b3471)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ea2f40a8-55ed-5989-95b0-d537c35b3471)
 

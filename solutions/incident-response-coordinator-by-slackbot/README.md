@@ -10,5 +10,5 @@ Rapid incident escalation and team coordination during critical system issues
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Incident Response Coordinator'](https://uplizd.ai/solutions/220e43f3-4bf6-59bb-8966-be4c576815c1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/220e43f3-4bf6-59bb-8966-be4c576815c1)
 

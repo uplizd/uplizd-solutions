@@ -10,5 +10,5 @@ Automatically monitor and update project progress across teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Status Tracker'](https://uplizd.ai/solutions/972aee5c-752f-5252-846f-7376ac1efb18)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/972aee5c-752f-5252-846f-7376ac1efb18)
 

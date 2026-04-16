@@ -10,5 +10,5 @@ Automatically send personalized thank you cards after purchases or milestones
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Thank You Card Agent'](https://uplizd.ai/solutions/3f43e817-b85e-52f1-b8ab-7934712c2b07)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3f43e817-b85e-52f1-b8ab-7934712c2b07)
 

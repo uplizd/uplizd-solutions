@@ -12,7 +12,7 @@ The Brand Asset Manager by Abyssale is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfa5a7c6-044a-5a4a-929e-95d0b6184de3)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dfa5a7c6-044a-5a4a-929e-95d0b6184de3)
 
 ---
 

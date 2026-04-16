@@ -10,5 +10,5 @@ Instantly split restaurant bills and group meals
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Group Dining Splitter'](https://uplizd.ai/solutions/09c665b2-4954-5863-ab72-890575fd535d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/09c665b2-4954-5863-ab72-890575fd535d)
 

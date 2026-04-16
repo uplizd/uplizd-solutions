@@ -10,5 +10,5 @@ Automatically collect and analyze customer feedback via WhatsApp
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'WhatsApp Feedback Collector'](https://uplizd.ai/solutions/89699632-5697-537a-978a-ad4adae6eee9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/89699632-5697-537a-978a-ad4adae6eee9)
 

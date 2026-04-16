@@ -10,5 +10,5 @@ Automatically qualify and categorize incoming leads for faster follow-up
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Engine'](https://uplizd.ai/solutions/6d0c641c-98b6-5dc8-be16-6c095a7ea2af)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6d0c641c-98b6-5dc8-be16-6c095a7ea2af)
 

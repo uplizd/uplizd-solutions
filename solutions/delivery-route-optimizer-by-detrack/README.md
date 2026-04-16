@@ -10,5 +10,5 @@ Automatically optimize delivery routes and schedules for maximum efficiency
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Delivery Route Optimizer'](https://uplizd.ai/solutions/c3048ed0-f7a6-5861-ab57-53b447e38f55)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c3048ed0-f7a6-5861-ab57-53b447e38f55)
 

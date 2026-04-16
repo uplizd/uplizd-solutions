@@ -10,5 +10,5 @@ Analyzes images and categorizes them as positive, negative, or neutral using zer
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Image Sentiment Analysis'](https://uplizd.ai/solutions/88f8a4cb-0137-5022-bdec-17a5bc902ba9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/88f8a4cb-0137-5022-bdec-17a5bc902ba9)
 

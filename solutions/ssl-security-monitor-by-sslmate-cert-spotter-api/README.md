@@ -10,5 +10,5 @@ Automated SSL certificate monitoring and threat detection
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'SSL Security Monitor'](https://uplizd.ai/solutions/ce09470b-e135-533a-a765-9fbea8fb0ba2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ce09470b-e135-533a-a765-9fbea8fb0ba2)
 

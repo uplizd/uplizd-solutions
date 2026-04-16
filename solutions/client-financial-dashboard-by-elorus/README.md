@@ -12,7 +12,7 @@ The Client Financial Dashboard (Uplizd) workflow automates the aggregation and v
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6b992ec7-bac5-5ef3-8616-22dcd0cc3a56)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6b992ec7-bac5-5ef3-8616-22dcd0cc3a56)
 
 ---
 

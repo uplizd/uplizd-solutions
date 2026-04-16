@@ -10,5 +10,5 @@ Automatically qualify and score incoming leads with follow-up tasks
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Agent'](https://uplizd.ai/solutions/587aba72-c1d0-58f5-8816-60f6c1548dd2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/587aba72-c1d0-58f5-8816-60f6c1548dd2)
 

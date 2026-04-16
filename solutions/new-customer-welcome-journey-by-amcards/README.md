@@ -10,5 +10,5 @@ Create memorable first impressions with automated welcome card sequences
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'New Customer Welcome Journey'](https://uplizd.ai/solutions/9db1525e-872e-5d8f-a8e4-01744a088c51)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9db1525e-872e-5d8f-a8e4-01744a088c51)
 

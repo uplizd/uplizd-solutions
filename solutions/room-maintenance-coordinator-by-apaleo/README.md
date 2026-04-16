@@ -10,5 +10,5 @@ Coordinate room unit management and maintenance workflows
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Room Maintenance Coordinator'](https://uplizd.ai/solutions/7fba549b-9ea4-5e18-bb5d-1ced043318aa)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7fba549b-9ea4-5e18-bb5d-1ced043318aa)
 

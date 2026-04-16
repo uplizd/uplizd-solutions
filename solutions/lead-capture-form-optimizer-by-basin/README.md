@@ -10,5 +10,5 @@ Automatically optimize and manage lead capture forms across marketing campaigns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Capture Form Optimizer'](https://uplizd.ai/solutions/b1211756-503e-5ff6-92e2-b970182b1aca)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b1211756-503e-5ff6-92e2-b970182b1aca)
 

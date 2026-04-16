@@ -10,5 +10,5 @@ Proactively identify at-risk projects before deadlines are missed
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Deadline Guardian'](https://uplizd.ai/solutions/4bb89110-293d-5a1a-ad82-ba7e23d56b42)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4bb89110-293d-5a1a-ad82-ba7e23d56b42)
 

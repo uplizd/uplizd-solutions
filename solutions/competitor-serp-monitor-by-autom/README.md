@@ -12,7 +12,7 @@ The Competitor SERP Monitor is an intelligent Uplizd workflow that automates the
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-Launch%20Solution-blue)](https://uplizd.ai/solutions/9e8b2656-7cd2-5674-a5ce-ba2245e27fb1)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9e8b2656-7cd2-5674-a5ce-ba2245e27fb1)
 
 ---
 

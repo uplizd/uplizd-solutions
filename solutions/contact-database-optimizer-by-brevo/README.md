@@ -10,5 +10,5 @@ Automatically clean, organize, and enrich contact databases for better campaign 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contact Database Optimizer'](https://uplizd.ai/solutions/7b6e3c3f-95c3-5868-8694-d5bca742c7c7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7b6e3c3f-95c3-5868-8694-d5bca742c7c7)
 

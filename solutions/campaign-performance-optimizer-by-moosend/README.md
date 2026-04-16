@@ -12,7 +12,7 @@ The Campaign Performance Optimizer (Uplizd) is an AI-driven workflow that connec
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a1624457-9db5-513c-b0a1-e921503b6ef5)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a1624457-9db5-513c-b0a1-e921503b6ef5)
 
 ---
 

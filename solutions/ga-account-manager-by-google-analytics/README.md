@@ -10,5 +10,5 @@ Streamlined Google Analytics account administration and monitoring
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'GA Account Manager'](https://uplizd.ai/solutions/c8314f19-9c4a-5c93-b8d7-b0b11095227c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c8314f19-9c4a-5c93-b8d7-b0b11095227c)
 

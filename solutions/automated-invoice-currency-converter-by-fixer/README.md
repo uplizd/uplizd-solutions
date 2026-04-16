@@ -12,7 +12,7 @@ The Automated Invoice Currency Converter is an intelligent Uplizd workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AMQFA4qY54y5wAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABCSURBVEjHY2AYBaNgFIyCUUAK+P///38GgA0wGgBGA2gGgA0wGgBGA2gGgA0wGgBGA2gGgA0wGgBGA2gGgA0wGgAA0k8EAZ5jX6cAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/7e793ab0-4299-53b2-8251-716fa9862049)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7e793ab0-4299-53b2-8251-716fa9862049)
 
 ---
 

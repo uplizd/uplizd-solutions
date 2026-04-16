@@ -10,5 +10,5 @@ Automate timely course communications and reminders
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Announcement Scheduler'](https://uplizd.ai/solutions/0229800e-c704-5ce3-b4e6-b2506e5cf6ac)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0229800e-c704-5ce3-b4e6-b2506e5cf6ac)
 

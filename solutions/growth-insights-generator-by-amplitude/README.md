@@ -10,5 +10,5 @@ Generate actionable growth insights from user behavior patterns and cohort analy
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Growth Insights Generator'](https://uplizd.ai/solutions/f65a0967-4fb6-53aa-9747-0735430970b7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f65a0967-4fb6-53aa-9747-0735430970b7)
 

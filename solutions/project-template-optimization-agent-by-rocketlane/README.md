@@ -10,5 +10,5 @@ Continuously improve project templates based on successful delivery patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Template Optimization Agent'](https://uplizd.ai/solutions/4ee84956-5fa2-516e-b26f-2046f677b789)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4ee84956-5fa2-516e-b26f-2046f677b789)
 

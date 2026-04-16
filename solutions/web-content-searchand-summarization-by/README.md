@@ -10,5 +10,5 @@ A workflow that searches web content based on a query and generates concise summ
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Web Content Search and Summarization'](https://uplizd.ai/solutions/a41b0cf4-7570-5ba9-8103-38ff5f6df2f2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a41b0cf4-7570-5ba9-8103-38ff5f6df2f2)
 

@@ -12,7 +12,7 @@ The Client Pitch Research Agent automates the discovery of prospect advertising 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue?logo=uplizd)](https://uplizd.ai/solutions/7a5d39ef-eb8f-5b6c-92a8-d85152546afc)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7a5d39ef-eb8f-5b6c-92a8-d85152546afc)
 
 ---
 

@@ -10,5 +10,5 @@ Automated competitive intelligence and market trend analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Market Research Analyst'](https://uplizd.ai/solutions/6ea172ab-93b3-52e4-bba1-91f395995443)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6ea172ab-93b3-52e4-bba1-91f395995443)
 

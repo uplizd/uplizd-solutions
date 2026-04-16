@@ -10,5 +10,5 @@ Transform data analysis into polished PDF reports instantly
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Report Publishing Agent'](https://uplizd.ai/solutions/1e93de5d-5cfc-509b-8267-da44748cb7ef)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1e93de5d-5cfc-509b-8267-da44748cb7ef)
 

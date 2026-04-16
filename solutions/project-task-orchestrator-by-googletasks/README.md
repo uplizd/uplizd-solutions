@@ -10,5 +10,5 @@ Automatically organize and track project deliverables across teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Task Orchestrator'](https://uplizd.ai/solutions/f2df0c1c-0267-5a00-9c3c-9c87383a930c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f2df0c1c-0267-5a00-9c3c-9c87383a930c)
 

@@ -10,5 +10,5 @@ Transform connection data into actionable sales intelligence and performance ins
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Connection Insights Reporter'](https://uplizd.ai/solutions/39f8d3f5-0c8a-538c-aebd-3c3601e64006)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/39f8d3f5-0c8a-538c-aebd-3c3601e64006)
 

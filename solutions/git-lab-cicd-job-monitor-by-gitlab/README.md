@@ -10,5 +10,5 @@ Monitor, analyze, and clean up CI/CD pipeline jobs automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'GitLab CI/CD Job Monitor'](https://uplizd.ai/solutions/33b30a65-7dfa-5946-b305-ea3667b49d95)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/33b30a65-7dfa-5946-b305-ea3667b49d95)
 

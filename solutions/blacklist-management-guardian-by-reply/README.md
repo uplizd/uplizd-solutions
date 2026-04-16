@@ -12,7 +12,7 @@ The Blacklist Management Guardian is an automated Uplizd workflow designed to mo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/735a528f-223d-53fd-9977-2dd9f64f1efd)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/735a528f-223d-53fd-9977-2dd9f64f1efd)
 
 ---
 

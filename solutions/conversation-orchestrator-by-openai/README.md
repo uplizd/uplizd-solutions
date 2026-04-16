@@ -10,5 +10,5 @@ Manage multi-threaded AI conversations at scale
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Conversation Orchestrator'](https://uplizd.ai/solutions/a3c502e8-7a4d-54eb-afda-9fb93e1d865b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a3c502e8-7a4d-54eb-afda-9fb93e1d865b)
 

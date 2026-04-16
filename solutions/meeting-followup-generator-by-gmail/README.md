@@ -10,5 +10,5 @@ Automatically create follow-up emails after meetings with action items
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Meeting Follow-up Generator'](https://uplizd.ai/solutions/31052c26-1087-5b11-92ad-0d6360b73897)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/31052c26-1087-5b11-92ad-0d6360b73897)
 

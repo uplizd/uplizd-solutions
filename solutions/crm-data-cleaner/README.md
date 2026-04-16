@@ -14,7 +14,7 @@ A Uplizd AI workflow designed for targeted data cleaning tasks, allowing you to 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/bc37bce1-5200-556d-a3a9-23d0f6079039)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bc37bce1-5200-556d-a3a9-23d0f6079039)
 
 ---
 ## Who is this for?

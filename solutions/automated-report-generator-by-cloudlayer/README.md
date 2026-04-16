@@ -12,7 +12,7 @@ The Automated Report Generator by Cloudlayer is an intelligent Uplizd workflow d
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1c480bde-0fcc-5f98-9401-e3923e8bf641)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1c480bde-0fcc-5f98-9401-e3923e8bf641)
 
 ---
 

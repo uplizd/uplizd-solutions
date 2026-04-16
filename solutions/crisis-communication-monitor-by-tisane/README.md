@@ -10,5 +10,5 @@ Monitor and analyze public sentiment during crisis situations across multiple la
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Crisis Communication Monitor'](https://uplizd.ai/solutions/a017502c-14d1-5fe7-a0ba-f16e9a23c4b0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a017502c-14d1-5fe7-a0ba-f16e9a23c4b0)
 

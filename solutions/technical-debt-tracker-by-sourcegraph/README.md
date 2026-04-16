@@ -10,5 +10,5 @@ Continuous monitoring and prioritization of technical debt across codebases
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Technical Debt Tracker'](https://uplizd.ai/solutions/602b6f34-f096-5ca0-aa0d-28cc4dbee10c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/602b6f34-f096-5ca0-aa0d-28cc4dbee10c)
 

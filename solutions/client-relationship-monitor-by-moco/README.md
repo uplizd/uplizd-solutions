@@ -12,7 +12,7 @@ The Client Relationship Monitor is an intelligent Uplizd workflow designed to tr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c2fa0da-7057-5e8a-b885-ab058ac742aa)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5c2fa0da-7057-5e8a-b885-ab058ac742aa)
 
 ---
 

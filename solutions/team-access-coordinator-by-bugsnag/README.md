@@ -10,5 +10,5 @@ Streamline team member onboarding and access management across Bugsnag projects
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Access Coordinator'](https://uplizd.ai/solutions/edf732f9-82f4-5c03-a7e2-3c5797250928)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/edf732f9-82f4-5c03-a7e2-3c5797250928)
 

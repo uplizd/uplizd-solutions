@@ -10,5 +10,5 @@ Streamline DNS management with automated zone and record operations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DNS Zone Orchestrator'](https://uplizd.ai/solutions/c1bd5991-9a56-5f13-a4f0-63d5c5b73c39)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c1bd5991-9a56-5f13-a4f0-63d5c5b73c39)
 

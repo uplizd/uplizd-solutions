@@ -10,5 +10,5 @@ Automatically clean and organize your lead database
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Cleanup Assistant'](https://uplizd.ai/solutions/ba4ae51b-3e0c-5b75-b522-bcb3b4b4060e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ba4ae51b-3e0c-5b75-b522-bcb3b4b4060e)
 

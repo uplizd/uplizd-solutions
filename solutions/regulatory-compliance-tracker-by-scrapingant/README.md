@@ -10,5 +10,5 @@ Monitor regulatory websites for compliance updates and changes
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Regulatory Compliance Tracker'](https://uplizd.ai/solutions/bd158883-d53d-508d-97c8-d839af61b652)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bd158883-d53d-508d-97c8-d839af61b652)
 

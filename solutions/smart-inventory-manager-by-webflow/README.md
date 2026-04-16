@@ -10,5 +10,5 @@ Automatically track and manage product inventory across your Webflow store
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Inventory Manager'](https://uplizd.ai/solutions/32db7b0a-0a02-5c23-a4c6-9f3ca0862caa)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/32db7b0a-0a02-5c23-a4c6-9f3ca0862caa)
 

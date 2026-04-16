@@ -10,5 +10,5 @@ Instantly spin up crisis communication channels when incidents occur
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Incident Response Coordinator'](https://uplizd.ai/solutions/61d6971a-8cce-5b55-8552-499586cc1dae)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/61d6971a-8cce-5b55-8552-499586cc1dae)
 

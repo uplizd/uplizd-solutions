@@ -10,5 +10,5 @@ Monitor and maintain data compliance by automatically removing records that viol
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Data Compliance Auditor'](https://uplizd.ai/solutions/9c779999-46b7-586f-9607-b42c9285bcf6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c779999-46b7-586f-9607-b42c9285bcf6)
 

@@ -10,5 +10,5 @@ Intelligent monitoring setup based on application patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Monitoring Configurator'](https://uplizd.ai/solutions/9c3794f6-9019-5d29-bb50-67cc85602872)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c3794f6-9019-5d29-bb50-67cc85602872)
 

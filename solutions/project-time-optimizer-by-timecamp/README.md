@@ -10,5 +10,5 @@ Automatically analyze project time allocation to maximize profitability
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Time Optimizer'](https://uplizd.ai/solutions/6263135f-8334-5daa-97d8-e48b4b714645)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6263135f-8334-5daa-97d8-e48b4b714645)
 

@@ -12,7 +12,7 @@ The Candidate Background Check Tracker is an intelligent Uplizd AI workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f3010e4b-e50d-5fae-bb60-64a18ca0b08c)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f3010e4b-e50d-5fae-bb60-64a18ca0b08c)
 
 ---
 

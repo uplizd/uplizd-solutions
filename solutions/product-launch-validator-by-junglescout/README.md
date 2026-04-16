@@ -10,5 +10,5 @@ Validate product ideas before investing in inventory
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Launch Validator'](https://uplizd.ai/solutions/4083ca56-a78f-5252-97c8-0f72c23cf618)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4083ca56-a78f-5252-97c8-0f72c23cf618)
 

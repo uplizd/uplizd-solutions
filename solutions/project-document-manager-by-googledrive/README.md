@@ -10,5 +10,5 @@ Automatically organize and share project documents with stakeholders
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Document Manager'](https://uplizd.ai/solutions/47d76743-7d7c-58c5-8067-cebd017cdca5)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/47d76743-7d7c-58c5-8067-cebd017cdca5)
 

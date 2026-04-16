@@ -10,5 +10,5 @@ Automatically update knowledge articles based on resolved incidents
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Knowledge Base Auto-Updater'](https://uplizd.ai/solutions/db6acbd6-a5a8-5b07-b1a9-97e63fdc2463)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/db6acbd6-a5a8-5b07-b1a9-97e63fdc2463)
 

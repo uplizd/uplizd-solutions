@@ -10,5 +10,5 @@ Track and analyze customer engagement during product launches
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Launch Analytics Agent'](https://uplizd.ai/solutions/1232769a-b711-5749-a92c-75d24b1e5594)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1232769a-b711-5749-a92c-75d24b1e5594)
 

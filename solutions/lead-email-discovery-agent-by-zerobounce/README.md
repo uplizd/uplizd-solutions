@@ -10,5 +10,5 @@ Find and verify prospect email addresses automatically from company domains
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Email Discovery Agent'](https://uplizd.ai/solutions/d53a57ba-df5f-5080-8b6e-6fac275a97af)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d53a57ba-df5f-5080-8b6e-6fac275a97af)
 

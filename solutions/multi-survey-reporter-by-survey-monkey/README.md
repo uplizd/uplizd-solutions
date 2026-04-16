@@ -10,5 +10,5 @@ Consolidate data from multiple surveys into comprehensive cross-analysis reports
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-Survey Reporter'](https://uplizd.ai/solutions/58363615-b681-5882-a19c-cfedeccc452f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/58363615-b681-5882-a19c-cfedeccc452f)
 

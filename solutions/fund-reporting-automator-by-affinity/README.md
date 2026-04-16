@@ -10,5 +10,5 @@ Streamlined LP reporting with automated data compilation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Fund Reporting Automator'](https://uplizd.ai/solutions/ee6aee62-9969-5259-b341-ba94d6a58e60)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ee6aee62-9969-5259-b341-ba94d6a58e60)
 

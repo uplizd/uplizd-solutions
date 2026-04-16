@@ -12,7 +12,7 @@ The Campaign Enrollment Agent is an intelligent automation workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d11f2d0-0c3a-5643-9aa7-f552a0bcf565)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2d11f2d0-0c3a-5643-9aa7-f552a0bcf565)
 
 ---
 

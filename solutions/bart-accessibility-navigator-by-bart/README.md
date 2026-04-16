@@ -12,7 +12,7 @@ The BART Accessibility Navigator is an intelligent Uplizd workflow designed to p
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/87a1d4d9-4c40-5e5d-8ca1-11f567e1f56b)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/87a1d4d9-4c40-5e5d-8ca1-11f567e1f56b)
 
 ---
 

@@ -12,7 +12,7 @@ The Code Security Auditor by Uplizd provides an automated workflow to scan, iden
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/04f2264f-ea9a-576b-9ec4-d54954a8adf0)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/04f2264f-ea9a-576b-9ec4-d54954a8adf0)
 
 ---
 

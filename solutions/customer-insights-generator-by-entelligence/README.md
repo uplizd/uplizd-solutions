@@ -10,5 +10,5 @@ Uncover hidden customer patterns and preferences from multiple data sources
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Insights Generator'](https://uplizd.ai/solutions/847e6791-de2d-594b-bbfc-acf558c2f522)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/847e6791-de2d-594b-bbfc-acf558c2f522)
 

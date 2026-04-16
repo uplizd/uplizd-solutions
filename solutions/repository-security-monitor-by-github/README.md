@@ -10,5 +10,5 @@ Continuously monitor and manage repository security settings
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Repository Security Monitor'](https://uplizd.ai/solutions/cb1dd660-c590-5374-bb31-9dd02eb0421e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cb1dd660-c590-5374-bb31-9dd02eb0421e)
 

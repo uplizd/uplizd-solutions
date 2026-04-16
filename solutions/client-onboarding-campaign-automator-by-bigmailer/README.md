@@ -12,7 +12,7 @@ The Client Onboarding Campaign Automator is an intelligent Uplizd workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIGFh0vJ2K7nQAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lP726HAAAAJUlEQVQ4y2P8z8AARkBhcBIM+P8fA5gYGBgYGBgYGBgYGBgYAACH8gP165566AAAAABJRU5ErkJggg==)](https://uplizd.ai/solutions/27ab4626-0281-543c-884e-3c280cb7225c)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/27ab4626-0281-543c-884e-3c280cb7225c)
 
 ---
 

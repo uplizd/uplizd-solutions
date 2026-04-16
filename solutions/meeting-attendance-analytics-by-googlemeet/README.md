@@ -10,5 +10,5 @@ Track and analyze meeting attendance patterns to optimize team engagement
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Meeting Attendance Analytics'](https://uplizd.ai/solutions/244eb3a6-ead5-53cc-a609-e77d2859153a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/244eb3a6-ead5-53cc-a609-e77d2859153a)
 

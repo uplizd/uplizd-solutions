@@ -12,7 +12,7 @@ The Build Failure Detective is an intelligent Uplizd AI workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36cf73f8-1e85-5de5-9432-96356db3c25e)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/36cf73f8-1e85-5de5-9432-96356db3c25e)
 
 ---
 

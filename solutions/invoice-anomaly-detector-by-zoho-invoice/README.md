@@ -10,5 +10,5 @@ Detect unusual patterns and potential errors in invoicing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Anomaly Detector'](https://uplizd.ai/solutions/f579f900-ea7a-54e0-bc1c-ed6aafaa461c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f579f900-ea7a-54e0-bc1c-ed6aafaa461c)
 

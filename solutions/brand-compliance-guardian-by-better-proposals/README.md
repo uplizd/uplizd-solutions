@@ -12,7 +12,7 @@ The Brand Compliance Guardian is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDwc549419QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABCSURBVEjHY2AYBaNgFIyCUUAKwP///z8DkYABxP8H8P8/A5GAAcT/B/D/PyMRgAHE/wfw/z8jkYABxP8H8P8/IxEAAK68D/G/2/4AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/01101e1a-574b-5583-a8dd-9018b26fd484)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/01101e1a-574b-5583-a8dd-9018b26fd484)
 
 ---
 

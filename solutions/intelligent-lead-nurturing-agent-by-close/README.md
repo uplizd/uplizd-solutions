@@ -10,5 +10,5 @@ Automatically nurture cold leads with personalized touchpoints and content
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Intelligent Lead Nurturing Agent'](https://uplizd.ai/solutions/1e7f351b-0d7c-5012-951c-117a171a75fd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1e7f351b-0d7c-5012-951c-117a171a75fd)
 

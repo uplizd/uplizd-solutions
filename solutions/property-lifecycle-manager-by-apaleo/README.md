@@ -10,5 +10,5 @@ Manage property status changes and archival processes
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Property Lifecycle Manager'](https://uplizd.ai/solutions/948d37be-8534-5a87-aeb1-2b7f2f5e2abe)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/948d37be-8534-5a87-aeb1-2b7f2f5e2abe)
 

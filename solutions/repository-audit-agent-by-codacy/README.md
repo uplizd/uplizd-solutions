@@ -10,5 +10,5 @@ Comprehensive code repository auditing and compliance checking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Repository Audit Agent'](https://uplizd.ai/solutions/1cdf0084-453d-50dd-a253-a9bd82ef618c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1cdf0084-453d-50dd-a253-a9bd82ef618c)
 

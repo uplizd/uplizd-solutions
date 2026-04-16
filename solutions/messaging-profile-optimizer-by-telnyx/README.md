@@ -10,5 +10,5 @@ Intelligent messaging profile management and carrier optimization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Messaging Profile Optimizer'](https://uplizd.ai/solutions/5c335b35-3160-5466-92e0-2522a1609ed9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5c335b35-3160-5466-92e0-2522a1609ed9)
 

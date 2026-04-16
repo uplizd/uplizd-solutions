@@ -10,5 +10,5 @@ Automate SMS customer support with intelligent responses
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'SMS Customer Support Agent'](https://uplizd.ai/solutions/02441e73-4ea8-52db-9934-b5234791b0a0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/02441e73-4ea8-52db-9934-b5234791b0a0)
 

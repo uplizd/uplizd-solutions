@@ -10,5 +10,5 @@ Automate comprehensive literature reviews with AI-powered paper discovery and an
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Literature Review Assistant'](https://uplizd.ai/solutions/8d1724b0-d821-5f66-a3b9-a3e8491917df)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8d1724b0-d821-5f66-a3b9-a3e8491917df)
 

@@ -10,5 +10,5 @@ Intelligently assign and optimize task distribution
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Task Workflow Optimizer'](https://uplizd.ai/solutions/4ea3aa00-f0ee-5230-9748-7f2a3a6877bd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4ea3aa00-f0ee-5230-9748-7f2a3a6877bd)
 

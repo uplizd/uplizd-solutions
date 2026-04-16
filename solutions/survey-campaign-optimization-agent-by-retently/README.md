@@ -10,5 +10,5 @@ Optimize survey timing and targeting based on customer behavior and response pat
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Survey Campaign Optimization Agent'](https://uplizd.ai/solutions/68ee1a0c-5e40-56fc-8c82-d1ae48a96ba0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/68ee1a0c-5e40-56fc-8c82-d1ae48a96ba0)
 

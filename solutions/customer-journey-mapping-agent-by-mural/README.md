@@ -10,5 +10,5 @@ Automatically create and update customer journey maps from research data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Journey Mapping Agent'](https://uplizd.ai/solutions/6bfa0e92-77da-56ca-977b-f070526dc2c7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6bfa0e92-77da-56ca-977b-f070526dc2c7)
 

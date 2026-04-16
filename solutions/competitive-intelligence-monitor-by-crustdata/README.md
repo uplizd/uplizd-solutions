@@ -12,7 +12,7 @@ The Competitive Intelligence Monitor by Crustdata is an automated AI workflow de
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/20c9fa0f-f107-5db5-9426-54d36269d35d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/20c9fa0f-f107-5db5-9426-54d36269d35d)
 
 ---
 

@@ -10,5 +10,5 @@ Send personalized physical postcards to win back churned customers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Retention Postcard Campaign'](https://uplizd.ai/solutions/82db18f2-2072-5e1e-806d-9626842f53a2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/82db18f2-2072-5e1e-806d-9626842f53a2)
 

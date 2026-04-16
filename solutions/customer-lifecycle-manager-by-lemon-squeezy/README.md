@@ -10,5 +10,5 @@ Automatically track and optimize customer journeys from first purchase to renewa
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Lifecycle Manager'](https://uplizd.ai/solutions/5915baa2-cbfa-59c2-a538-0fe8eb1877cd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5915baa2-cbfa-59c2-a538-0fe8eb1877cd)
 

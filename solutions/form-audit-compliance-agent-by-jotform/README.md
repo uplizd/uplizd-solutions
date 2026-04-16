@@ -10,5 +10,5 @@ Automated compliance monitoring for form data collection
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Form Audit & Compliance Agent'](https://uplizd.ai/solutions/598e2d98-93be-5533-ac71-4c988c67e32c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/598e2d98-93be-5533-ac71-4c988c67e32c)
 

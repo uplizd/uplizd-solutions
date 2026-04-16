@@ -10,5 +10,5 @@ Automated processing and routing of DPD2 webhook notifications
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DPD2 Webhook Event Processor'](https://uplizd.ai/solutions/a858992b-5acc-5a79-892c-585abefc70df)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a858992b-5acc-5a79-892c-585abefc70df)
 

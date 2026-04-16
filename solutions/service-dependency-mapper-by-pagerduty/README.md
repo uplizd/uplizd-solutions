@@ -10,5 +10,5 @@ Automatically map and manage service dependencies for better incident impact ass
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Service Dependency Mapper'](https://uplizd.ai/solutions/49d8514d-f5dc-5424-816e-0e0b110b1629)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/49d8514d-f5dc-5424-816e-0e0b110b1629)
 

@@ -10,5 +10,5 @@ Create personalized video messages at scale for high-converting sales outreach
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Personalized Video Sales Outreach Agent'](https://uplizd.ai/solutions/d1abf9cf-8383-5f65-b562-d0ae4de3da5b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d1abf9cf-8383-5f65-b562-d0ae4de3da5b)
 

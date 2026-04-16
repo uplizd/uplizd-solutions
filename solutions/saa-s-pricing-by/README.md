@@ -10,5 +10,5 @@ Calculate SaaS subscription price based on costs, profit margin, and subscribers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'SaaS Pricing'](https://uplizd.ai/solutions/32b4bdec-42ea-5b1f-9b60-e30917727438)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/32b4bdec-42ea-5b1f-9b60-e30917727438)
 

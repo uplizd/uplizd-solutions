@@ -10,5 +10,5 @@ Track job postings and salary trends across multiple job boards automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Job Market Intelligence Agent'](https://uplizd.ai/solutions/68e67f64-ca88-5d21-80c6-f861a584c803)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/68e67f64-ca88-5d21-80c6-f861a584c803)
 

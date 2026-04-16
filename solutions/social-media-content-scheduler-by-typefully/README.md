@@ -10,5 +10,5 @@ Automatically schedule and manage your social media content pipeline
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Media Content Scheduler'](https://uplizd.ai/solutions/19b8dd9c-167d-5aeb-822e-eb831c4db069)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/19b8dd9c-167d-5aeb-822e-eb831c4db069)
 

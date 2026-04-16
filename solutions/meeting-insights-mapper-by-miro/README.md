@@ -10,5 +10,5 @@ Transform meeting transcripts into visual mind maps and action item boards
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Meeting Insights Mapper'](https://uplizd.ai/solutions/4d7aec85-5555-56c3-87ba-6dee9430c8eb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4d7aec85-5555-56c3-87ba-6dee9430c8eb)
 

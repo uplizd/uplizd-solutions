@@ -10,5 +10,5 @@ Provide instant customer support through Facebook Messenger conversations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Facebook Messenger Support Agent'](https://uplizd.ai/solutions/7550e8b7-f02d-52e3-8ebc-6f03a072cd2d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7550e8b7-f02d-52e3-8ebc-6f03a072cd2d)
 

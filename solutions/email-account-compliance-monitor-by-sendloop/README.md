@@ -10,5 +10,5 @@ Ensure email marketing stays within platform limits and best practices
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Email Account Compliance Monitor'](https://uplizd.ai/solutions/323d833a-9c8b-580b-a208-764cbdc926cb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/323d833a-9c8b-580b-a208-764cbdc926cb)
 

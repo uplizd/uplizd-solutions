@@ -12,7 +12,7 @@ The Astronomy Event Tracker is an automated Uplizd AI workflow that monitors NAS
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4b60c942-e2ed-5c75-a0aa-bcfae1b0d29f)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4b60c942-e2ed-5c75-a0aa-bcfae1b0d29f)
 
 ---
 

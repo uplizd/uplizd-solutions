@@ -10,5 +10,5 @@ Smart audience segmentation and behavioral insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'GA Audience Intelligence Agent'](https://uplizd.ai/solutions/037a7587-f6ff-52f6-bf32-d18a08c6194f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/037a7587-f6ff-52f6-bf32-d18a08c6194f)
 

@@ -12,7 +12,7 @@ The Action Item Cleanup Agent is an intelligent workflow designed to streamline 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/eadfb174-717a-51a9-bfbb-47a6ebeb70a3)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/eadfb174-717a-51a9-bfbb-47a6ebeb70a3)
 
 ---
 

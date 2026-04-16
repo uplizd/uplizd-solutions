@@ -12,7 +12,7 @@ The Campaign Audit Reporter is an intelligent Uplizd workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9e5d39ea-eba2-514c-8b8c-a436b421b733)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9e5d39ea-eba2-514c-8b8c-a436b421b733)
 
 ---
 

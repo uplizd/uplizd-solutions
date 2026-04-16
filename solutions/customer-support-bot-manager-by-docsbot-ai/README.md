@@ -10,5 +10,5 @@ Automatically deploy and manage AI support bots trained on your documentation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Support Bot Manager'](https://uplizd.ai/solutions/a81ce993-db9a-5183-9d8b-2f89a88d2153)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a81ce993-db9a-5183-9d8b-2f89a88d2153)
 

@@ -10,5 +10,5 @@ Automatically track and visualize sales team performance across all metrics
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sales Performance Tracker'](https://uplizd.ai/solutions/24932051-273a-5d90-8f19-104172d083de)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/24932051-273a-5d90-8f19-104172d083de)
 

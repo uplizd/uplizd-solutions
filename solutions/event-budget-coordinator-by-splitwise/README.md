@@ -10,5 +10,5 @@ Coordinate and track expenses for group events and parties
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Budget Coordinator'](https://uplizd.ai/solutions/cdaa7f12-e33b-5994-a358-98220ff4f4fd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cdaa7f12-e33b-5994-a358-98220ff4f4fd)
 

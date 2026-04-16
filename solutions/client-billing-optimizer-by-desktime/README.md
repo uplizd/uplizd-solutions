@@ -12,7 +12,7 @@ The Client Billing Optimizer is an intelligent Uplizd workflow that bridges the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDSEq5f3z/QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcQAAABJklEQVR42mP8z8AARsDExAQmYGRkZJgAEjD+Z2AA4v9/Bv///2f4z8AAxP//Gf4zMAAx/mdgAOL/fwb///9n+M/AAAT7nwEDEP//Z/jPwADE/58BAxD//2f4z8AAxP+fAQMQ//9n+M/AAAT/nwEDEP//Z/jPwADE/58BAxD//2f4z8AAxP+fAQMQ//9n+M/AAAT/nwEDEP//Z/jPwADE/58BAxD//2f4z8AAxP+fAQMQ//9n+M/AAAT/nwEDEP//Z/jPwADE/58BAxD//2f4z8AAxP+fAQMQ//9n+M/AAAT/nwEDEP//Z/jPwADE/58BAxD//2f4z8AAxP+fAQMQ//9n+M/AAAT/nwEDEP//Z/jPwADE/58BAxD//2f4z8AAxP+fAQMQ//9n+M/AAAT/nwEDEP//Z/jPwADE/58BAP+1g4H+5/91AAAAAElFTkSuQmCC)](https://uplizd.ai/solutions/557b3bca-8501-569f-9f30-6c775a72400d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/557b3bca-8501-569f-9f30-6c775a72400d)
 
 ---
 

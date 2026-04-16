@@ -12,7 +12,7 @@ The Automated Bill Processing Agent is an intelligent workflow designed to elimi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-5a3c1396--38a9--5790--9cbf--5434b63c4d0d-blue)](https://uplizd.ai/solutions/5a3c1396-38a9-5790-9cbf-5434b63c4d0d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5a3c1396-38a9-5790-9cbf-5434b63c4d0d)
 
 ---
 

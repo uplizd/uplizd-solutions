@@ -12,7 +12,7 @@ The Account Research Assistant by ZoomInfo is an intelligent Uplizd workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a6568608-31e0-5b35-9820-a94ee566d404)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a6568608-31e0-5b35-9820-a94ee566d404)
 
 ---
 

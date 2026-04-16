@@ -10,5 +10,5 @@ Audit and report on LaunchDarkly project configurations across environments
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Environment Auditor'](https://uplizd.ai/solutions/c4f46804-99e5-5ac7-ac8d-4dd698c6ae4f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c4f46804-99e5-5ac7-ac8d-4dd698c6ae4f)
 

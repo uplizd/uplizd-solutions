@@ -12,7 +12,7 @@ The App Performance Monitor (Uplizd) is an intelligent AI workflow designed to p
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfaf8c25-0077-5958-86a5-b34930748354)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dfaf8c25-0077-5958-86a5-b34930748354)
 
 ---
 

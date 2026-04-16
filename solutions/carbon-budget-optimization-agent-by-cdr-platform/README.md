@@ -12,7 +12,7 @@ The Carbon Budget Optimization Agent is an intelligent workflow designed to help
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/605050cd-fbb3-5613-b126-43764f7c488e)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/605050cd-fbb3-5613-b126-43764f7c488e)
 
 ---
 

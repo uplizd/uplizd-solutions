@@ -10,5 +10,5 @@ Run multiple queries at once against Qdrant vector database to find exactly what
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multiple queries input with Qdrant'](https://uplizd.ai/solutions/e03f494a-1e67-5ca1-a55d-fa8e99819676)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e03f494a-1e67-5ca1-a55d-fa8e99819676)
 

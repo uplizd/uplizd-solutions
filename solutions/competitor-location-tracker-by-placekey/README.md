@@ -12,7 +12,7 @@ The Competitor Location Tracker by Uplizd automates the monitoring of competitor
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDTAQ6b6v9gAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAMklEQVR42mP8/5+BBAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAwMAA+sF/Qh52R0AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/832dac59-2324-5830-99d0-80c5ab64b9e2)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/832dac59-2324-5830-99d0-80c5ab64b9e2)
 
 ---
 

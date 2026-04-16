@@ -10,5 +10,5 @@ Optimize delivery routes and reduce travel time by up to 40%
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Delivery Route Optimizer'](https://uplizd.ai/solutions/3e4895d8-2380-524b-a580-1494849f7d03)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3e4895d8-2380-524b-a580-1494849f7d03)
 

@@ -12,7 +12,7 @@ The Business Proposal Generator (Uplizd) is an intelligent AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/005ac9f3-e913-5a4a-8eee-5a3e5e90f97f)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/005ac9f3-e913-5a4a-8eee-5a3e5e90f97f)
 
 ---
 

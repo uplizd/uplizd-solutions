@@ -15,7 +15,7 @@ The Content Research Assistant is an advanced Uplizd agent designed for content 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/e91b52bc-dbe5-4af2-87b3-bdd50516717f)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e91b52bc-dbe5-4af2-87b3-bdd50516717f)
 
 ---
 ## Who is this for?

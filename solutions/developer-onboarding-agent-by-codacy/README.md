@@ -10,5 +10,5 @@ Streamlined developer onboarding with automated Codacy setup
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Developer Onboarding Agent'](https://uplizd.ai/solutions/58b50ebf-17d3-5492-82ef-79477966afd0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/58b50ebf-17d3-5492-82ef-79477966afd0)
 

@@ -12,7 +12,7 @@ The ATS Resume Creator is an intelligent Uplizd workflow designed to bridge the 
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhL7c6xCQBAEATBq7wXN/9t1EIMxGIXwS0kM5ud2QAAAMB/a+2111577bXX/n8H7K211lprr7323gH7A210V1874h4AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/53ec0944-13fe-5cc1-b522-d22de76424f0)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/53ec0944-13fe-5cc1-b522-d22de76424f0)
 
 ---
 

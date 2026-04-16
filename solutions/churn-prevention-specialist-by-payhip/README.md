@@ -12,7 +12,7 @@ The Churn Prevention Specialist is an intelligent Uplizd workflow designed to pr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/508cd85b-410e-5ca9-99bb-dd56747daf87)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/508cd85b-410e-5ca9-99bb-dd56747daf87)
 
 ---
 

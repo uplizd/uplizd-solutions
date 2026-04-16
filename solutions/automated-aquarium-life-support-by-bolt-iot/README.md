@@ -12,7 +12,7 @@ The Automated Aquarium Life Support workflow provides a centralized AI-driven sy
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/03b7a9a9-6983-5564-a286-f44e73cc3c27)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/03b7a9a9-6983-5564-a286-f44e73cc3c27)
 
 ---
 

@@ -12,7 +12,7 @@ The API Key Provisioner by DigiCert is an intelligent Uplizd workflow that autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c54017ff-842f-5ef9-9492-c59b3d3b12c0)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c54017ff-842f-5ef9-9492-c59b3d3b12c0)
 
 ---
 

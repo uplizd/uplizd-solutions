@@ -12,7 +12,7 @@ The Campaign Performance Analyzer is an intelligent Uplizd workflow that ingests
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIFDRE6m+J77gAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lP4JeIDQAAADxJREFUOE9jYBgFwxAAw0A0GgYGBgYGhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGAAD+4wH/5O7q6gAAAABJRU5ErkJggg==)](https://uplizd.ai/solutions/485cbfa3-e62a-52bb-9faf-2ebdc99d1ff1)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/485cbfa3-e62a-52bb-9faf-2ebdc99d1ff1)
 
 ---
 

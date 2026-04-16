@@ -10,5 +10,5 @@ Streamline new hire paperwork with automated document generation and signature c
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'HR Onboarding Document Agent'](https://uplizd.ai/solutions/993e4b9a-301b-57f5-9e4b-10ed05a3d08e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/993e4b9a-301b-57f5-9e4b-10ed05a3d08e)
 

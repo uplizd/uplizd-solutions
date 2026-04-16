@@ -10,5 +10,5 @@ Automatically optimize customer touchpoints based on journey analytics
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Journey Optimizer'](https://uplizd.ai/solutions/559ac6dc-d573-5c7e-92f6-d38c76345847)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/559ac6dc-d573-5c7e-92f6-d38c76345847)
 

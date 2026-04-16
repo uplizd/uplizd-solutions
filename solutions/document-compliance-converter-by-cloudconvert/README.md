@@ -10,5 +10,5 @@ Ensure document format compliance across regulatory requirements
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Document Compliance Converter'](https://uplizd.ai/solutions/857d9d3d-5e26-5e15-afec-8d1e696f4819)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/857d9d3d-5e26-5e15-afec-8d1e696f4819)
 

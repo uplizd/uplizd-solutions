@@ -10,5 +10,5 @@ Automatically fill and submit forms across multiple websites
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Web Form Automation Agent'](https://uplizd.ai/solutions/3da8914d-56e3-5d7a-9797-909992175500)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3da8914d-56e3-5d7a-9797-909992175500)
 

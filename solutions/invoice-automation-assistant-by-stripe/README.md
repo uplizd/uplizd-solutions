@@ -10,5 +10,5 @@ Generate and manage invoices automatically based on business rules
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Automation Assistant'](https://uplizd.ai/solutions/0ca6428a-f6e3-5a4b-ba7b-e6c9f46f146a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0ca6428a-f6e3-5a4b-ba7b-e6c9f46f146a)
 

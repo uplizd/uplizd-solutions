@@ -10,5 +10,5 @@ Identify and segment subscriber engagement patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Subscriber List Health Analyzer'](https://uplizd.ai/solutions/3fb619f3-f948-5f0e-ac44-22a3ca62e969)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3fb619f3-f948-5f0e-ac44-22a3ca62e969)
 

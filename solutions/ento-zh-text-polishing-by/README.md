@@ -10,5 +10,5 @@ Read full article: https://www.ginonotes.com/posts/ai-driven-multi-round-review-
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'En-to-Zh Text Polishing'](https://uplizd.ai/solutions/5dd6e11b-a0cd-5c19-b646-5a078b386538)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5dd6e11b-a0cd-5c19-b646-5a078b386538)
 

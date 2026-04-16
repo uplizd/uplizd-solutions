@@ -10,5 +10,5 @@ Maintain comprehensive client asset records and service histories
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'ServiceM8 Client Asset Manager'](https://uplizd.ai/solutions/3e4e85a6-a4a9-5937-a09a-3e2f2e37dcec)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3e4e85a6-a4a9-5937-a09a-3e2f2e37dcec)
 

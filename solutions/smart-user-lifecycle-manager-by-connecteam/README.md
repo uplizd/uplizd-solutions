@@ -10,5 +10,5 @@ Automate user provisioning and deprovisioning workflows
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart User Lifecycle Manager'](https://uplizd.ai/solutions/6f2ff749-54c7-5e54-ab0c-43ca7766757c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6f2ff749-54c7-5e54-ab0c-43ca7766757c)
 

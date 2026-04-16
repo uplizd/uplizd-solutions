@@ -10,5 +10,5 @@ Protect online communities with instant chat moderation and response
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Real-Time Chat Safety Guardian'](https://uplizd.ai/solutions/e86a043a-bdf6-56a7-b4fd-43361805b2d7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e86a043a-bdf6-56a7-b4fd-43361805b2d7)
 

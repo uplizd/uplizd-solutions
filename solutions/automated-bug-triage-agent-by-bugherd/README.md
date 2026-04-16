@@ -12,7 +12,7 @@ The Automated Bug Triage Agent streamlines software development lifecycles by au
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/385a5647-08bd-5e8a-b67e-198518493d31)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/385a5647-08bd-5e8a-b67e-198518493d31)
 
 ---
 

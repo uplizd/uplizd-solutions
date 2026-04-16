@@ -10,5 +10,5 @@ Streamline contract creation with intelligent template management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contract Template Manager'](https://uplizd.ai/solutions/a81103ae-7ae9-5697-a983-22f808b57ea9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a81103ae-7ae9-5697-a983-22f808b57ea9)
 

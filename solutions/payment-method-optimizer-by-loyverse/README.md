@@ -10,5 +10,5 @@ Optimize payment processing and reduce transaction costs
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Payment Method Optimizer'](https://uplizd.ai/solutions/15a96bdf-9686-58f4-86cd-efaee10d22c0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/15a96bdf-9686-58f4-86cd-efaee10d22c0)
 

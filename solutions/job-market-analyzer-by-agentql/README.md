@@ -10,5 +10,5 @@ Real-time talent market intelligence and salary benchmarking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Job Market Analyzer'](https://uplizd.ai/solutions/9cdf0163-6245-53e1-9fb3-881bd62ff9f3)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9cdf0163-6245-53e1-9fb3-881bd62ff9f3)
 

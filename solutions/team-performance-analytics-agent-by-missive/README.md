@@ -10,5 +10,5 @@ Generate weekly team communication and response time reports automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Performance Analytics Agent'](https://uplizd.ai/solutions/5c936238-46c4-535e-85f7-636497f92e0c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5c936238-46c4-535e-85f7-636497f92e0c)
 

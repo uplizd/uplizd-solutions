@@ -10,5 +10,5 @@ Automated executive dashboards for CI/CD pipeline performance and reliability
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Pipeline Health Dashboard Generator'](https://uplizd.ai/solutions/a6fcba7f-8548-5f9c-9635-f75dd48ceb79)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a6fcba7f-8548-5f9c-9635-f75dd48ceb79)
 

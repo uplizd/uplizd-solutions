@@ -10,5 +10,5 @@ Automatically respond to comments and mentions with contextual replies
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Engagement Response Bot'](https://uplizd.ai/solutions/047dc24c-d942-590f-ad22-9bf2b3f089e7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/047dc24c-d942-590f-ad22-9bf2b3f089e7)
 

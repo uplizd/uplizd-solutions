@@ -10,5 +10,5 @@ Analyze sales territory coverage and identify market gaps using location intelli
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Territory Coverage Analyzer'](https://uplizd.ai/solutions/4750037b-c580-5595-a755-e6a2bbff29ed)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4750037b-c580-5595-a755-e6a2bbff29ed)
 

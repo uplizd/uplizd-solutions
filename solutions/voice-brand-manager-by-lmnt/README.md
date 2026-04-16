@@ -10,5 +10,5 @@ Manage and maintain consistent brand voices across all audio content
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Voice Brand Manager'](https://uplizd.ai/solutions/32045414-415e-583b-8f52-24c33b479c5c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/32045414-415e-583b-8f52-24c33b479c5c)
 

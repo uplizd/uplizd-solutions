@@ -10,5 +10,5 @@ Monitor and analyze company activities across your network
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'LinkedIn Company Intelligence Agent'](https://uplizd.ai/solutions/e28ec740-ed13-5872-bc33-06a43027d11f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e28ec740-ed13-5872-bc33-06a43027d11f)
 

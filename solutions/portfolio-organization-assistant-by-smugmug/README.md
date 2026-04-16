@@ -10,5 +10,5 @@ Automatically organize and structure your photography portfolio
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Portfolio Organization Assistant'](https://uplizd.ai/solutions/ec8e878c-411f-5166-bdb9-f1d2ac5f104b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ec8e878c-411f-5166-bdb9-f1d2ac5f104b)
 

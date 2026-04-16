@@ -10,5 +10,5 @@ Analyzes your goal history to recommend optimal commitment levels
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Goal Optimizer'](https://uplizd.ai/solutions/be7385ad-0661-57c4-b9cc-0d92e40886a9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/be7385ad-0661-57c4-b9cc-0d92e40886a9)
 

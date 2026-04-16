@@ -10,5 +10,5 @@ Predict seasonal trends and optimize inventory planning
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Seasonal Demand Forecaster'](https://uplizd.ai/solutions/d2ee3f83-f161-596e-8697-9e46554b2f40)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d2ee3f83-f161-596e-8697-9e46554b2f40)
 

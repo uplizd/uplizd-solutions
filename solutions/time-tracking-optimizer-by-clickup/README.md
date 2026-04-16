@@ -10,5 +10,5 @@ Automatically categorize and optimize time entries with smart tagging
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Time Tracking Optimizer'](https://uplizd.ai/solutions/09fe0493-9a0c-5a05-88ec-c21d9aa32fd4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/09fe0493-9a0c-5a05-88ec-c21d9aa32fd4)
 

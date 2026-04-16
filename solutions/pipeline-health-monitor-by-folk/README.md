@@ -10,5 +10,5 @@ Monitor and alert on pipeline health using Folk CRM data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Pipeline Health Monitor'](https://uplizd.ai/solutions/1f1bb426-fdf3-53df-8cea-4561dcce98eb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1f1bb426-fdf3-53df-8cea-4561dcce98eb)
 

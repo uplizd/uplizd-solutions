@@ -12,7 +12,7 @@ The Automated Lead Qualifier by Retell AI is an intelligent voice workflow that 
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/0ec13ba6-fe43-5ebc-90e5-4108cdaf8feb)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0ec13ba6-fe43-5ebc-90e5-4108cdaf8feb)
 
 ---
 

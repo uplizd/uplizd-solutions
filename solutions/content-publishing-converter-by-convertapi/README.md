@@ -10,5 +10,5 @@ Transform content into multiple formats for cross-platform publishing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Content Publishing Converter'](https://uplizd.ai/solutions/f259ba86-3ac9-5e0a-bd6a-f2fd0f35f799)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f259ba86-3ac9-5e0a-bd6a-f2fd0f35f799)
 

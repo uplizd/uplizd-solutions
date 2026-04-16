@@ -10,5 +10,5 @@ Create winning proposals from CRM data in minutes
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sales Proposal Generator'](https://uplizd.ai/solutions/09fc2ca2-9654-5d29-b7f3-4e6115b9e858)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/09fc2ca2-9654-5d29-b7f3-4e6115b9e858)
 

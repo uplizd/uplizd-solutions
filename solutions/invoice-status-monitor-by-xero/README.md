@@ -10,5 +10,5 @@ Automated invoice tracking and follow-up management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Status Monitor'](https://uplizd.ai/solutions/ea5804a6-421a-57c1-9c8b-1b119fb844f3)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ea5804a6-421a-57c1-9c8b-1b119fb844f3)
 

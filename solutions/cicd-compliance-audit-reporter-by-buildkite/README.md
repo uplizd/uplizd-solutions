@@ -12,7 +12,7 @@ The CI/CD Compliance Audit Reporter is an automated Uplizd AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/410f42e6-5ee0-5a1d-8fc1-1ee48c10caab)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/410f42e6-5ee0-5a1d-8fc1-1ee48c10caab)
 
 ---
 

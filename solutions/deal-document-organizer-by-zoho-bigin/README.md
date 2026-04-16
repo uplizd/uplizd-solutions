@@ -10,5 +10,5 @@ Automatically organize and manage deal-related attachments and documents
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Deal Document Organizer'](https://uplizd.ai/solutions/54bfed5c-c5d1-5dea-b524-35a2fd8b6d95)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/54bfed5c-c5d1-5dea-b524-35a2fd8b6d95)
 

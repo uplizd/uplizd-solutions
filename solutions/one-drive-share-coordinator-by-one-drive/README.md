@@ -10,5 +10,5 @@ Streamlined file sharing with permission management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'OneDrive Share Coordinator'](https://uplizd.ai/solutions/4d509eb4-8609-59ce-a033-862b7ece46e8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4d509eb4-8609-59ce-a033-862b7ece46e8)
 

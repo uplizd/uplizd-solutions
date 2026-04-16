@@ -10,5 +10,5 @@ Automatically generate and format weekly sales reports from raw data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sales Report Automation Agent'](https://uplizd.ai/solutions/2234daec-95dd-5eeb-ac8e-fd22731cbd61)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2234daec-95dd-5eeb-ac8e-fd22731cbd61)
 

@@ -10,5 +10,5 @@ Analyze sales calls to identify winning patterns and coach reps in real-time
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sales Call Performance Optimizer'](https://uplizd.ai/solutions/61a0ed3c-28c6-5571-bc67-e4ede74ae410)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/61a0ed3c-28c6-5571-bc67-e4ede74ae410)
 

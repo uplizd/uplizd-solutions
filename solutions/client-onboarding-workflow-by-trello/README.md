@@ -12,7 +12,7 @@ The Client Onboarding Workflow by Uplizd automates the transition from prospect 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5fe0438d-b129-5d0b-90db-0ee6019d6db3)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5fe0438d-b129-5d0b-90db-0ee6019d6db3)
 
 ---
 

@@ -10,5 +10,5 @@ Generate intelligent insights on payment patterns and cash flow trends
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Payment Analytics Reporter'](https://uplizd.ai/solutions/b25058e7-275e-5fd2-a05c-8e7632597f25)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b25058e7-275e-5fd2-a05c-8e7632597f25)
 

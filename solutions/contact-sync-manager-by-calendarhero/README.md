@@ -10,5 +10,5 @@ Automatically maintain and update your meeting contacts database
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contact Sync Manager'](https://uplizd.ai/solutions/3e777c02-ddbb-5928-af25-d8ec30d689fb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3e777c02-ddbb-5928-af25-d8ec30d689fb)
 

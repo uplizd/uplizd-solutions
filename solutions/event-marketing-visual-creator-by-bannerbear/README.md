@@ -10,5 +10,5 @@ Generate complete visual marketing packages for events automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Marketing Visual Creator'](https://uplizd.ai/solutions/984a66e8-ae94-5e6d-b491-bfada365fbfa)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/984a66e8-ae94-5e6d-b491-bfada365fbfa)
 

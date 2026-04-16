@@ -12,7 +12,7 @@ The Bulk Email List Cleaner by Emailable is an automated AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4905256a-d70e-543b-ab68-cb21a0086a5c)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4905256a-d70e-543b-ab68-cb21a0086a5c)
 
 ---
 

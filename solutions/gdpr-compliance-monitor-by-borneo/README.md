@@ -10,5 +10,5 @@ Automated GDPR compliance monitoring and remediation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'GDPR Compliance Monitor'](https://uplizd.ai/solutions/8f4de22b-a6b8-5fa1-b674-3abe0c9c4980)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8f4de22b-a6b8-5fa1-b674-3abe0c9c4980)
 

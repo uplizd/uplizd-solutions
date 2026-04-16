@@ -10,5 +10,5 @@ Automatically schedules and creates preventive maintenance work orders based on 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Preventive Maintenance Scheduler'](https://uplizd.ai/solutions/4af5b83b-ac59-5985-97c6-89e0edf57bda)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4af5b83b-ac59-5985-97c6-89e0edf57bda)
 

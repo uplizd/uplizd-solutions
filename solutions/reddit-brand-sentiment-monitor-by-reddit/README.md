@@ -10,5 +10,5 @@ Track and respond to brand mentions across Reddit with real-time sentiment analy
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Reddit Brand Sentiment Monitor'](https://uplizd.ai/solutions/98b91c9d-bba9-505d-a33b-bb2c1862b5dc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/98b91c9d-bba9-505d-a33b-bb2c1862b5dc)
 

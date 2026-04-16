@@ -10,5 +10,5 @@ Automated prospect research and company intelligence
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sales Lead Research Assistant'](https://uplizd.ai/solutions/878fe6b8-50bd-5781-9fe5-952ebf9baeec)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/878fe6b8-50bd-5781-9fe5-952ebf9baeec)
 

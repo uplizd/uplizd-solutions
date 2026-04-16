@@ -10,5 +10,5 @@ Transform cryptic payment data into clear merchant information with brand contex
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Transaction Merchant Identifier'](https://uplizd.ai/solutions/30614fea-d40f-5e8b-b471-679e404be41e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/30614fea-d40f-5e8b-b471-679e404be41e)
 

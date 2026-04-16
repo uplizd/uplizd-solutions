@@ -10,5 +10,5 @@ Catch financial irregularities and fraud before they impact your bottom line
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Financial Anomaly Detection System'](https://uplizd.ai/solutions/67186053-93af-5e86-a595-fa0687572d30)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/67186053-93af-5e86-a595-fa0687572d30)
 

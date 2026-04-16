@@ -10,5 +10,5 @@ Integrates PDF reading with a language model to answer document-specific questio
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Document Q&A'](https://uplizd.ai/solutions/aa465407-13d0-5d08-85f2-423e545df2a4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/aa465407-13d0-5d08-85f2-423e545df2a4)
 

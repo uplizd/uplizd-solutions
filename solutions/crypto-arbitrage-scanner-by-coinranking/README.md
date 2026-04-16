@@ -10,5 +10,5 @@ Automated detection of cross-exchange price differences
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Crypto Arbitrage Scanner'](https://uplizd.ai/solutions/c525e739-3c0d-548f-a385-3439da4d2edf)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c525e739-3c0d-548f-a385-3439da4d2edf)
 

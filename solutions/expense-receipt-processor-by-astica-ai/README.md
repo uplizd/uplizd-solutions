@@ -10,5 +10,5 @@ Automatically extract expense data from receipt photos for accounting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Expense Receipt Processor'](https://uplizd.ai/solutions/08b46862-1e35-5977-8d1f-c72106db8762)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/08b46862-1e35-5977-8d1f-c72106db8762)
 

@@ -10,5 +10,5 @@ Intelligent customer lookup and thread routing based on support history
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Support Triage Agent'](https://uplizd.ai/solutions/e9984131-7d83-539a-b709-4d884c3507ae)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e9984131-7d83-539a-b709-4d884c3507ae)
 

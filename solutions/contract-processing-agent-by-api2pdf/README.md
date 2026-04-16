@@ -10,5 +10,5 @@ Automatically process, merge, and organize legal documents
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contract Processing Agent'](https://uplizd.ai/solutions/cd9c7367-b29a-5f3d-a41e-151d2fa531c1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cd9c7367-b29a-5f3d-a41e-151d2fa531c1)
 

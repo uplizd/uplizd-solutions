@@ -10,5 +10,5 @@ Automatically detect and flag problematic content across multiple languages
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Media Content Moderator'](https://uplizd.ai/solutions/1cbf025f-421d-5039-bffb-7f8cd72c4464)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1cbf025f-421d-5039-bffb-7f8cd72c4464)
 

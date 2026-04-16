@@ -10,5 +10,5 @@ Streamline new workspace configuration and user onboarding
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Workspace Setup Optimizer'](https://uplizd.ai/solutions/7244e70f-134d-5780-b4e8-ee385e80b574)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7244e70f-134d-5780-b4e8-ee385e80b574)
 

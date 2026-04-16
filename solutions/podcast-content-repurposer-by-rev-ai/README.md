@@ -10,5 +10,5 @@ Turn podcast episodes into multiple content formats automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Podcast Content Repurposer'](https://uplizd.ai/solutions/d62215b0-98a9-5214-9ecd-435920a55f58)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d62215b0-98a9-5214-9ecd-435920a55f58)
 

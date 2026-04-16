@@ -10,5 +10,5 @@ Transform social proof data into actionable marketing insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Fomo Campaign Insights Generator'](https://uplizd.ai/solutions/4535c93b-d66d-5812-b7a2-635efc4ed052)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4535c93b-d66d-5812-b7a2-635efc4ed052)
 

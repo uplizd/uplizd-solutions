@@ -10,5 +10,5 @@ Analyze your social proof performance against industry benchmarks and competitor
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Proof Competitive Analyzer'](https://uplizd.ai/solutions/d814db6a-aca9-52f4-adaa-d42072f07ed7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d814db6a-aca9-52f4-adaa-d42072f07ed7)
 

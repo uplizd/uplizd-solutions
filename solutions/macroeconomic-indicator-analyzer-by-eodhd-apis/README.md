@@ -10,5 +10,5 @@ Automatically analyze and report on key economic indicators
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Macroeconomic Indicator Analyzer'](https://uplizd.ai/solutions/12ecb298-8cda-5672-b6cb-e296efb303a9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/12ecb298-8cda-5672-b6cb-e296efb303a9)
 

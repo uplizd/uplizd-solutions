@@ -12,7 +12,7 @@ The Competitive Research Monitor is an automated Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIFDRE6m31YyQAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABkSURBVEjHY2AYBfQAAAPAAAEG6f8AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/bf6d1162-b57c-5fb7-8bd0-fe26213cc0ce)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bf6d1162-b57c-5fb7-8bd0-fe26213cc0ce)
 
 ---
 

@@ -12,7 +12,7 @@ The Automated Course Completion Certifier is an intelligent Uplizd workflow that
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/32d91a35-7d56-5f9e-89fc-a50316f266b7)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/32d91a35-7d56-5f9e-89fc-a50316f266b7)
 
 ---
 

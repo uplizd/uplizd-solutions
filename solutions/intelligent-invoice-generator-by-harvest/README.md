@@ -10,5 +10,5 @@ Generate professional invoices from time entries with smart client communication
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Intelligent Invoice Generator'](https://uplizd.ai/solutions/5e19150c-e604-5e72-81f8-840ca2d90ee5)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5e19150c-e604-5e72-81f8-840ca2d90ee5)
 

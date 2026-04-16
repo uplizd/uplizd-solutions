@@ -10,5 +10,5 @@ Automatically monitor and report on database structure health
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Database Health Monitor'](https://uplizd.ai/solutions/944afaef-2735-580b-b929-ed1fe60e6374)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/944afaef-2735-580b-b929-ed1fe60e6374)
 

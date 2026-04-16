@@ -12,7 +12,7 @@ The CDN Infrastructure Manager (Uplizd) automates the provisioning, configuratio
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7217e11c-ac37-5189-8a74-df77f27c780b)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7217e11c-ac37-5189-8a74-df77f27c780b)
 
 ---
 

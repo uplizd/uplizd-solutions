@@ -10,5 +10,5 @@ Intelligently prioritize and streamline task completion across projects
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Task Completion Acceleration Agent'](https://uplizd.ai/solutions/4b734d1b-fbba-5eb4-9dbf-c727f113f7e5)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4b734d1b-fbba-5eb4-9dbf-c727f113f7e5)
 

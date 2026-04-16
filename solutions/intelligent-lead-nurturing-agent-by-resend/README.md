@@ -10,5 +10,5 @@ Convert prospects into customers with smart email sequences
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Intelligent Lead Nurturing Agent'](https://uplizd.ai/solutions/82b27902-cff8-5fc3-8ea2-0052276439db)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/82b27902-cff8-5fc3-8ea2-0052276439db)
 

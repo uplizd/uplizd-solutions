@@ -10,5 +10,5 @@ Never miss relevant industry events again
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Opportunity Tracker'](https://uplizd.ai/solutions/2c8a34c5-72dc-502e-b9cd-8ca48a54fd11)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2c8a34c5-72dc-502e-b9cd-8ca48a54fd11)
 

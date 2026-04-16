@@ -10,5 +10,5 @@ Sync Discord profiles with external platforms and maintain consistent identity
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Discord Profile Integration Manager'](https://uplizd.ai/solutions/f24bf026-737e-51dd-b556-cb3a28910eff)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f24bf026-737e-51dd-b556-cb3a28910eff)
 

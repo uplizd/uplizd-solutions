@@ -10,5 +10,5 @@ Deep prospect intelligence gathering for personalized outreach
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Prospect Research Assistant'](https://uplizd.ai/solutions/0430101d-2e7d-54bb-9fd2-9169640ae4be)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0430101d-2e7d-54bb-9fd2-9169640ae4be)
 

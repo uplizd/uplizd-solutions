@@ -12,7 +12,7 @@ The Brand Crisis Monitor is an intelligent Uplizd workflow that leverages Tavily
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJMMiAxMnYxMGgyMFYxMkwxMiAyem0wIDE4bC04LThWNGg4djhINHY0bDgtOHY4eiIvPjwvc3ZnPg==)](https://uplizd.ai/solutions/55dcdb09-7bc4-5645-af1a-b73f2e18bdce)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/55dcdb09-7bc4-5645-af1a-b73f2e18bdce)
 
 ---
 

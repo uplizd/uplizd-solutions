@@ -10,5 +10,5 @@ Optimize delivery routes with standardized address data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Logistics Address Optimizer'](https://uplizd.ai/solutions/01cb9df2-793a-547c-92c2-ef5483fc0982)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/01cb9df2-793a-547c-92c2-ef5483fc0982)
 

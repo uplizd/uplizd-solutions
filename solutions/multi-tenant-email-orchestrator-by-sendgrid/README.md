@@ -10,5 +10,5 @@ Manage email infrastructure across multiple subusers with automated domain and I
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-Tenant Email Orchestrator'](https://uplizd.ai/solutions/4ccc7cca-dfae-5802-a417-3acf29bbb9ac)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4ccc7cca-dfae-5802-a417-3acf29bbb9ac)
 

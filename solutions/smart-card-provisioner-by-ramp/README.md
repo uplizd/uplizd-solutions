@@ -10,5 +10,5 @@ Instantly provision virtual cards with smart spending limits based on department
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Card Provisioner'](https://uplizd.ai/solutions/36f8acaa-e61a-5cf0-b0a1-67619e8af8f4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/36f8acaa-e61a-5cf0-b0a1-67619e8af8f4)
 

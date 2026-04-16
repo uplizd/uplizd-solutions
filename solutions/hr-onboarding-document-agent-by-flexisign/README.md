@@ -10,5 +10,5 @@ Automate new hire paperwork and signature collection
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'HR Onboarding Document Agent'](https://uplizd.ai/solutions/ba1295f6-d4a0-5673-b2bd-5dd9b00d9dfe)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ba1295f6-d4a0-5673-b2bd-5dd9b00d9dfe)
 

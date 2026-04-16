@@ -10,5 +10,5 @@ Instantly research prospects and personalize outreach at scale
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Research Assistant'](https://uplizd.ai/solutions/6712409c-e23a-5729-b438-453dde4edbf3)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6712409c-e23a-5729-b438-453dde4edbf3)
 

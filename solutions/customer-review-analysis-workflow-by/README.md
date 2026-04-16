@@ -10,5 +10,5 @@ Automatically classifies customer reviews by sentiment and issue type, then rout
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Review Analysis Workflow'](https://uplizd.ai/solutions/6529b463-53e3-59a9-b402-26c7e192b622)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6529b463-53e3-59a9-b402-26c7e192b622)
 

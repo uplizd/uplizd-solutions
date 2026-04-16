@@ -10,5 +10,5 @@ Proactively hunt for security threats and suspicious activities in system logs
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Security Threat Hunting Agent'](https://uplizd.ai/solutions/3ec9ea75-dc77-5a35-88c1-cf7316447f2f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3ec9ea75-dc77-5a35-88c1-cf7316447f2f)
 

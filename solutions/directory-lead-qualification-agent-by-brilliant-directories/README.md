@@ -10,5 +10,5 @@ Automatically qualify and categorize directory leads
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Directory Lead Qualification Agent'](https://uplizd.ai/solutions/2b3e7e13-ae6a-5d56-bf67-4b185a18a968)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2b3e7e13-ae6a-5d56-bf67-4b185a18a968)
 

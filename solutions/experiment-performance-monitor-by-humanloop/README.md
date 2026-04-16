@@ -10,5 +10,5 @@ Real-time monitoring and alerting for AI model experiment performance and anomal
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Experiment Performance Monitor'](https://uplizd.ai/solutions/ca443119-0daf-57dd-8c44-cb975560ec96)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ca443119-0daf-57dd-8c44-cb975560ec96)
 

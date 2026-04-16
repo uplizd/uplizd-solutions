@@ -10,5 +10,5 @@ Qualify and score leads through conversational Telegram interactions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Qualification Bot'](https://uplizd.ai/solutions/6b852b5f-6254-5dd6-9dca-7067a4dcd770)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6b852b5f-6254-5dd6-9dca-7067a4dcd770)
 

@@ -10,5 +10,5 @@ Automatically detect and report performance regressions in CI/CD pipeline
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Performance Regression Detector'](https://uplizd.ai/solutions/40ec3b96-1cdc-5660-b894-93b248a0861c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/40ec3b96-1cdc-5660-b894-93b248a0861c)
 

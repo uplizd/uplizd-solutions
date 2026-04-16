@@ -13,7 +13,7 @@ The Archive Migration Assistant is an intelligent Uplizd workflow designed to au
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAHAAABAAABAAAA//8DAP//q6gH/wAAAP///wD///8A////AP///wD///8A////AP///wD///8A//8A454H+QAAAAA=)](https://uplizd.ai/solutions/bc685acf-bea1-57ac-a93f-40d8f7165321)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bc685acf-bea1-57ac-a93f-40d8f7165321)
 
 ---
 

@@ -12,7 +12,7 @@ The Cat Wellness Content Generator is an automated Uplizd AI workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAKAAAEAAABgP7/AAAAAElFTkSuQmCC)](https://uplizd.ai/solutions/c8fcd4e6-f36c-591c-abc2-fb47653ed058)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c8fcd4e6-f36c-591c-abc2-fb47653ed058)
 
 ---
 

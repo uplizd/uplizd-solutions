@@ -10,5 +10,5 @@ Maintain clean customer and order databases automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Rental Data Cleanup Assistant'](https://uplizd.ai/solutions/ca433672-f81e-5815-91ec-b21cf8aef953)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ca433672-f81e-5815-91ec-b21cf8aef953)
 

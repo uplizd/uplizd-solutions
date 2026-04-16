@@ -10,5 +10,5 @@ Automatically clean and validate your email lists for maximum deliverability
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Email List Hygiene Manager'](https://uplizd.ai/solutions/bb84cf46-6c62-58fc-98a2-eb78fbbc39cb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bb84cf46-6c62-58fc-98a2-eb78fbbc39cb)
 

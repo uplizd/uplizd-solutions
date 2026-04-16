@@ -13,7 +13,7 @@ The Competitor Technology Intelligence Agent leverages the BuiltWith API to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a2c057a3-e6fa-5692-a7fe-487ad8d09a66)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a2c057a3-e6fa-5692-a7fe-487ad8d09a66)
 
 ---
 

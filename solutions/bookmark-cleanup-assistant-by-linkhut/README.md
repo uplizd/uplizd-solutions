@@ -12,7 +12,7 @@ The Bookmark Cleanup Assistant is an AI-powered workflow designed to restore ord
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIFDRE6o3995QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAAkSURBVHjaY2BgYPjP////fxhQAsZgYGBg+A8Xw4gGjEEDAA44CgE+T9/BAAAAAElFTkSuQmCC)](https://uplizd.ai/solutions/b0adbb30-c822-5537-8bff-63b002c3733d)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b0adbb30-c822-5537-8bff-63b002c3733d)
 
 ---
 

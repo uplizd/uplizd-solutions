@@ -10,5 +10,5 @@ Automate community engagement and content management across multiple subreddits
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Reddit Community Manager'](https://uplizd.ai/solutions/7234c626-cec2-5036-af54-e23a899d2e27)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7234c626-cec2-5036-af54-e23a899d2e27)
 

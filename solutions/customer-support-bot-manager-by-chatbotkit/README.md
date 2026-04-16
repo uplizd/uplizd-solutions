@@ -10,5 +10,5 @@ Automatically manage and optimize customer support chatbots across multiple chan
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Support Bot Manager'](https://uplizd.ai/solutions/1423826d-f5ed-5f4f-9d6e-7eec229243c5)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1423826d-f5ed-5f4f-9d6e-7eec229243c5)
 

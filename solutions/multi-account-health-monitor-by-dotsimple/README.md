@@ -10,5 +10,5 @@ Monitor and maintain the health of all your social media accounts
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-Account Health Monitor'](https://uplizd.ai/solutions/8c2167ae-d58c-52fe-852d-e4e568b3ec05)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8c2167ae-d58c-52fe-852d-e4e568b3ec05)
 

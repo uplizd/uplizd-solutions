@@ -10,5 +10,5 @@ Automatically categorize and prioritize customer feedback for product developmen
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Feedback Analyzer'](https://uplizd.ai/solutions/dcd65728-9256-5247-bbb4-24d55bc3b708)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dcd65728-9256-5247-bbb4-24d55bc3b708)
 

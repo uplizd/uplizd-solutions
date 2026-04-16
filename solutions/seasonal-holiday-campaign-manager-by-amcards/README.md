@@ -10,5 +10,5 @@ Orchestrate multi-touch holiday card campaigns that drive customer engagement
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Seasonal Holiday Campaign Manager'](https://uplizd.ai/solutions/ba438f8c-425e-5ff5-afdf-491b94ad11f1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ba438f8c-425e-5ff5-afdf-491b94ad11f1)
 

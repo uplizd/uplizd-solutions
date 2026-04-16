@@ -10,5 +10,5 @@ Transform customer data into actionable business insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Data Insights Generator'](https://uplizd.ai/solutions/689cd7da-d2d2-5fb9-92b9-4b040322639c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/689cd7da-d2d2-5fb9-92b9-4b040322639c)
 

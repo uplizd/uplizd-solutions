@@ -10,5 +10,5 @@ Automatically compile census data for grant applications
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Grant Application Data Compiler'](https://uplizd.ai/solutions/124eb396-10f7-55a1-8322-02094a68c60b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/124eb396-10f7-55a1-8322-02094a68c60b)
 

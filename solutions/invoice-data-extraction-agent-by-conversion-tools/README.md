@@ -10,5 +10,5 @@ Extract structured data from invoice images using AI
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Data Extraction Agent'](https://uplizd.ai/solutions/92b9ed63-b540-56a7-a576-ba32853fa2f0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/92b9ed63-b540-56a7-a576-ba32853fa2f0)
 

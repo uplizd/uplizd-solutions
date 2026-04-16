@@ -10,5 +10,5 @@ Comprehensive character analysis and optimization for DFO players
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'DFO Character Analyzer'](https://uplizd.ai/solutions/69de7181-e106-58f4-b925-d82bda807254)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/69de7181-e106-58f4-b925-d82bda807254)
 

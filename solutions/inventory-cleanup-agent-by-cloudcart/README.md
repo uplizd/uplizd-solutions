@@ -10,5 +10,5 @@ Automatically remove outdated products and categories
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Inventory Cleanup Agent'](https://uplizd.ai/solutions/889db0e7-c0da-5fe6-a016-20cdd0165493)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/889db0e7-c0da-5fe6-a016-20cdd0165493)
 

@@ -10,5 +10,5 @@ Load your data for chat context with Retrieval Augmented Generation.
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Vector Store RAG'](https://uplizd.ai/solutions/8e89b5a0-ef32-5ccf-a0cf-42977d0b59c1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8e89b5a0-ef32-5ccf-a0cf-42977d0b59c1)
 

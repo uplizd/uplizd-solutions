@@ -10,5 +10,5 @@ Automated incident response and team coordination
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Incident Command Center'](https://uplizd.ai/solutions/33f48045-7754-59dc-b861-76366d18787e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/33f48045-7754-59dc-b861-76366d18787e)
 

@@ -10,5 +10,5 @@ Optimize video metadata and thumbnails based on performance data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'YouTube Content Performance Optimizer'](https://uplizd.ai/solutions/696cd955-1825-54a7-b3d8-f7ca6895234a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/696cd955-1825-54a7-b3d8-f7ca6895234a)
 

@@ -10,5 +10,5 @@ Automated video analytics reporting and optimization recommendations
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Video Performance Analyst'](https://uplizd.ai/solutions/35377321-8811-5da1-b530-5dba0d6517a1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/35377321-8811-5da1-b530-5dba0d6517a1)
 

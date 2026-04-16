@@ -10,5 +10,5 @@ Automatically optimize CallPage widgets for maximum lead conversion
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Conversion Optimizer'](https://uplizd.ai/solutions/6e5fd821-6009-5c8d-9795-dea901eaf89d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6e5fd821-6009-5c8d-9795-dea901eaf89d)
 

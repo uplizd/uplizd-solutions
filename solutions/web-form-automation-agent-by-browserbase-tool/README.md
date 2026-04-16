@@ -10,5 +10,5 @@ Bulk form submissions and data entry automation across websites
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Web Form Automation Agent'](https://uplizd.ai/solutions/333c45a9-568e-5d26-88e9-4b607b9669e4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/333c45a9-568e-5d26-88e9-4b607b9669e4)
 

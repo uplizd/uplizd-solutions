@@ -10,5 +10,5 @@ Automatically create and manage personalized email nurture sequences for new lea
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Nurture Campaign Manager'](https://uplizd.ai/solutions/bf167d06-fd1c-5e32-904c-bdcae5afb33d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bf167d06-fd1c-5e32-904c-bdcae5afb33d)
 

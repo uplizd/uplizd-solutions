@@ -12,7 +12,7 @@ The Client Deliverable Formatter is an intelligent Uplizd workflow that streamli
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAG5JREFUSEtjYBgFo2AUjIJRMApGATkBAAEAAAE=)](https://uplizd.ai/solutions/b8b34fc1-c329-52c8-bc72-1dbe5271abf5)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b8b34fc1-c329-52c8-bc72-1dbe5271abf5)
 
 ---
 

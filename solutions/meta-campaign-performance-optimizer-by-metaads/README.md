@@ -10,5 +10,5 @@ Automatically optimize Meta ad campaigns based on performance metrics
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Meta Campaign Performance Optimizer'](https://uplizd.ai/solutions/8d586164-1486-58f5-b59e-83c0a96abe0b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8d586164-1486-58f5-b59e-83c0a96abe0b)
 

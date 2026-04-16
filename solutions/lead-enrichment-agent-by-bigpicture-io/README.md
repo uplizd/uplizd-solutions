@@ -10,5 +10,5 @@ Automatically enrich leads with comprehensive company data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Enrichment Agent'](https://uplizd.ai/solutions/9c114f93-7a7c-5f02-90a5-0e71204ca886)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c114f93-7a7c-5f02-90a5-0e71204ca886)
 

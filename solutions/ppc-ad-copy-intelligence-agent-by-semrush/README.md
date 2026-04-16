@@ -10,5 +10,5 @@ Analyze competitor ad strategies and optimize your PPC campaigns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'PPC Ad Copy Intelligence Agent'](https://uplizd.ai/solutions/4ff922fb-ba74-52ea-b10a-55b5a92a4e56)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4ff922fb-ba74-52ea-b10a-55b5a92a4e56)
 

@@ -10,5 +10,5 @@ Automatically organize and surface important team knowledge in Slack
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Knowledge Sharing Curator'](https://uplizd.ai/solutions/691df3a8-0184-525b-8628-a20d82c478dc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/691df3a8-0184-525b-8628-a20d82c478dc)
 

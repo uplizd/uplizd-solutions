@@ -10,5 +10,5 @@ Automatically capture and process new insurance leads from multiple sources
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Intake Automator'](https://uplizd.ai/solutions/dcabf775-c459-5a7d-9c6d-28fe90d1fe15)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dcabf775-c459-5a7d-9c6d-28fe90d1fe15)
 

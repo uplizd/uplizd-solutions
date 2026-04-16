@@ -12,7 +12,7 @@ The Account Expansion Identifier is an intelligent Uplizd workflow that monitors
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e42a25d-99e6-59a9-8a20-cfe32a394f90)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6e42a25d-99e6-59a9-8a20-cfe32a394f90)
 
 ---
 

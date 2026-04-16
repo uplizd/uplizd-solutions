@@ -10,5 +10,5 @@ Automatically optimize agent scheduling and resource allocation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'PhantomBuster Workflow Optimizer'](https://uplizd.ai/solutions/88161cad-5c35-5dcc-845d-19244f884360)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/88161cad-5c35-5dcc-845d-19244f884360)
 

@@ -10,5 +10,5 @@ Track correlations across forex, stocks, and economic indicators for portfolio o
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-Asset Correlation Intelligence'](https://uplizd.ai/solutions/6cd27c47-4ceb-5c1a-8be9-3b4d8192d5fd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6cd27c47-4ceb-5c1a-8be9-3b4d8192d5fd)
 

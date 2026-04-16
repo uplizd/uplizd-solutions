@@ -10,5 +10,5 @@ Monitor and manage betting portfolio risk across multiple sports and markets
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sports Betting Risk Monitor'](https://uplizd.ai/solutions/2eca4f07-b35f-58cd-8ac9-25d9f7c2a05f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2eca4f07-b35f-58cd-8ac9-25d9f7c2a05f)
 

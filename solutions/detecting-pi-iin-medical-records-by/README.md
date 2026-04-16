@@ -10,5 +10,5 @@ A workflow that automatically detects and classifies personally identifiable inf
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Detecting PII in Medical Records'](https://uplizd.ai/solutions/ac71727e-f363-5ba1-a70a-c1e84b1ed5eb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ac71727e-f363-5ba1-a70a-c1e84b1ed5eb)
 

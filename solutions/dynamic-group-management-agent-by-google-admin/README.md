@@ -10,5 +10,5 @@ Automatically manage Google Groups based on organizational changes
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Dynamic Group Management Agent'](https://uplizd.ai/solutions/adf8d459-7cbe-5805-99f5-a57f63c0ef3a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/adf8d459-7cbe-5805-99f5-a57f63c0ef3a)
 

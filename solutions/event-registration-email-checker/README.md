@@ -14,7 +14,7 @@ A Uplizd AI workflow that verifies attendee email addresses during event registr
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/42c91a9a-a77b-46b4-aab2-5404b4e10081)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/42c91a9a-a77b-46b4-aab2-5404b4e10081)
 
 ---
 ## Who is this for?

@@ -12,7 +12,7 @@ The AI Model Cost Optimizer is an automated workflow designed to maximize operat
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eae3aa16-78c8-5aa6-bf04-cc437ab6d3f2)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/eae3aa16-78c8-5aa6-bf04-cc437ab6d3f2)
 
 ---
 

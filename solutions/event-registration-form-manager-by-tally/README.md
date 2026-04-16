@@ -10,5 +10,5 @@ Streamline event registration with automated form creation and attendee manageme
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Registration Form Manager'](https://uplizd.ai/solutions/0347bf32-7074-5b88-80fb-53258d059614)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0347bf32-7074-5b88-80fb-53258d059614)
 

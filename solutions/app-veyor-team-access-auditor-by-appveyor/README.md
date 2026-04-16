@@ -12,7 +12,7 @@ The AppVeyor Team Access Auditor is an intelligent Uplizd workflow designed to s
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2bea05bd-cb16-5b5b-9a55-04b8ecd6bfe8)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2bea05bd-cb16-5b5b-9a55-04b8ecd6bfe8)
 
 ---
 

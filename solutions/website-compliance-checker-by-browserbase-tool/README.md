@@ -10,5 +10,5 @@ Automated accessibility and compliance monitoring for web properties
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Website Compliance Checker'](https://uplizd.ai/solutions/ff2bc1bf-6781-5d85-bb18-b1c6b1a75c54)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ff2bc1bf-6781-5d85-bb18-b1c6b1a75c54)
 

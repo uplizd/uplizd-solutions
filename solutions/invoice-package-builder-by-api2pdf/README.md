@@ -10,5 +10,5 @@ Automatically compile and organize invoice packages with supporting documents
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Package Builder'](https://uplizd.ai/solutions/2a16d6ae-3c2b-5060-b956-8f0acdae0689)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2a16d6ae-3c2b-5060-b956-8f0acdae0689)
 

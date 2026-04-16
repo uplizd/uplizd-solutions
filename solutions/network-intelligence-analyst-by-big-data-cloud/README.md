@@ -10,5 +10,5 @@ Automated BGP and ASN analysis for network operations teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Network Intelligence Analyst'](https://uplizd.ai/solutions/886997fe-45c2-55f5-9296-a680689abb2e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/886997fe-45c2-55f5-9296-a680689abb2e)
 

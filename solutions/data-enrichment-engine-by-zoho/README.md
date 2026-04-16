@@ -10,5 +10,5 @@ Automatically enrich and standardize CRM data quality
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Data Enrichment Engine'](https://uplizd.ai/solutions/84786395-26fb-5a3d-8bc3-65c13bf27bbf)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/84786395-26fb-5a3d-8bc3-65c13bf27bbf)
 

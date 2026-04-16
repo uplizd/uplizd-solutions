@@ -10,5 +10,5 @@ Extract and prepare your best photos for social media posting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Media Content Manager'](https://uplizd.ai/solutions/57941a38-0611-5422-8ff4-778d2462c72e)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/57941a38-0611-5422-8ff4-778d2462c72e)
 

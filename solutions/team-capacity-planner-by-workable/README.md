@@ -10,5 +10,5 @@ Optimize hiring based on team capacity and workload
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Capacity Planner'](https://uplizd.ai/solutions/f98c0486-6ce3-5bb1-85e5-8d116179b567)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f98c0486-6ce3-5bb1-85e5-8d116179b567)
 

@@ -10,5 +10,5 @@ Transform podcast episodes into multiple content formats automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Podcast Content Pipeline'](https://uplizd.ai/solutions/bc681fb9-757b-592c-9d12-8fe83bbb9317)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bc681fb9-757b-592c-9d12-8fe83bbb9317)
 

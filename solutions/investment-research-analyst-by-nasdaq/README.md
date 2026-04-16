@@ -10,5 +10,5 @@ Comprehensive stock analysis with analyst consensus and dividend insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Investment Research Analyst'](https://uplizd.ai/solutions/d937c2c5-8dc6-5458-b84e-b31991549c84)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d937c2c5-8dc6-5458-b84e-b31991549c84)
 

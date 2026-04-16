@@ -10,5 +10,5 @@ Automate product creation and catalog organization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Catalog Manager'](https://uplizd.ai/solutions/01da09a3-ace5-56ac-803f-4944d4b8043a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/01da09a3-ace5-56ac-803f-4944d4b8043a)
 

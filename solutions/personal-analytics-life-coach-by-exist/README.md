@@ -10,5 +10,5 @@ Transform your data into actionable insights for better living
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Personal Analytics Life Coach'](https://uplizd.ai/solutions/cf5bc860-08d0-5dd2-8c69-3dc51f210d91)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cf5bc860-08d0-5dd2-8c69-3dc51f210d91)
 

@@ -10,5 +10,5 @@ Launch complete Meta ad campaigns from brief to live in minutes
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Rapid Campaign Deployment Assistant'](https://uplizd.ai/solutions/4253affd-8d8f-5e0a-a404-76f9c5fd2cf1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4253affd-8d8f-5e0a-a404-76f9c5fd2cf1)
 

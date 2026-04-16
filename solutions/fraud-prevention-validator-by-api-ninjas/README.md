@@ -10,5 +10,5 @@ Automated validation of financial accounts and email addresses for fraud prevent
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Fraud Prevention Validator'](https://uplizd.ai/solutions/27a23830-eef3-52ae-81d8-69faf40c60c8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/27a23830-eef3-52ae-81d8-69faf40c60c8)
 

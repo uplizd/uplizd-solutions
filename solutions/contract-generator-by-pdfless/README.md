@@ -10,5 +10,5 @@ Generate professional contracts from templates instantly
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contract Generator'](https://uplizd.ai/solutions/c9b3266f-1c5f-5fc1-8d0b-ed71e142eb6c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c9b3266f-1c5f-5fc1-8d0b-ed71e142eb6c)
 

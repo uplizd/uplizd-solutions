@@ -10,5 +10,5 @@ Generate detailed project estimates with historical data and win rate optimizati
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Estimate Creator'](https://uplizd.ai/solutions/54828a9c-2672-5137-8af1-87fcfca2803a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/54828a9c-2672-5137-8af1-87fcfca2803a)
 

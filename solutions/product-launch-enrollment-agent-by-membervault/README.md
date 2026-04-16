@@ -10,5 +10,5 @@ Automatically manage course enrollments during product launches and promotions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Launch Enrollment Agent'](https://uplizd.ai/solutions/e60cc357-65f3-55fd-8a7a-aa29c6f408a9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e60cc357-65f3-55fd-8a7a-aa29c6f408a9)
 

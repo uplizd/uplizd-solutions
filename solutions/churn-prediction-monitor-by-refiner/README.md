@@ -12,7 +12,7 @@ The Churn Prediction Monitor is an intelligent Uplizd workflow designed to analy
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAG5JREFUSEtjZKAQMFKooJGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgQAA5+oD6a7h52cAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/c6ec6881-ed85-5ddc-b696-9d139cdf8daf)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c6ec6881-ed85-5ddc-b696-9d139cdf8daf)
 
 ---
 

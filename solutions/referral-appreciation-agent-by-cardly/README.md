@@ -10,5 +10,5 @@ Strengthen referral relationships with timely physical thank you cards
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Referral Appreciation Agent'](https://uplizd.ai/solutions/1b21ad9b-80ed-58ae-9321-242922479b85)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1b21ad9b-80ed-58ae-9321-242922479b85)
 

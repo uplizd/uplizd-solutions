@@ -10,5 +10,5 @@ Ensures secure and complete removal of departing employees from SharePoint syste
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Employee Offboarding Security Agent'](https://uplizd.ai/solutions/e457c75c-031b-5d68-95fd-75b1467564e3)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e457c75c-031b-5d68-95fd-75b1467564e3)
 

@@ -10,5 +10,5 @@ Extract qualified leads from business directories and websites at scale
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Generation Scraper'](https://uplizd.ai/solutions/d34d5cb4-6f39-5d11-be90-2658d03dbefd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d34d5cb4-6f39-5d11-be90-2658d03dbefd)
 

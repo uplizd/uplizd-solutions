@@ -10,5 +10,5 @@ Automatically create and send professional proposals from CRM data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Proposal Automation Agent'](https://uplizd.ai/solutions/5241e9f4-824b-5603-aeff-83d41b895099)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5241e9f4-824b-5603-aeff-83d41b895099)
 

@@ -10,5 +10,5 @@ Optimize project resource allocation based on historical time tracking data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Project Resource Optimization Agent'](https://uplizd.ai/solutions/06a92e61-ebaf-5b9d-b0b3-97b1314a14cb)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/06a92e61-ebaf-5b9d-b0b3-97b1314a14cb)
 

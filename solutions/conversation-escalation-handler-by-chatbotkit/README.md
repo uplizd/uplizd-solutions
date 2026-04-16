@@ -10,5 +10,5 @@ Intelligently identify and route complex conversations from bots to human agents
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Conversation Escalation Handler'](https://uplizd.ai/solutions/3147ff42-e7e5-533f-b452-09c8ef7754f1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3147ff42-e7e5-533f-b452-09c8ef7754f1)
 

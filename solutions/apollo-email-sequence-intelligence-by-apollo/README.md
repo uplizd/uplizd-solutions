@@ -12,7 +12,7 @@ The Apollo Email Sequence Intelligence workflow leverages Uplizd and the Composi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0d944370-3591-5063-a890-b052d83cb130)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0d944370-3591-5063-a890-b052d83cb130)
 
 ---
 

@@ -10,5 +10,5 @@ Transform meeting discussions into searchable organizational knowledge
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Meeting Knowledge Base Builder'](https://uplizd.ai/solutions/238f75f3-fc17-5b88-84c2-70ce371f6edc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/238f75f3-fc17-5b88-84c2-70ce371f6edc)
 

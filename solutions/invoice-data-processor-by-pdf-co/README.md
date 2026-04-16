@@ -10,5 +10,5 @@ Automatically extract and convert invoice data to structured formats
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Data Processor'](https://uplizd.ai/solutions/3fcdedf8-c200-5313-8db5-a7d5ed684ee1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3fcdedf8-c200-5313-8db5-a7d5ed684ee1)
 

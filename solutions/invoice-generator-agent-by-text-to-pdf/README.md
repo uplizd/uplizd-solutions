@@ -10,5 +10,5 @@ Create professional invoices and convert to PDF automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Generator Agent'](https://uplizd.ai/solutions/c6a85721-4384-5bd6-882f-cce649e91848)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c6a85721-4384-5bd6-882f-cce649e91848)
 

@@ -10,5 +10,5 @@ Convert markdown documentation to HTML for web publishing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Markdown to Web Publisher'](https://uplizd.ai/solutions/f7c081ae-e938-557b-9062-effb876f01b8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f7c081ae-e938-557b-9062-effb876f01b8)
 

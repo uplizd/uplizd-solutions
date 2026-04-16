@@ -12,7 +12,7 @@ The Competitor Link Intelligence solution enables marketing and growth teams to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/781dee59-6f1f-547b-b56f-19949898989b)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/781dee59-6f1f-547b-b56f-19949898989b)
 
 ---
 

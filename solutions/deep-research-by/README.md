@@ -10,5 +10,5 @@ Conducts in-depth, multi-source research to produce comprehensive, well-structur
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Deep Research'](https://uplizd.ai/solutions/05efc378-f122-5a08-97ca-0c8c0011ef52)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/05efc378-f122-5a08-97ca-0c8c0011ef52)
 

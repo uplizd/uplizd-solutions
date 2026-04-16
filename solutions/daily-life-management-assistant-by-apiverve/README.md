@@ -10,5 +10,5 @@ Handle everyday calculations and information needs automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Daily Life Management Assistant'](https://uplizd.ai/solutions/a49b19f9-d34f-5550-ab2b-5d352a37b378)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a49b19f9-d34f-5550-ab2b-5d352a37b378)
 

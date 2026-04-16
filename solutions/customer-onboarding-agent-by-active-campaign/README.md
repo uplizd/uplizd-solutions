@@ -10,5 +10,5 @@ Streamline new customer onboarding with personalized automation sequences
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Onboarding Agent'](https://uplizd.ai/solutions/b315fac0-c99a-5566-bbc4-cd539936c419)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b315fac0-c99a-5566-bbc4-cd539936c419)
 

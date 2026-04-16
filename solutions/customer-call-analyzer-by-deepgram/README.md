@@ -10,5 +10,5 @@ Analyze sales and support calls to improve customer interactions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Call Analyzer'](https://uplizd.ai/solutions/f5770535-94f5-5773-8e9e-61de1cc7b5c7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f5770535-94f5-5773-8e9e-61de1cc7b5c7)
 

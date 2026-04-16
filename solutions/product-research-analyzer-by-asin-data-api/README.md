@@ -10,5 +10,5 @@ Comprehensive Amazon product analysis for informed business decisions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Research Analyzer'](https://uplizd.ai/solutions/ed5f5e53-ecc2-589d-9349-ba5634ffc30d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ed5f5e53-ecc2-589d-9349-ba5634ffc30d)
 

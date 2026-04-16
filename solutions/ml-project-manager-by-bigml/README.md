@@ -10,5 +10,5 @@ Automatically organize and manage machine learning projects with intelligent res
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'ML Project Manager'](https://uplizd.ai/solutions/96229b3e-9288-5841-8970-78129fec4e87)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/96229b3e-9288-5841-8970-78129fec4e87)
 

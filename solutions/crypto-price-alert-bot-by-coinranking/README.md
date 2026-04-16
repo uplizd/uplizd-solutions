@@ -10,5 +10,5 @@ Smart price monitoring with customizable notifications
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Crypto Price Alert Bot'](https://uplizd.ai/solutions/6e2e16a9-19ff-53bd-9642-613d702041c4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6e2e16a9-19ff-53bd-9642-613d702041c4)
 

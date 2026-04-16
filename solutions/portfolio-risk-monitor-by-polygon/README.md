@@ -10,5 +10,5 @@ Automated portfolio risk assessment using market data and technical indicators
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Portfolio Risk Monitor'](https://uplizd.ai/solutions/bcab2d91-e09e-5f05-ad38-999b287e9179)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bcab2d91-e09e-5f05-ad38-999b287e9179)
 

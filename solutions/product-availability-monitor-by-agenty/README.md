@@ -10,5 +10,5 @@ Track product stock levels across multiple suppliers and marketplaces
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Availability Monitor'](https://uplizd.ai/solutions/8a566870-0b3c-56e7-9ed3-c80ab842452c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8a566870-0b3c-56e7-9ed3-c80ab842452c)
 

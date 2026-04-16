@@ -10,5 +10,5 @@ Automate vendor contract creation and approval workflows for procurement teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Vendor Agreement Management Agent'](https://uplizd.ai/solutions/87c3e5c9-6a62-5ae8-bb42-a0330e86ea46)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/87c3e5c9-6a62-5ae8-bb42-a0330e86ea46)
 

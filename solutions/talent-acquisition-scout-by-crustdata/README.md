@@ -10,5 +10,5 @@ Identify high-growth companies for passive recruiting targets
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Talent Acquisition Scout'](https://uplizd.ai/solutions/4913f293-006d-59a9-8a28-e2e64e0873a0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4913f293-006d-59a9-8a28-e2e64e0873a0)
 

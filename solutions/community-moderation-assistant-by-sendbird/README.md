@@ -12,7 +12,7 @@ The Community Moderation Assistant (Uplizd) leverages AI-driven workflows to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhL7c5BDQAwDAOx/648sE8gQfBwT0qS1H2q1wIAAMB/BwAAwH8HAAAAvwMAAAD/HwAAAP8fAAAAvwMAAAD/HwAAAP8fAABgBwAA8g==)](https://uplizd.ai/solutions/cf859de5-7fb4-5b35-a2d4-c219f2969966)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cf859de5-7fb4-5b35-a2d4-c219f2969966)
 
 ---
 

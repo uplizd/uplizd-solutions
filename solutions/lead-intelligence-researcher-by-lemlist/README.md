@@ -10,5 +10,5 @@ Enrich lead profiles with comprehensive research before outreach
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Intelligence Researcher'](https://uplizd.ai/solutions/0037d69c-3757-51cc-a66b-d8229c313c06)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0037d69c-3757-51cc-a66b-d8229c313c06)
 

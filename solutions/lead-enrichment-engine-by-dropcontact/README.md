@@ -10,5 +10,5 @@ Transform incomplete leads into verified contact profiles automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Enrichment Engine'](https://uplizd.ai/solutions/b3d3ad4b-c11c-5339-8913-e478140bf8ae)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b3d3ad4b-c11c-5339-8913-e478140bf8ae)
 

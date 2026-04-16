@@ -10,5 +10,5 @@ Automate team access provisioning and role management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Access Manager'](https://uplizd.ai/solutions/74a93880-6dc5-5268-8637-e8655f4885e7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/74a93880-6dc5-5268-8637-e8655f4885e7)
 

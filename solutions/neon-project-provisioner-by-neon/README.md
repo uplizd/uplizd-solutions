@@ -10,5 +10,5 @@ Automate Postgres project setup with branch management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Neon Project Provisioner'](https://uplizd.ai/solutions/46a8ef05-e943-5df0-abe6-4bed24fbfe75)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/46a8ef05-e943-5df0-abe6-4bed24fbfe75)
 

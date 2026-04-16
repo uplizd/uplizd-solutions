@@ -10,5 +10,5 @@ Keep product catalogs updated across multiple retail platforms
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Catalog Synchronizer'](https://uplizd.ai/solutions/8e30332f-d7be-5afc-828f-9549cf25ad30)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8e30332f-d7be-5afc-828f-9549cf25ad30)
 

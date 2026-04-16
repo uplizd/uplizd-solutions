@@ -12,7 +12,7 @@ The AI Research Assistant (Uplizd) leverages the power of Perplexity AI to trans
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-Launch%20Solution-blue)](https://uplizd.ai/solutions/91c5368e-b457-5897-a77a-2952ab679371)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/91c5368e-b457-5897-a77a-2952ab679371)
 
 ---
 

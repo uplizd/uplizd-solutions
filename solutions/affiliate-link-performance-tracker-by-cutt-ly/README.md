@@ -12,7 +12,7 @@ The Affiliate Link Performance Tracker (Uplizd) automates the monitoring and ana
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBfQgIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIgAANwcBAZp1P+wAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/cf7927bc-d2ce-5e6d-bc45-1369c81480d1)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cf7927bc-d2ce-5e6d-bc45-1369c81480d1)
 
 ---
 

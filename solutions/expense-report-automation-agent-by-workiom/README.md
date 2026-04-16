@@ -10,5 +10,5 @@ Automatically process and categorize expense reports in Workiom
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Expense Report Automation Agent'](https://uplizd.ai/solutions/9c8a602d-299b-56ab-b138-6dcfacc99ae2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c8a602d-299b-56ab-b138-6dcfacc99ae2)
 

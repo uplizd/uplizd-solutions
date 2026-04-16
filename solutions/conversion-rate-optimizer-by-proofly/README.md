@@ -10,5 +10,5 @@ Automatically optimize social proof campaigns based on performance data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Conversion Rate Optimizer'](https://uplizd.ai/solutions/20f02908-a3a0-5235-8308-396311f877b9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/20f02908-a3a0-5235-8308-396311f877b9)
 

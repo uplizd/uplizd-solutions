@@ -10,5 +10,5 @@ Intelligently manage subscriber preferences and reduce unsubscribe rates
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Subscription Preference Manager'](https://uplizd.ai/solutions/09fd8731-2d8f-5e36-9ad7-d5ae9e9606f1)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/09fd8731-2d8f-5e36-9ad7-d5ae9e9606f1)
 

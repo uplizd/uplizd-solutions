@@ -10,5 +10,5 @@ Prevent equipment failures before they happen using AI-powered predictive analyt
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Predictive Maintenance Advisor'](https://uplizd.ai/solutions/606aa38c-3f75-5e2b-b653-762ac89abc63)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/606aa38c-3f75-5e2b-b653-762ac89abc63)
 

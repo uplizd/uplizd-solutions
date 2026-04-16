@@ -10,5 +10,5 @@ Discover high-impact content opportunities and keyword gaps
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'SEO Content Opportunity Scout'](https://uplizd.ai/solutions/fa82d8e6-4221-54ad-b1c1-afef15841b0c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fa82d8e6-4221-54ad-b1c1-afef15841b0c)
 

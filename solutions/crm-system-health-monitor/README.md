@@ -14,7 +14,7 @@ A Uplizd AI workflow that continuously monitors the operational health of your C
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/84f88cdc-b2be-505e-997e-df55ac88f1c6)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/84f88cdc-b2be-505e-997e-df55ac88f1c6)
 
 ---
 ## Who is this for?

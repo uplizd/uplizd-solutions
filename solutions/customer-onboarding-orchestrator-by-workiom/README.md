@@ -10,5 +10,5 @@ Streamline new customer onboarding with automated task creation and tracking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Onboarding Orchestrator'](https://uplizd.ai/solutions/8bec89ae-a7fd-5c8e-9687-d2a901dfabda)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8bec89ae-a7fd-5c8e-9687-d2a901dfabda)
 

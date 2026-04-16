@@ -10,5 +10,5 @@ Automatically generate product visuals and catalogs
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Product Catalog Visualizer'](https://uplizd.ai/solutions/0acdc623-2db5-54eb-a7ba-312ced9f2b4c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0acdc623-2db5-54eb-a7ba-312ced9f2b4c)
 

@@ -10,5 +10,5 @@ Streamline customer onboarding with automated project creation and task manageme
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Onboarding Automation Agent'](https://uplizd.ai/solutions/e1963dfa-a4cf-5968-b9df-0e17179da709)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e1963dfa-a4cf-5968-b9df-0e17179da709)
 

@@ -10,5 +10,5 @@ Optimize your content strategy based on link engagement data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Content Link Performance Optimizer'](https://uplizd.ai/solutions/56128e04-3d26-58be-b039-3e5eff6be269)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/56128e04-3d26-58be-b039-3e5eff6be269)
 

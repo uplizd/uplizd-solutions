@@ -10,5 +10,5 @@ Automatically extract and organize invoice data from PDF and image files
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Invoice Data Extractor'](https://uplizd.ai/solutions/818dc29f-af51-528c-9a0d-4c9e0d3d6303)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/818dc29f-af51-528c-9a0d-4c9e0d3d6303)
 

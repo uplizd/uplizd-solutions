@@ -10,5 +10,5 @@ Instantly validate email addresses during user registration and form submissions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Real-Time Email Validator'](https://uplizd.ai/solutions/2d13cc6e-dd75-5e93-ad95-1ead6681e1dc)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2d13cc6e-dd75-5e93-ad95-1ead6681e1dc)
 

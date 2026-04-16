@@ -10,5 +10,5 @@ Generate comprehensive order performance insights and trends
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Order Analytics Reporter'](https://uplizd.ai/solutions/a938f4e0-c955-5d2f-9d32-12b247755faf)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a938f4e0-c955-5d2f-9d32-12b247755faf)
 

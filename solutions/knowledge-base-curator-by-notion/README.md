@@ -10,5 +10,5 @@ Automatically organize and structure team knowledge into searchable wikis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Knowledge Base Curator'](https://uplizd.ai/solutions/24ed42f8-91f5-5999-8eac-8b3c712ac0c6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/24ed42f8-91f5-5999-8eac-8b3c712ac0c6)
 

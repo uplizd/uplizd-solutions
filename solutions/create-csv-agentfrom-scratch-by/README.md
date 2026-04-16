@@ -10,5 +10,5 @@ A step-by-step workflow that builds a CSV-processing agent
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Create CSV Agent from Scratch'](https://uplizd.ai/solutions/7b1fae87-f453-569f-8673-69242fceb5b9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7b1fae87-f453-569f-8673-69242fceb5b9)
 

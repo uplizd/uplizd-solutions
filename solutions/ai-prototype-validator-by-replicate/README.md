@@ -12,7 +12,7 @@ The AI Prototype Validator (Uplizd) streamlines the pre-development phase by ena
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/24bfb2e4-c3b7-5d00-852a-60f78fb4a35c)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/24bfb2e4-c3b7-5d00-852a-60f78fb4a35c)
 
 ---
 

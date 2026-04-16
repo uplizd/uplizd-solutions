@@ -10,5 +10,5 @@ Automatically process and qualify inbound leads
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Intake Processor'](https://uplizd.ai/solutions/295d8ddb-50c0-50f0-8571-2806b7480c27)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/295d8ddb-50c0-50f0-8571-2806b7480c27)
 

@@ -11,5 +11,5 @@ All this happens locally, no API calls, no cloud processing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Offline Contract Auditor'](https://uplizd.ai/solutions/1bc51309-1bf0-5231-97d0-2fed499bbae6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1bc51309-1bf0-5231-97d0-2fed499bbae6)
 

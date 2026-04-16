@@ -10,5 +10,5 @@ Streamline user research and interview documentation with professional transcrip
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Interview Documentation Assistant'](https://uplizd.ai/solutions/ccf86e43-865a-525f-b3e4-cd5423e3ab23)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ccf86e43-865a-525f-b3e4-cd5423e3ab23)
 

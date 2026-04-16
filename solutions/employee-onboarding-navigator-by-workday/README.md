@@ -10,5 +10,5 @@ Guide new hires through Workday setup with personalized assistance
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Employee Onboarding Navigator'](https://uplizd.ai/solutions/7113a2a5-353f-50c0-ac95-25b78d7b7da7)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7113a2a5-353f-50c0-ac95-25b78d7b7da7)
 

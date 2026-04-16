@@ -10,5 +10,5 @@ Track and analyze your published content performance automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Content Performance Monitor'](https://uplizd.ai/solutions/4d2df3f4-e033-55b5-ae9b-f01f0dee3289)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4d2df3f4-e033-55b5-ae9b-f01f0dee3289)
 

@@ -10,5 +10,5 @@ This workflow uses the Veo model to generate videos from user prompts and automa
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Video Generator with Veo & Google Drive'](https://uplizd.ai/solutions/9c9ee0a3-2f50-5b93-b0e3-bc1938a4113b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c9ee0a3-2f50-5b93-b0e3-bc1938a4113b)
 

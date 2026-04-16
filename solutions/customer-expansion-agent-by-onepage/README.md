@@ -10,5 +10,5 @@ Identify upsell and cross-sell opportunities by monitoring customer company chan
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Expansion Agent'](https://uplizd.ai/solutions/96e01328-4443-5790-96a2-2069fd444b0a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/96e01328-4443-5790-96a2-2069fd444b0a)
 

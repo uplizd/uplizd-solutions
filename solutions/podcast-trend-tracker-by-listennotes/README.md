@@ -10,5 +10,5 @@ Monitor emerging podcast trends and topics in your industry
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Podcast Trend Tracker'](https://uplizd.ai/solutions/cefd6f1d-941a-54be-bc3a-00d7776d41d8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cefd6f1d-941a-54be-bc3a-00d7776d41d8)
 

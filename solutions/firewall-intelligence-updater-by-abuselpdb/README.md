@@ -10,5 +10,5 @@ Dynamic firewall rules based on real-time threat intelligence
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Firewall Intelligence Updater'](https://uplizd.ai/solutions/75d60b47-61dc-5c36-9f00-53ae8d806a42)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/75d60b47-61dc-5c36-9f00-53ae8d806a42)
 

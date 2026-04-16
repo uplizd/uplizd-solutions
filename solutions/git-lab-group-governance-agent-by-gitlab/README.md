@@ -10,5 +10,5 @@ Automate group management, permissions, and member oversight
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'GitLab Group Governance Agent'](https://uplizd.ai/solutions/680b9edb-f3bd-59bc-b934-0e2fdd71400f)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/680b9edb-f3bd-59bc-b934-0e2fdd71400f)
 

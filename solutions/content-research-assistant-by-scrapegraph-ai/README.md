@@ -10,5 +10,5 @@ Automatically research and compile content from multiple sources for blog posts 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Content Research Assistant'](https://uplizd.ai/solutions/455990e9-a4d6-5cd4-a50f-74f6893aa879)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/455990e9-a4d6-5cd4-a50f-74f6893aa879)
 

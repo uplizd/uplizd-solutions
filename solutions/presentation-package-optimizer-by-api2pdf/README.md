@@ -10,5 +10,5 @@ Convert and optimize presentation materials for professional distribution
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Presentation Package Optimizer'](https://uplizd.ai/solutions/08360449-1b8d-5fa1-b64c-68fe7847adb6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/08360449-1b8d-5fa1-b64c-68fe7847adb6)
 

@@ -10,5 +10,5 @@ This template iterates over search results using LoopComponent and translates ea
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Research Translation Loop'](https://uplizd.ai/solutions/f6543091-fb69-513f-9db6-12d4ae8db5fe)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f6543091-fb69-513f-9db6-12d4ae8db5fe)
 

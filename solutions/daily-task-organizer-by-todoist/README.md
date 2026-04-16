@@ -10,5 +10,5 @@ Automatically organize and prioritize your daily tasks
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Daily Task Organizer'](https://uplizd.ai/solutions/0465d06a-d758-561c-bd4a-18d4b0c37a6c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0465d06a-d758-561c-bd4a-18d4b0c37a6c)
 

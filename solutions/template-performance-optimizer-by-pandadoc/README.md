@@ -10,5 +10,5 @@ Analyze and optimize document templates based on success rates and usage pattern
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Template Performance Optimizer'](https://uplizd.ai/solutions/60d5d482-739c-5c33-bcf6-9ca4dd817836)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/60d5d482-739c-5c33-bcf6-9ca4dd817836)
 

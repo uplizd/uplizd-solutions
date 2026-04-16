@@ -10,5 +10,5 @@ Automated fact-checking and source verification for content accuracy
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Content Fact Verification Agent'](https://uplizd.ai/solutions/802a46f1-b960-5021-afe2-524f2b78ab35)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/802a46f1-b960-5021-afe2-524f2b78ab35)
 

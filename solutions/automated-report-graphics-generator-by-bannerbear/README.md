@@ -12,7 +12,7 @@ The Automated Report Graphics Generator is an intelligent Uplizd workflow that b
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6f328ee0-6af2-5b9e-8894-900391912844)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6f328ee0-6af2-5b9e-8894-900391912844)
 
 ---
 

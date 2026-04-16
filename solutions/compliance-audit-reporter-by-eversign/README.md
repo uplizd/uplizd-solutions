@@ -12,7 +12,7 @@ The Compliance Audit Reporter (Uplizd) streamlines the verification of signed do
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84614a8c-9ef6-5779-baa4-1fcdb0c147bb)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/84614a8c-9ef6-5779-baa4-1fcdb0c147bb)
 
 ---
 

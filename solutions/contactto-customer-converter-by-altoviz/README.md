@@ -10,5 +10,5 @@ Automatically convert qualified leads into billing-ready customers with complete
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Contact to Customer Converter'](https://uplizd.ai/solutions/37cca133-18f8-5875-9c80-f101a71db276)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/37cca133-18f8-5875-9c80-f101a71db276)
 

@@ -10,5 +10,5 @@ Get comprehensive market intelligence on any NFT collection
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'NFT Collection Analytics Reporter'](https://uplizd.ai/solutions/13d1801b-4c19-5e44-9343-00ee359faea9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/13d1801b-4c19-5e44-9343-00ee359faea9)
 

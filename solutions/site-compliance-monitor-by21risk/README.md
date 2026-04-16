@@ -10,5 +10,5 @@ Real-time compliance monitoring for individual sites
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Site Compliance Monitor'](https://uplizd.ai/solutions/00ceb6a6-e5fa-5f51-bf8c-99ff74f9aff2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/00ceb6a6-e5fa-5f51-bf8c-99ff74f9aff2)
 

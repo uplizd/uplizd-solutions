@@ -10,5 +10,5 @@ This Agent is designed to systematically execute a series of tasks following a m
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Sequential Tasks Agents'](https://uplizd.ai/solutions/39d23157-255d-5fd3-8276-4f81a1663e30)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/39d23157-255d-5fd3-8276-4f81a1663e30)
 

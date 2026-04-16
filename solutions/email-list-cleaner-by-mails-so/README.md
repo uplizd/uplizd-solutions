@@ -10,5 +10,5 @@ Automatically clean and validate your email lists to improve deliverability
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Email List Cleaner'](https://uplizd.ai/solutions/a0c6dce1-b5f2-570b-bd4a-fca126d3b9d5)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a0c6dce1-b5f2-570b-bd4a-fca126d3b9d5)
 

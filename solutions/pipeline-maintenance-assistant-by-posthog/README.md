@@ -10,5 +10,5 @@ Monitor and maintain PostHog data pipelines automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Pipeline Maintenance Assistant'](https://uplizd.ai/solutions/3ef80398-9bec-57cd-8c43-5e13e117393c)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3ef80398-9bec-57cd-8c43-5e13e117393c)
 

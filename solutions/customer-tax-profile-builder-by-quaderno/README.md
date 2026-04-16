@@ -10,5 +10,5 @@ Automatically create tax-compliant customer profiles during onboarding
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Tax Profile Builder'](https://uplizd.ai/solutions/3aba7b09-f573-5655-a538-498f0587e296)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3aba7b09-f573-5655-a538-498f0587e296)
 

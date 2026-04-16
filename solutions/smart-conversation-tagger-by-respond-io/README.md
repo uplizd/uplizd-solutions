@@ -10,5 +10,5 @@ Automatically categorize and tag customer conversations for better organization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Conversation Tagger'](https://uplizd.ai/solutions/eb929a4a-dab2-516b-9a81-3f6032cb9f4b)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/eb929a4a-dab2-516b-9a81-3f6032cb9f4b)
 

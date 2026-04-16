@@ -10,5 +10,5 @@ Transform payment data into actionable customer insights and growth opportunitie
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Customer Payment Insights Generator'](https://uplizd.ai/solutions/398b0142-51ce-51ff-a985-4ef4f429aff2)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/398b0142-51ce-51ff-a985-4ef4f429aff2)
 

@@ -12,7 +12,7 @@ The Automated Carbon Credit Buyer (Uplizd) is an intelligent workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d969ae38-0ace-5952-8640-d52f26a503d5)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d969ae38-0ace-5952-8640-d52f26a503d5)
 
 ---
 

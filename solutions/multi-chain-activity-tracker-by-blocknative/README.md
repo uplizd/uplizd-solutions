@@ -10,5 +10,5 @@ Monitor and analyze transaction patterns across multiple blockchains
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Multi-Chain Activity Tracker'](https://uplizd.ai/solutions/7ca82e74-540c-52a5-8689-5dcd06958df0)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7ca82e74-540c-52a5-8689-5dcd06958df0)
 

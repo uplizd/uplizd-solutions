@@ -10,5 +10,5 @@ Optimize staff scheduling and performance tracking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Staff Performance Monitor'](https://uplizd.ai/solutions/cb46b7cc-eb30-5975-9c07-d5e60e9521ea)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cb46b7cc-eb30-5975-9c07-d5e60e9521ea)
 

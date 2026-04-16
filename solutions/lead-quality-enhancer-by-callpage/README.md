@@ -10,5 +10,5 @@ Optimize CallPage messaging and manager assignment for higher quality leads
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Quality Enhancer'](https://uplizd.ai/solutions/2bec6f19-6220-5eeb-95f7-fc6da06c0a4d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2bec6f19-6220-5eeb-95f7-fc6da06c0a4d)
 

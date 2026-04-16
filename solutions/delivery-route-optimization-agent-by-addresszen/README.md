@@ -10,5 +10,5 @@ Optimize delivery routes with verified, complete addresses
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Delivery Route Optimization Agent'](https://uplizd.ai/solutions/c1b9da1c-27a4-522c-a39c-2a958e5df0d9)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c1b9da1c-27a4-522c-a39c-2a958e5df0d9)
 

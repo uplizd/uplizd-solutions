@@ -12,7 +12,7 @@ The API Usage Optimizer (Uplizd) is an automated workflow designed to track, ana
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5845fa1a-b281-54d5-b93e-432ab8a2ed39)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5845fa1a-b281-54d5-b93e-432ab8a2ed39)
 
 ---
 

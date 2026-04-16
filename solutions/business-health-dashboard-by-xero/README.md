@@ -12,7 +12,7 @@ The Business Health Dashboard (Uplizd) provides a centralized, automated workflo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5ad6d301-1d4e-5a07-b74f-de314f97529f)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5ad6d301-1d4e-5a07-b74f-de314f97529f)
 
 ---
 

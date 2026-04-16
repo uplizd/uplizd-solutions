@@ -10,5 +10,5 @@ Identify missing knowledge base articles from support patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Knowledge Gap Identifier'](https://uplizd.ai/solutions/6e0a9526-8dce-599c-92be-6a1d00008a72)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6e0a9526-8dce-599c-92be-6a1d00008a72)
 

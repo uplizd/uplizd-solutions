@@ -10,5 +10,5 @@ Instantly draft personalized responses to sales inquiries and leads
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Lead Response Assistant'](https://uplizd.ai/solutions/44b05d8d-fe10-5ef9-85df-efe1ca5a1cf4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/44b05d8d-fe10-5ef9-85df-efe1ca5a1cf4)
 

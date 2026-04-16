@@ -10,5 +10,5 @@ Rapidly prototype and test machine learning models
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'ML Model Prototyper'](https://uplizd.ai/solutions/882b9869-6ddc-56c4-9ec2-a45a447956d8)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/882b9869-6ddc-56c4-9ec2-a45a447956d8)
 

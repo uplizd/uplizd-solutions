@@ -10,5 +10,5 @@ An AI-powered meeting summary generator that transcribes and summarizes meetings
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Meeting Summary'](https://uplizd.ai/solutions/138c4b3c-a8bc-5743-becd-dafacf710b69)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/138c4b3c-a8bc-5743-becd-dafacf710b69)
 

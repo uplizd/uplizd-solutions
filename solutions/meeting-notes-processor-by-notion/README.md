@@ -10,5 +10,5 @@ Transform raw meeting notes into structured, actionable documentation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Meeting Notes Processor'](https://uplizd.ai/solutions/d26c813a-1b36-55ad-bce5-9cc22b97fdf6)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d26c813a-1b36-55ad-bce5-9cc22b97fdf6)
 

@@ -10,5 +10,5 @@ This workflow allows users to search and explore scientific papers from arXiv us
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Paper Finder Agent with arXiv and Save OneDrive'](https://uplizd.ai/solutions/08d51a03-da13-50b8-abc7-051afc911835)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/08d51a03-da13-50b8-abc7-051afc911835)
 

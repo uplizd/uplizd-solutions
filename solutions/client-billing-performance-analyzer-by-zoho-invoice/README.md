@@ -12,7 +12,7 @@ The Client Billing Performance Analyzer is an intelligent Uplizd workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b215963a-ed88-561f-a7af-38a4f5333b36)
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b215963a-ed88-561f-a7af-38a4f5333b36)
 
 ---
 

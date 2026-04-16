@@ -10,5 +10,5 @@ Automate vendor contract creation, approval workflows, and renewal tracking
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Vendor Agreement Manager'](https://uplizd.ai/solutions/52170a23-9caa-59fc-b175-44fdff58c72a)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/52170a23-9caa-59fc-b175-44fdff58c72a)
 

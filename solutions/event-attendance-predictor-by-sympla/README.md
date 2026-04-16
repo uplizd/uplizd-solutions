@@ -10,5 +10,5 @@ AI-powered attendance forecasting and capacity optimization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Event Attendance Predictor'](https://uplizd.ai/solutions/a496a9f7-ed18-527d-aa54-a7de1438893d)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a496a9f7-ed18-527d-aa54-a7de1438893d)
 

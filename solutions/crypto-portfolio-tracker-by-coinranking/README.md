@@ -10,5 +10,5 @@ Automated portfolio monitoring and performance alerts
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Crypto Portfolio Tracker'](https://uplizd.ai/solutions/7199e57d-586e-5069-8718-2db2267158fd)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7199e57d-586e-5069-8718-2db2267158fd)
 

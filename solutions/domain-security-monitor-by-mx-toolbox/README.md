@@ -10,5 +10,5 @@ Automated domain security and DNS health surveillance
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Domain Security Monitor'](https://uplizd.ai/solutions/1c2eae70-7dc3-56cc-b27f-4af4cae4b5a4)**
+[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1c2eae70-7dc3-56cc-b27f-4af4cae4b5a4)
 
