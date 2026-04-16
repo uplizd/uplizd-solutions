@@ -10,5 +10,5 @@ Track and optimize Discord server invite performance automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4c742f35-7125-527b-9d76-e696f9339534)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4c742f35-7125-527b-9d76-e696f9339534)
 

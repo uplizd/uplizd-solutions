@@ -12,7 +12,7 @@ The Asset Compliance Monitor is an intelligent Uplizd workflow that automates th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6056f757-fb43-5d3d-b403-0d94d709dc62)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6056f757-fb43-5d3d-b403-0d94d709dc62)
 
 ---
 

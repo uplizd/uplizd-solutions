@@ -12,7 +12,7 @@ The Backlink Health Auditor is an automated Uplizd AI workflow designed to monit
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4fef7028-4f72-5327-8af2-aefbf7f3be40)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4fef7028-4f72-5327-8af2-aefbf7f3be40)
 
 ---
 

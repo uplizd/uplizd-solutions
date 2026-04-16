@@ -12,7 +12,7 @@ The Communication Compliance Monitor is an intelligent Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/25ffff10-0976-550b-ae3f-1ee15906c63f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/25ffff10-0976-550b-ae3f-1ee15906c63f)
 
 ---
 

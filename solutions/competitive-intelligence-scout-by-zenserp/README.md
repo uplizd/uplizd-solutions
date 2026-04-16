@@ -12,7 +12,7 @@ The Competitive Intelligence Scout is an Uplizd AI workflow designed to automate
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/641eb5ab-6d60-5927-9ec8-a6c34418a2a1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/641eb5ab-6d60-5927-9ec8-a6c34418a2a1)
 
 ---
 

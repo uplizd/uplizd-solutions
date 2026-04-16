@@ -12,7 +12,7 @@ The Campaign Template Deployer (Uplizd) streamlines marketing operations by auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8bcd7f7e-6de7-5f6b-84d1-f0a606bd1c3a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8bcd7f7e-6de7-5f6b-84d1-f0a606bd1c3a)
 
 ---
 

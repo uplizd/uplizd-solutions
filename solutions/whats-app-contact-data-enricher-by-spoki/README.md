@@ -10,5 +10,5 @@ Automatically enrich and maintain clean WhatsApp contact databases with custom f
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7c7f3f5c-97a3-5306-8c56-067af9688cf0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7c7f3f5c-97a3-5306-8c56-067af9688cf0)
 

@@ -12,7 +12,7 @@ The Client Interaction Tracker by Mem0 is an intelligent Uplizd workflow that ca
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e0694737-7579-5d13-abcc-9c71b84f9076)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e0694737-7579-5d13-abcc-9c71b84f9076)
 
 ---
 

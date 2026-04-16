@@ -10,5 +10,5 @@ Track and optimize sales team performance using Salesmate data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6b4334e6-56cb-58b3-b3ed-cf36ce0f98ed)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6b4334e6-56cb-58b3-b3ed-cf36ce0f98ed)
 

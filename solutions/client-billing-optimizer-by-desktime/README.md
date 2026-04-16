@@ -12,7 +12,7 @@ The Client Billing Optimizer is an intelligent Uplizd workflow that bridges the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/557b3bca-8501-569f-9f30-6c775a72400d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/557b3bca-8501-569f-9f30-6c775a72400d)
 
 ---
 

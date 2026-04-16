@@ -12,7 +12,7 @@ The Competitor Intelligence Agent is an automated workflow designed to streamlin
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2d256611-712b-5326-b624-e0bc85157e87)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d256611-712b-5326-b624-e0bc85157e87)
 
 ---
 

@@ -10,5 +10,5 @@ Automatically categorize and track important email attachments
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b17fa21c-d34d-5e16-9af2-6caf89be5cdf)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b17fa21c-d34d-5e16-9af2-6caf89be5cdf)
 

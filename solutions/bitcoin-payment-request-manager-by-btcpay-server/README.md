@@ -12,7 +12,7 @@ The Bitcoin Payment Request Manager is an intelligent Uplizd workflow that autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e9dc0cc8-360d-58eb-9057-923f743b7ce3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e9dc0cc8-360d-58eb-9057-923f743b7ce3)
 
 ---
 

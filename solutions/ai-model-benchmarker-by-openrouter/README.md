@@ -12,7 +12,7 @@ The AI Model Benchmarker (Uplizd) provides a robust framework for evaluating and
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2d2ca3f9-2347-565c-af3b-f01ac3c0e933)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d2ca3f9-2347-565c-af3b-f01ac3c0e933)
 
 ---
 

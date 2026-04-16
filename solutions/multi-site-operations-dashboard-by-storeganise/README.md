@@ -10,5 +10,5 @@ Real-time consolidated view of all storage facilities with automated insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c857e73e-fa29-5e70-adde-d4ce31106adb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c857e73e-fa29-5e70-adde-d4ce31106adb)
 

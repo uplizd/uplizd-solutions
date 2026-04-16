@@ -12,7 +12,7 @@ The Account Research Agent is an intelligent workflow designed to automate the c
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/44bfe9e2-5bdf-5f13-b94b-0c831560f272)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/44bfe9e2-5bdf-5f13-b94b-0c831560f272)
 
 ---
 

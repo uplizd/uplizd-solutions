@@ -10,5 +10,5 @@ Clone successful opportunities with products for similar deals
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cfe76175-6b34-5f35-8454-a292e5bad646)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cfe76175-6b34-5f35-8454-a292e5bad646)
 

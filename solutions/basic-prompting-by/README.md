@@ -12,7 +12,7 @@ The Basic Prompting solution provides a foundational AI workflow designed to bri
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cbb036fa-2721-5d52-bc19-21edd5e6dfef)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cbb036fa-2721-5d52-bc19-21edd5e6dfef)
 
 ---
 

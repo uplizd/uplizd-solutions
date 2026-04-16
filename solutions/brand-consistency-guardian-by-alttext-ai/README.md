@@ -12,7 +12,7 @@ The Brand Consistency Guardian is an automated AI workflow designed to ensure th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d778f861-c5a8-5bb7-9ec5-95008674b883)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d778f861-c5a8-5bb7-9ec5-95008674b883)
 
 ---
 

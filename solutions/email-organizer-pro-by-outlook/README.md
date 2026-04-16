@@ -10,5 +10,5 @@ Automatically organize and categorize your inbox using AI-powered rules and fold
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/88b2e643-64fe-5769-9eb6-ec903a16bfce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/88b2e643-64fe-5769-9eb6-ec903a16bfce)
 

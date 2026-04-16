@@ -12,7 +12,7 @@ The Backup Validation Monitor is an intelligent Uplizd AI workflow designed to e
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/56f896a2-ead9-513a-8017-2bd4b89162e4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/56f896a2-ead9-513a-8017-2bd4b89162e4)
 
 ---
 

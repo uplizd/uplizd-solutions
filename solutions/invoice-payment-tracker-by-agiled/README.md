@@ -10,5 +10,5 @@ Monitors overdue invoices and automatically creates follow-up tasks for collecti
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/36e72a24-4fc1-5689-ac0a-fa531463d883)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36e72a24-4fc1-5689-ac0a-fa531463d883)
 

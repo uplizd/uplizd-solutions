@@ -12,7 +12,7 @@ The Brand Audit Reporter is an intelligent Uplizd workflow that automates the as
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6bc0feb9-4214-54e6-a8fc-95909256bbe1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6bc0feb9-4214-54e6-a8fc-95909256bbe1)
 
 ---
 

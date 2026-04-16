@@ -10,5 +10,5 @@ Automatically manage transactional email campaigns across multiple brands
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dde2cd31-f8e4-519e-b5e3-3671be5af15a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dde2cd31-f8e4-519e-b5e3-3671be5af15a)
 

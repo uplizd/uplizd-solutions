@@ -10,5 +10,5 @@ Instantly create structured projects with tasks from brief descriptions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/85a7f874-5759-59fe-bff9-65cfea1d9b89)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/85a7f874-5759-59fe-bff9-65cfea1d9b89)
 

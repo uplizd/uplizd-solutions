@@ -12,7 +12,7 @@ The CallPage Analytics Reporter is an intelligent Uplizd workflow designed to au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d4db2e54-948b-577f-9a3c-a86c91f4ad13)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4db2e54-948b-577f-9a3c-a86c91f4ad13)
 
 ---
 

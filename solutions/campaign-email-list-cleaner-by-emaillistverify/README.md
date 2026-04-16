@@ -12,7 +12,7 @@ The Campaign Email List Cleaner (Uplizd) is an automated workflow designed to sa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e76bf586-c1a1-53c1-a714-ecb21a6ce453)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e76bf586-c1a1-53c1-a714-ecb21a6ce453)
 
 ---
 

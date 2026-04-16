@@ -10,5 +10,5 @@ Organize and optimize meeting resources and file libraries automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/73e85304-9cc7-56cb-9b0e-f5125cbb4d2f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/73e85304-9cc7-56cb-9b0e-f5125cbb4d2f)
 

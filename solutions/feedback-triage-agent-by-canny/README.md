@@ -10,5 +10,5 @@ Automatically categorize and prioritize customer feedback
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/78b13d33-c64e-52e2-8b2e-6c2c29a9f19d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/78b13d33-c64e-52e2-8b2e-6c2c29a9f19d)
 

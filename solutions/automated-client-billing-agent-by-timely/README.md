@@ -12,7 +12,7 @@ The Automated Client Billing Agent streamlines the transition from logged work h
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4a73184e-9902-5bae-aa88-0ca5b6849744)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4a73184e-9902-5bae-aa88-0ca5b6849744)
 
 ---
 

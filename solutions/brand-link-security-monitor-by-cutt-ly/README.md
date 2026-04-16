@@ -12,7 +12,7 @@ The Brand Link Security Monitor is an automated AI workflow designed to protect 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3c6299d7-1516-51d5-927f-642e384bdd81)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3c6299d7-1516-51d5-927f-642e384bdd81)
 
 ---
 

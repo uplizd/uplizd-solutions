@@ -10,5 +10,5 @@ Proactively identify and assess financial risks across your organization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1651f630-9c6f-5f23-9492-ebe8048ea575)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1651f630-9c6f-5f23-9492-ebe8048ea575)
 

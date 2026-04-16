@@ -12,7 +12,7 @@ The Code Review Validator by Uplizd is an intelligent AI workflow that cross-ref
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2885a64c-df3a-5f74-aced-f8960f8b8ca8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2885a64c-df3a-5f74-aced-f8960f8b8ca8)
 
 ---
 

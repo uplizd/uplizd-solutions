@@ -12,7 +12,7 @@ The Certificate Reporting Optimizer is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2e829bc6-1b64-59e7-b90d-bd2c21235708)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2e829bc6-1b64-59e7-b90d-bd2c21235708)
 
 ---
 

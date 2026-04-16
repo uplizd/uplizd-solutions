@@ -10,5 +10,5 @@ Automatically transcribe and process meeting recordings with human-quality accur
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d274fdb9-41a4-556b-b7f9-7f66bfbea096)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d274fdb9-41a4-556b-b7f9-7f66bfbea096)
 

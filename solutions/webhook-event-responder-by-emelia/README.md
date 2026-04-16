@@ -10,5 +10,5 @@ Instantly respond to campaign events with automated follow-up actions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4e04d3f8-e127-5b02-83bb-5fedf2963a05)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4e04d3f8-e127-5b02-83bb-5fedf2963a05)
 

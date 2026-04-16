@@ -15,7 +15,7 @@ A Uplizd AI workflow that monitors deal stages, updates progress, and automatica
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0b7bdce2-561f-5bff-8c70-562b1b0ed531)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b7bdce2-561f-5bff-8c70-562b1b0ed531)
 
 ---
 ## Who is this for?

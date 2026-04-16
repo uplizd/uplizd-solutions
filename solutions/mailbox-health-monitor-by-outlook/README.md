@@ -10,5 +10,5 @@ Proactively monitor and optimize mailbox performance with intelligent health ins
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ad2d40b4-6ff4-515c-9933-3401b6297091)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ad2d40b4-6ff4-515c-9933-3401b6297091)
 

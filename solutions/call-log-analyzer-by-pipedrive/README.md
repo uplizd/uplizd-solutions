@@ -12,7 +12,7 @@ The Call Log Analyzer is an intelligent Uplizd workflow that processes raw call 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a755f73a-6023-5754-b74c-a764bd43ce76)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a755f73a-6023-5754-b74c-a764bd43ce76)
 
 ---
 

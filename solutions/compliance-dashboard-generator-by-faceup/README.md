@@ -12,7 +12,7 @@ The Compliance Dashboard Generator is an intelligent Uplizd AI workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b440bd26-7333-565e-a346-c674ebd11a0a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b440bd26-7333-565e-a346-c674ebd11a0a)
 
 ---
 

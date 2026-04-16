@@ -10,5 +10,5 @@ Smart meeting room booking and conflict resolution through Slack
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/31b18695-cee2-51d8-b510-a8c612b15b4b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/31b18695-cee2-51d8-b510-a8c612b15b4b)
 

@@ -10,5 +10,5 @@ Provide clean, shortened links in customer support interactions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d48555e1-f73e-50fd-b4d0-025c0222d53c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d48555e1-f73e-50fd-b4d0-025c0222d53c)
 

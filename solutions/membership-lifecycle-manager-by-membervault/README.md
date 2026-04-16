@@ -10,5 +10,5 @@ Manage member enrollments and removals based on subscription status
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d27fba7b-3e55-53f6-9b11-f5ff2d5a33cd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d27fba7b-3e55-53f6-9b11-f5ff2d5a33cd)
 

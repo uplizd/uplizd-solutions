@@ -12,7 +12,7 @@ The Accessibility Compliance Generator is an automated Uplizd AI workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/39e6280f-247b-5083-bca7-53d96a4e91f6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/39e6280f-247b-5083-bca7-53d96a4e91f6)
 
 ---
 

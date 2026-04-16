@@ -12,7 +12,7 @@ The Campaign Creative Optimizer is an Uplizd AI workflow designed to streamline 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4dabc4f4-2dae-50e8-97b9-98a7c98a23cf)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4dabc4f4-2dae-50e8-97b9-98a7c98a23cf)
 
 ---
 

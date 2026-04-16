@@ -10,5 +10,5 @@ Automated pre-deployment auditing and post-deployment verification for smart con
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8e481a41-32f7-5237-91cc-51aadedc25b4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8e481a41-32f7-5237-91cc-51aadedc25b4)
 

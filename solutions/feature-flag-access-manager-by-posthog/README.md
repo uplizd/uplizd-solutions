@@ -10,5 +10,5 @@ Automate feature flag permissions and rollout coordination
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bfe4863c-8767-5d23-9a0c-f5273e9c2476)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bfe4863c-8767-5d23-9a0c-f5273e9c2476)
 

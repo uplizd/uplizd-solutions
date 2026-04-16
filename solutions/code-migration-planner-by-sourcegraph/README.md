@@ -12,7 +12,7 @@ The Code Migration Planner is an intelligent Uplizd workflow designed to streaml
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/10227770-713c-5da2-82df-1eb17c385fe9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/10227770-713c-5da2-82df-1eb17c385fe9)
 
 ---
 

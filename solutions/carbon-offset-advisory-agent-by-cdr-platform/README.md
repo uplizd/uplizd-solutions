@@ -12,7 +12,7 @@ The Carbon Offset Advisory Agent is an automated Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1a183b0b-599b-5fd7-bd4b-5703b476b425)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1a183b0b-599b-5fd7-bd4b-5703b476b425)
 
 ---
 

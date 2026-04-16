@@ -10,5 +10,5 @@ Automated file backup and organization system
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f22d252c-e41a-5c14-afde-f2db64c9ef90)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f22d252c-e41a-5c14-afde-f2db64c9ef90)
 

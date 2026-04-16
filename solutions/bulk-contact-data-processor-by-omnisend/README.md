@@ -12,7 +12,7 @@ The Bulk Contact Data Processor is an Uplizd AI workflow designed to streamline 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/662d9256-d9d2-5fb7-be2e-084d5d125f74)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/662d9256-d9d2-5fb7-be2e-084d5d125f74)
 
 ---
 

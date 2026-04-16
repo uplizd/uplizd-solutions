@@ -12,7 +12,7 @@ The B2B Contact Data Enrichment Agent is an automated workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ac76ee76-0e67-5496-a1f2-a2c297e37c7d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ac76ee76-0e67-5496-a1f2-a2c297e37c7d)
 
 ---
 

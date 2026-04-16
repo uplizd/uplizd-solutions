@@ -12,7 +12,7 @@ The Amazon Product Opportunity Scout is an intelligent Uplizd workflow that leve
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/afae5223-ea48-50a2-ad87-578728600e4c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/afae5223-ea48-50a2-ad87-578728600e4c)
 
 ---
 

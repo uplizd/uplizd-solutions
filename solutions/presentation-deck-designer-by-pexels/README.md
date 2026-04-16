@@ -10,5 +10,5 @@ Automatically source professional visuals for business presentations and pitch d
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/60d7be7f-6997-5638-8c50-8b350c5d5a83)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/60d7be7f-6997-5638-8c50-8b350c5d5a83)
 

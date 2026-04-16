@@ -12,7 +12,7 @@ The BART Schedule Optimizer is an intelligent Uplizd workflow designed to analyz
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6ec4ec11-073c-588c-925f-f218bd1e589f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6ec4ec11-073c-588c-925f-f218bd1e589f)
 
 ---
 

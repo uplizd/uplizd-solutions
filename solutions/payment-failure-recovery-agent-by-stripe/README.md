@@ -10,5 +10,5 @@ Automatically retry failed payments and update customer payment methods
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c2e7b73-3968-5a13-9b3c-92bf10045eeb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9c2e7b73-3968-5a13-9b3c-92bf10045eeb)
 

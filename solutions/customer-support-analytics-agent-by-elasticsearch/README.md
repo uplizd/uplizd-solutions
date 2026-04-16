@@ -10,5 +10,5 @@ Extract actionable insights from customer support interactions and system logs
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/66a44780-d514-50da-9fca-2167edcafbd1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/66a44780-d514-50da-9fca-2167edcafbd1)
 

@@ -10,5 +10,5 @@ Automatically organize, download, and manage email attachments with intelligent 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ef0b7372-13b9-52be-90c5-bc4a23024372)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ef0b7372-13b9-52be-90c5-bc4a23024372)
 

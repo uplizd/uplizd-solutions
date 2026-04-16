@@ -12,7 +12,7 @@ The Carbon Removal Reporting Agent streamlines the complex process of tracking, 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c4125e17-e55c-50b5-807a-2c883e1f6eb6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c4125e17-e55c-50b5-807a-2c883e1f6eb6)
 
 ---
 

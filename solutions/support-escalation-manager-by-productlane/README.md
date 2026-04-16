@@ -10,5 +10,5 @@ Automatically escalate critical support issues while managing widget visibility 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a3d12ed4-59b2-5ef6-8823-7f313203e096)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a3d12ed4-59b2-5ef6-8823-7f313203e096)
 

@@ -10,5 +10,5 @@ Orchestrate customer journey from prospect to retention
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/07c7bf0c-e9c8-58e9-a75f-482b74f006e1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/07c7bf0c-e9c8-58e9-a75f-482b74f006e1)
 

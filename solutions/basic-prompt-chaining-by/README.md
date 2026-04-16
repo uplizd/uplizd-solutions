@@ -12,7 +12,7 @@ The Basic Prompt Chaining solution enables complex AI reasoning by linking seque
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1116060e-d060-50c7-8011-f92349e7319f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1116060e-d060-50c7-8011-f92349e7319f)
 
 ---
 

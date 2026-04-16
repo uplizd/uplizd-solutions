@@ -12,7 +12,7 @@ The Bulk LinkedIn Profile Processor is an intelligent Uplizd workflow that autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2706f7e6-716a-520c-8d8e-bb76a338dca1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2706f7e6-716a-520c-8d8e-bb76a338dca1)
 
 ---
 

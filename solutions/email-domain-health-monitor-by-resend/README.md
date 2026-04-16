@@ -10,5 +10,5 @@ Maintain perfect email deliverability with automated domain monitoring
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c44251ad-6d77-5d2b-ab86-7be1d7d1dd89)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c44251ad-6d77-5d2b-ab86-7be1d7d1dd89)
 

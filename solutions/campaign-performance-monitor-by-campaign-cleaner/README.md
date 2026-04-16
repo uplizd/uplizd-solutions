@@ -12,7 +12,7 @@ The Campaign Performance Monitor is an automated Uplizd workflow designed to pro
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0575133d-02b3-54b4-9c0f-846f78aaec8d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0575133d-02b3-54b4-9c0f-846f78aaec8d)
 
 ---
 

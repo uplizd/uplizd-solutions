@@ -12,7 +12,7 @@ The B2B Lead Generation Agent by Agenty is a powerful Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6d16cc1a-d980-5a84-b70c-2bd0fd585677)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6d16cc1a-d980-5a84-b70c-2bd0fd585677)
 
 ---
 

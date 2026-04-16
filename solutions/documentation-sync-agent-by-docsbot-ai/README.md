@@ -10,5 +10,5 @@ Keep your chatbots automatically updated with the latest documentation changes
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/298f01bd-814f-53f4-8706-cb4174d06010)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/298f01bd-814f-53f4-8706-cb4174d06010)
 

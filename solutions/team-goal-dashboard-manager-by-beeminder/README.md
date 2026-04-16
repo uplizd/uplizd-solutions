@@ -10,5 +10,5 @@ Aggregate and visualize team member goals for managers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6aedb5e9-ac96-5b83-b685-2cef515b5e8d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6aedb5e9-ac96-5b83-b685-2cef515b5e8d)
 

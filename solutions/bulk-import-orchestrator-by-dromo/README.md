@@ -12,7 +12,7 @@ The Bulk Import Orchestrator (Uplizd) automates the ingestion and validation of 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0e226002-f2cd-5c63-9dc7-f8630467825a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0e226002-f2cd-5c63-9dc7-f8630467825a)
 
 ---
 

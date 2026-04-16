@@ -10,5 +10,5 @@ Automate KYC and compliance checks with comprehensive company verification
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9aa2470b-a7b7-5474-b99e-76835aaaca3a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9aa2470b-a7b7-5474-b99e-76835aaaca3a)
 

@@ -12,7 +12,7 @@ The Client Gallery Curator by Uplizd automates the organization and preparation 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ed041d55-9f37-5f2e-baca-7d37ae1b019d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed041d55-9f37-5f2e-baca-7d37ae1b019d)
 
 ---
 

@@ -10,5 +10,5 @@ Automated security alert triage and case management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/18c521ec-6180-52e8-8dee-c80944dd69cc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/18c521ec-6180-52e8-8dee-c80944dd69cc)
 

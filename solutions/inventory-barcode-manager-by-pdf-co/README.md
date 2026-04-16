@@ -10,5 +10,5 @@ Generate and manage barcodes for inventory tracking and asset management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/626700e1-394e-5e71-9ae4-5d954e9cb488)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/626700e1-394e-5e71-9ae4-5d954e9cb488)
 

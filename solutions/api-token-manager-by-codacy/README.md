@@ -12,7 +12,7 @@ The API Token Manager (Uplizd) automates the lifecycle of sensitive credentials,
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ce6c3c50-1c33-58ad-aa92-240ae33e042d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ce6c3c50-1c33-58ad-aa92-240ae33e042d)
 
 ---
 

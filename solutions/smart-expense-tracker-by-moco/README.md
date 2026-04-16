@@ -10,5 +10,5 @@ Automatically categorize and log business expenses from receipts and emails
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a278a96c-5b94-59e7-9554-e22935b884de)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a278a96c-5b94-59e7-9554-e22935b884de)
 

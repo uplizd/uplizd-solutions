@@ -12,7 +12,7 @@ The Asset Location Auditor is an intelligent Uplizd workflow that automates the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f8e95288-2b1a-5ded-ac64-6f43402a17cc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8e95288-2b1a-5ded-ac64-6f43402a17cc)
 
 ---
 

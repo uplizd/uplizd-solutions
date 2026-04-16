@@ -12,7 +12,7 @@ The Community Development Advisor is an intelligent Uplizd workflow that synthes
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ec65bbce-157c-51b5-aa06-ffd453df1f6b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ec65bbce-157c-51b5-aa06-ffd453df1f6b)
 
 ---
 

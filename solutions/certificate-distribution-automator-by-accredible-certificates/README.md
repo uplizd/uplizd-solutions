@@ -12,7 +12,7 @@ The Certificate Distribution Automator is an intelligent Uplizd workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/236d39f9-be4a-55ee-95fe-039cae944931)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/236d39f9-be4a-55ee-95fe-039cae944931)
 
 ---
 

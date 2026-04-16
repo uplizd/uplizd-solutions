@@ -12,7 +12,7 @@ The Bug Report Enrichment Agent streamlines software development workflows by au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/408a9558-cd85-584f-a61d-2b9cdfb77f91)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/408a9558-cd85-584f-a61d-2b9cdfb77f91)
 
 ---
 

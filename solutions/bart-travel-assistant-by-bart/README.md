@@ -12,7 +12,7 @@ The BART Travel Assistant is an intelligent Uplizd AI workflow designed to provi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dcfd53cf-14d6-540c-8cbb-46fa32579f28)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dcfd53cf-14d6-540c-8cbb-46fa32579f28)
 
 ---
 

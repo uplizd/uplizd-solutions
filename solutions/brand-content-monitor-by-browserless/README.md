@@ -12,7 +12,7 @@ The Brand Content Monitor is an intelligent Uplizd workflow designed to track br
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bebd3a44-d0f3-5aa2-bb5a-0041b4993005)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bebd3a44-d0f3-5aa2-bb5a-0041b4993005)
 
 ---
 

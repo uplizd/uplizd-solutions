@@ -10,5 +10,5 @@ Ensure email campaigns meet compliance standards before sending
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e716b538-c36e-5ce9-823e-b3d13cb0310f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e716b538-c36e-5ce9-823e-b3d13cb0310f)
 

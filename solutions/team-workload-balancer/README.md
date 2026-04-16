@@ -14,7 +14,7 @@ A Uplizd AI workflow that intelligently monitors team capacity and distributes l
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/94c98256-c706-5fd1-a6b7-5ee43214cf92)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/94c98256-c706-5fd1-a6b7-5ee43214cf92)
 
 ---
 ## Who is this for?

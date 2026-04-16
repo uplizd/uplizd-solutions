@@ -10,5 +10,5 @@ Extract insights and action items from customer support and sales calls
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/49142ab3-e42f-500c-96fa-d9f61cde7b60)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49142ab3-e42f-500c-96fa-d9f61cde7b60)
 

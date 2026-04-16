@@ -12,7 +12,7 @@ The Automation Team Orchestrator (Uplizd) streamlines incident response and oper
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7a8ee74c-8fb6-59a2-82e5-a9b54812be84)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7a8ee74c-8fb6-59a2-82e5-a9b54812be84)
 
 ---
 

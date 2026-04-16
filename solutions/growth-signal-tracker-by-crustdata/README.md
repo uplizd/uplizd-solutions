@@ -10,5 +10,5 @@ Automatically track and alert on high-intent prospect signals
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0e84e109-2cd7-5db8-b570-ce16ce51258d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0e84e109-2cd7-5db8-b570-ce16ce51258d)
 

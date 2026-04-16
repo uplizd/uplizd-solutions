@@ -10,5 +10,5 @@ Clean, format, and structure messy data into analysis-ready Excel tables
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1a9dfe99-c7e0-5743-8e8a-a2d9016cc3ba)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1a9dfe99-c7e0-5743-8e8a-a2d9016cc3ba)
 

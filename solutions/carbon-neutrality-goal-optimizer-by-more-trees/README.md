@@ -12,7 +12,7 @@ The Carbon Neutrality Goal Optimizer is an intelligent Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/06df0b08-a1af-5bed-8c5d-473e6bf1928d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/06df0b08-a1af-5bed-8c5d-473e6bf1928d)
 
 ---
 

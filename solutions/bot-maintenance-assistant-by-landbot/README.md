@@ -12,7 +12,7 @@ The Bot Maintenance Assistant is an intelligent Uplizd workflow designed to stre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ed289749-7472-57ca-a6b6-75cc3294d43c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed289749-7472-57ca-a6b6-75cc3294d43c)
 
 ---
 

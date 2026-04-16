@@ -12,7 +12,7 @@ The Competitor Analysis Monitor is an intelligent Uplizd workflow that tracks an
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8972f14b-91c0-59df-b4e1-d6d74d8e4dd2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8972f14b-91c0-59df-b4e1-d6d74d8e4dd2)
 
 ---
 

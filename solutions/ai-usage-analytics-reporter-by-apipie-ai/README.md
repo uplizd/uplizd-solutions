@@ -12,7 +12,7 @@ The AI Usage Analytics Reporter is an automated workflow designed to track, aggr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2807fdea-242c-57d6-b6d0-08aeda4265fb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2807fdea-242c-57d6-b6d0-08aeda4265fb)
 
 ---
 

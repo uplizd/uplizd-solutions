@@ -12,7 +12,7 @@ The Competitor Website Monitor is an automated Uplizd AI workflow designed to tr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/66631893-90d0-5943-a07e-d33814d8e73b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/66631893-90d0-5943-a07e-d33814d8e73b)
 
 ---
 

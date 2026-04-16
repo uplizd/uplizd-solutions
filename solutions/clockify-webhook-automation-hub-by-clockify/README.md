@@ -12,7 +12,7 @@ The Clockify Webhook Automation Hub is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/10e7f026-b95d-503c-94c0-79df9af13bb5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/10e7f026-b95d-503c-94c0-79df9af13bb5)
 
 ---
 

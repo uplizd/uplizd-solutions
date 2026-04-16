@@ -12,7 +12,7 @@ The Compliance Audit Data Agent streamlines the complex process of gathering, no
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/77c8c5da-3609-50c7-bc6b-db680fcfd22b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77c8c5da-3609-50c7-bc6b-db680fcfd22b)
 
 ---
 

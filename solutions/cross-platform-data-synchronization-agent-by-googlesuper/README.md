@@ -10,5 +10,5 @@ Keep all your Google services perfectly synchronized with intelligent data flow
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/af29f803-379a-59e0-bb2c-a4f48fec1767)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/af29f803-379a-59e0-bb2c-a4f48fec1767)
 

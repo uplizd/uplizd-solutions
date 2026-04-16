@@ -12,7 +12,7 @@ The Booking Widget Optimizer is an intelligent Uplizd workflow designed to analy
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3d516894-e2d3-512c-a282-41f05c9788ee)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3d516894-e2d3-512c-a282-41f05c9788ee)
 
 ---
 

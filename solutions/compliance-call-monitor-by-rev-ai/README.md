@@ -12,7 +12,7 @@ The Compliance Call Monitor is an intelligent Uplizd workflow that automates the
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/86113d61-e098-58d0-8a23-3d1e68466a2b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/86113d61-e098-58d0-8a23-3d1e68466a2b)
 
 ---
 

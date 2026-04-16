@@ -10,5 +10,5 @@ Automatically create and route customer support cases based on priority
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6fe71e3d-ce3c-532d-bd43-ac77ff89c62f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6fe71e3d-ce3c-532d-bd43-ac77ff89c62f)
 

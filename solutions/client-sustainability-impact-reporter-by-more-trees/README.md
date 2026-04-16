@@ -12,7 +12,7 @@ The Client Sustainability Impact Reporter by More Trees is an automated Uplizd A
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c70b522e-4bec-55bc-8b9d-22f85c1d51ee)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c70b522e-4bec-55bc-8b9d-22f85c1d51ee)
 
 ---
 

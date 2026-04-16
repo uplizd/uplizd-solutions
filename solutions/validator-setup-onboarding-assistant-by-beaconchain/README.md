@@ -10,5 +10,5 @@ Guided validator setup with automated health checks and performance optimization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e5a3ffba-d9b7-5b35-8dee-494e2c25765a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e5a3ffba-d9b7-5b35-8dee-494e2c25765a)
 

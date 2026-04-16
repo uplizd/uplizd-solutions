@@ -10,5 +10,5 @@ Query expansion is a technique where we take the user query, and generate a cert
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8f6f497f-8838-5477-b511-4f6dbd15e9c7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8f6f497f-8838-5477-b511-4f6dbd15e9c7)
 

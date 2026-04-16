@@ -10,5 +10,5 @@ Keeps Linear issues synchronized with external systems and events
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fae85d19-ad00-5d2a-af62-d16388e86957)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fae85d19-ad00-5d2a-af62-d16388e86957)
 

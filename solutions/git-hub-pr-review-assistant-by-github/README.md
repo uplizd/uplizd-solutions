@@ -10,5 +10,5 @@ Automate code review workflows and ensure quality standards
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/283a6117-4758-5340-b744-8ae82349e5d5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/283a6117-4758-5340-b744-8ae82349e5d5)
 

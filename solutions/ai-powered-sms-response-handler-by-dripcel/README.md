@@ -12,7 +12,7 @@ The AI-Powered SMS Response Handler by Dripcel streamlines customer engagement b
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5528e1bb-e7bd-56fe-a222-56636dea7acd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5528e1bb-e7bd-56fe-a222-56636dea7acd)
 
 ---
 

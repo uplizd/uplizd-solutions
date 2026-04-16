@@ -10,5 +10,5 @@ Generate platform-optimized content variants automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0477d607-6fd3-529f-9411-6b4f0ef363dc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0477d607-6fd3-529f-9411-6b4f0ef363dc)
 

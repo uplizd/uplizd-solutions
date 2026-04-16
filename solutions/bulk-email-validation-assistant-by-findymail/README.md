@@ -13,7 +13,7 @@ The Bulk Email Validation Assistant is an automated Uplizd AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f77252fb-9f27-596e-baa5-be19018dbc76)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f77252fb-9f27-596e-baa5-be19018dbc76)
 
 ---
 

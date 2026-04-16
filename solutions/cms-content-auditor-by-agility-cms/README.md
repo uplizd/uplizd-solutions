@@ -12,7 +12,7 @@ The CMS Content Auditor is an intelligent Uplizd workflow designed to streamline
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/61373690-669e-5b00-9240-85d69edfcd52)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61373690-669e-5b00-9240-85d69edfcd52)
 
 ---
 

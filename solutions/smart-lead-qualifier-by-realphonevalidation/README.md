@@ -10,5 +10,5 @@ Automatically qualify leads by validating contact information quality
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/017d656b-5897-5d71-9ef5-45b44f5ffd03)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/017d656b-5897-5d71-9ef5-45b44f5ffd03)
 

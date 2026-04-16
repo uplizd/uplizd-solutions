@@ -12,7 +12,7 @@ The Canvas Enrollment Manager by Uplizd automates the lifecycle of student cours
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a7f98505-59aa-5586-88f7-25b6b8218e55)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a7f98505-59aa-5586-88f7-25b6b8218e55)
 
 ---
 

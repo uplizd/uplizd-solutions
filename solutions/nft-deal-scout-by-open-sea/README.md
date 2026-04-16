@@ -10,5 +10,5 @@ Discover undervalued NFTs before others do
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6f4a3af8-cf7d-5fba-9f67-741bd34228d4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6f4a3af8-cf7d-5fba-9f67-741bd34228d4)
 

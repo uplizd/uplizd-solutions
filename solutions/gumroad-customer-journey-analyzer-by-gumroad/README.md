@@ -10,5 +10,5 @@ Deep customer behavior analysis to improve product-market fit
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a1bf1ccc-8987-5b56-9458-077c0d160831)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a1bf1ccc-8987-5b56-9458-077c0d160831)
 

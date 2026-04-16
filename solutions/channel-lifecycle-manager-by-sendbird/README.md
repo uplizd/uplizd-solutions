@@ -12,7 +12,7 @@ The Channel Lifecycle Manager (Uplizd) is an intelligent automation workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3cad8b78-a5e1-5444-84a7-954ffbf4b963)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3cad8b78-a5e1-5444-84a7-954ffbf4b963)
 
 ---
 

@@ -10,5 +10,5 @@ Track student progress and trigger interventions to improve completion rates
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/dfd34d83-fed9-58be-b424-4327fd1b6811)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfd34d83-fed9-58be-b424-4327fd1b6811)
 

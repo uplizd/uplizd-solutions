@@ -10,5 +10,5 @@ Intelligently route and escalate support tickets across platforms
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4bcfe84e-d931-57c8-8c81-3710dcd2fac9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4bcfe84e-d931-57c8-8c81-3710dcd2fac9)
 

@@ -12,7 +12,7 @@ The Board Health Monitor is an intelligent Uplizd workflow designed to maintain 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1fad3fd8-2e46-57d2-86ca-e917d792741b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1fad3fd8-2e46-57d2-86ca-e917d792741b)
 
 ---
 

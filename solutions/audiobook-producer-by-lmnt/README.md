@@ -12,7 +12,7 @@ The Audiobook Producer (Uplizd) workflow streamlines the transformation of writt
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cf097ce9-abc8-5e05-b928-aee03da79c8e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cf097ce9-abc8-5e05-b928-aee03da79c8e)
 
 ---
 

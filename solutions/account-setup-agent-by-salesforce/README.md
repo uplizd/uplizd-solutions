@@ -13,7 +13,7 @@ The Account Setup Agent streamlines the complex process of initializing new busi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bc6d7f8a-0a81-5702-b4ac-a982439945b1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bc6d7f8a-0a81-5702-b4ac-a982439945b1)
 
 ---
 

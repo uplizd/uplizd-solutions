@@ -10,5 +10,5 @@ Real-time alerts and updates on your Humanitix event performance
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4715dac6-6de2-542c-afc3-3a7f1a2dd8fc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4715dac6-6de2-542c-afc3-3a7f1a2dd8fc)
 

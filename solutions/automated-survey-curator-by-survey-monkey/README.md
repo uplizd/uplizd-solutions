@@ -12,7 +12,7 @@ The Automated Survey Curator (Uplizd) is an intelligent AI-driven workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6ea009a9-f48f-57d1-80fc-41e01a131dac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6ea009a9-f48f-57d1-80fc-41e01a131dac)
 
 ---
 

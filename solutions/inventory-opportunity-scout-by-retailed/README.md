@@ -10,5 +10,5 @@ Find profitable products to add to your inventory
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/738b6dcf-5d48-5f1d-93f9-09df7833189d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/738b6dcf-5d48-5f1d-93f9-09df7833189d)
 

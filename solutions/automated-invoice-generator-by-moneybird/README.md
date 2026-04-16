@@ -12,7 +12,7 @@ The Automated Invoice Generator by Moneybird is an intelligent Uplizd workflow d
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/28ad857c-465c-5f06-a781-d14fb7d0949c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/28ad857c-465c-5f06-a781-d14fb7d0949c)
 
 ---
 

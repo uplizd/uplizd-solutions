@@ -12,7 +12,7 @@ The Automated Loan Underwriter (Uplizd) workflow leverages AI to ingest, parse, 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/49d7d287-e2cf-519b-8f86-f2c969d0fae4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49d7d287-e2cf-519b-8f86-f2c969d0fae4)
 
 ---
 

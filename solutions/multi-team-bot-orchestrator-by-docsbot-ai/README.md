@@ -10,5 +10,5 @@ Centrally manage and optimize chatbots across multiple teams and departments
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2fc4b127-02aa-5708-8d72-0716466c18c3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2fc4b127-02aa-5708-8d72-0716466c18c3)
 

@@ -10,5 +10,5 @@ Automatically validate and score incoming leads for sales teams
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/37253c51-22aa-5ea9-96e1-23b82bd0cce4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/37253c51-22aa-5ea9-96e1-23b82bd0cce4)
 

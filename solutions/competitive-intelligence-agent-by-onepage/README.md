@@ -12,7 +12,7 @@ The Competitive Intelligence Agent by OnePage is an automated workflow that moni
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/971c03f6-58f8-5326-9224-1013713fa56d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/971c03f6-58f8-5326-9224-1013713fa56d)
 
 ---
 

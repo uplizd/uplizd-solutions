@@ -12,7 +12,7 @@ The Abuse Report Manager is an automated Uplizd workflow designed to centralize,
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b017c889-d8a5-5d95-acef-d3f840b10d65)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b017c889-d8a5-5d95-acef-d3f840b10d65)
 
 ---
 

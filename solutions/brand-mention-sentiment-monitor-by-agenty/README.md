@@ -12,7 +12,7 @@ The Brand Mention and Sentiment Monitor is an automated Uplizd AI workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c881631d-b7dc-50eb-9965-8ef094820c2b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c881631d-b7dc-50eb-9965-8ef094820c2b)
 
 ---
 

@@ -12,7 +12,7 @@ The Brand Mention & Content Monitor is an automated Uplizd AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/263da5df-9b79-59f6-8373-4e6e7aa823ca)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/263da5df-9b79-59f6-8373-4e6e7aa823ca)
 
 ---
 

@@ -12,7 +12,7 @@ The Competitive Price Monitoring Agent is an automated AI workflow designed to t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/183ad8b2-f915-5a61-a65c-c8cf3b374e16)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/183ad8b2-f915-5a61-a65c-c8cf3b374e16)
 
 ---
 

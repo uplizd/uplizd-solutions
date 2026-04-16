@@ -12,7 +12,7 @@ The Business Intelligence Analyst workflow leverages the Uplizd AI engine to tra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/730633cb-8465-5962-9aeb-6564866022dd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/730633cb-8465-5962-9aeb-6564866022dd)
 
 ---
 

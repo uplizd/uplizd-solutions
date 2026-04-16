@@ -10,5 +10,5 @@ Automatically maintain clean, organized contact databases by identifying and man
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c99fccdd-31c5-5755-9d4a-aa374cf4df09)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c99fccdd-31c5-5755-9d4a-aa374cf4df09)
 

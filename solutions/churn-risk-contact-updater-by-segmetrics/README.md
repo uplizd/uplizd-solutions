@@ -12,7 +12,7 @@ The Churn Risk Contact Updater is an intelligent Uplizd workflow that bridges th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f0599bae-e7ce-5420-890c-9459772ea402)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f0599bae-e7ce-5420-890c-9459772ea402)
 
 ---
 

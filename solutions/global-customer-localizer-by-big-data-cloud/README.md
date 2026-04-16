@@ -10,5 +10,5 @@ Automatically localize customer experience based on real-time geolocation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/196677de-2d49-5c97-a03d-1249f61ee220)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/196677de-2d49-5c97-a03d-1249f61ee220)
 

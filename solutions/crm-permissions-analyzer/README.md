@@ -14,7 +14,7 @@ A Uplizd AI workflow that systematically audits and analyzes user permissions wi
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/597bccca-6cd7-5da7-bb1c-0d707884af57)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/597bccca-6cd7-5da7-bb1c-0d707884af57)
 
 ---
 ## Who is this for?

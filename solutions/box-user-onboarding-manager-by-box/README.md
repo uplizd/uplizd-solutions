@@ -12,7 +12,7 @@ The Box User Onboarding Manager streamlines identity and access management by au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d91e94bd-83b9-5a0c-b95b-5aea882ad759)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d91e94bd-83b9-5a0c-b95b-5aea882ad759)
 
 ---
 

@@ -12,7 +12,7 @@ The Account Reconciliation Helper is an intelligent Uplizd AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/01830f3e-7d27-5f5a-b579-a1a2131eefbc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/01830f3e-7d27-5f5a-b579-a1a2131eefbc)
 
 ---
 

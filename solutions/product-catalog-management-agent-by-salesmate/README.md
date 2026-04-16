@@ -10,5 +10,5 @@ Keep your Salesmate product catalog up-to-date automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/02b5e5fe-8bec-530d-a3f9-1fe435009ff4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/02b5e5fe-8bec-530d-a3f9-1fe435009ff4)
 

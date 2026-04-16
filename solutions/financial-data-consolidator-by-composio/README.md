@@ -10,5 +10,5 @@ Automatically consolidate financial data from multiple sources for reporting
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3753bb78-e179-509f-84a9-bb692a483ded)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3753bb78-e179-509f-84a9-bb692a483ded)
 

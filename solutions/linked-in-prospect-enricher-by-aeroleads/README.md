@@ -10,5 +10,5 @@ Automatically enrich LinkedIn prospects with verified contact details
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0695337e-8088-59b5-95f0-5fda53d6adb0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0695337e-8088-59b5-95f0-5fda53d6adb0)
 

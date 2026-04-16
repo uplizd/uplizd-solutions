@@ -12,7 +12,7 @@ The Competitive Pricing Optimizer is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1464e59b-c805-508b-afcb-6a0073656a6f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1464e59b-c805-508b-afcb-6a0073656a6f)
 
 ---
 

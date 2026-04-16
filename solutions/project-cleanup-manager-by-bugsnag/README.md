@@ -10,5 +10,5 @@ Maintain clean error tracking environments by managing obsolete data and configu
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/679a7edc-33f9-5f5c-ab44-98f7b8823e2f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/679a7edc-33f9-5f5c-ab44-98f7b8823e2f)
 

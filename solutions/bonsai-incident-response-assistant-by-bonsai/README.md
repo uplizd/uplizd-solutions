@@ -12,7 +12,7 @@ The Bonsai Incident Response Assistant is an intelligent Uplizd workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f8ddf4f9-3234-5640-86fd-4390862c7a89)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8ddf4f9-3234-5640-86fd-4390862c7a89)
 
 ---
 

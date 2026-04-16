@@ -10,5 +10,5 @@ Personalized donor outreach based on giving patterns and engagement history
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/65a887a2-0a65-5316-a563-84a73ecc266a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/65a887a2-0a65-5316-a563-84a73ecc266a)
 

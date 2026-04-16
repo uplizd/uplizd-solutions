@@ -12,7 +12,7 @@ The AI Content Generator by Replicate is a powerful Uplizd workflow that leverag
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ba544ceb-b2bc-5d51-886c-5e9d94dfbb92)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba544ceb-b2bc-5d51-886c-5e9d94dfbb92)
 
 ---
 

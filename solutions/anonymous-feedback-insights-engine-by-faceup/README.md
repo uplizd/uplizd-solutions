@@ -12,7 +12,7 @@ The Anonymous Feedback Insights Engine is an AI-powered workflow designed to pro
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ea469cde-055c-5acc-b1e8-34b977c4f980)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea469cde-055c-5acc-b1e8-34b977c4f980)
 
 ---
 

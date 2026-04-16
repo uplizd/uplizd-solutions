@@ -12,7 +12,7 @@ The Account Verification Assistant is an automated Uplizd workflow designed to s
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f6dd4fb6-adc9-55c1-b97c-90c76ba56c17)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f6dd4fb6-adc9-55c1-b97c-90c76ba56c17)
 
 ---
 

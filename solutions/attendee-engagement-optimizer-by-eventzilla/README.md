@@ -12,7 +12,7 @@ The Attendee Engagement Optimizer is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/77ad0e38-1004-575f-9a1b-7476cab0e21d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77ad0e38-1004-575f-9a1b-7476cab0e21d)
 
 ---
 

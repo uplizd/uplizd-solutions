@@ -10,5 +10,5 @@ Generate actionable insights from chatbot conversations for business intelligenc
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f67f2648-1356-5d8d-bb73-9a00788ce0a3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f67f2648-1356-5d8d-bb73-9a00788ce0a3)
 

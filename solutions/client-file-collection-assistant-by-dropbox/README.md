@@ -12,7 +12,7 @@ The Client File Collection Assistant is an intelligent Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b8e92152-d4d7-58d3-8129-8eddb4cf11c3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b8e92152-d4d7-58d3-8129-8eddb4cf11c3)
 
 ---
 

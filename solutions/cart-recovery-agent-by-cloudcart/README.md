@@ -12,7 +12,7 @@ The Cart Recovery Agent is an intelligent Uplizd workflow designed to identify, 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7bb48dc1-9d6e-51c4-b223-cf0ec9e7bd90)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7bb48dc1-9d6e-51c4-b223-cf0ec9e7bd90)
 
 ---
 

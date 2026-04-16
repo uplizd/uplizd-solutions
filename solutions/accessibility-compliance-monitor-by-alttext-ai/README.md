@@ -12,7 +12,7 @@ The Accessibility Compliance Monitor is an intelligent Uplizd workflow that auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d65bac6c-9e03-54c5-8b73-3012af3aca4b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d65bac6c-9e03-54c5-8b73-3012af3aca4b)
 
 ---
 

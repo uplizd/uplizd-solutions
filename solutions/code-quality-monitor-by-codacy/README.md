@@ -12,7 +12,7 @@ The Code Quality Monitor is an intelligent Uplizd workflow that integrates with 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/328e742b-c633-52b8-b1ac-8a6cae1b2c6d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/328e742b-c633-52b8-b1ac-8a6cae1b2c6d)
 
 ---
 

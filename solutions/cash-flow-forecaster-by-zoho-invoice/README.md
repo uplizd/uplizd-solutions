@@ -12,7 +12,7 @@ The Cash Flow Forecaster (Uplizd) is an intelligent automation workflow that ana
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e9096b01-e8b1-5cea-bc8c-2ad581d2d681)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e9096b01-e8b1-5cea-bc8c-2ad581d2d681)
 
 ---
 

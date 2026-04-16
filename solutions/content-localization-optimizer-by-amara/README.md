@@ -10,5 +10,5 @@ Optimize video content for global markets through intelligent subtitle managemen
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/86c5e3d0-4e25-53e6-9373-df7d1cf94ccf)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/86c5e3d0-4e25-53e6-9373-df7d1cf94ccf)
 

@@ -12,7 +12,7 @@ The Competitor SEO Monitor is an intelligent Uplizd workflow that automates the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/72da3c95-6d7d-5614-b29d-b353a6254051)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/72da3c95-6d7d-5614-b29d-b353a6254051)
 
 ---
 

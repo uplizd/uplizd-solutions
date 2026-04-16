@@ -10,5 +10,5 @@ Convert customer communications into personalized voice messages for better enga
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6b556a5b-06c7-501e-9fa3-8e03950fa46e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6b556a5b-06c7-501e-9fa3-8e03950fa46e)
 

@@ -12,7 +12,7 @@ The Brand Mention Ad Monitor is an automated Uplizd workflow designed to track c
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c0b67e42-82d7-57c3-b979-123e3b58b49f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c0b67e42-82d7-57c3-b979-123e3b58b49f)
 
 ---
 

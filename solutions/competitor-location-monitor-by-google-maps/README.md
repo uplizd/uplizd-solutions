@@ -12,7 +12,7 @@ The Competitor Location Monitor is an automated Uplizd AI workflow designed to t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3ddee740-fa19-5595-a086-cd19c954d144)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3ddee740-fa19-5595-a086-cd19c954d144)
 
 ---
 

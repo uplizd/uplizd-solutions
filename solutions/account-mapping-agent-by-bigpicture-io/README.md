@@ -12,7 +12,7 @@ The Account Mapping Agent is an intelligent Uplizd workflow designed to automate
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f95d161b-ccd8-50be-b604-f8c12059c173)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f95d161b-ccd8-50be-b604-f8c12059c173)
 
 ---
 

@@ -10,5 +10,5 @@ Optimize technician routing and automate service area management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/66dccb68-98c4-57d9-ab40-6207be20433d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/66dccb68-98c4-57d9-ab40-6207be20433d)
 

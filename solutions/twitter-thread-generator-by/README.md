@@ -10,5 +10,5 @@ Transform structured inputs into engaging Twitter threads with this prompt-based
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b7f4ed90-3e95-539b-b228-bb802960a1f7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b7f4ed90-3e95-539b-b228-bb802960a1f7)
 

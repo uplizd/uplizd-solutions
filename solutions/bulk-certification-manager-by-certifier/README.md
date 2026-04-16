@@ -12,7 +12,7 @@ The Bulk Certification Manager is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7fb369dc-6544-5e44-b4e6-d01334ed7c1a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7fb369dc-6544-5e44-b4e6-d01334ed7c1a)
 
 ---
 

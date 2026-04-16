@@ -12,7 +12,7 @@ The AI-Powered Meeting Scheduler streamlines your calendar management by intelli
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6d9f38b4-6b23-5f40-ab01-d3f694c0e900)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6d9f38b4-6b23-5f40-ab01-d3f694c0e900)
 
 ---
 

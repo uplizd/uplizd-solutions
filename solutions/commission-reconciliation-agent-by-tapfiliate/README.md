@@ -12,7 +12,7 @@ The Commission Reconciliation Agent streamlines the complex process of matching 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a2334b77-63bf-5a45-9fc8-ad534c5c9b3b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a2334b77-63bf-5a45-9fc8-ad534c5c9b3b)
 
 ---
 

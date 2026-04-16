@@ -12,7 +12,7 @@ The Code Quality Reviewer is an automated AI workflow designed to streamline sof
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6431af58-8c0e-5561-bfd7-1005a7233a9a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6431af58-8c0e-5561-bfd7-1005a7233a9a)
 
 ---
 

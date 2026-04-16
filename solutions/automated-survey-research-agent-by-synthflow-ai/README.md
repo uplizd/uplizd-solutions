@@ -12,7 +12,7 @@ The Automated Survey Research Agent leverages AI-driven voice and text interacti
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9b9faf02-df6d-5d7f-9254-c10ad22d4cc5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b9faf02-df6d-5d7f-9254-c10ad22d4cc5)
 
 ---
 

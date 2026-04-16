@@ -12,7 +12,7 @@ The Client Onboarding Tracker is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/02034dee-412b-56a6-b09f-2da33a2ea27c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/02034dee-412b-56a6-b09f-2da33a2ea27c)
 
 ---
 

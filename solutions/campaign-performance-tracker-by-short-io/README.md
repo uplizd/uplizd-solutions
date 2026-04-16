@@ -12,7 +12,7 @@ The Campaign Performance Tracker is an automated Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e915a26e-7f4c-5bbd-9203-a9f1e27a2b88)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e915a26e-7f4c-5bbd-9203-a9f1e27a2b88)
 
 ---
 

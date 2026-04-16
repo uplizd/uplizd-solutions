@@ -12,7 +12,7 @@ The Certificate Incident Responder is an automated Uplizd AI workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/728d717e-2e3e-549d-a74a-c7a069e3afd5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/728d717e-2e3e-549d-a74a-c7a069e3afd5)
 
 ---
 

@@ -12,7 +12,7 @@ The Campaign Performance Analyst is an intelligent Uplizd workflow designed to b
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/13aaaafc-a270-517e-a691-59ffba25e91b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/13aaaafc-a270-517e-a691-59ffba25e91b)
 
 ---
 

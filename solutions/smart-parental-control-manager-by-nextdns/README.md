@@ -10,5 +10,5 @@ Intelligent DNS filtering for family internet safety
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/17b300d0-03c8-5589-ad31-e8939d0bf92f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/17b300d0-03c8-5589-ad31-e8939d0bf92f)
 

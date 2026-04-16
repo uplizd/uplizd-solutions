@@ -12,7 +12,7 @@ The Client Relationship Manager (Uplizd) workflow streamlines your business oper
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/46f30123-0f02-5960-b7b1-e2b457fd4f42)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/46f30123-0f02-5960-b7b1-e2b457fd4f42)
 
 ---
 

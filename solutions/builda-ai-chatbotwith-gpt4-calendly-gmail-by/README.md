@@ -12,7 +12,7 @@ The AI Scheduling Chatbot with GPT-4, Calendly, and Gmail is an autonomous workf
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2f488a20-3c8c-593f-8fb5-a6b5e18c8302)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2f488a20-3c8c-593f-8fb5-a6b5e18c8302)
 
 ---
 

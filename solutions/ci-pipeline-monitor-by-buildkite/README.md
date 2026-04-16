@@ -12,7 +12,7 @@ The CI Pipeline Monitor (Uplizd) is an intelligent workflow designed to provide 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/be5cec33-69ee-5a48-948a-825246d833f7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/be5cec33-69ee-5a48-948a-825246d833f7)
 
 ---
 

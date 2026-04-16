@@ -12,7 +12,7 @@ The Certification Program Manager by Uplizd automates the end-to-end lifecycle o
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4fa03333-153c-5d92-8843-25aa5d3613fe)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4fa03333-153c-5d92-8843-25aa5d3613fe)
 
 ---
 

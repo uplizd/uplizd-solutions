@@ -12,7 +12,7 @@ The AI Testimonial Curator by Endorsal is an intelligent workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f2fc5ff6-460d-5d44-98cf-cfc9052baf18)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f2fc5ff6-460d-5d44-98cf-cfc9052baf18)
 
 ---
 

@@ -10,5 +10,5 @@ Automatically fulfill common service catalog requests
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0dc81c94-b919-58a7-bfc0-82e250d27a3c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0dc81c94-b919-58a7-bfc0-82e250d27a3c)
 

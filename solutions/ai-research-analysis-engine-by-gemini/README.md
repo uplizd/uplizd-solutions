@@ -12,7 +12,7 @@ The AI Research Analysis Engine is a powerful Uplizd workflow designed to automa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f52fc563-c4ea-51ef-8a78-9f3f5536a186)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f52fc563-c4ea-51ef-8a78-9f3f5536a186)
 
 ---
 

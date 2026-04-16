@@ -12,7 +12,7 @@ The Campaign Cleanup Assistant is an intelligent Uplizd workflow designed to mai
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d0e88924-d7da-58e5-ad68-7c9d3a8babf5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d0e88924-d7da-58e5-ad68-7c9d3a8babf5)
 
 ---
 

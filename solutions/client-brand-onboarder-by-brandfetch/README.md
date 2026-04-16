@@ -12,7 +12,7 @@ The Client Brand Onboarder by Brandfetch automates the collection, validation, a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1515700c-355e-5dd3-aa73-7196115c6ad1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1515700c-355e-5dd3-aa73-7196115c6ad1)
 
 ---
 

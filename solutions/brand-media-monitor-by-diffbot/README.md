@@ -12,7 +12,7 @@ The Brand Media Monitor (Uplizd) is an intelligent AI workflow designed to track
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a4e5ba40-025e-5899-a3c9-e0220d0005ff)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a4e5ba40-025e-5899-a3c9-e0220d0005ff)
 
 ---
 

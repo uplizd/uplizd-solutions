@@ -10,5 +10,5 @@ Automatically transform content assets into multi-touch email campaigns with pro
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bb3a83fa-ee18-5edf-89f6-01ba52b59087)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bb3a83fa-ee18-5edf-89f6-01ba52b59087)
 

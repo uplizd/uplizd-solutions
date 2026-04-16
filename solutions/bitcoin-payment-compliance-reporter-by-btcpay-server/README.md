@@ -12,7 +12,7 @@ The Bitcoin Payment Compliance Reporter is an intelligent Uplizd AI workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bf09bd7b-6f51-5964-b327-f634e6f5f3a5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bf09bd7b-6f51-5964-b327-f634e6f5f3a5)
 
 ---
 

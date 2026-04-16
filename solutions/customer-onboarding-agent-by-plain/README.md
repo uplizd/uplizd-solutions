@@ -10,5 +10,5 @@ Automate new customer setup and initial support thread creation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b6a2de5a-c88c-5b23-bde9-73bad008a659)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b6a2de5a-c88c-5b23-bde9-73bad008a659)
 

@@ -10,5 +10,5 @@ This workflow uses Graph RAG to power an AI Governance Policy Assistant. It help
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2efb4e1d-f937-5287-8eb5-82b33ba6d0b2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2efb4e1d-f937-5287-8eb5-82b33ba6d0b2)
 

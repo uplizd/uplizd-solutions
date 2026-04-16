@@ -10,5 +10,5 @@ Proactive monitoring and alerting for your DPD2 storefronts and sales
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3c6ab62e-597c-5fc4-8240-a59478b462bb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3c6ab62e-597c-5fc4-8240-a59478b462bb)
 

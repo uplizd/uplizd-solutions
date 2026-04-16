@@ -12,7 +12,7 @@ The Cat Breed Advisory Agent is an AI-powered workflow designed to provide perso
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e1341c41-d4a3-547b-a471-32b14fef0031)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e1341c41-d4a3-547b-a471-32b14fef0031)
 
 ---
 

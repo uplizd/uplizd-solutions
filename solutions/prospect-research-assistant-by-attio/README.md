@@ -10,5 +10,5 @@ Automatically research and enrich prospect profiles before outreach
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d3dd261f-cb57-517e-b313-52a731a9f553)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d3dd261f-cb57-517e-b313-52a731a9f553)
 

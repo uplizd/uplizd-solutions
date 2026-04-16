@@ -12,7 +12,7 @@ The Competitor Location Tracker by Uplizd automates the monitoring of competitor
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/832dac59-2324-5830-99d0-80c5ab64b9e2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/832dac59-2324-5830-99d0-80c5ab64b9e2)
 
 ---
 

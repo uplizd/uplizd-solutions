@@ -12,7 +12,7 @@ The AI Meeting Follow-up Generator is an intelligent Uplizd workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5a817e11-589a-5afd-978d-2f436b227a08)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5a817e11-589a-5afd-978d-2f436b227a08)
 
 ---
 

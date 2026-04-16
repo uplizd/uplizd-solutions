@@ -12,7 +12,7 @@ The Campaign Banner Generator is an intelligent Uplizd workflow that transforms 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/742ee7e3-5486-58ed-9079-9abc27ee2143)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/742ee7e3-5486-58ed-9079-9abc27ee2143)
 
 ---
 

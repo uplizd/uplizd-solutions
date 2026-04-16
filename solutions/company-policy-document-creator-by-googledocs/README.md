@@ -12,7 +12,7 @@ The Company Policy Document Creator is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/63f5cae5-090a-523e-b477-34197331f9e0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/63f5cae5-090a-523e-b477-34197331f9e0)
 
 ---
 

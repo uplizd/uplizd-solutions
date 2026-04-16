@@ -10,5 +10,5 @@ Optimize testimonial collection campaigns based on performance data and customer
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c2cdb4e1-df1b-51ee-9ebe-61775fbbf41f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c2cdb4e1-df1b-51ee-9ebe-61775fbbf41f)
 

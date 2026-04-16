@@ -13,7 +13,7 @@ The Automated Expense Tracker (Uplizd) is an intelligent AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1fb9f31d-fa13-552a-952c-054d3beb258b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1fb9f31d-fa13-552a-952c-054d3beb258b)
 
 ---
 

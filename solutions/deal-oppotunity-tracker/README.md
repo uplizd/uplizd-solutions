@@ -14,7 +14,7 @@ A Uplizd AI workflow that scans your incoming data streams to identify and track
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7faffaae-188c-54e2-9493-af1a7dd3ee4c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7faffaae-188c-54e2-9493-af1a7dd3ee4c)
 
 ---
 ## Who is this for?

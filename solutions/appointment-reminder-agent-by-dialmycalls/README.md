@@ -12,7 +12,7 @@ The Appointment Reminder Agent is an intelligent Uplizd workflow designed to min
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f92fc897-6aca-5acb-a37a-87c8aa952f5d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f92fc897-6aca-5acb-a37a-87c8aa952f5d)
 
 ---
 

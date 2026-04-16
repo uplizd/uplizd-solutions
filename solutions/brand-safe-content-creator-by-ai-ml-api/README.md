@@ -12,7 +12,7 @@ The Brand-Safe Content Creator is an Uplizd AI workflow designed to streamline m
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d3855534-8ef9-52b6-84e1-7e7eb950e0ca)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d3855534-8ef9-52b6-84e1-7e7eb950e0ca)
 
 ---
 

@@ -12,7 +12,7 @@ The Adaptive Learning Curriculum Builder is an intelligent Uplizd workflow that 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6fe970f3-e9f3-5f15-b4e7-1243961beaf8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6fe970f3-e9f3-5f15-b4e7-1243961beaf8)
 
 ---
 

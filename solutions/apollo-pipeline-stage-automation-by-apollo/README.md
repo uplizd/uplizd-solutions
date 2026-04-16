@@ -12,7 +12,7 @@ The Apollo Pipeline Stage Automation workflow enables sales teams to synchronize
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9a1443ff-3ece-5347-9536-dc365cbd8365)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9a1443ff-3ece-5347-9536-dc365cbd8365)
 
 ---
 

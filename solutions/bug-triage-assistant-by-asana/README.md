@@ -12,7 +12,7 @@ The Bug Triage Assistant is an intelligent Uplizd workflow that automates the in
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d1bd06cc-d186-5275-9195-408cdf5e4c7c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d1bd06cc-d186-5275-9195-408cdf5e4c7c)
 
 ---
 

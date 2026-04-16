@@ -10,5 +10,5 @@ Streamline external collaborator onboarding and permissions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/40ee73da-0312-5c28-bc82-f025c1413aab)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/40ee73da-0312-5c28-bc82-f025c1413aab)
 

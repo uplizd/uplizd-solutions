@@ -12,7 +12,7 @@ The Automated Welcome Series Manager by Enginemailer streamlines subscriber onbo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/72452a43-b970-5f2e-aaa7-6cf972ac70b7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/72452a43-b970-5f2e-aaa7-6cf972ac70b7)
 
 ---
 

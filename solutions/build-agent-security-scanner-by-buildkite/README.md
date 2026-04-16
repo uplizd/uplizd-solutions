@@ -12,7 +12,7 @@ The Build Agent Security Scanner is an automated Uplizd workflow designed to sec
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a8977cdc-c724-5b00-a877-df16c266e7f7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a8977cdc-c724-5b00-a877-df16c266e7f7)
 
 ---
 

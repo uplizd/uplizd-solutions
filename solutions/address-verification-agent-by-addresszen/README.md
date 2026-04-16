@@ -12,7 +12,7 @@ The Address Verification Agent is an intelligent Uplizd workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0378d634-ee90-576f-a00c-857796583c81)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0378d634-ee90-576f-a00c-857796583c81)
 
 ---
 

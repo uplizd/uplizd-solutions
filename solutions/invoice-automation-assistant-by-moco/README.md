@@ -10,5 +10,5 @@ Generate and send invoices automatically based on project milestones
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c5df1d77-79f6-5d37-89c1-3dd1992bbda9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c5df1d77-79f6-5d37-89c1-3dd1992bbda9)
 

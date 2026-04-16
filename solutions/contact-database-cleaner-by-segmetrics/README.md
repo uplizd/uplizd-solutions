@@ -10,5 +10,5 @@ Automatically clean and optimize your contact database for better marketing perf
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c58c4e50-1d92-597c-abc0-525aa6cc06a7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c58c4e50-1d92-597c-abc0-525aa6cc06a7)
 

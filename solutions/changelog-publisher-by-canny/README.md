@@ -12,7 +12,7 @@ The Changelog Publisher (Uplizd) is an automated AI workflow designed to transfo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/aad3bd10-6bf5-5964-8935-11ffb8993372)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/aad3bd10-6bf5-5964-8935-11ffb8993372)
 
 ---
 

@@ -10,5 +10,5 @@ Automate vendor card creation and optimize payment terms
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1310bfd1-c460-56ab-83ad-dbc807421a2e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1310bfd1-c460-56ab-83ad-dbc807421a2e)
 

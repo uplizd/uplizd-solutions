@@ -10,5 +10,5 @@ Automatically send memorable follow-up cards to trade show and event contacts
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/40c6c688-c51f-523f-9267-40f3a60acb07)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/40c6c688-c51f-523f-9267-40f3a60acb07)
 

@@ -12,7 +12,7 @@ The Bot Health Monitor (Uplizd) is an intelligent automation workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/858406bb-c40b-5636-a5ef-c1ef6b4c824c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/858406bb-c40b-5636-a5ef-c1ef6b4c824c)
 
 ---
 

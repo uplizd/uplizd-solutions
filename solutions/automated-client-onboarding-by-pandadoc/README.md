@@ -12,7 +12,7 @@ The Automated Client Onboarding solution leverages the Uplizd AI workflow to ins
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c4f1895e-d949-568e-9c17-7bd818964660)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c4f1895e-d949-568e-9c17-7bd818964660)
 
 ---
 

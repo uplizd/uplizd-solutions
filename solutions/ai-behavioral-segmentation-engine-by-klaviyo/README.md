@@ -12,7 +12,7 @@ The AI Behavioral Segmentation Engine leverages Uplizd workflows to analyze cust
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/28c02a82-4238-5a3e-81c5-f4722dad53c1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/28c02a82-4238-5a3e-81c5-f4722dad53c1)
 
 ---
 

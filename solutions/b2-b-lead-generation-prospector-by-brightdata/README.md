@@ -12,7 +12,7 @@ The B2B Lead Generation Prospector is an intelligent Uplizd workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/aafd8b00-2e75-5f7c-8b72-c8949185fede)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/aafd8b00-2e75-5f7c-8b72-c8949185fede)
 
 ---
 

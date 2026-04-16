@@ -12,7 +12,7 @@ The AI Compliance Audit Assistant streamlines the complex process of monitoring,
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f86ce956-004e-57e6-80f2-42ed41a0f972)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f86ce956-004e-57e6-80f2-42ed41a0f972)
 
 ---
 

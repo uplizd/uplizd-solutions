@@ -10,5 +10,5 @@ Strengthen referral relationships with timely, personalized thank you cards
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1461d074-9cab-55ea-b766-32ae440796ce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1461d074-9cab-55ea-b766-32ae440796ce)
 

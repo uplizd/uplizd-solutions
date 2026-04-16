@@ -10,5 +10,5 @@ Never miss a follow-up with automated connection tracking and reminder system
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7297a6d9-65c4-58c0-8a4c-160f485f46d6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7297a6d9-65c4-58c0-8a4c-160f485f46d6)
 

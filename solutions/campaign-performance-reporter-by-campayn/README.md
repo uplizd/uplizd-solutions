@@ -12,7 +12,7 @@ The Campaign Performance Reporter is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0cfa2903-2581-5121-a3d8-298ea9c64786)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0cfa2903-2581-5121-a3d8-298ea9c64786)
 
 ---
 

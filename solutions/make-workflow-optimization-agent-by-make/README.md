@@ -10,5 +10,5 @@ Analyze and optimize existing Make workflows for better performance and reliabil
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1712ad79-063d-53e2-9669-44eecf2bd000)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1712ad79-063d-53e2-9669-44eecf2bd000)
 

@@ -12,7 +12,7 @@ The AI Talent Matching Engine (Uplizd) leverages intelligent agent workflows to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d513aca8-a4b4-5903-866f-b9a586d027a9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d513aca8-a4b4-5903-866f-b9a586d027a9)
 
 ---
 

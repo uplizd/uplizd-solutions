@@ -12,7 +12,7 @@ The BART Service Status Monitor is an intelligent Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ce7b85a5-b9f7-52ab-bbc7-3f7ec9e18dce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ce7b85a5-b9f7-52ab-bbc7-3f7ec9e18dce)
 
 ---
 

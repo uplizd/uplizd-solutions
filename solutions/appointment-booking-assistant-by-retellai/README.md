@@ -12,7 +12,7 @@ The Appointment Booking Assistant is an intelligent Uplizd workflow that leverag
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9e0ce95d-82f1-5823-886c-effc02ab0c47)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9e0ce95d-82f1-5823-886c-effc02ab0c47)
 
 ---
 

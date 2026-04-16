@@ -10,5 +10,5 @@ Automated content creation and social media promotion for your events
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f32c2c40-0bf3-5095-aaf7-15014deea34a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f32c2c40-0bf3-5095-aaf7-15014deea34a)
 

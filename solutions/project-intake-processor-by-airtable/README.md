@@ -10,5 +10,5 @@ Transform client requests into structured project records with automated task br
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/155bd6aa-519d-5696-a90d-b027970a1350)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/155bd6aa-519d-5696-a90d-b027970a1350)
 

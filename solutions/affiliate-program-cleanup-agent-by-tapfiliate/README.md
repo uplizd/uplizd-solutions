@@ -12,7 +12,7 @@ The Affiliate Program Cleanup Agent is an intelligent workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fc526552-acea-5b02-a27f-62c113a840d2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc526552-acea-5b02-a27f-62c113a840d2)
 
 ---
 

@@ -12,7 +12,7 @@ The Client Onboarding Automator is an intelligent Uplizd workflow designed to el
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5eed02a6-5584-56c9-a489-e08da4a33314)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5eed02a6-5584-56c9-a489-e08da4a33314)
 
 ---
 

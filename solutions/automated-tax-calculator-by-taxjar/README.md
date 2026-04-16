@@ -12,7 +12,7 @@ The Automated Tax Calculator by TaxJar is an intelligent Uplizd workflow that au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fc8e78cc-e7cf-523f-90c0-98dfba08399b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc8e78cc-e7cf-523f-90c0-98dfba08399b)
 
 ---
 

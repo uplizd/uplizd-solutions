@@ -12,7 +12,7 @@ The Client Milestone Celebration Agent is an automated Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0c5eef01-4667-5c3a-a9f6-956bf6d6fb78)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c5eef01-4667-5c3a-a9f6-956bf6d6fb78)
 
 ---
 

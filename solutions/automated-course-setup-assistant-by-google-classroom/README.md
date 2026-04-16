@@ -12,7 +12,7 @@ The Automated Course Setup Assistant is an intelligent Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/68a859f2-00d6-564b-83be-393469eddbc6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/68a859f2-00d6-564b-83be-393469eddbc6)
 
 ---
 

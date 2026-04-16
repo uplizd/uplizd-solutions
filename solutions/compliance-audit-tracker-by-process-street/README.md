@@ -12,7 +12,7 @@ The Compliance Audit Tracker is an intelligent Uplizd workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/de4461d6-afab-5264-8602-c2d3622aa1bb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/de4461d6-afab-5264-8602-c2d3622aa1bb)
 
 ---
 

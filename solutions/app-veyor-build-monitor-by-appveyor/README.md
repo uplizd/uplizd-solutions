@@ -12,7 +12,7 @@ The AppVeyor Build Monitor is an intelligent automation workflow designed to tra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/eb4eb17b-b571-5244-9fc4-41730688c94e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eb4eb17b-b571-5244-9fc4-41730688c94e)
 
 ---
 

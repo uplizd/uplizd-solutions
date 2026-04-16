@@ -10,5 +10,5 @@ Automatically analyze and optimize email campaign performance
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b0f48b80-f57c-518a-ae36-b0a84e5f9f73)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b0f48b80-f57c-518a-ae36-b0a84e5f9f73)
 

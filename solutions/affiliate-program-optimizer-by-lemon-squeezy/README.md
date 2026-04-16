@@ -12,7 +12,7 @@ The Affiliate Program Optimizer is an intelligent Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b5f96261-33f3-5592-8c23-ca814bd62a5b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b5f96261-33f3-5592-8c23-ca814bd62a5b)
 
 ---
 

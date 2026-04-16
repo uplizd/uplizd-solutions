@@ -12,7 +12,7 @@ The A/B Test Optimizer is an intelligent Uplizd AI workflow designed to bridge t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/12291677-f504-5d7c-8841-62c55d8db91f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12291677-f504-5d7c-8841-62c55d8db91f)
 
 ---
 

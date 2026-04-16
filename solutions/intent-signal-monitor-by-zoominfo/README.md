@@ -10,5 +10,5 @@ Track buying intent signals and alert sales teams to hot prospects in real-time
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/81d50ade-2898-52b0-b025-dee00b154949)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/81d50ade-2898-52b0-b025-dee00b154949)
 

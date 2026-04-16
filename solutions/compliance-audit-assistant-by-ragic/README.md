@@ -12,7 +12,7 @@ The Compliance Audit Assistant is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ea6d01a2-2f84-58d4-ba2f-a26d0d472a1f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea6d01a2-2f84-58d4-ba2f-a26d0d472a1f)
 
 ---
 

@@ -10,5 +10,5 @@ Automate transaction monitoring and payout tracking for compliance
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/782d82aa-b7f8-5952-bcc3-eda035b354b0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/782d82aa-b7f8-5952-bcc3-eda035b354b0)
 

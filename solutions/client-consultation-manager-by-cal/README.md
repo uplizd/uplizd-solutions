@@ -12,7 +12,7 @@ The Client Consultation Manager is an intelligent Uplizd workflow designed to au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/64eae9e7-661e-5fd5-9fa2-d08f85138f74)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/64eae9e7-661e-5fd5-9fa2-d08f85138f74)
 
 ---
 

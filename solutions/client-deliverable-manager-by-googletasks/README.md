@@ -12,7 +12,7 @@ The Client Deliverable Manager is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/595452b7-0ebf-5a09-80c9-4c55a7546c8f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/595452b7-0ebf-5a09-80c9-4c55a7546c8f)
 
 ---
 

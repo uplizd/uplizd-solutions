@@ -12,7 +12,7 @@ The Asset Cleanup Manager is an intelligent Uplizd workflow designed to automate
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c9c3f5c5-129a-5d61-b6c5-80d2e2c14155)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c9c3f5c5-129a-5d61-b6c5-80d2e2c14155)
 
 ---
 

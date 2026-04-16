@@ -10,5 +10,5 @@ Enable safe customer data sharing between teams with automatic anonymization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fbc33399-e91a-5067-992c-bc201e4092fc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fbc33399-e91a-5067-992c-bc201e4092fc)
 

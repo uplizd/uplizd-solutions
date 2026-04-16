@@ -10,5 +10,5 @@ Streamline subscriber list operations with intelligent automation and maintenanc
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/477faf1e-c1fb-5bd1-835b-c8dc3891baa0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/477faf1e-c1fb-5bd1-835b-c8dc3891baa0)
 

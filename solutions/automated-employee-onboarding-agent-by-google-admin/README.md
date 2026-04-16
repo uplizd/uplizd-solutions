@@ -13,7 +13,7 @@ The Automated Employee Onboarding Agent is an intelligent workflow designed to e
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/887ddc1b-6557-566c-918f-a4ade18b119b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/887ddc1b-6557-566c-918f-a4ade18b119b)
 
 ---
 

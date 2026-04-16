@@ -12,7 +12,7 @@ The Agile Retrospective Analyzer (Uplizd) streamlines the post-sprint review pro
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/eb638387-bebf-5790-aab2-dddb968bedec)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eb638387-bebf-5790-aab2-dddb968bedec)
 
 ---
 

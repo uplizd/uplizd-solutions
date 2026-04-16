@@ -12,7 +12,7 @@ The Blockchain Compliance Event Tracker is an automated Uplizd AI workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e7f4f92f-8ca8-580d-b343-bc22d7a7bf07)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e7f4f92f-8ca8-580d-b343-bc22d7a7bf07)
 
 ---
 

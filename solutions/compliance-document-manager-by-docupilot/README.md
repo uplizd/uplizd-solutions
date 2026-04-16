@@ -10,5 +10,5 @@ Generate and organize compliance documents automatically for audit readiness
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/610370f2-8743-530d-b2b3-33aa2cf8421e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/610370f2-8743-530d-b2b3-33aa2cf8421e)
 

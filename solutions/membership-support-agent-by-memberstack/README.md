@@ -10,5 +10,5 @@ Handle member queries and account management automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/75dde9c7-a317-5c87-bc34-f3d32ae34607)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/75dde9c7-a317-5c87-bc34-f3d32ae34607)
 

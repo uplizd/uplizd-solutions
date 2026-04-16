@@ -12,7 +12,7 @@ The AI Model Experiment Manager (Uplizd) automates the lifecycle of AI model eva
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/44982ff6-72f6-5966-8c6c-801b71cc6380)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/44982ff6-72f6-5966-8c6c-801b71cc6380)
 
 ---
 

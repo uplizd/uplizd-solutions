@@ -12,7 +12,7 @@ The Audit Document Comparator by Draftable is an intelligent Uplizd workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a36b9b9d-b9c4-5b43-8324-500482d40f69)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a36b9b9d-b9c4-5b43-8324-500482d40f69)
 
 ---
 

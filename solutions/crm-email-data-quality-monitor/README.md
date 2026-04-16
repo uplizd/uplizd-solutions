@@ -15,7 +15,7 @@ A Uplizd AI workflow that continuously monitors the quality and validity of emai
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d15badea-680d-5a50-9bb6-c6126c925000)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d15badea-680d-5a50-9bb6-c6126c925000)
 
 ---
 ## Who is this for?

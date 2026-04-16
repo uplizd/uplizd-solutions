@@ -12,7 +12,7 @@ The Carbon Offset Progress Tracker is an intelligent Uplizd AI workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5baa611b-c284-5a94-8dac-d31b2b36a067)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5baa611b-c284-5a94-8dac-d31b2b36a067)
 
 ---
 

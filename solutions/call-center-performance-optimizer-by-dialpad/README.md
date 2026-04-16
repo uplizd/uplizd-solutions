@@ -12,7 +12,7 @@ The Call Center Performance Optimizer is an intelligent Uplizd workflow that bri
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c983c8d3-0e8c-5167-baa5-84838a487e05)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c983c8d3-0e8c-5167-baa5-84838a487e05)
 
 ---
 

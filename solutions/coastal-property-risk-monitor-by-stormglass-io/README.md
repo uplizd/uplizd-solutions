@@ -12,7 +12,7 @@ The Coastal Property Risk Monitor is an automated Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ba7cbaa8-d762-55a6-ac5d-383c813dfe1c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba7cbaa8-d762-55a6-ac5d-383c813dfe1c)
 
 ---
 

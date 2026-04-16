@@ -12,7 +12,7 @@ The Change Request Auto-Processor is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e8c6544f-766f-535e-a1b2-a568c066b580)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e8c6544f-766f-535e-a1b2-a568c066b580)
 
 ---
 

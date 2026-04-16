@@ -12,7 +12,7 @@ The Automated Onboarding Assistant by Intercom is an intelligent workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/51ddf777-e7a3-5612-9cea-32792665996c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/51ddf777-e7a3-5612-9cea-32792665996c)
 
 ---
 

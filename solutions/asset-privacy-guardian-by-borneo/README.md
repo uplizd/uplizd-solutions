@@ -12,7 +12,7 @@ The Asset Privacy Guardian is an automated Uplizd workflow designed to scan, ide
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8111edad-0492-540a-97dc-10a77790d317)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8111edad-0492-540a-97dc-10a77790d317)
 
 ---
 

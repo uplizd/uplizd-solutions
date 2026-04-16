@@ -12,7 +12,7 @@ The CDN Migration Assistant is an intelligent Uplizd workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/3213315a-36ff-548c-92bf-8d5394183baa)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3213315a-36ff-548c-92bf-8d5394183baa)
 
 ---
 

@@ -12,7 +12,7 @@ The Alerting Rule Curator is an automated Uplizd workflow designed to streamline
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b6134d2c-11dd-52a9-9036-313fbc814ef8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b6134d2c-11dd-52a9-9036-313fbc814ef8)
 
 ---
 

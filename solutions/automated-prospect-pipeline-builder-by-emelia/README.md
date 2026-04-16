@@ -12,7 +12,7 @@ The Automated Prospect Pipeline Builder is an intelligent Uplizd workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8e5bc6d1-8a75-5a73-b0cf-fa9c78267197)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8e5bc6d1-8a75-5a73-b0cf-fa9c78267197)
 
 ---
 

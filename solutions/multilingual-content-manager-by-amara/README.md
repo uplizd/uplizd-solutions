@@ -10,5 +10,5 @@ Automatically manage subtitles across multiple languages for video content
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b2fb0cf6-c942-5e8b-aded-5652277ff9b8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b2fb0cf6-c942-5e8b-aded-5652277ff9b8)
 

@@ -12,7 +12,7 @@ The Call Center Analytics Agent leverages Uplizd AI workflows to ingest, transcr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cb2ac817-af82-5fa7-9f35-73c6568b48ff)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cb2ac817-af82-5fa7-9f35-73c6568b48ff)
 
 ---
 

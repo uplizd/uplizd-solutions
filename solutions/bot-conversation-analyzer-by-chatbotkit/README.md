@@ -12,7 +12,7 @@ The Bot Conversation Analyzer is an intelligent Uplizd workflow designed to inge
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/882cdd9b-9ef4-56e0-b4ef-f3d2f45f3175)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/882cdd9b-9ef4-56e0-b4ef-f3d2f45f3175)
 
 ---
 

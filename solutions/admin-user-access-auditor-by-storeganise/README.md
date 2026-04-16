@@ -12,7 +12,7 @@ The Admin User Access Auditor is an intelligent Uplizd workflow designed to stre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9f71f5db-0d8a-524d-9ea3-79abe1bc6409)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9f71f5db-0d8a-524d-9ea3-79abe1bc6409)
 
 ---
 

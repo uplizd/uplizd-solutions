@@ -12,7 +12,7 @@ The Account Relationship Builder is an intelligent Uplizd workflow designed to a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0379353c-4ffb-50a7-be2c-cc211c786094)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0379353c-4ffb-50a7-be2c-cc211c786094)
 
 ---
 

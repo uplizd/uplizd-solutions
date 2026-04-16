@@ -12,7 +12,7 @@ The Bulk User Operations Manager is an intelligent Uplizd workflow designed to s
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7d612f65-89ee-5e11-beca-902f3293ce43)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7d612f65-89ee-5e11-beca-902f3293ce43)
 
 ---
 

@@ -10,5 +10,5 @@ Automatically score and prioritize leads based on video engagement behavior
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cd9c2207-ed6c-5a20-a334-9e1a338d34ef)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cd9c2207-ed6c-5a20-a334-9e1a338d34ef)
 

@@ -12,7 +12,7 @@ The Bulk Certification Issuer workflow automates the end-to-end process of gener
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f22703ed-d673-5a0c-996f-9e1a4b3e12af)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f22703ed-d673-5a0c-996f-9e1a4b3e12af)
 
 ---
 

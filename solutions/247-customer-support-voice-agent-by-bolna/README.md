@@ -12,7 +12,7 @@ The 24/7 Customer Support Voice Agent (Uplizd) provides an automated, always-on 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5fcb27fb-5829-5cac-a68f-5e3ca3ba0386)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5fcb27fb-5829-5cac-a68f-5e3ca3ba0386)
 
 ---
 

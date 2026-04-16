@@ -12,7 +12,7 @@ The Affiliate Program Analytics Agent is an intelligent workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f6b61826-3ca1-50ab-92b6-d916063b42a1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f6b61826-3ca1-50ab-92b6-d916063b42a1)
 
 ---
 

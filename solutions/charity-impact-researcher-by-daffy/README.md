@@ -12,7 +12,7 @@ The Charity Impact Researcher is an intelligent Uplizd workflow designed to stre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f53a171c-002f-5b33-b8b3-6b7a7538f095)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f53a171c-002f-5b33-b8b3-6b7a7538f095)
 
 ---
 

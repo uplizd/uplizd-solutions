@@ -12,7 +12,7 @@ The Calendar Health Monitor is an intelligent Uplizd workflow designed to audit,
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/00436f72-d1bf-5e0e-9bac-a86f52186d55)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/00436f72-d1bf-5e0e-9bac-a86f52186d55)
 
 ---
 

@@ -10,5 +10,5 @@ Automatically plan and validate integration architectures using Make's available
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c46e2847-f15d-56bb-b1b4-17483ec7d6d3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c46e2847-f15d-56bb-b1b4-17483ec7d6d3)
 

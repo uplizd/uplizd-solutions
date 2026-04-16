@@ -10,5 +10,5 @@ Create personalized voice responses for customer service automation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/cbbdbe5c-d1d6-50e7-8c3d-e3ff117fd0c4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cbbdbe5c-d1d6-50e7-8c3d-e3ff117fd0c4)
 

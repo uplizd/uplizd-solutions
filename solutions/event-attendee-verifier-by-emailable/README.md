@@ -10,5 +10,5 @@ Validate event registration emails to ensure accurate attendee communication
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c122c7d0-c553-5a61-9db7-cde76997f15b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c122c7d0-c553-5a61-9db7-cde76997f15b)
 

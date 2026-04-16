@@ -12,7 +12,7 @@ The Automated Creative Testing Manager is an intelligent Uplizd workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e840c682-92a1-5d39-82e2-dc25159cd4c2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e840c682-92a1-5d39-82e2-dc25159cd4c2)
 
 ---
 

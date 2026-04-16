@@ -10,5 +10,5 @@ Intelligent customer query resolution using purchase and storefront data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/505d49fb-b862-51f8-8cb3-f8cb94aabb93)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/505d49fb-b862-51f8-8cb3-f8cb94aabb93)
 

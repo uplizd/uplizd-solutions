@@ -12,7 +12,7 @@ The Automated Regression Tester (Uplizd) is an intelligent AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/db759f79-327b-5817-a337-d9be7900d4c1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/db759f79-327b-5817-a337-d9be7900d4c1)
 
 ---
 

@@ -10,5 +10,5 @@ Never forget important meeting details again
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/08f24840-cfa3-53ea-9f29-607d00d25146)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/08f24840-cfa3-53ea-9f29-607d00d25146)
 

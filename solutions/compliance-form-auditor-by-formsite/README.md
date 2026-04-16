@@ -10,5 +10,5 @@ Ensure form data collection meets regulatory requirements with automated complia
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/1715c37f-6b66-51af-82b6-2720071c7de4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1715c37f-6b66-51af-82b6-2720071c7de4)
 

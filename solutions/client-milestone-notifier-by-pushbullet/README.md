@@ -12,7 +12,7 @@ The Client Milestone Notifier is an intelligent Uplizd workflow designed to brid
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/18cb2814-fd5e-5824-ab8d-b3bff4336079)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/18cb2814-fd5e-5824-ab8d-b3bff4336079)
 
 ---
 

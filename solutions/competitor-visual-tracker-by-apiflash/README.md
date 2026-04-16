@@ -12,7 +12,7 @@ The Competitor Visual Tracker is an intelligent Uplizd workflow that automates t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/54eb7d17-1914-55e5-bd19-6c4dc7e7b4da)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/54eb7d17-1914-55e5-bd19-6c4dc7e7b4da)
 
 ---
 

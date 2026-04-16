@@ -10,5 +10,5 @@ Guide new team members through Salesmate setup and best practices
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/a72a3b68-ea02-5a34-bfd4-79cf2fa325b8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a72a3b68-ea02-5a34-bfd4-79cf2fa325b8)
 

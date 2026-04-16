@@ -10,5 +10,5 @@ Automatically handle subscription cancellations and retention attempts
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/35085df2-7fc5-5501-a006-ac4690846d2a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/35085df2-7fc5-5501-a006-ac4690846d2a)
 

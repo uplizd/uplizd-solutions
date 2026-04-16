@@ -10,5 +10,5 @@ Orchestrate seasonal physical card campaigns to key prospects and customers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ec30cbd1-0a8e-56d3-bf40-83174e2efb3c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ec30cbd1-0a8e-56d3-bf40-83174e2efb3c)
 

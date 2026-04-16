@@ -12,7 +12,7 @@ The Brand Asset Collector by Uplizd is an intelligent workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8472c8d2-a7ec-580a-a705-baf459171ab2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8472c8d2-a7ec-580a-a705-baf459171ab2)
 
 ---
 

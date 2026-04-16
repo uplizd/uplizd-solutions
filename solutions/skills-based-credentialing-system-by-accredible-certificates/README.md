@@ -10,5 +10,5 @@ Automatically issue skill-specific certificates based on competency assessments
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/41d456e7-16ee-5f7b-8cf6-fb3504d9b5b4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/41d456e7-16ee-5f7b-8cf6-fb3504d9b5b4)
 

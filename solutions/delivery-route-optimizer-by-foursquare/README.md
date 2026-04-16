@@ -10,5 +10,5 @@ Optimize delivery routes by discovering nearby pickup and drop-off points
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fd6c588b-7007-5dfc-a7e6-1b662491da3e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fd6c588b-7007-5dfc-a7e6-1b662491da3e)
 

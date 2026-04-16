@@ -12,7 +12,7 @@ The Automated Insights Report Generator (Uplizd) streamlines the extraction, ana
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d1f44dce-1add-5b3d-84a1-7154d208e5b3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d1f44dce-1add-5b3d-84a1-7154d208e5b3)
 
 ---
 

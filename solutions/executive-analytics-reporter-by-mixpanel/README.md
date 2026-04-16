@@ -10,5 +10,5 @@ Automated executive dashboards with business-focused insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0ac20771-3a11-57be-990f-f284a7d94204)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0ac20771-3a11-57be-990f-f284a7d94204)
 

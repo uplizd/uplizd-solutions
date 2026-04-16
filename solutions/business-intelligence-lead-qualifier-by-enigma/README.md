@@ -12,7 +12,7 @@ The Business Intelligence Lead Qualifier is an automated Uplizd AI workflow that
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ede8782b-47b5-5247-8cfc-df4de112b694)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ede8782b-47b5-5247-8cfc-df4de112b694)
 
 ---
 

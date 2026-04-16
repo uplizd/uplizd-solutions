@@ -12,7 +12,7 @@ The Analyst Rating Monitor is an intelligent Uplizd workflow that tracks real-ti
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/5ff92f42-e73e-5afb-8255-3c3fc2f4863d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5ff92f42-e73e-5afb-8255-3c3fc2f4863d)
 
 ---
 

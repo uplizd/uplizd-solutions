@@ -10,5 +10,5 @@ Convert Instagram followers into leads through intelligent DM automation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fe7ed977-dd1c-56b1-bd40-00d81e87dcb7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fe7ed977-dd1c-56b1-bd40-00d81e87dcb7)
 

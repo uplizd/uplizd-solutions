@@ -12,7 +12,7 @@ The AI Fashion Assistant is an automated workflow that leverages computer vision
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6edfc925-fc01-51dd-8948-39ffb70b0edd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6edfc925-fc01-51dd-8948-39ffb70b0edd)
 
 ---
 

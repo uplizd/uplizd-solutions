@@ -10,5 +10,5 @@ Automatically prioritize and categorize critical bugs for faster resolution
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8e393291-fa80-5374-83a9-7729bddb23be)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8e393291-fa80-5374-83a9-7729bddb23be)
 

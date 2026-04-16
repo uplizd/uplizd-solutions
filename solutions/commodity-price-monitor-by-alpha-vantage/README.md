@@ -12,7 +12,7 @@ The Commodity Price Monitor is an intelligent Uplizd workflow designed to track 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/abbbf21f-00bc-52eb-9276-9f887346c7f0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/abbbf21f-00bc-52eb-9276-9f887346c7f0)
 
 ---
 

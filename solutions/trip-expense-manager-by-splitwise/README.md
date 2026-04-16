@@ -10,5 +10,5 @@ Automatically track and split group travel expenses
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/7991179d-ef9e-568c-a290-354b8c2a0932)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7991179d-ef9e-568c-a290-354b8c2a0932)
 

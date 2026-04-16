@@ -10,5 +10,5 @@ Automatically enrich CRM contacts with verified email addresses and phone number
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/43ebf3cb-c1f2-51d2-aada-54cb74f5971f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/43ebf3cb-c1f2-51d2-aada-54cb74f5971f)
 

@@ -12,7 +12,7 @@ The Audio Accessibility Agent by Deepgram is an automated workflow designed to b
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f6a106f1-7456-5a47-9ccb-5667728bf7b5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f6a106f1-7456-5a47-9ccb-5667728bf7b5)
 
 ---
 

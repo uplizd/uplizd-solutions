@@ -12,7 +12,7 @@ The AppVeyor Project Health Analyzer is an intelligent Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ddfa5b30-61bd-5bd4-853b-ab26050bdd76)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ddfa5b30-61bd-5bd4-853b-ab26050bdd76)
 
 ---
 

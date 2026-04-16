@@ -12,7 +12,7 @@ The Apollo Smart Task Creator is an intelligent Uplizd workflow that automatical
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/d4520736-a22f-584b-b3d8-328329f069c0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4520736-a22f-584b-b3d8-328329f069c0)
 
 ---
 

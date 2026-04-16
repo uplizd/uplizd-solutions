@@ -12,7 +12,7 @@ The Campaign Inspiration Generator is an intelligent Uplizd workflow that analyz
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/32ba9ac8-2ab4-57ea-bec2-0a394e55445c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/32ba9ac8-2ab4-57ea-bec2-0a394e55445c)
 
 ---
 

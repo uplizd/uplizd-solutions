@@ -10,5 +10,5 @@ Clean and verify prospect lists before launching outreach campaigns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/46e10630-99ab-560f-8331-fec36b2fcd7c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/46e10630-99ab-560f-8331-fec36b2fcd7c)
 

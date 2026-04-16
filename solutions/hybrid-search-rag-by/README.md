@@ -10,5 +10,5 @@ Explore Hybrid Search with a vector database.
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/e15ec3d1-7250-5c28-beef-57137b64e983)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e15ec3d1-7250-5c28-beef-57137b64e983)
 

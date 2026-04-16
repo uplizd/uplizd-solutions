@@ -12,7 +12,7 @@ The Compliance Dashboard Agent is an intelligent workflow designed to automate r
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9b6539ae-4272-50bd-8ad4-b35718ae4bc5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b6539ae-4272-50bd-8ad4-b35718ae4bc5)
 
 ---
 

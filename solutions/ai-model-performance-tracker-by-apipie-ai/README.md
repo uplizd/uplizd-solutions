@@ -12,7 +12,7 @@ The AI Model Performance Tracker is an automated Uplizd workflow designed to mon
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/65c97217-2cfe-5ffa-86a0-31b857d0130e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/65c97217-2cfe-5ffa-86a0-31b857d0130e)
 
 ---
 

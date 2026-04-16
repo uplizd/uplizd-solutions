@@ -10,5 +10,5 @@ Automatically track and respond to student safety concerns through anonymous rep
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/58f2265c-e4fa-524e-a29d-10158bebb6ac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/58f2265c-e4fa-524e-a29d-10158bebb6ac)
 

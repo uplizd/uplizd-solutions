@@ -12,7 +12,7 @@ The Bulk Verification Orchestrator by NeverBounce is an AI-powered workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bb05c091-a1e4-56da-a5f7-17700ad3639b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bb05c091-a1e4-56da-a5f7-17700ad3639b)
 
 ---
 

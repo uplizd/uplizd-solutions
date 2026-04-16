@@ -12,7 +12,7 @@ The Backlink Outreach Intelligence Agent streamlines your SEO strategy by identi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/f25e6350-c184-5727-957b-627eb3abbe9b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f25e6350-c184-5727-957b-627eb3abbe9b)
 
 ---
 

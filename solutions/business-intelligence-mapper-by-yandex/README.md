@@ -12,7 +12,7 @@ The Business Intelligence Mapper is an intelligent Uplizd workflow designed to s
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/8ae0710a-19ca-5583-8baf-3fa5bf2f3a23)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8ae0710a-19ca-5583-8baf-3fa5bf2f3a23)
 
 ---
 

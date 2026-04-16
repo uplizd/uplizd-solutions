@@ -12,7 +12,7 @@ The AI Model Cost Monitor is an automated Uplizd workflow designed to provide re
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/2cd28d53-521d-5d50-858a-559dd81d98f9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2cd28d53-521d-5d50-858a-559dd81d98f9)
 
 ---
 

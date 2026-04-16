@@ -12,7 +12,7 @@ The Cat Content Curator is an intelligent Uplizd AI workflow designed to automat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ed9f7788-d2f2-57dc-b3da-25bc7f0254be)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed9f7788-d2f2-57dc-b3da-25bc7f0254be)
 
 ---
 

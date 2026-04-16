@@ -12,7 +12,7 @@ The Blackboard Grade Analytics Agent is an intelligent workflow designed to stre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0dd1c265-8801-5da3-bf0e-e223beda3069)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0dd1c265-8801-5da3-bf0e-e223beda3069)
 
 ---
 

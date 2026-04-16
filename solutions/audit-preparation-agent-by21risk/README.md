@@ -12,7 +12,7 @@ The Audit Preparation Agent streamlines the complex process of gathering, organi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/74caf788-ee0f-5ec3-bb17-2c946905f641)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/74caf788-ee0f-5ec3-bb17-2c946905f641)
 
 ---
 

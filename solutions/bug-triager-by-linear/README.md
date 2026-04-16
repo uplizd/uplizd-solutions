@@ -12,7 +12,7 @@ The Bug Triager (Uplizd) workflow streamlines software development lifecycles by
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/0bebb850-f4aa-5d60-9cb2-6183ee729f39)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0bebb850-f4aa-5d60-9cb2-6183ee729f39)
 
 ---
 

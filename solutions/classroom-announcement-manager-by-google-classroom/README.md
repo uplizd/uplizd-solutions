@@ -12,7 +12,7 @@ The Classroom Announcement Manager is an intelligent Uplizd AI workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/c92b7a8a-5f12-5122-a897-bdc41075a223)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c92b7a8a-5f12-5122-a897-bdc41075a223)
 
 ---
 

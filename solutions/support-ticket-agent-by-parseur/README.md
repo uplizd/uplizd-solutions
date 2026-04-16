@@ -10,5 +10,5 @@ Automatically categorize and route customer support emails with extracted contex
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/86bcddee-2b1d-56f9-a430-99eece8de763)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/86bcddee-2b1d-56f9-a430-99eece8de763)
 

@@ -10,5 +10,5 @@ Automatically sync and enrich CRM contacts with LinkedIn profile data
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/6f9b03d5-4f06-54fe-8b18-c98f4e1087fd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6f9b03d5-4f06-54fe-8b18-c98f4e1087fd)
 

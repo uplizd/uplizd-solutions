@@ -12,7 +12,7 @@ The Chat with PostgreSQL Database solution enables users to interact with their 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b47ef751-4603-529e-aa52-09babded70d8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b47ef751-4603-529e-aa52-09babded70d8)
 
 ---
 

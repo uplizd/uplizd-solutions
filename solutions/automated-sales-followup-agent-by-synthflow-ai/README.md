@@ -12,7 +12,7 @@ The Automated Sales Follow-up Agent leverages advanced AI voice technology to en
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/71393a46-be3e-5a35-a1a5-7a06a6de981a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/71393a46-be3e-5a35-a1a5-7a06a6de981a)
 
 ---
 

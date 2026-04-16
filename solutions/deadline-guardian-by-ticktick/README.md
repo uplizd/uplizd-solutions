@@ -10,5 +10,5 @@ Proactively manage approaching deadlines with smart notifications and task break
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/da992a6b-16ec-5ed6-a078-6697e3a18808)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/da992a6b-16ec-5ed6-a078-6697e3a18808)
 

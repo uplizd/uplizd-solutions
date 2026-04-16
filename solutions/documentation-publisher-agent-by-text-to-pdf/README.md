@@ -10,5 +10,5 @@ Convert technical documentation into distributable PDF manuals
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/28fe7f2d-c9b9-5044-a1c1-9a0b21329352)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/28fe7f2d-c9b9-5044-a1c1-9a0b21329352)
 

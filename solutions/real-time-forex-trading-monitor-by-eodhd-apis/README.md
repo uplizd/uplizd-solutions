@@ -10,5 +10,5 @@ Monitor live forex rates and alert on trading opportunities
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/36bb0c36-7241-5350-98a4-6b8c53fd9489)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36bb0c36-7241-5350-98a4-6b8c53fd9489)
 

@@ -10,5 +10,5 @@ Maximize deal velocity and forecast accuracy
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/ed5d9a5b-64a3-52fa-ab21-0cb2e0d1498d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed5d9a5b-64a3-52fa-ab21-0cb2e0d1498d)
 

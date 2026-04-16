@@ -12,7 +12,7 @@ The Anthropic Model Optimizer is an intelligent Uplizd AI workflow designed to d
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/34b2db58-e5e1-56ab-810a-77a4bce83b94)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34b2db58-e5e1-56ab-810a-77a4bce83b94)
 
 ---
 

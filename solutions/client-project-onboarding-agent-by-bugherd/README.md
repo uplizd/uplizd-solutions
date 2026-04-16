@@ -12,7 +12,7 @@ The Client Project Onboarding Agent automates the transition from signed contrac
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/fc81684e-a1b4-58fb-ac99-c741a764778c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc81684e-a1b4-58fb-ac99-c741a764778c)
 
 ---
 

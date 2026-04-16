@@ -10,5 +10,5 @@ Track project progress and identify bottlenecks automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/57d6ae42-6e53-53c4-9673-647a52d8a4a2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/57d6ae42-6e53-53c4-9673-647a52d8a4a2)
 

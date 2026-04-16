@@ -10,5 +10,5 @@ Automated release tracking and error correlation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/4803b4ae-cdf4-51e7-b9bc-48d3831aa421)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4803b4ae-cdf4-51e7-b9bc-48d3831aa421)
 

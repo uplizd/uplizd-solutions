@@ -10,5 +10,5 @@ Transform single pieces of content into multiple visual formats automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/9c6ccf6b-88bf-550c-be37-743176dfdb44)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9c6ccf6b-88bf-550c-be37-743176dfdb44)
 

@@ -12,7 +12,7 @@ The Bulk Media Processor is an intelligent Uplizd workflow designed to automate 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/bdb8ed55-8405-5738-8790-8a7afd62dbce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bdb8ed55-8405-5738-8790-8a7afd62dbce)
 
 ---
 

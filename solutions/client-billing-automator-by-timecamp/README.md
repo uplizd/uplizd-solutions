@@ -12,7 +12,7 @@ The Client Billing Automator is an intelligent Uplizd workflow designed to bridg
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://uplizd.ai/assets/run-on-uplizd.svg)](https://uplizd.ai/solutions/b7b626f3-fc0f-5aa2-9874-c8bfcc8f5724)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b7b626f3-fc0f-5aa2-9874-c8bfcc8f5724)
 
 ---
 
