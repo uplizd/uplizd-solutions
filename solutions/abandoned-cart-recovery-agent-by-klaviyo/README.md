@@ -13,7 +13,7 @@ The Abandoned Cart Recovery Agent is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e2121d45-3422-5ca9-9f51-1ea1a190cbe1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e2121d45-3422-5ca9-9f51-1ea1a190cbe1)
 
 ---
 

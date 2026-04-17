@@ -12,7 +12,7 @@ The Dividend Income Optimizer is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/51f512a2-ab3e-582a-8463-433581230768)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/51f512a2-ab3e-582a-8463-433581230768)
 
 ---
 

@@ -12,7 +12,7 @@ The Dynamic Audience Manager is an intelligent Uplizd workflow that synchronizes
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b95f7cf4-4bdf-545a-8f8e-d67c1a78bc32)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b95f7cf4-4bdf-545a-8f8e-d67c1a78bc32)
 
 ---
 

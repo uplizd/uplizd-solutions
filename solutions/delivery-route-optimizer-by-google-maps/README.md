@@ -12,7 +12,7 @@ The Delivery Route Optimizer (Uplizd) is an AI-driven workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3e4895d8-2380-524b-a580-1494849f7d03)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3e4895d8-2380-524b-a580-1494849f7d03)
 
 ---
 

@@ -12,7 +12,7 @@ The Crisis Content Management Agent provides an automated safeguard for your bra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fb1613da-8014-59f3-a8fc-b3958da53074)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fb1613da-8014-59f3-a8fc-b3958da53074)
 
 ---
 

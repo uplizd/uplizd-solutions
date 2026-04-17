@@ -12,7 +12,7 @@ The Content Production Pipeline (Uplizd) automates the end-to-end content lifecy
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0a440c6e-ab16-57cf-b040-3f9b623aecd5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0a440c6e-ab16-57cf-b040-3f9b623aecd5)
 
 ---
 

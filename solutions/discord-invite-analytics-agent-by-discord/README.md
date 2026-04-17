@@ -12,7 +12,7 @@ The Discord Invite Analytics Agent is an automated workflow designed to monitor,
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4c742f35-7125-527b-9d76-e696f9339534)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4c742f35-7125-527b-9d76-e696f9339534)
 
 ---
 

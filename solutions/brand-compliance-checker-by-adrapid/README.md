@@ -12,7 +12,7 @@ The Brand Compliance Checker is an intelligent Uplizd workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c399e960-6301-50ad-9f26-a6486ebdf3ac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c399e960-6301-50ad-9f26-a6486ebdf3ac)
 
 ---
 

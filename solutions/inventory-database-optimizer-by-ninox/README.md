@@ -12,7 +12,7 @@ The Inventory Database Optimizer is an intelligent Uplizd workflow designed to m
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/946e54bc-8441-5021-b427-a6e4275996b7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/946e54bc-8441-5021-b427-a6e4275996b7)
 
 ---
 

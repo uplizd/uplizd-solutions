@@ -12,7 +12,7 @@ The List Management Assistant is an Uplizd AI workflow designed to automate subs
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/477faf1e-c1fb-5bd1-835b-c8dc3891baa0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/477faf1e-c1fb-5bd1-835b-c8dc3891baa0)
 
 ---
 

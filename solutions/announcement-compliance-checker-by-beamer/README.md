@@ -12,7 +12,7 @@ The Announcement Compliance Checker is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/51518dc9-7957-572b-b79d-5c0bb65e431a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/51518dc9-7957-572b-b79d-5c0bb65e431a)
 
 ---
 

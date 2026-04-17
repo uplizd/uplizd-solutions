@@ -12,7 +12,7 @@ The Customer Feedback Analyzer is an intelligent Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/df02c1a4-5784-5e27-b9d7-6ad72dbbeddd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/df02c1a4-5784-5e27-b9d7-6ad72dbbeddd)
 
 ---
 

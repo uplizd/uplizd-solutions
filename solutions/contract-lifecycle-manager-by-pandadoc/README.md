@@ -12,7 +12,7 @@ The Contract Lifecycle Manager is an intelligent Uplizd workflow that orchestrat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d13094b5-77c0-5d94-a5ae-0126e9634382)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d13094b5-77c0-5d94-a5ae-0126e9634382)
 
 ---
 

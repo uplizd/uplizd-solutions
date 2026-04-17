@@ -12,7 +12,7 @@ The Lead Nurture Campaign Manager (Uplizd) is an intelligent automation workflow
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bf167d06-fd1c-5e32-904c-bdcae5afb33d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bf167d06-fd1c-5e32-904c-bdcae5afb33d)
 
 ---
 

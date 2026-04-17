@@ -12,7 +12,7 @@ The Deadline Priority Optimizer is an AI-driven workflow that automatically anal
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6b592eeb-2ebe-50a9-a29d-f9eed1574e6b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6b592eeb-2ebe-50a9-a29d-f9eed1574e6b)
 
 ---
 

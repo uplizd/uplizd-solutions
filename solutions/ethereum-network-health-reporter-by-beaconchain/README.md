@@ -12,7 +12,7 @@ The Ethereum Network Health Reporter is an automated AI workflow designed for bl
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a2f9be09-be60-5526-a9d2-0a7e6192113d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a2f9be09-be60-5526-a9d2-0a7e6192113d)
 
 ---
 

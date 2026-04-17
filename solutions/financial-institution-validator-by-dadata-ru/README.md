@@ -12,7 +12,7 @@ The Financial Institution Validator is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/89184770-dbe1-5008-b9b8-3bb6ab813128)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/89184770-dbe1-5008-b9b8-3bb6ab813128)
 
 ---
 

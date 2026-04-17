@@ -12,7 +12,7 @@ The Guest Access Manager by Uplizd automates the lifecycle of external collabora
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/40ee73da-0312-5c28-bc82-f025c1413aab)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/40ee73da-0312-5c28-bc82-f025c1413aab)
 
 ---
 

@@ -12,7 +12,7 @@ The Payment Analytics Reporter is an intelligent Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b25058e7-275e-5fd2-a05c-8e7632597f25)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b25058e7-275e-5fd2-a05c-8e7632597f25)
 
 ---
 

@@ -12,7 +12,7 @@ The Guardian Communication Coordinator is an intelligent Uplizd AI workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4351e60c-a896-577c-b236-04cd1e3b9325)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4351e60c-a896-577c-b236-04cd1e3b9325)
 
 ---
 

@@ -12,7 +12,7 @@ The Reddit Competitor Intelligence Agent by Reddit is an automated workflow that
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1027b63f-ba8b-5d2a-8a41-b096934c4a61)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1027b63f-ba8b-5d2a-8a41-b096934c4a61)
 
 ---
 

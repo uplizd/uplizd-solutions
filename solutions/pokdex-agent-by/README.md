@@ -12,7 +12,7 @@ The Pokédex Agent is an automated AI workflow designed to streamline the retrie
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3c01b40-e827-526f-bd8b-1edd1c25bd7b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3c01b40-e827-526f-bd8b-1edd1c25bd7b)
 
 ---
 

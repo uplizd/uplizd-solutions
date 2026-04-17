@@ -12,7 +12,7 @@ The Fund Reporting Automator is an intelligent Uplizd workflow designed to aggre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ee6aee62-9969-5259-b341-ba94d6a58e60)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ee6aee62-9969-5259-b341-ba94d6a58e60)
 
 ---
 

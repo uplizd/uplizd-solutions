@@ -12,7 +12,7 @@ The Lead Qualification Agent by Fireberry is an intelligent workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a80d8711-c196-58b5-b30a-72124dace5ff)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a80d8711-c196-58b5-b30a-72124dace5ff)
 
 ---
 

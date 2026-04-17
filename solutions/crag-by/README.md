@@ -12,7 +12,7 @@ The CRAG (Conversational Retrieval-Augmented Generation) solution leverages Upli
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/adcf68ec-e7aa-5c1c-b67c-4f0a4e083a34)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/adcf68ec-e7aa-5c1c-b67c-4f0a4e083a34)
 
 ---
 

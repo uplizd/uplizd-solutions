@@ -12,7 +12,7 @@ The Financial Data Consolidator is an intelligent Uplizd workflow that automates
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3753bb78-e179-509f-84a9-bb692a483ded)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3753bb78-e179-509f-84a9-bb692a483ded)
 
 ---
 

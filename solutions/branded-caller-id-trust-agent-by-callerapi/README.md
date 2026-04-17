@@ -12,7 +12,7 @@ The Branded Caller ID Trust Agent is an automated workflow designed to manage, v
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/42a72224-188c-50af-89b9-93cb2ad68c83)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/42a72224-188c-50af-89b9-93cb2ad68c83)
 
 ---
 

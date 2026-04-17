@@ -12,7 +12,7 @@ The Snowflake Performance Monitor by Uplizd is an intelligent automation workflo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b9d35722-c6d3-5a71-93f5-ee9d4402aa0a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b9d35722-c6d3-5a71-93f5-ee9d4402aa0a)
 
 ---
 

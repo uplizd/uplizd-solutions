@@ -12,7 +12,7 @@ The Emissions Compliance Monitor is an intelligent Uplizd workflow designed to a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bcba230e-c613-549d-973d-1c69019ce4dc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bcba230e-c613-549d-973d-1c69019ce4dc)
 
 ---
 

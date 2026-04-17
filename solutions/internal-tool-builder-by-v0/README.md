@@ -12,7 +12,7 @@ The Internal Tool Builder by v0 is an AI-powered workflow that automates the tra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/db2efc56-6bcc-5450-8109-e335e06c86d0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/db2efc56-6bcc-5450-8109-e335e06c86d0)
 
 ---
 

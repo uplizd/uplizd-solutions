@@ -12,7 +12,7 @@ The Invoice Status Monitor (Uplizd) is an intelligent automation workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea5804a6-421a-57c1-9c8b-1b119fb844f3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea5804a6-421a-57c1-9c8b-1b119fb844f3)
 
 ---
 

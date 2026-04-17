@@ -12,7 +12,7 @@ The Physical Appointment Reminder Agent by Stannp is an automated workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0443fd6f-a5ab-52cc-9d75-3baa97c259a5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0443fd6f-a5ab-52cc-9d75-3baa97c259a5)
 
 ---
 

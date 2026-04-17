@@ -12,7 +12,7 @@ The DPD2 Storefront Health Monitor is an intelligent Uplizd AI workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3c6ab62e-597c-5fc4-8240-a59478b462bb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3c6ab62e-597c-5fc4-8240-a59478b462bb)
 
 ---
 

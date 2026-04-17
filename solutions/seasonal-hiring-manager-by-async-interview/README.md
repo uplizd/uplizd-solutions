@@ -12,7 +12,7 @@ The Seasonal Hiring Manager is an intelligent Uplizd workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5101a61e-8ce6-51b4-8823-f8ef6f039601)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5101a61e-8ce6-51b4-8823-f8ef6f039601)
 
 ---
 

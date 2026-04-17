@@ -12,7 +12,7 @@ The Customer Support Bot (Uplizd) is an intelligent automation workflow that con
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8b8649b6-9c0e-503e-a117-0dae3f35065e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8b8649b6-9c0e-503e-a117-0dae3f35065e)
 
 ---
 

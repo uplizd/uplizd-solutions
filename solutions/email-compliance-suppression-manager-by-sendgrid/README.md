@@ -12,7 +12,7 @@ The Email Compliance & Suppression Manager is an automated Uplizd AI workflow de
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a8468def-e46f-52f3-ad09-d5552eaa2e6b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a8468def-e46f-52f3-ad09-d5552eaa2e6b)
 
 ---
 

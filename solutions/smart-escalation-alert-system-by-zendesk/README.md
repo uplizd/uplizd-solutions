@@ -12,7 +12,7 @@ The Smart Escalation Alert System is an intelligent Uplizd AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/17fee967-7da5-5047-a22e-b92503ef8530)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/17fee967-7da5-5047-a22e-b92503ef8530)
 
 ---
 

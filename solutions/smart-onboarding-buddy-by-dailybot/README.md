@@ -12,7 +12,7 @@ The Smart Onboarding Buddy is an intelligent Uplizd workflow designed to streaml
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4bc2ff8a-42c6-5847-a4bc-cdcd3ed11a91)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4bc2ff8a-42c6-5847-a4bc-cdcd3ed11a91)
 
 ---
 

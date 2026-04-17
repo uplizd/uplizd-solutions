@@ -15,7 +15,7 @@ The Research Insight Synthesizer is a high-performance Uplizd AI workflow engine
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b03198f7-f24f-442a-abe6-09b570cfa4f4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b03198f7-f24f-442a-abe6-09b570cfa4f4)
 
 ---
 ## Who is this for?

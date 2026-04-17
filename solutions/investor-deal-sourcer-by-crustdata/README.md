@@ -12,7 +12,7 @@ The Investor Deal Sourcer is an intelligent Uplizd workflow designed to streamli
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/investor-deal-sourcer-by-crustdata)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/investor-deal-sourcer-by-crustdata)
 
 ---
 

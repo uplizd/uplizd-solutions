@@ -12,7 +12,7 @@ The Smart Inventory Optimizer is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/04bb1093-1858-5af1-b5a7-87246692beea)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/04bb1093-1858-5af1-b5a7-87246692beea)
 
 ---
 

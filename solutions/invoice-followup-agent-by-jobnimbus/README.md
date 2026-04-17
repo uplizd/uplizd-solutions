@@ -13,7 +13,7 @@ The Invoice Follow-up Agent is an intelligent Uplizd workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/23595797-c46c-5ea7-aaca-69a4781d9534)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/23595797-c46c-5ea7-aaca-69a4781d9534)
 
 ---
 

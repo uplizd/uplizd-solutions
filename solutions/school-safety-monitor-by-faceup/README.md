@@ -12,7 +12,7 @@ The School Safety Monitor by FaceUp is an intelligent AI workflow designed to ag
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/58f2265c-e4fa-524e-a29d-10158bebb6ac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/58f2265c-e4fa-524e-a29d-10158bebb6ac)
 
 ---
 

@@ -12,7 +12,7 @@ The Bonsai Space Compliance Auditor is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e80a4c5e-9dac-5ccc-8111-3483f4a66a19)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e80a4c5e-9dac-5ccc-8111-3483f4a66a19)
 
 ---
 

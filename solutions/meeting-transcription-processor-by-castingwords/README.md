@@ -12,7 +12,7 @@ The Meeting Transcription Processor by CastingWords is an automated Uplizd AI wo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d274fdb9-41a4-556b-b7f9-7f66bfbea096)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d274fdb9-41a4-556b-b7f9-7f66bfbea096)
 
 ---
 

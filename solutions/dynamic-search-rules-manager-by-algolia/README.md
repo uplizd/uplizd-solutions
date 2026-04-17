@@ -12,7 +12,7 @@ The Dynamic Search Rules Manager is an intelligent Uplizd workflow that synchron
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/92f379d6-9e20-5c4b-861f-61423c068712)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/92f379d6-9e20-5c4b-861f-61423c068712)
 
 ---
 

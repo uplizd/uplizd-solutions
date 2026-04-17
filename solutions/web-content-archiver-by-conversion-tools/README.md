@@ -10,5 +10,5 @@ Automatically capture and archive web content as PDFs and images
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f9c7a6ac-3aad-5729-b354-67278343caf2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f9c7a6ac-3aad-5729-b354-67278343caf2)
 

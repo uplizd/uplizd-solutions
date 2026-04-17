@@ -12,7 +12,7 @@ The Sports Betting Risk Monitor is an automated Uplizd AI workflow designed to t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2eca4f07-b35f-58cd-8ac9-25d9f7c2a05f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2eca4f07-b35f-58cd-8ac9-25d9f7c2a05f)
 
 ---
 

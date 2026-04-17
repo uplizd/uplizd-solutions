@@ -12,7 +12,7 @@ The PostHog Team Onboarding Coordinator is an intelligent workflow designed to a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f7b40cd2-5ef7-5d55-87b9-722e2196b733)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f7b40cd2-5ef7-5d55-87b9-722e2196b733)
 
 ---
 

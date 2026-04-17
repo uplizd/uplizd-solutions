@@ -12,7 +12,7 @@ The NFT Collection Analytics Reporter is an automated Uplizd workflow that aggre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/13d1801b-4c19-5e44-9343-00ee359faea9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/13d1801b-4c19-5e44-9343-00ee359faea9)
 
 ---
 

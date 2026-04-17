@@ -12,7 +12,7 @@ The Competitor Brand Analyzer is an intelligent Uplizd workflow that leverages t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c4613bc-74a2-5a02-9f94-831ba626e380)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c4613bc-74a2-5a02-9f94-831ba626e380)
 
 ---
 

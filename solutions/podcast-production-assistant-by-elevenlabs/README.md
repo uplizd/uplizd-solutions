@@ -12,7 +12,7 @@ The Podcast Production Assistant is an automated AI workflow designed to streaml
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/364dff5e-04cf-5ca1-bca2-8532c0151509)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/364dff5e-04cf-5ca1-bca2-8532c0151509)
 
 ---
 

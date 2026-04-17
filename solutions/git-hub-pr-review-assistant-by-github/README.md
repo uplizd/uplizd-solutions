@@ -13,7 +13,7 @@ The GitHub PR Review Assistant is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/283a6117-4758-5340-b744-8ae82349e5d5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/283a6117-4758-5340-b744-8ae82349e5d5)
 
 ---
 

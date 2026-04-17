@@ -12,7 +12,7 @@ The Email to Task Converter (Uplizd) is an intelligent automation workflow that 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d7a0d60-1551-502e-9374-000957b93cce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d7a0d60-1551-502e-9374-000957b93cce)
 
 ---
 

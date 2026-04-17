@@ -12,7 +12,7 @@ The Smart Product Catalog Manager is an AI-driven workflow designed to automate 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b7f44e42-fb61-5011-b042-18694febfcf6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b7f44e42-fb61-5011-b042-18694febfcf6)
 
 ---
 

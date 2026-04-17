@@ -12,7 +12,7 @@ The Conversion Rate Optimizer (Uplizd) leverages AI to autonomously analyze perf
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/20f02908-a3a0-5235-8308-396311f877b9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/20f02908-a3a0-5235-8308-396311f877b9)
 
 ---
 

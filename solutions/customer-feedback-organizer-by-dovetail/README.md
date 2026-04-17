@@ -12,7 +12,7 @@ The Customer Feedback Organizer is an intelligent Uplizd workflow that ingests r
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84c31dcd-289d-5c54-9f11-82dca6487a2a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84c31dcd-289d-5c54-9f11-82dca6487a2a)
 
 ---
 

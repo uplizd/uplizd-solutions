@@ -12,7 +12,7 @@ The Intelligent Stock Screener by Finage is an automated AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b1e8b522-0371-5022-a620-fb4f38a8ebf3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b1e8b522-0371-5022-a620-fb4f38a8ebf3)
 
 ---
 

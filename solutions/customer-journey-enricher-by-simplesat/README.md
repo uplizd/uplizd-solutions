@@ -12,7 +12,7 @@ The Customer Journey Enricher by Simplesat is an automated Uplizd workflow that 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b61eb478-9d0c-5e3b-8eaa-c5952d8ed829)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b61eb478-9d0c-5e3b-8eaa-c5952d8ed829)
 
 ---
 

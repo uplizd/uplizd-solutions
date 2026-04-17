@@ -12,7 +12,7 @@ The Customer Behavior Analyzer is an intelligent Uplizd workflow that bridges th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d3647fc8-80ed-5299-b8d6-5ff212db3bb7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d3647fc8-80ed-5299-b8d6-5ff212db3bb7)
 
 ---
 

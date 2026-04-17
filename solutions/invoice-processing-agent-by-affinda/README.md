@@ -12,7 +12,7 @@ The Invoice Processing Agent by Affinda leverages advanced AI to automate the ex
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8cc3fe34-4c7e-51f6-9520-d049e44a0739)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8cc3fe34-4c7e-51f6-9520-d049e44a0739)
 
 ---
 

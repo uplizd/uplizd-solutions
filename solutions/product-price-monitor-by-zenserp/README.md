@@ -12,7 +12,7 @@ The Product Price Monitor by Uplizd is an automated AI workflow designed to trac
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0173c3ad-e072-5b82-8bb1-871cdabbba77)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0173c3ad-e072-5b82-8bb1-871cdabbba77)
 
 ---
 

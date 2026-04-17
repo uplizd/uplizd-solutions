@@ -12,7 +12,7 @@ The Reddit Customer Support Agent is an intelligent workflow designed to monitor
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c3adf88d-941c-5832-9a5e-7fbc2294b383)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c3adf88d-941c-5832-9a5e-7fbc2294b383)
 
 ---
 

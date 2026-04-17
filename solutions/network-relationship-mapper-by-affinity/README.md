@@ -12,7 +12,7 @@ The Network Relationship Mapper by Affinity is an AI-driven workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/56b0582a-db84-5be3-912a-0b4ed11cb5b5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/56b0582a-db84-5be3-912a-0b4ed11cb5b5)
 
 ---
 

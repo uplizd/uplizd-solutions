@@ -12,7 +12,7 @@ The Real Estate Follow-Up Agent is an intelligent workflow designed to bridge th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d396026-3ed0-586e-a653-0d01cb70174f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d396026-3ed0-586e-a653-0d01cb70174f)
 
 ---
 

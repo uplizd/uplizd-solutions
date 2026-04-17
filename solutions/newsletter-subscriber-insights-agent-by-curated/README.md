@@ -12,7 +12,7 @@ The Newsletter Subscriber Insights Agent is an automated AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/13dc82b4-5908-5663-ada7-bd50a6a71515)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/13dc82b4-5908-5663-ada7-bd50a6a71515)
 
 ---
 

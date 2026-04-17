@@ -12,7 +12,7 @@ The Disaster Response Monitor is an intelligent Uplizd workflow designed to aggr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7671e442-9f01-540f-9101-01b41b281a82)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7671e442-9f01-540f-9101-01b41b281a82)
 
 ---
 

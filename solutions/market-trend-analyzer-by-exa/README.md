@@ -12,7 +12,7 @@ The Market Trend Analyzer is an intelligent Uplizd workflow that leverages the E
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/346a58af-ac94-5e98-b49c-4fe887a7eb44)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/346a58af-ac94-5e98-b49c-4fe887a7eb44)
 
 ---
 

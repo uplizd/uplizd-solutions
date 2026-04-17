@@ -12,7 +12,7 @@ The Lead Qualification Agent by ActiveCampaign streamlines your sales pipeline b
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/836cde42-35e2-53d4-9fe1-effcfb5bb1a8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/836cde42-35e2-53d4-9fe1-effcfb5bb1a8)
 
 ---
 

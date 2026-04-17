@@ -12,7 +12,7 @@ The Financial Compliance Monitor is an intelligent Uplizd workflow designed to a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/782d82aa-b7f8-5952-bcc3-eda035b354b0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/782d82aa-b7f8-5952-bcc3-eda035b354b0)
 
 ---
 

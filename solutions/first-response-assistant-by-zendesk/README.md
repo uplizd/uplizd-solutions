@@ -12,7 +12,7 @@ The First Response Assistant is an intelligent Uplizd workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e7ea62c1-4753-5a3f-afa5-d3ef2643a20f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e7ea62c1-4753-5a3f-afa5-d3ef2643a20f)
 
 ---
 

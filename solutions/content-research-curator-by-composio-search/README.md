@@ -12,7 +12,7 @@ The Content Research Curator is an intelligent Uplizd workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c854eb38-09de-5412-a8b9-093d10db352e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c854eb38-09de-5412-a8b9-093d10db352e)
 
 ---
 

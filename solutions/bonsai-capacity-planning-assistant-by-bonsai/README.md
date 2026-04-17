@@ -12,7 +12,7 @@ The Bonsai Capacity Planning Assistant is an automated Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0f034720-261c-55ff-8995-d7d75b272da0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0f034720-261c-55ff-8995-d7d75b272da0)
 
 ---
 

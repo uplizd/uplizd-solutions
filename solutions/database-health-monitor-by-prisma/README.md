@@ -12,7 +12,7 @@ The Database Health Monitor (Uplizd) provides an automated, real-time observabil
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/60cd19d2-39f7-54e8-ad84-b9583c150382)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/60cd19d2-39f7-54e8-ad84-b9583c150382)
 
 ---
 

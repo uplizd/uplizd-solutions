@@ -12,7 +12,7 @@ The Demographic Trend Monitor is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2cc24402-3972-57af-913e-dd054f4f8e10)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2cc24402-3972-57af-913e-dd054f4f8e10)
 
 ---
 

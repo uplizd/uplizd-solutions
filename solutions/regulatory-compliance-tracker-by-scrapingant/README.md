@@ -12,7 +12,7 @@ The Regulatory Compliance Tracker is an automated Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bd158883-d53d-508d-97c8-d839af61b652)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bd158883-d53d-508d-97c8-d839af61b652)
 
 ---
 

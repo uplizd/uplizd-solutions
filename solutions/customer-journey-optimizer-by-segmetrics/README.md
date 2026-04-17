@@ -12,7 +12,7 @@ The Customer Journey Optimizer by Segmetrics is an intelligent Uplizd workflow t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/559ac6dc-d573-5c7e-92f6-d38c76345847)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/559ac6dc-d573-5c7e-92f6-d38c76345847)
 
 ---
 

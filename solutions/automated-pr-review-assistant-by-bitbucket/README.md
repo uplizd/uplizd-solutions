@@ -12,7 +12,7 @@ The Automated PR Review Assistant leverages AI to perform real-time code analysi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/58e3ccf3-e87e-582b-9e6e-e7abc4836005)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/58e3ccf3-e87e-582b-9e6e-e7abc4836005)
 
 ---
 

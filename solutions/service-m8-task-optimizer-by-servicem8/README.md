@@ -12,7 +12,7 @@ The ServiceM8 Task Optimizer is an AI-driven workflow designed to streamline fie
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f5331c51-1556-5ded-9031-bde6b7ce5776)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f5331c51-1556-5ded-9031-bde6b7ce5776)
 
 ---
 

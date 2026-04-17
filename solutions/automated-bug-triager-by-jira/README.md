@@ -12,7 +12,7 @@ The Automated Bug Triager by Uplizd streamlines software development lifecycles 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/50ce2109-32b3-59ff-9d4e-fd3c04ac36c1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/50ce2109-32b3-59ff-9d4e-fd3c04ac36c1)
 
 ---
 

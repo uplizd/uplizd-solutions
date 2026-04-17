@@ -12,7 +12,7 @@ The Dependency Tracker by Jira is an intelligent Uplizd workflow that automates 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/331a2607-daf0-5f87-941b-4d745a0185e2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/331a2607-daf0-5f87-941b-4d745a0185e2)
 
 ---
 

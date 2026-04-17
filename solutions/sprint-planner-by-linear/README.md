@@ -12,7 +12,7 @@ The Sprint Planner (Uplizd) is an AI-driven workflow that automates the distribu
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/71bcc788-f982-5aee-9840-649a9590304d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/71bcc788-f982-5aee-9840-649a9590304d)
 
 ---
 

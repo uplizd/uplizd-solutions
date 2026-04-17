@@ -12,7 +12,7 @@ The Customer Support Triage Agent is an automated Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9bbcc17a-ab92-546d-8de4-7a2b45fb9cab)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9bbcc17a-ab92-546d-8de4-7a2b45fb9cab)
 
 ---
 

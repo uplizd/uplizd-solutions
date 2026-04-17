@@ -12,7 +12,7 @@ The Compliance Audit Tracker by Raisely is an intelligent Uplizd workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/11eeae13-b77c-505e-8d14-83e33b96397b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/11eeae13-b77c-505e-8d14-83e33b96397b)
 
 ---
 

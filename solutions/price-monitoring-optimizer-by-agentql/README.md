@@ -12,7 +12,7 @@ The Price Monitoring Optimizer is an intelligent Uplizd workflow designed to tra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed9bfba5-6299-5062-afa0-4971ff2f20ac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed9bfba5-6299-5062-afa0-4971ff2f20ac)
 
 ---
 

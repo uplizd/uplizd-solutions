@@ -12,7 +12,7 @@ The ML Resource Optimizer by BigML is an automated Uplizd AI workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/489f8457-b2ce-5572-9f54-c071efee4c95)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/489f8457-b2ce-5572-9f54-c071efee4c95)
 
 ---
 

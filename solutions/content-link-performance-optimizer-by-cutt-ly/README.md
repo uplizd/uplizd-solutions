@@ -12,7 +12,7 @@ The Content Link Performance Optimizer is an intelligent Uplizd workflow that br
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/56128e04-3d26-58be-b039-3e5eff6be269)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/56128e04-3d26-58be-b039-3e5eff6be269)
 
 ---
 

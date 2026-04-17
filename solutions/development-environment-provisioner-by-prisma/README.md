@@ -12,7 +12,7 @@ The Development Environment Provisioner (Uplizd) automates the lifecycle of data
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b6435ba8-4090-5200-8856-e88c5dc0bf00)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b6435ba8-4090-5200-8856-e88c5dc0bf00)
 
 ---
 

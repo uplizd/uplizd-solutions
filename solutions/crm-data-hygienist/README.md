@@ -15,7 +15,7 @@ The CRM Data Hygienist is a specialized Uplizd AI workflow designed to automate 
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/da6576a5-97e4-5a49-9939-459021561deb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/da6576a5-97e4-5a49-9939-459021561deb)
 
 ---
 

@@ -12,7 +12,7 @@ The Automated Image Processing Pipeline (Uplizd) streamlines visual content work
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7fd6e9c5-c41a-58b3-b1a4-ecccc7293e43)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7fd6e9c5-c41a-58b3-b1a4-ecccc7293e43)
 
 ---
 

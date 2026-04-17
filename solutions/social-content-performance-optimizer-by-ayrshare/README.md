@@ -13,7 +13,7 @@ The Social Content Performance Optimizer is an intelligent Uplizd workflow that 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/45a87f6b-37e9-5149-bcbc-c0625356101d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/45a87f6b-37e9-5149-bcbc-c0625356101d)
 
 ---
 

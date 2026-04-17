@@ -12,7 +12,7 @@ The En-to-Zh Text Polishing solution leverages advanced AI agents to perform mul
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5dd6e11b-a0cd-5c19-b646-5a078b386538)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5dd6e11b-a0cd-5c19-b646-5a078b386538)
 
 ---
 

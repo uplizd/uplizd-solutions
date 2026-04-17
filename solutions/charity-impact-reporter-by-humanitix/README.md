@@ -12,7 +12,7 @@ The Charity Impact Reporter is an intelligent Uplizd workflow that bridges the g
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1681e905-ad60-5c66-b647-e67012be5a29)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1681e905-ad60-5c66-b647-e67012be5a29)
 
 ---
 

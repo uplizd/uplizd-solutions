@@ -12,7 +12,7 @@ The Instagram Brand Monitor by Uplizd is an AI-driven workflow designed to track
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5e26f33b-faf7-5cb2-9a07-cfef46bdcb35)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5e26f33b-faf7-5cb2-9a07-cfef46bdcb35)
 
 ---
 

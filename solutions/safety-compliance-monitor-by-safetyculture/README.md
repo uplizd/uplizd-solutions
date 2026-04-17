@@ -12,7 +12,7 @@ The Safety Compliance Monitor by SafetyCulture is an intelligent AI workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4843b87d-34d9-58ff-8637-bc5affb0aba8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4843b87d-34d9-58ff-8637-bc5affb0aba8)
 
 ---
 

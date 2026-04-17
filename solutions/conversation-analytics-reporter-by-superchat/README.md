@@ -13,7 +13,7 @@ The Conversation Analytics Reporter by Superchat is an AI-driven workflow that t
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/conversation-analytics-reporter-by-superchat)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/conversation-analytics-reporter-by-superchat)
 
 ---
 

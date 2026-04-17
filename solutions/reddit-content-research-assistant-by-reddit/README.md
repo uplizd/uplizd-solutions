@@ -12,7 +12,7 @@ The Reddit Content Research Assistant is an automated AI workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f9d1a762-d6bf-51be-9fd8-a68632a9c7f7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f9d1a762-d6bf-51be-9fd8-a68632a9c7f7)
 
 ---
 

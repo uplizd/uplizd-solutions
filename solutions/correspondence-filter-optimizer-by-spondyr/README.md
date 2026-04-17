@@ -12,7 +12,7 @@ The Correspondence Filter Optimizer is an Uplizd AI workflow designed to streaml
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a2b6b214-4a4b-518c-941d-a28159eeb056)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a2b6b214-4a4b-518c-941d-a28159eeb056)
 
 ---
 

@@ -12,7 +12,7 @@ The DFO Build Tracker (Uplizd) is an automated workflow designed to help Dungeon
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c2065d8-47ba-5c84-b28c-6d5042198cb9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c2065d8-47ba-5c84-b28c-6d5042198cb9)
 
 ---
 

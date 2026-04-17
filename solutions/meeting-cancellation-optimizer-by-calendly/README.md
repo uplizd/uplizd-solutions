@@ -12,7 +12,7 @@ The Meeting Cancellation Optimizer is an intelligent Uplizd AI workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e2fe2888-02fe-59fc-af47-dacfb51ca351)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e2fe2888-02fe-59fc-af47-dacfb51ca351)
 
 ---
 

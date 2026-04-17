@@ -12,7 +12,7 @@ The Performance Insight Reporter is an intelligent Uplizd workflow that automate
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/83367827-8ed7-52e9-b2b4-0dd091cb1411)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/83367827-8ed7-52e9-b2b4-0dd091cb1411)
 
 ---
 

@@ -12,7 +12,7 @@ The Product Catalog Manager is an intelligent Uplizd workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/01da09a3-ace5-56ac-803f-4944d4b8043a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/01da09a3-ace5-56ac-803f-4944d4b8043a)
 
 ---
 

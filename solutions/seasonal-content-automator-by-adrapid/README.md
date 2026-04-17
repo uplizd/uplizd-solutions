@@ -12,7 +12,7 @@ The Seasonal Content Automator is an intelligent Uplizd workflow designed to syn
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09e47190-2474-55c5-8063-9fe3abdc1509)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09e47190-2474-55c5-8063-9fe3abdc1509)
 
 ---
 

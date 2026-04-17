@@ -12,7 +12,7 @@ The Email Organizer Pro workflow leverages Uplizd AI to automatically sort, labe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/88b2e643-64fe-5769-9eb6-ec903a16bfce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/88b2e643-64fe-5769-9eb6-ec903a16bfce)
 
 ---
 

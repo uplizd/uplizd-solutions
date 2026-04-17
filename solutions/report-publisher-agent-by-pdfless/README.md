@@ -12,7 +12,7 @@ The Report Publisher Agent streamlines the transformation of complex data dashbo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4dd8aab3-a1e8-51be-a385-f80a54b1009a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4dd8aab3-a1e8-51be-a385-f80a54b1009a)
 
 ---
 

@@ -13,7 +13,7 @@ The Customer Birthday Card Automator is an intelligent Uplizd workflow that sync
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2afe7507-c2f3-5edd-ae89-848057057625)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2afe7507-c2f3-5edd-ae89-848057057625)
 
 ---
 

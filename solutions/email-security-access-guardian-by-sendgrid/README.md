@@ -12,7 +12,7 @@ The Email Security Access Guardian (Uplizd) automates the lifecycle of email sec
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/14748812-7217-59b2-a211-a8a29c2bb450)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/14748812-7217-59b2-a211-a8a29c2bb450)
 
 ---
 

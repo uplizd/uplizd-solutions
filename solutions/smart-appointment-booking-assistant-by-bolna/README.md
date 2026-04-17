@@ -12,7 +12,7 @@ The Smart Appointment Booking Assistant is an intelligent Uplizd AI workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b55cf879-2ad8-5f06-aee8-d33ca01d9d9c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b55cf879-2ad8-5f06-aee8-d33ca01d9d9c)
 
 ---
 

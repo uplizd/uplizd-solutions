@@ -12,7 +12,7 @@ The Content Campaign Creator by Mailchimp is an intelligent Uplizd workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bb3a83fa-ee18-5edf-89f6-01ba52b59087)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bb3a83fa-ee18-5edf-89f6-01ba52b59087)
 
 ---
 

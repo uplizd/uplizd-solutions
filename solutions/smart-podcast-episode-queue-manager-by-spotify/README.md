@@ -12,7 +12,7 @@ The Smart Podcast Episode Queue Manager leverages the Uplizd AI workflow to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cedd3a8-1024-54c2-8978-0decfb6b35ca)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cedd3a8-1024-54c2-8978-0decfb6b35ca)
 
 ---
 

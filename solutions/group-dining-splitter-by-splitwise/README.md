@@ -12,7 +12,7 @@ The Group Dining Splitter is an intelligent Uplizd workflow designed to streamli
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09c665b2-4954-5863-ab72-890575fd535d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09c665b2-4954-5863-ab72-890575fd535d)
 
 ---
 

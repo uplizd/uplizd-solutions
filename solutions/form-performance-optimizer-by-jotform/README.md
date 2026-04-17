@@ -12,7 +12,7 @@ The Form Performance Optimizer by Uplizd is an AI-driven workflow designed to an
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/db7e57bf-42eb-537f-a920-b9a9107f4a88)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/db7e57bf-42eb-537f-a920-b9a9107f4a88)
 
 ---
 

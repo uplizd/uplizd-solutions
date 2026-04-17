@@ -12,7 +12,7 @@ The Site Compliance Monitor is an intelligent Uplizd workflow that automates the
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/00ceb6a6-e5fa-5f51-bf8c-99ff74f9aff2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/00ceb6a6-e5fa-5f51-bf8c-99ff74f9aff2)
 
 ---
 

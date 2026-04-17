@@ -12,7 +12,7 @@ The Podcast Competitor Analyst is an automated AI workflow designed to monitor c
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d7e8f41d-2057-5d8d-ab8e-be962f71f9b7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d7e8f41d-2057-5d8d-ab8e-be962f71f9b7)
 
 ---
 

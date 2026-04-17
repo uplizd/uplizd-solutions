@@ -12,7 +12,7 @@ The Event Attendee Enricher is an automated Uplizd workflow designed to transfor
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cb1177e-9104-55fe-b112-c6299d41b48a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cb1177e-9104-55fe-b112-c6299d41b48a)
 
 ---
 

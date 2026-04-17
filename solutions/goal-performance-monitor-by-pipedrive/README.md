@@ -12,7 +12,7 @@ The Goal Performance Monitor (Uplizd) is an intelligent AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9a7fb166-e782-5287-88dc-4448062797b1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9a7fb166-e782-5287-88dc-4448062797b1)
 
 ---
 

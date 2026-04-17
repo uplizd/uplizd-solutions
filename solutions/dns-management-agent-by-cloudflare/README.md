@@ -12,7 +12,7 @@ The DNS Management Agent by Uplizd streamlines infrastructure operations by auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4450b5ba-d2c9-53c2-821d-a649fa57a902)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4450b5ba-d2c9-53c2-821d-a649fa57a902)
 
 ---
 

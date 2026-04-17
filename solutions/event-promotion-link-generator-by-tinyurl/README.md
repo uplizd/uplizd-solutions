@@ -12,7 +12,7 @@ The Event Promotion Link Generator is an intelligent Uplizd workflow that automa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4353b7f-c3c8-5f6f-b4b9-f6813f7f1cca)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4353b7f-c3c8-5f6f-b4b9-f6813f7f1cca)
 
 ---
 

@@ -12,7 +12,7 @@ The Lead Enrichment Agent is an automated Uplizd workflow designed to streamline
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/85741132-1cc4-5596-b10a-bcd629f16125)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/85741132-1cc4-5596-b10a-bcd629f16125)
 
 ---
 

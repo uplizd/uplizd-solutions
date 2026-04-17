@@ -12,7 +12,7 @@ The Multilingual Content Localizer by Aivoov is an automated AI workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6856e64f-97f5-5a23-860e-d84ed3e37ae8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6856e64f-97f5-5a23-860e-d84ed3e37ae8)
 
 ---
 

@@ -12,7 +12,7 @@ The Real Estate Lease Generator is an intelligent Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/926c9833-5976-5a74-9809-377d688ee313)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/926c9833-5976-5a74-9809-377d688ee313)
 
 ---
 

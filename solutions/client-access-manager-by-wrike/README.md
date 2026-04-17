@@ -12,7 +12,7 @@ The Client Access Manager by Wrike is an intelligent Uplizd workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5d3b15ec-fc84-530a-b01b-9ff130c3d07d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5d3b15ec-fc84-530a-b01b-9ff130c3d07d)
 
 ---
 

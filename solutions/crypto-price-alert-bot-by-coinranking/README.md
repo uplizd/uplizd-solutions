@@ -12,7 +12,7 @@ The Crypto Price Alert Bot is an intelligent automation workflow designed to tra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e2e16a9-19ff-53bd-9642-613d702041c4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e2e16a9-19ff-53bd-9642-613d702041c4)
 
 ---
 

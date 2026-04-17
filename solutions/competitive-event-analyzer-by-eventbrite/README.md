@@ -12,7 +12,7 @@ The Competitive Event Analyzer is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d74e597-01ef-5fc1-8624-40950dcf5edb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d74e597-01ef-5fc1-8624-40950dcf5edb)
 
 ---
 

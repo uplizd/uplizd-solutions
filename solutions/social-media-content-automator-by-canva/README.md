@@ -12,7 +12,7 @@ The Social Media Content Automator is an intelligent Uplizd workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7f5870f5-8623-5915-90a3-3fcac43619ec)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7f5870f5-8623-5915-90a3-3fcac43619ec)
 
 ---
 

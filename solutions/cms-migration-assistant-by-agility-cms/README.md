@@ -12,7 +12,7 @@ The CMS Migration Assistant is an intelligent Uplizd workflow designed to automa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c38156a-ad32-5e94-97ce-ec6fd403485c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c38156a-ad32-5e94-97ce-ec6fd403485c)
 
 ---
 

@@ -10,5 +10,5 @@ Generate engaging sports content with real-time data and match insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/aedf4066-70ff-5923-a6f6-f102aca12e13)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/aedf4066-70ff-5923-a6f6-f102aca12e13)
 

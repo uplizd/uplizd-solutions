@@ -12,7 +12,7 @@ The Content Image Curation Agent streamlines your digital asset management by au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12d357e8-bf99-5f66-9b7b-3a955afadcdb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12d357e8-bf99-5f66-9b7b-3a955afadcdb)
 
 ---
 

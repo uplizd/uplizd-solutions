@@ -12,7 +12,7 @@ The Data Archive Manager is an automated Uplizd workflow designed to streamline 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d9b81a83-d563-528a-a176-37436e2d6d3a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d9b81a83-d563-528a-a176-37436e2d6d3a)
 
 ---
 

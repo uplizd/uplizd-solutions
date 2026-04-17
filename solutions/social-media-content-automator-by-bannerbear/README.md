@@ -12,7 +12,7 @@ The Social Media Content Automator streamlines your digital presence by automati
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/325278fc-1158-5e61-9464-f786afae4468)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/325278fc-1158-5e61-9464-f786afae4468)
 
 ---
 

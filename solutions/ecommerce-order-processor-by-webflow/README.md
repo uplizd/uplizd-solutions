@@ -12,7 +12,7 @@ The E-commerce Order Processor (Uplizd) automates the end-to-end lifecycle of cu
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/42705645-0daa-5d23-8c85-bf8f91417e25)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/42705645-0daa-5d23-8c85-bf8f91417e25)
 
 ---
 

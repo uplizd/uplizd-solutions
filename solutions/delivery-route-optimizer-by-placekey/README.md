@@ -12,7 +12,7 @@ The Delivery Route Optimizer is an AI-driven workflow that leverages Placekey an
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/44175efb-841f-5500-b7e3-310fc021d4fd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/44175efb-841f-5500-b7e3-310fc021d4fd)
 
 ---
 

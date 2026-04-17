@@ -12,7 +12,7 @@ The Lead Generation Performance Monitor is an intelligent Uplizd workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e5f961a9-55b3-5077-8097-261a1d20509e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e5f961a9-55b3-5077-8097-261a1d20509e)
 
 ---
 

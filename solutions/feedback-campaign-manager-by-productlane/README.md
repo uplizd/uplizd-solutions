@@ -12,7 +12,7 @@ The Feedback Campaign Manager is an intelligent Uplizd workflow that automates t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e6ad99c6-2810-5a93-9afd-f0752f4078b6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e6ad99c6-2810-5a93-9afd-f0752f4078b6)
 
 ---
 

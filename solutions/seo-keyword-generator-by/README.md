@@ -12,7 +12,7 @@ The SEO Keyword Generator (Uplizd) is an intelligent workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e78d352c-52d3-59de-81d3-eab20d19af42)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e78d352c-52d3-59de-81d3-eab20d19af42)
 
 ---
 

@@ -12,7 +12,7 @@ The BTCPay Security & Access Monitor is an intelligent Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1271d5b8-750f-5205-a379-16b0f177f9c3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1271d5b8-750f-5205-a379-16b0f177f9c3)
 
 ---
 

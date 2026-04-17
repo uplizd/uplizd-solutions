@@ -13,7 +13,7 @@ The HVAC Efficiency Controller is an intelligent Uplizd workflow that synchroniz
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/hvac-efficiency-controller-by-ambient-weather)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/hvac-efficiency-controller-by-ambient-weather)
 
 ---
 

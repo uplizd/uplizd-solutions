@@ -12,7 +12,7 @@ The Content Review Coordinator is an intelligent Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d7574774-af2b-5f3d-bdf6-56054054e76c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d7574774-af2b-5f3d-bdf6-56054054e76c)
 
 ---
 

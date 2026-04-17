@@ -12,7 +12,7 @@ The Lead Compliance Manager is an intelligent Uplizd AI workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/80c0faa1-2584-5d8d-af5b-0f311d4ca480)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/80c0faa1-2584-5d8d-af5b-0f311d4ca480)
 
 ---
 

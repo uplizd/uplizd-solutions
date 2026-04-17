@@ -12,7 +12,7 @@ The Multilingual Content Narrator is an AI-driven workflow that transforms writt
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b17184b-123a-5100-9742-f4dea01f0962)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b17184b-123a-5100-9742-f4dea01f0962)
 
 ---
 

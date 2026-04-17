@@ -12,7 +12,7 @@ The Market Data Validator (Uplizd) is an intelligent automation workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61b9384a-67c8-5ebd-a5d0-889507850b44)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61b9384a-67c8-5ebd-a5d0-889507850b44)
 
 ---
 

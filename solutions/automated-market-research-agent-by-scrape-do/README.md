@@ -12,7 +12,7 @@ The Automated Market Research Agent leverages the Composio Toolset to perform de
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfef8554-db2c-589b-aa59-3ab8ad06ffce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfef8554-db2c-589b-aa59-3ab8ad06ffce)
 
 ---
 

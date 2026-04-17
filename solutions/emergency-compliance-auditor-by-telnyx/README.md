@@ -12,7 +12,7 @@ The Emergency Compliance Auditor by Uplizd is an intelligent AI workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/be30902d-ca11-5937-88b3-9191fe957b5c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/be30902d-ca11-5937-88b3-9191fe957b5c)
 
 ---
 

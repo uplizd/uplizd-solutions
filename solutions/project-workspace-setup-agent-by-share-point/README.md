@@ -12,7 +12,7 @@ The Project Workspace Setup Agent streamlines the administrative overhead of pro
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/46b99dc2-f839-5d3d-8906-71c7ebc816d8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/46b99dc2-f839-5d3d-8906-71c7ebc816d8)
 
 ---
 

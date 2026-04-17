@@ -12,7 +12,7 @@ The Giving Anniversary Assistant is an intelligent Uplizd workflow designed to t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/050dc9b0-7dda-5338-9e2f-e849fe97b686)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/050dc9b0-7dda-5338-9e2f-e849fe97b686)
 
 ---
 

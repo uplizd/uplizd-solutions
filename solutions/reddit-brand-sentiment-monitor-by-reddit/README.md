@@ -12,7 +12,7 @@ The Reddit Brand Sentiment Monitor is an automated Uplizd AI workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/98b91c9d-bba9-505d-a33b-bb2c1862b5dc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/98b91c9d-bba9-505d-a33b-bb2c1862b5dc)
 
 ---
 

@@ -12,7 +12,7 @@ The Integration Health Monitor (Uplizd) provides automated, real-time observabil
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a059f3e3-a3f8-53a4-aa62-67825e05360e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a059f3e3-a3f8-53a4-aa62-67825e05360e)
 
 ---
 

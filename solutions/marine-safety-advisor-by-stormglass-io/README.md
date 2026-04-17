@@ -12,7 +12,7 @@ The Marine Safety Advisor is an intelligent Uplizd workflow that integrates real
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/146ec980-c7e0-5ca6-baf0-ccc250a7ba8e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/146ec980-c7e0-5ca6-baf0-ccc250a7ba8e)
 
 ---
 

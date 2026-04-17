@@ -10,5 +10,5 @@ This workflow uses the Veo model to generate videos from user prompts and automa
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9c9ee0a3-2f50-5b93-b0e3-bc1938a4113b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9c9ee0a3-2f50-5b93-b0e3-bc1938a4113b)
 

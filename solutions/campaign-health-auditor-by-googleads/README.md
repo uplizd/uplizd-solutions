@@ -12,7 +12,7 @@ The Campaign Health Auditor is an intelligent Uplizd workflow designed to provid
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/564d4786-f633-5692-9beb-1079183cc38a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/564d4786-f633-5692-9beb-1079183cc38a)
 
 ---
 

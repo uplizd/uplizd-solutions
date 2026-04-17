@@ -12,7 +12,7 @@ The Social Media Location Curator is an intelligent Uplizd workflow that leverag
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/91c7cf60-e242-561f-b113-7d9e6d431725)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/91c7cf60-e242-561f-b113-7d9e6d431725)
 
 ---
 

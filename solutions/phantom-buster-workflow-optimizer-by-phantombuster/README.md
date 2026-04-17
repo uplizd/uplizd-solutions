@@ -12,7 +12,7 @@ The PhantomBuster Workflow Optimizer is an intelligent Uplizd AI agent designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/88161cad-5c35-5dcc-845d-19244f884360)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/88161cad-5c35-5dcc-845d-19244f884360)
 
 ---
 

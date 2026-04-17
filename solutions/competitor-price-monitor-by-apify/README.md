@@ -12,7 +12,7 @@ The Competitor Price Monitor is an intelligent Uplizd workflow that automates th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4192734b-684c-51ff-9d1f-a607688742b6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4192734b-684c-51ff-9d1f-a607688742b6)
 
 ---
 

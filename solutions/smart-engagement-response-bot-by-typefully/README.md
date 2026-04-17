@@ -12,7 +12,7 @@ The Smart Engagement Response Bot (Uplizd) streamlines community management by a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/047dc24c-d942-590f-ad22-9bf2b3f089e7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/047dc24c-d942-590f-ad22-9bf2b3f089e7)
 
 ---
 

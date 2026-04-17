@@ -12,7 +12,7 @@ The Brand Asset Production Suite is an AI-powered workflow designed to streamlin
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/71eaf53d-62c2-5c40-9ce3-1281cda0cd23)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/71eaf53d-62c2-5c40-9ce3-1281cda0cd23)
 
 ---
 

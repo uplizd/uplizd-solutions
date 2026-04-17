@@ -12,7 +12,7 @@ The CallPage Performance Monitor (Uplizd) provides an automated workflow to trac
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/106f4c62-9374-595c-8ee0-600b9df0558f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/106f4c62-9374-595c-8ee0-600b9df0558f)
 
 ---
 

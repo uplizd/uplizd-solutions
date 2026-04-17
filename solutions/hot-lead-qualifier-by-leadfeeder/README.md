@@ -12,7 +12,7 @@ The Hot Lead Qualifier by Uplizd streamlines your sales pipeline by automaticall
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/06b950bc-f9e7-5305-8577-a65175d31a3e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/06b950bc-f9e7-5305-8577-a65175d31a3e)
 
 ---
 

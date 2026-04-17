@@ -12,7 +12,7 @@ The Medical Record Data Processor is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5b1ecc75-9372-51da-8520-356348030dfa)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5b1ecc75-9372-51da-8520-356348030dfa)
 
 ---
 

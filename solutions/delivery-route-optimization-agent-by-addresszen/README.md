@@ -13,7 +13,7 @@ The Delivery Route Optimization Agent by AddressZen automates the complex proces
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/delivery-route-optimization-agent-by-addresszen)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/delivery-route-optimization-agent-by-addresszen)
 
 ---
 

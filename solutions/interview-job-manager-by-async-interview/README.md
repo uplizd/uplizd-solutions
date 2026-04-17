@@ -12,7 +12,7 @@ The Interview Job Manager (Uplizd) is an intelligent AI workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/01c9bc52-4568-5324-9a67-c582abcee2fb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/01c9bc52-4568-5324-9a67-c582abcee2fb)
 
 ---
 

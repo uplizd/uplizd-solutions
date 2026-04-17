@@ -12,7 +12,7 @@ The Smart Lead Qualification Agent (Uplizd) streamlines your sales pipeline by a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8626a6f9-11a7-5cbf-9de0-a866524e781c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8626a6f9-11a7-5cbf-9de0-a866524e781c)
 
 ---
 

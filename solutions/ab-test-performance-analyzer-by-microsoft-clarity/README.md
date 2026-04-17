@@ -12,7 +12,7 @@ The A/B Test Performance Analyzer (Uplizd) streamlines the evaluation of experim
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84eedc35-d092-5b3e-b66a-58ea95f41016)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84eedc35-d092-5b3e-b66a-58ea95f41016)
 
 ---
 

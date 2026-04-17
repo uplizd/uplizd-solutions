@@ -12,7 +12,7 @@ The Incident Response Commander is an intelligent Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4bca2149-bce5-5048-a9d8-48c2f9de1c4d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4bca2149-bce5-5048-a9d8-48c2f9de1c4d)
 
 ---
 

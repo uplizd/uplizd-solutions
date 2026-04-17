@@ -12,7 +12,7 @@ The Customer Onboarding Address Assistant automates the verification and standar
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c49dff6-bd09-5366-aa23-5d2320b23c3e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c49dff6-bd09-5366-aa23-5d2320b23c3e)
 
 ---
 

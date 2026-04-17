@@ -12,7 +12,7 @@ The Client Portal Generator by v0 enables teams to instantly provision and custo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8aed6374-4349-5a80-be84-9e9c51d35310)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8aed6374-4349-5a80-be84-9e9c51d35310)
 
 ---
 

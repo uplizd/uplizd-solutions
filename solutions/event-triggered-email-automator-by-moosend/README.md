@@ -12,7 +12,7 @@ The Event-Triggered Email Automator (Uplizd) streamlines customer communication 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/62ccab70-9353-5462-89ad-8cc03ce0c511)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/62ccab70-9353-5462-89ad-8cc03ce0c511)
 
 ---
 

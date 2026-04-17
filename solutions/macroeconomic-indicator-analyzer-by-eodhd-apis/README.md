@@ -12,7 +12,7 @@ The Macroeconomic Indicator Analyzer is an intelligent Uplizd workflow that auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12ecb298-8cda-5672-b6cb-e296efb303a9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12ecb298-8cda-5672-b6cb-e296efb303a9)
 
 ---
 

@@ -12,7 +12,7 @@ The Smart Invoice Generator is an intelligent Uplizd workflow that automates the
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a7097552-1318-5111-8433-738f3f734044)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a7097552-1318-5111-8433-738f3f734044)
 
 ---
 

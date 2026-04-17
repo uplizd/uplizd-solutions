@@ -12,7 +12,7 @@ The Smart Prompt Cache Manager is an intelligent Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0e8916c2-1b12-5d7f-a6d0-580e2686bd56)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0e8916c2-1b12-5d7f-a6d0-580e2686bd56)
 
 ---
 

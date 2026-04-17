@@ -12,7 +12,7 @@ The Cross-Chain Bridge Activity Monitor is an automated AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/920b1d26-7fd6-5fa0-9891-f7c831e3f4b4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/920b1d26-7fd6-5fa0-9891-f7c831e3f4b4)
 
 ---
 

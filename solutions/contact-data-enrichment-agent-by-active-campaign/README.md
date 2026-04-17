@@ -12,7 +12,7 @@ The Contact Data Enrichment Agent by ActiveCampaign is an intelligent Uplizd wor
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1dace194-ace5-586f-8b91-fea933fea463)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1dace194-ace5-586f-8b91-fea933fea463)
 
 ---
 

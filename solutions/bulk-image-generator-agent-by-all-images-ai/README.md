@@ -12,7 +12,7 @@ The Bulk Image Generator Agent streamlines marketing and creative workflows by a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0bf3a35e-6b9c-5acc-93f4-1a4d2efa4ba5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0bf3a35e-6b9c-5acc-93f4-1a4d2efa4ba5)
 
 ---
 

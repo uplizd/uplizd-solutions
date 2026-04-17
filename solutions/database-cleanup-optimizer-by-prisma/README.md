@@ -12,7 +12,7 @@ The Database Cleanup Optimizer is an automated Uplizd workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1953c2dc-3ed0-5d90-9dec-6f0517154958)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1953c2dc-3ed0-5d90-9dec-6f0517154958)
 
 ---
 

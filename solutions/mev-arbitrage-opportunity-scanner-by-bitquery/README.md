@@ -12,7 +12,7 @@ The MEV Arbitrage Opportunity Scanner is an automated Uplizd AI workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d7f5a42-5f8b-512a-aa31-027a2afd4a2b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d7f5a42-5f8b-512a-aa31-027a2afd4a2b)
 
 ---
 

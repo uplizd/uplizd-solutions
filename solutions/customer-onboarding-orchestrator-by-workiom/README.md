@@ -12,7 +12,7 @@ The Customer Onboarding Orchestrator by Workiom is an intelligent AI workflow de
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8bec89ae-a7fd-5c8e-9687-d2a901dfabda)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8bec89ae-a7fd-5c8e-9687-d2a901dfabda)
 
 ---
 

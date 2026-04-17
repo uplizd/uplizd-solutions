@@ -12,7 +12,7 @@ The Location-Based Lead Finder by Uplizd automates the discovery, extraction, an
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/99f5d2b6-ad36-592d-bc6a-b7640b6942f9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/99f5d2b6-ad36-592d-bc6a-b7640b6942f9)
 
 ---
 

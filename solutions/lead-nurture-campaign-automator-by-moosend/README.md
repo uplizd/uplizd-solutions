@@ -12,7 +12,7 @@ The Lead Nurture Campaign Automator is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e9f20f77-4ddc-563f-8fab-15525c93fe63)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e9f20f77-4ddc-563f-8fab-15525c93fe63)
 
 ---
 

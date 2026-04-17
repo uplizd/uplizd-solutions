@@ -12,7 +12,7 @@ The Contract Generator Agent by Uplizd streamlines the creation, formatting, and
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d172e2f8-2d20-5cfb-9809-40a16616e432)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d172e2f8-2d20-5cfb-9809-40a16616e432)
 
 ---
 

@@ -12,7 +12,7 @@ The GitLab Group Governance Agent streamlines enterprise-grade security and admi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/680b9edb-f3bd-59bc-b934-0e2fdd71400f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/680b9edb-f3bd-59bc-b934-0e2fdd71400f)
 
 ---
 

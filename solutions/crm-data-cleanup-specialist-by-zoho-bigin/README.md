@@ -12,7 +12,7 @@ The CRM Data Cleanup Specialist is an intelligent Uplizd workflow designed to ma
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3ff9d8f4-cc67-5a5b-a294-750efae62154)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3ff9d8f4-cc67-5a5b-a294-750efae62154)
 
 ---
 

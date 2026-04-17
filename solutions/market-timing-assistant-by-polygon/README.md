@@ -12,7 +12,7 @@ The Market Timing Assistant is an automated AI workflow designed to analyze fina
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f95ce945-8acc-5abf-a673-9f629a10a6c9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f95ce945-8acc-5abf-a673-9f629a10a6c9)
 
 ---
 

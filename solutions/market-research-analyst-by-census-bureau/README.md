@@ -12,7 +12,7 @@ The Market Research Analyst workflow leverages the Uplizd AI engine to synthesiz
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1a23b41e-6ef5-51f9-8520-6bed4412e742)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1a23b41e-6ef5-51f9-8520-6bed4412e742)
 
 ---
 

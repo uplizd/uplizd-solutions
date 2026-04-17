@@ -12,7 +12,7 @@ The New User Onboarding Assistant is an automated Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a72a3b68-ea02-5a34-bfd4-79cf2fa325b8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a72a3b68-ea02-5a34-bfd4-79cf2fa325b8)
 
 ---
 

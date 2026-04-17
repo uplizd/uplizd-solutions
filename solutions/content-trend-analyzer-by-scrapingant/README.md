@@ -12,7 +12,7 @@ The Content Trend Analyzer is an automated AI workflow that monitors industry pu
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c96544ee-2a4a-55cd-bb18-59ec8a98a604)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c96544ee-2a4a-55cd-bb18-59ec8a98a604)
 
 ---
 

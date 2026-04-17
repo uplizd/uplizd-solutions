@@ -12,7 +12,7 @@ The 24/7 Customer Support Assistant is an intelligent AI workflow designed to pr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6fc79b79-7f8d-5ebc-b3e3-36ca754bd6ed)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6fc79b79-7f8d-5ebc-b3e3-36ca754bd6ed)
 
 ---
 

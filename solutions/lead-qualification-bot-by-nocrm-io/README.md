@@ -12,7 +12,7 @@ The Lead Qualification Bot by Uplizd streamlines your sales pipeline by automati
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cac4e0a7-8816-5d57-b4ab-e4cafc58beb4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cac4e0a7-8816-5d57-b4ab-e4cafc58beb4)
 
 ---
 

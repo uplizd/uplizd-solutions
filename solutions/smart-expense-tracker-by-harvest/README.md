@@ -12,7 +12,7 @@ The Smart Expense Tracker is an intelligent Uplizd AI workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/20f8c842-20a5-5d75-a0de-bcdd84dc1f6c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/20f8c842-20a5-5d75-a0de-bcdd84dc1f6c)
 
 ---
 

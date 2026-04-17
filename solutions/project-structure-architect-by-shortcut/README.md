@@ -12,7 +12,7 @@ The Project Structure Architect is an intelligent Uplizd workflow designed to au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fb89c045-9cba-5e18-a077-c8683d626bdc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fb89c045-9cba-5e18-a077-c8683d626bdc)
 
 ---
 

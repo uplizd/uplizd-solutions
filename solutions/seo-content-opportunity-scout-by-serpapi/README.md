@@ -15,7 +15,7 @@ The SEO Content Opportunity Scout is an automated Uplizd workflow that leverages
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fa82d8e6-4221-54ad-b1c1-afef15841b0c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fa82d8e6-4221-54ad-b1c1-afef15841b0c)
 
 ---
 

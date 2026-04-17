@@ -12,7 +12,7 @@ The Project Document Manager is an intelligent Uplizd workflow that automates th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/47d76743-7d7c-58c5-8067-cebd017cdca5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/47d76743-7d7c-58c5-8067-cebd017cdca5)
 
 ---
 

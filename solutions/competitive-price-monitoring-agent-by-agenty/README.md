@@ -12,7 +12,7 @@ The Competitive Price Monitoring Agent is an automated Uplizd workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba985721-680b-5160-87fe-16e908662e1a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba985721-680b-5160-87fe-16e908662e1a)
 
 ---
 

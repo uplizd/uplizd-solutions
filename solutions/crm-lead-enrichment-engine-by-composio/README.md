@@ -12,7 +12,7 @@ The CRM Lead Enrichment Engine is an intelligent Uplizd workflow that automates 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a96acb2a-fef8-5209-a211-3cdc2953bef2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a96acb2a-fef8-5209-a211-3cdc2953bef2)
 
 ---
 

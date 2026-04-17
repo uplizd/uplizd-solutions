@@ -12,7 +12,7 @@ The Content Migration Assistant is an intelligent Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfc0c19e-a973-5840-a1d9-06072d4ade25)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfc0c19e-a973-5840-a1d9-06072d4ade25)
 
 ---
 

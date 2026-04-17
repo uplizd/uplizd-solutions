@@ -12,7 +12,7 @@ The Live Event Engagement Tracker is an automated Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a26110ae-3b81-590f-afc5-e0e2585898e3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a26110ae-3b81-590f-afc5-e0e2585898e3)
 
 ---
 

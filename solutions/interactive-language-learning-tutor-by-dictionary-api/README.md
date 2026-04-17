@@ -12,7 +12,7 @@ The Interactive Language Learning Tutor is an AI-powered workflow designed to ac
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/57b76a02-0602-5a91-9dcc-dea37a164126)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/57b76a02-0602-5a91-9dcc-dea37a164126)
 
 ---
 

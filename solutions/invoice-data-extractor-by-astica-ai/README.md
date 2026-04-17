@@ -12,7 +12,7 @@ The Invoice Data Extractor (Uplizd) is an intelligent AI workflow designed to au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/818dc29f-af51-528c-9a0d-4c9e0d3d6303)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/818dc29f-af51-528c-9a0d-4c9e0d3d6303)
 
 ---
 

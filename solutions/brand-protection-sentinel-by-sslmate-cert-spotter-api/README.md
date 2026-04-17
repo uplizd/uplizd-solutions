@@ -12,7 +12,7 @@ The Brand Protection Sentinel is an automated Uplizd AI workflow designed to saf
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/59d8f6cd-64e7-55d8-b672-afad63c3f467)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/59d8f6cd-64e7-55d8-b672-afad63c3f467)
 
 ---
 

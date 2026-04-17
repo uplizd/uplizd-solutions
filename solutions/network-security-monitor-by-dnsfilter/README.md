@@ -12,7 +12,7 @@ The Network Security Monitor by Uplizd provides an automated workflow for real-t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0ef97513-e42c-59a0-a347-ce9fa796f5f8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0ef97513-e42c-59a0-a347-ce9fa796f5f8)
 
 ---
 

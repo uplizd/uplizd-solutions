@@ -12,7 +12,7 @@ The Content Performance Monitor by Typefully is an intelligent automation workfl
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d2df3f4-e033-55b5-ae9b-f01f0dee3289)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d2df3f4-e033-55b5-ae9b-f01f0dee3289)
 
 ---
 

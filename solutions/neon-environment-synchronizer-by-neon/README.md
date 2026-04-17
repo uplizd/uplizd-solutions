@@ -12,7 +12,7 @@ The Neon Environment Synchronizer by Uplizd automates the lifecycle of database 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1ab6f365-ac58-52e9-8f07-c6c9f26657c5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1ab6f365-ac58-52e9-8f07-c6c9f26657c5)
 
 ---
 

@@ -12,7 +12,7 @@ The Multi-Brand Campaign Manager is an intelligent Uplizd workflow designed to c
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dde2cd31-f8e4-519e-b5e3-3671be5af15a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dde2cd31-f8e4-519e-b5e3-3671be5af15a)
 
 ---
 

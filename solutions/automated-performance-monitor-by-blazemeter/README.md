@@ -12,7 +12,7 @@ The Automated Performance Monitor is an intelligent Uplizd workflow that continu
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0290f8a9-906d-5d1a-8969-477e53239368)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0290f8a9-906d-5d1a-8969-477e53239368)
 
 ---
 

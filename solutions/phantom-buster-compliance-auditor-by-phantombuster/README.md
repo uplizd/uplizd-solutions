@@ -12,7 +12,7 @@ The PhantomBuster Compliance Auditor is an intelligent Uplizd AI workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9750a553-7311-5bae-8466-e494bf5ac01b)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9750a553-7311-5bae-8466-e494bf5ac01b)
 
 ---
 

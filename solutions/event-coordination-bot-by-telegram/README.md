@@ -12,7 +12,7 @@ The Event Coordination Bot is an intelligent Uplizd workflow designed to automat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e9d4e698-b29d-5998-b01d-dd97573fdebb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e9d4e698-b29d-5998-b01d-dd97573fdebb)
 
 ---
 

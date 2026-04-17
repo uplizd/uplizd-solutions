@@ -12,7 +12,7 @@ The Network Security Auditor (Uplizd) is an intelligent workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f66e2696-5fac-5160-9cb1-bd3de8ce816b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f66e2696-5fac-5160-9cb1-bd3de8ce816b)
 
 ---
 

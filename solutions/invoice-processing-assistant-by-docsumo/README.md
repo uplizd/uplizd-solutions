@@ -12,7 +12,7 @@ The Invoice Processing Assistant by Docsumo is an intelligent Uplizd AI workflow
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c45b8dc-2b25-5672-a156-c9cf8e3c0a3e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c45b8dc-2b25-5672-a156-c9cf8e3c0a3e)
 
 ---
 

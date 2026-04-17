@@ -12,7 +12,7 @@ The Automated Product Demo Creator (Uplizd) streamlines the sales cycle by lever
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a25bbed3-17f5-5ce1-9b15-e1e8f2f4e177)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a25bbed3-17f5-5ce1-9b15-e1e8f2f4e177)
 
 ---
 

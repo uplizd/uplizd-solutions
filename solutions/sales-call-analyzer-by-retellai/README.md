@@ -12,7 +12,7 @@ The Sales Call Analyzer (Uplizd) workflow leverages advanced voice intelligence 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8faa158c-597c-56de-9017-58cf77e4576f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8faa158c-597c-56de-9017-58cf77e4576f)
 
 ---
 

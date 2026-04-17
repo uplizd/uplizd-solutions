@@ -12,7 +12,7 @@ The Smart Territory Intelligence Agent is an automated workflow designed to map,
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f718f1d7-eabf-50a8-9c75-d4a55678d074)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f718f1d7-eabf-50a8-9c75-d4a55678d074)
 
 ---
 

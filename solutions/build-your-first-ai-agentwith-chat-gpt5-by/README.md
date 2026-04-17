@@ -12,7 +12,7 @@ The Build Your First AI Agent with ChatGPT-5 solution provides a streamlined fra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7cf9fa3f-d611-5021-a7c6-1796bcaf0956)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7cf9fa3f-d611-5021-a7c6-1796bcaf0956)
 
 ---
 

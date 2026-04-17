@@ -12,7 +12,7 @@ The Contact Research Agent by Findymail is an automated Uplizd workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d66c86a0-f0ec-5e5c-8887-ac7456e3940e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d66c86a0-f0ec-5e5c-8887-ac7456e3940e)
 
 ---
 

@@ -12,7 +12,7 @@ The Content Compliance Auditor is an intelligent Uplizd workflow designed to sca
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c90460c-cf14-5719-a75d-dfb1b6206fa9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c90460c-cf14-5719-a75d-dfb1b6206fa9)
 
 ---
 

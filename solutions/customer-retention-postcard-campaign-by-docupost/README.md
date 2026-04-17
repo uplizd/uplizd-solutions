@@ -12,7 +12,7 @@ The Customer Retention Postcard Campaign solution enables businesses to automati
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/82db18f2-2072-5e1e-806d-9626842f53a2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/82db18f2-2072-5e1e-806d-9626842f53a2)
 
 ---
 

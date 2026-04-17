@@ -12,7 +12,7 @@ The Feature Rollback Guardian is an intelligent Uplizd workflow designed to moni
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b995b05-5ac5-57e1-be45-8f15cb4b451c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b995b05-5ac5-57e1-be45-8f15cb4b451c)
 
 ---
 

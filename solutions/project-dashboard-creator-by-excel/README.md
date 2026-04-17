@@ -12,7 +12,7 @@ The Project Dashboard Creator by Uplizd automates the aggregation of project dat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dafa7b4e-e606-576f-bea2-038fbc592ef8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dafa7b4e-e606-576f-bea2-038fbc592ef8)
 
 ---
 

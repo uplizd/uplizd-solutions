@@ -12,7 +12,7 @@ The Fan Engagement Curator is an Uplizd AI workflow designed to automate the dis
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/af8edcf4-6120-5f99-8724-87c8cbc038ac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/af8edcf4-6120-5f99-8724-87c8cbc038ac)
 
 ---
 

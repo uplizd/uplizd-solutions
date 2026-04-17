@@ -12,7 +12,7 @@ The Job Posting Aggregator (Uplizd) is an intelligent workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/job-posting-aggregator-by-browseai)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/job-posting-aggregator-by-browseai)
 
 ---
 

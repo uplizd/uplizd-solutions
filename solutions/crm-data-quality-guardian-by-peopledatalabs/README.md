@@ -12,7 +12,7 @@ The CRM Data Quality Guardian is an intelligent Uplizd workflow designed to main
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/faa01501-3172-5a54-81e7-0321e6c27c5d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/faa01501-3172-5a54-81e7-0321e6c27c5d)
 
 ---
 

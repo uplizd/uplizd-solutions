@@ -12,7 +12,7 @@ The Contact Database Cleaner by Segmetrics is an intelligent Uplizd workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c58c4e50-1d92-597c-abc0-525aa6cc06a7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c58c4e50-1d92-597c-abc0-525aa6cc06a7)
 
 ---
 

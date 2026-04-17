@@ -12,7 +12,7 @@ The Portfolio Risk Monitor is an intelligent Uplizd workflow that automates the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bcab2d91-e09e-5f05-ad38-999b287e9179)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bcab2d91-e09e-5f05-ad38-999b287e9179)
 
 ---
 

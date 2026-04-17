@@ -12,7 +12,7 @@ The Dynamic Catalog Sync Manager automates the bidirectional flow of product dat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d1f713ad-c73c-56b5-83ac-6dc496273e12)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d1f713ad-c73c-56b5-83ac-6dc496273e12)
 
 ---
 

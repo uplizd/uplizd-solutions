@@ -12,7 +12,7 @@ The Resume Extraction Agent leverages the LlamaExtract framework and MongoDB to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8dcef98b-8d50-59de-8bd7-51b8a1dafec0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8dcef98b-8d50-59de-8bd7-51b8a1dafec0)
 
 ---
 

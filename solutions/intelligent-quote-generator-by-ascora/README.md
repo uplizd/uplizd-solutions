@@ -12,7 +12,7 @@ The Intelligent Quote Generator is an AI-powered workflow that streamlines the e
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/75c3a3d3-2edf-5d0b-b69f-3507ec2c2939)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/75c3a3d3-2edf-5d0b-b69f-3507ec2c2939)
 
 ---
 

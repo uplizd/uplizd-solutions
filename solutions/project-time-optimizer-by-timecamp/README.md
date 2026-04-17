@@ -12,7 +12,7 @@ The Project Time Optimizer by TimeCamp is an intelligent Uplizd workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6263135f-8334-5daa-97d8-e48b4b714645)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6263135f-8334-5daa-97d8-e48b4b714645)
 
 ---
 

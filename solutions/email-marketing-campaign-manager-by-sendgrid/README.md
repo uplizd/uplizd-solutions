@@ -12,7 +12,7 @@ The Email Marketing Campaign Manager by Uplizd streamlines your outreach efforts
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d5f2b457-9876-5990-9032-fe87208e356e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d5f2b457-9876-5990-9032-fe87208e356e)
 
 ---
 

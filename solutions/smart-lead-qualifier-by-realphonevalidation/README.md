@@ -12,7 +12,7 @@ The Smart Lead Qualifier (Uplizd) is an automated AI workflow that integrates re
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/017d656b-5897-5d71-9ef5-45b44f5ffd03)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/017d656b-5897-5d71-9ef5-45b44f5ffd03)
 
 ---
 

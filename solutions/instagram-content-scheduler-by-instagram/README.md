@@ -12,7 +12,7 @@ The Instagram Content Scheduler by Uplizd streamlines your social media strategy
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dc7d6aa1-9ef5-5c98-9070-537bdc130d4e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dc7d6aa1-9ef5-5c98-9070-537bdc130d4e)
 
 ---
 

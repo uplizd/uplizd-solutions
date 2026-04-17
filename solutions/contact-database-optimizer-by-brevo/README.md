@@ -12,7 +12,7 @@ The Contact Database Optimizer by Uplizd is an intelligent AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7b6e3c3f-95c3-5868-8694-d5bca742c7c7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7b6e3c3f-95c3-5868-8694-d5bca742c7c7)
 
 ---
 

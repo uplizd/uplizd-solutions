@@ -12,7 +12,7 @@ The Compliance Document Audit Agent is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/17c7ae9d-bf8e-57ff-95ee-7777b50a9ae7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/17c7ae9d-bf8e-57ff-95ee-7777b50a9ae7)
 
 ---
 

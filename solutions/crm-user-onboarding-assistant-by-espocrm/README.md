@@ -12,7 +12,7 @@ The CRM User Onboarding Assistant is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1eb70cdc-27a9-5493-b1c6-336cc6c75593)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1eb70cdc-27a9-5493-b1c6-336cc6c75593)
 
 ---
 

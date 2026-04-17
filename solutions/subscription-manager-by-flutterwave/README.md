@@ -10,5 +10,5 @@ Automate recurring payment plans and subscription lifecycle management
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/326cd49d-855f-50d6-8e6a-1ea3ee247bdf)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/326cd49d-855f-50d6-8e6a-1ea3ee247bdf)
 

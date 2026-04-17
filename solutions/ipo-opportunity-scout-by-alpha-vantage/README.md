@@ -12,7 +12,7 @@ The IPO Opportunity Scout is an intelligent Uplizd workflow that monitors market
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/896fcf66-e0ee-5ed1-a96e-28fbdb19306f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/896fcf66-e0ee-5ed1-a96e-28fbdb19306f)
 
 ---
 

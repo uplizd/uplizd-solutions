@@ -12,7 +12,7 @@ The API Testing Validator (Uplizd) streamlines the testing of APIs protected by 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49649db6-5234-575e-bac5-61fa71d9b5e9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49649db6-5234-575e-bac5-61fa71d9b5e9)
 
 ---
 

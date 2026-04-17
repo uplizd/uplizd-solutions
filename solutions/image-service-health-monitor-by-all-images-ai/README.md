@@ -13,7 +13,7 @@ The Image Service Health Monitor is an intelligent Uplizd workflow designed to p
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6bd15a4d-8bd0-56f4-af40-3661a21f82b5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6bd15a4d-8bd0-56f4-af40-3661a21f82b5)
 
 ---
 

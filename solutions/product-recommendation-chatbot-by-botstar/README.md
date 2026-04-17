@@ -12,7 +12,7 @@ The Product Recommendation Chatbot by BotStar is an intelligent Uplizd workflow 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/686b7db8-8377-51bb-944b-ece88d1a905f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/686b7db8-8377-51bb-944b-ece88d1a905f)
 
 ---
 

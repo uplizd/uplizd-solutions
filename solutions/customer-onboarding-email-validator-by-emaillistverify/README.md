@@ -12,7 +12,7 @@ The Customer Onboarding Email Validator is an intelligent Uplizd workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/43358b6c-fa7a-59c0-a1be-2086c9ed67da)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/43358b6c-fa7a-59c0-a1be-2086c9ed67da)
 
 ---
 

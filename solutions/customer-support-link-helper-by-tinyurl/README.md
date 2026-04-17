@@ -12,7 +12,7 @@ The Customer Support Link Helper is an intelligent Uplizd AI workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d48555e1-f73e-50fd-b4d0-025c0222d53c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d48555e1-f73e-50fd-b4d0-025c0222d53c)
 
 ---
 

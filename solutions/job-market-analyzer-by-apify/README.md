@@ -12,7 +12,7 @@ The Job Market Analyzer is an intelligent Uplizd workflow that aggregates and in
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9a69e0a8-34da-57ee-8633-ece87537b77f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9a69e0a8-34da-57ee-8633-ece87537b77f)
 
 ---
 

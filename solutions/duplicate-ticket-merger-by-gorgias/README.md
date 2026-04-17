@@ -12,7 +12,7 @@ The Duplicate Ticket Merger by Uplizd is an intelligent AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d4e5d12-311f-5e47-ac3f-0968888d0324)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d4e5d12-311f-5e47-ac3f-0968888d0324)
 
 ---
 

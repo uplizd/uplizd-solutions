@@ -12,7 +12,7 @@ The AI Compliance Monitor (Uplizd) provides a robust framework for ensuring AI m
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/75f75459-c27b-5ae8-b0ae-1b8317a53c9b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/75f75459-c27b-5ae8-b0ae-1b8317a53c9b)
 
 ---
 

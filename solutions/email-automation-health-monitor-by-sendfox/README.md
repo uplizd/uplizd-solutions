@@ -12,7 +12,7 @@ The Email Automation Health Monitor by Uplizd provides a centralized observabili
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/515d25f4-b80b-5fff-871e-bf338e31bef6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/515d25f4-b80b-5fff-871e-bf338e31bef6)
 
 ---
 

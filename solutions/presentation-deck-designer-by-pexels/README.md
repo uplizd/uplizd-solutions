@@ -12,7 +12,7 @@ The Presentation Deck Designer is an intelligent Uplizd workflow that automates 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/60d7be7f-6997-5638-8c50-8b350c5d5a83)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/60d7be7f-6997-5638-8c50-8b350c5d5a83)
 
 ---
 

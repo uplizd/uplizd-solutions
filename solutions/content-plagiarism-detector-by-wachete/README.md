@@ -12,7 +12,7 @@ The Content Plagiarism Detector is an intelligent Uplizd workflow designed to sa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d816eba9-647d-54c1-bdb1-c275b1811801)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d816eba9-647d-54c1-bdb1-c275b1811801)
 
 ---
 

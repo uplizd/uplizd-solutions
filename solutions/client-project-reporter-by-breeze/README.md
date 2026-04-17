@@ -12,7 +12,7 @@ The Client Project Reporter is an intelligent Uplizd workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7ac12b66-d0f4-583b-a202-c3400ea93e8a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7ac12b66-d0f4-583b-a202-c3400ea93e8a)
 
 ---
 

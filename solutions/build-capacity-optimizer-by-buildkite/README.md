@@ -12,7 +12,7 @@ The Build Capacity Optimizer (Uplizd) is an intelligent workflow designed to mon
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d9ec7a4e-57e6-5d17-a1e6-e9510b9e1b4c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d9ec7a4e-57e6-5d17-a1e6-e9510b9e1b4c)
 
 ---
 

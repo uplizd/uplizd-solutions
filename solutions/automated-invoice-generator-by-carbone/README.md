@@ -12,7 +12,7 @@ The Automated Invoice Generator by Carbone is an intelligent Uplizd workflow des
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4896a776-4aae-5ede-8466-6b56d4f4da65)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4896a776-4aae-5ede-8466-6b56d4f4da65)
 
 ---
 

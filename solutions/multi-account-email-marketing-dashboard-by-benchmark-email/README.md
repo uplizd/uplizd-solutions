@@ -12,7 +12,7 @@ The Multi-Account Email Marketing Dashboard (Uplizd) provides a unified command 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/baae8c86-896e-5c49-959d-06dfe191d474)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/baae8c86-896e-5c49-959d-06dfe191d474)
 
 ---
 

@@ -12,7 +12,7 @@ The Contract Analysis Agent leverages AI to streamline legal workflows by automa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cfdaa793-2859-5fb6-a339-88c24e4c21e5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cfdaa793-2859-5fb6-a339-88c24e4c21e5)
 
 ---
 

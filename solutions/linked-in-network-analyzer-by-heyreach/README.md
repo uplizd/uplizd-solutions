@@ -12,7 +12,7 @@ The LinkedIn Network Analyzer (Uplizd) is an AI-powered workflow designed to aud
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/02108245-0f53-5975-b785-c598eeda01fd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/02108245-0f53-5975-b785-c598eeda01fd)
 
 ---
 

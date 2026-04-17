@@ -12,7 +12,7 @@ The Event Marketing Generator (Uplizd) streamlines the production of promotional
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1dd4f8b9-befd-5aec-9912-8db297fd19b2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1dd4f8b9-befd-5aec-9912-8db297fd19b2)
 
 ---
 

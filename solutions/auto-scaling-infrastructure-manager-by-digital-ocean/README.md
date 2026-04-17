@@ -12,7 +12,7 @@ The Auto-Scaling Infrastructure Manager provides an intelligent, automated workf
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/03254b7b-c050-5e12-81e0-6bdc083f40a3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/03254b7b-c050-5e12-81e0-6bdc083f40a3)
 
 ---
 

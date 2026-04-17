@@ -12,7 +12,7 @@ The Email List Cleaner by Bouncer is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/200be1dd-90aa-51c7-a8ae-4f0b23af7dac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/200be1dd-90aa-51c7-a8ae-4f0b23af7dac)
 
 ---
 

@@ -12,7 +12,7 @@ The Affiliate Payment Automation Agent by Uplizd streamlines the end-to-end affi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/755b45a9-db87-5ed7-813c-42dfea691094)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/755b45a9-db87-5ed7-813c-42dfea691094)
 
 ---
 

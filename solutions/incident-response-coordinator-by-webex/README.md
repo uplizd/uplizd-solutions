@@ -12,7 +12,7 @@ The Incident Response Coordinator is an intelligent Uplizd AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61d6971a-8cce-5b55-8552-499586cc1dae)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61d6971a-8cce-5b55-8552-499586cc1dae)
 
 ---
 

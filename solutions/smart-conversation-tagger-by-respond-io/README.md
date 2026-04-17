@@ -12,7 +12,7 @@ The Smart Conversation Tagger by Uplizd automates the classification and labelin
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eb929a4a-dab2-516b-9a81-3f6032cb9f4b)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eb929a4a-dab2-516b-9a81-3f6032cb9f4b)
 
 ---
 

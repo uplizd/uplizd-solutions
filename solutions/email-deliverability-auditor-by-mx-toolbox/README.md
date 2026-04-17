@@ -12,7 +12,7 @@ The Email Deliverability Auditor is an automated Uplizd workflow designed to mon
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/85b3b83c-4825-5a2b-a659-1b7fd3a41e50)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/85b3b83c-4825-5a2b-a659-1b7fd3a41e50)
 
 ---
 

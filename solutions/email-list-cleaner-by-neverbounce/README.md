@@ -12,7 +12,7 @@ The Email List Cleaner (Uplizd) is an automated workflow designed to maintain hi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/faaa9404-0726-5885-bb59-b9b372466d4a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/faaa9404-0726-5885-bb59-b9b372466d4a)
 
 ---
 

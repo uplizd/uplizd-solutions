@@ -12,7 +12,7 @@ The Custom Component Generator is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a3302c05-1d55-544f-bb82-c45bccc241b2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a3302c05-1d55-544f-bb82-c45bccc241b2)
 
 ---
 

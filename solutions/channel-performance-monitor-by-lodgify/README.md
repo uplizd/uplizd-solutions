@@ -12,7 +12,7 @@ The Channel Performance Monitor (Uplizd) is an automated AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/410ecef7-4087-53dc-8509-a7e104c5279f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/410ecef7-4087-53dc-8509-a7e104c5279f)
 
 ---
 

@@ -12,7 +12,7 @@ The Incident Metrics Analyzer (Uplizd) is an AI-driven workflow that transforms 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/81aea4ce-4be2-525e-8372-e4696798102f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/81aea4ce-4be2-525e-8372-e4696798102f)
 
 ---
 

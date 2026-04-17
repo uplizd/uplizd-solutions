@@ -12,7 +12,7 @@ The Scripture Memory Coach is an intelligent Uplizd workflow designed to help us
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a563dc84-adb3-5f0a-9da1-6b0ccc13a8d7)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a563dc84-adb3-5f0a-9da1-6b0ccc13a8d7)
 
 ---
 

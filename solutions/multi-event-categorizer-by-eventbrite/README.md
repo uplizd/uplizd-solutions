@@ -12,7 +12,7 @@ The Multi-Event Categorizer (Uplizd) is an AI-powered workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a5838093-830a-547e-8784-b841d42e8135)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a5838093-830a-547e-8784-b841d42e8135)
 
 ---
 

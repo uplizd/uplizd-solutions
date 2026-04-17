@@ -12,7 +12,7 @@ The DPD2 Webhook Event Processor is an intelligent automation workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a858992b-5acc-5a79-892c-585abefc70df)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a858992b-5acc-5a79-892c-585abefc70df)
 
 ---
 

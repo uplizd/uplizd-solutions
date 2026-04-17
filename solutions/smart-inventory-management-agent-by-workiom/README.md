@@ -12,7 +12,7 @@ The Smart Inventory Management Agent by Workiom is an intelligent AI workflow de
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/48b9abf9-70b8-56a1-85ee-177128d1d58c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/48b9abf9-70b8-56a1-85ee-177128d1d58c)
 
 ---
 

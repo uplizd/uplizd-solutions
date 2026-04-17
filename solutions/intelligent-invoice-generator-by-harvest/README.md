@@ -12,7 +12,7 @@ The Intelligent Invoice Generator by Harvest streamlines your financial operatio
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5e19150c-e604-5e72-81f8-840ca2d90ee5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5e19150c-e604-5e72-81f8-840ca2d90ee5)
 
 ---
 

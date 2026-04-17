@@ -12,7 +12,7 @@ The Event Speaker Manager by Uplizd is an intelligent workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5613b9f6-eb32-59b7-9e09-3d561e706d87)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5613b9f6-eb32-59b7-9e09-3d561e706d87)
 
 ---
 

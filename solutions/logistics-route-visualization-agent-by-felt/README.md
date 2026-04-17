@@ -12,7 +12,7 @@ The Logistics Route Visualization Agent leverages Uplizd AI workflows to transfo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9d089e61-e708-5196-9921-7ce2c286b82e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9d089e61-e708-5196-9921-7ce2c286b82e)
 
 ---
 

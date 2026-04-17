@@ -12,7 +12,7 @@ The Financial Risk Monitor is an intelligent Uplizd AI workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1651f630-9c6f-5f23-9492-ebe8048ea575)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1651f630-9c6f-5f23-9492-ebe8048ea575)
 
 ---
 

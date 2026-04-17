@@ -12,7 +12,7 @@ The Shopify Customer Onboarding Agent is an intelligent Uplizd workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f50e0d45-66b7-51a6-a0c2-f87a2413c3ad)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f50e0d45-66b7-51a6-a0c2-f87a2413c3ad)
 
 ---
 

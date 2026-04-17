@@ -12,7 +12,7 @@ The Market News Digest Agent is an intelligent Uplizd workflow that aggregates r
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/edc1837f-baee-556e-90e6-1907a74fe36c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/edc1837f-baee-556e-90e6-1907a74fe36c)
 
 ---
 

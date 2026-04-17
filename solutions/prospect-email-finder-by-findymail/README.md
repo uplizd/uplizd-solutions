@@ -12,7 +12,7 @@ The Prospect Email Finder is an intelligent Uplizd AI workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f722364c-cd71-5cc5-bd98-5404000ab26e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f722364c-cd71-5cc5-bd98-5404000ab26e)
 
 ---
 

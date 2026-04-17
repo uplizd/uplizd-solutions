@@ -12,7 +12,7 @@ The Medical Record Processor by Affinda is an intelligent Uplizd workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/882d93d0-3d2d-5d6a-9b37-2e2a78cff82d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/882d93d0-3d2d-5d6a-9b37-2e2a78cff82d)
 
 ---
 

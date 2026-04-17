@@ -12,7 +12,7 @@ The Podcast Trend Tracker (Uplizd) is an automated AI workflow designed to monit
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cefd6f1d-941a-54be-bc3a-00d7776d41d8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cefd6f1d-941a-54be-bc3a-00d7776d41d8)
 
 ---
 

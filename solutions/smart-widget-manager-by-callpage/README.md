@@ -12,7 +12,7 @@ The Smart Widget Manager by CallPage is an intelligent Uplizd AI workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/653238a6-7755-50e2-a828-86828b3b90b0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/653238a6-7755-50e2-a828-86828b3b90b0)
 
 ---
 

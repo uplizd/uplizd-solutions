@@ -12,7 +12,7 @@ The Payment Failure Recovery Agent is an intelligent Uplizd workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9c2e7b73-3968-5a13-9b3c-92bf10045eeb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9c2e7b73-3968-5a13-9b3c-92bf10045eeb)
 
 ---
 

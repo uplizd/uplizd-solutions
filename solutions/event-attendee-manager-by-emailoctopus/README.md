@@ -12,7 +12,7 @@ The Event Attendee Manager is an intelligent Uplizd workflow designed to automat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/06dae670-43e0-5b29-b9e7-b8aa9ff2d9a3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/06dae670-43e0-5b29-b9e7-b8aa9ff2d9a3)
 
 ---
 

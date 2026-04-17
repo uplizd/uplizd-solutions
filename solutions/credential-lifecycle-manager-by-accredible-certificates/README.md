@@ -12,7 +12,7 @@ The Credential Lifecycle Manager is an intelligent Uplizd AI workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f1d55a1f-65ef-5c72-9216-7a21348f8144)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f1d55a1f-65ef-5c72-9216-7a21348f8144)
 
 ---
 

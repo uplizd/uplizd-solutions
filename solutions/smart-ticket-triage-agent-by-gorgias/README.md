@@ -12,7 +12,7 @@ The Smart Ticket Triage Agent is an intelligent Uplizd workflow that streamlines
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8391ae28-539f-563e-ac7f-8243873fca44)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8391ae28-539f-563e-ac7f-8243873fca44)
 
 ---
 

@@ -12,7 +12,7 @@ The Customer Review Analysis Workflow leverages Uplizd and the Composio Toolset 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6529b463-53e3-59a9-b402-26c7e192b622)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6529b463-53e3-59a9-b402-26c7e192b622)
 
 ---
 

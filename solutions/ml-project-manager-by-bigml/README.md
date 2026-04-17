@@ -12,7 +12,7 @@ The ML Project Manager by BigML streamlines the lifecycle of machine learning in
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/96229b3e-9288-5841-8970-78129fec4e87)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/96229b3e-9288-5841-8970-78129fec4e87)
 
 ---
 

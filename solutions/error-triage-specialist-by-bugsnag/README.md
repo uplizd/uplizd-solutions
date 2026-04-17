@@ -12,7 +12,7 @@ The Error Triage Specialist is an intelligent Uplizd workflow that automates the
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8e393291-fa80-5374-83a9-7729bddb23be)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8e393291-fa80-5374-83a9-7729bddb23be)
 
 ---
 

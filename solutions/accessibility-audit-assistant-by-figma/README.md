@@ -12,7 +12,7 @@ The Accessibility Audit Assistant by Uplizd streamlines the design-to-developmen
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/128b087e-e848-58c9-8303-666f660f37c7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/128b087e-e848-58c9-8303-666f660f37c7)
 
 ---
 

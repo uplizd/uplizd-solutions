@@ -15,7 +15,7 @@ A Uplizd AI workflow specialized in streamlining event marketing through automat
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6903c960-0277-4fde-b7d8-121f6c464b26)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6903c960-0277-4fde-b7d8-121f6c464b26)
 
 ---
 ## Who is this for?

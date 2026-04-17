@@ -12,7 +12,7 @@ The Contract Template Manager by Documint is an intelligent Uplizd workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a81103ae-7ae9-5697-a983-22f808b57ea9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a81103ae-7ae9-5697-a983-22f808b57ea9)
 
 ---
 

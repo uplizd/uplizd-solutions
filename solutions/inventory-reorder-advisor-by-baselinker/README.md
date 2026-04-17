@@ -13,7 +13,7 @@ The Inventory Reorder Advisor is an intelligent Uplizd workflow that monitors sa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e13e7c34-4e96-5dd4-9f5b-85b25a17025a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e13e7c34-4e96-5dd4-9f5b-85b25a17025a)
 
 ---
 

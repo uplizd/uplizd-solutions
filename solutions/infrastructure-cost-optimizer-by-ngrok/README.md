@@ -12,7 +12,7 @@ The Infrastructure Cost Optimizer (Uplizd) is an intelligent AI workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/72ef855c-9105-5b31-bb71-0bd0e9518466)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/72ef855c-9105-5b31-bb71-0bd0e9518466)
 
 ---
 

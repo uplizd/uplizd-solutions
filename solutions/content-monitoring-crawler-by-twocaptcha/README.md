@@ -12,7 +12,7 @@ The Content Monitoring Crawler is an intelligent Uplizd workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a28a5d5b-3cfe-512a-b109-3a61c1f0acbc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a28a5d5b-3cfe-512a-b109-3a61c1f0acbc)
 
 ---
 

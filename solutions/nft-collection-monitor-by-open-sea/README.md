@@ -12,7 +12,7 @@ The NFT Collection Monitor is an automated Uplizd AI workflow that tracks floor 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ce0dbbae-738d-5d4f-8c6b-f348c2edf76e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ce0dbbae-738d-5d4f-8c6b-f348c2edf76e)
 
 ---
 

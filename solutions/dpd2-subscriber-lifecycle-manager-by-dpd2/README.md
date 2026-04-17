@@ -12,7 +12,7 @@ The DPD2 Subscriber Lifecycle Manager is an intelligent Uplizd workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/00da7240-c519-5e47-9ab1-1d81ef82b84e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/00da7240-c519-5e47-9ab1-1d81ef82b84e)
 
 ---
 

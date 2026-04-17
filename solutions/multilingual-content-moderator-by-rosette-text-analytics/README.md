@@ -12,7 +12,7 @@ The Multilingual Content Moderator is an intelligent Uplizd workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f41ba0be-fd5e-5abb-919f-37e9dab33bd1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f41ba0be-fd5e-5abb-919f-37e9dab33bd1)
 
 ---
 

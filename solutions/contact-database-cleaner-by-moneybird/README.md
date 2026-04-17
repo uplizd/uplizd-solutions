@@ -12,7 +12,7 @@ The Contact Database Cleaner (Uplizd) is an intelligent automation workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c99fccdd-31c5-5755-9d4a-aa374cf4df09)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c99fccdd-31c5-5755-9d4a-aa374cf4df09)
 
 ---
 

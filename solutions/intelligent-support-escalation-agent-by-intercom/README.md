@@ -12,7 +12,7 @@ The Intelligent Support Escalation Agent streamlines customer service operations
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6deaad68-e6bc-55ff-8251-bb2aefd2ed8b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6deaad68-e6bc-55ff-8251-bb2aefd2ed8b)
 
 ---
 

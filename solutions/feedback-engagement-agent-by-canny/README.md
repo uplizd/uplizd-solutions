@@ -13,7 +13,7 @@ The Feedback Engagement Agent by Canny is an intelligent Uplizd workflow designe
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d855b759-1af7-530c-b576-355b7acd2ba7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d855b759-1af7-530c-b576-355b7acd2ba7)
 
 ---
 

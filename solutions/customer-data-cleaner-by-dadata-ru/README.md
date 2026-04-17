@@ -12,7 +12,7 @@ The Customer Data Cleaner (Uplizd) workflow automates the validation, formatting
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a0ac35d7-435d-5a00-8b69-19dbf3ea91e0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a0ac35d7-435d-5a00-8b69-19dbf3ea91e0)
 
 ---
 

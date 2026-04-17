@@ -12,7 +12,7 @@ The Customer Thank You Card Agent is an intelligent workflow designed to bridge 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3f43e817-b85e-52f1-b8ab-7934712c2b07)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3f43e817-b85e-52f1-b8ab-7934712c2b07)
 
 ---
 

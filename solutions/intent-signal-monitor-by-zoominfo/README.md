@@ -12,7 +12,7 @@ The Intent Signal Monitor is an automated Uplizd workflow that tracks high-value
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/81d50ade-2898-52b0-b025-dee00b154949)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/81d50ade-2898-52b0-b025-dee00b154949)
 
 ---
 

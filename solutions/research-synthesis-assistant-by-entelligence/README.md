@@ -12,7 +12,7 @@ The Research Synthesis Assistant streamlines the process of aggregating, analyzi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4b892a5-c413-5c7f-87d1-1ab05bd91a8a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4b892a5-c413-5c7f-87d1-1ab05bd91a8a)
 
 ---
 

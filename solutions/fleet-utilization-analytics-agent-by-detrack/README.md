@@ -12,7 +12,7 @@ The Fleet Utilization Analytics Agent is an intelligent workflow designed to pro
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5a4bf30e-665c-5aeb-b711-b87908ff9113)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5a4bf30e-665c-5aeb-b711-b87908ff9113)
 
 ---
 

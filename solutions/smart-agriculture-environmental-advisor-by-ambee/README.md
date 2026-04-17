@@ -12,7 +12,7 @@ The Smart Agriculture Environmental Advisor leverages real-time environmental da
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e23451e2-04d1-52d2-a53f-dea092dd2b40)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e23451e2-04d1-52d2-a53f-dea092dd2b40)
 
 ---
 

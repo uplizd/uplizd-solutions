@@ -10,5 +10,5 @@ Automate tax calculations and invoice compliance across global jurisdictions
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/190ecef0-f7a3-5482-8ac2-f6467dd3c037)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/190ecef0-f7a3-5482-8ac2-f6467dd3c037)
 

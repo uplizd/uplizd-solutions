@@ -12,7 +12,7 @@ The Apollo Lead Qualification Engine is an intelligent Uplizd workflow that auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/535a96c2-23d7-5eca-80bc-6e8faf9c6d54)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/535a96c2-23d7-5eca-80bc-6e8faf9c6d54)
 
 ---
 

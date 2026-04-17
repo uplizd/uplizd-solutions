@@ -12,7 +12,7 @@ The Make Workflow Discovery Agent is an intelligent automation solution designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4f868dca-787f-5fd0-bbe6-e4b2f782881d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4f868dca-787f-5fd0-bbe6-e4b2f782881d)
 
 ---
 

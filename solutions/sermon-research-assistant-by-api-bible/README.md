@@ -12,7 +12,7 @@ The Sermon Research Assistant is an intelligent AI workflow designed to streamli
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3b6e0579-a126-5aab-bee8-546e1c9a3bff)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3b6e0579-a126-5aab-bee8-546e1c9a3bff)
 
 ---
 

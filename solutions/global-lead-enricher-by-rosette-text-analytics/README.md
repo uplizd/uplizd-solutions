@@ -12,7 +12,7 @@ The Global Lead Enricher is an intelligent Uplizd workflow designed to automate 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ddb0f0b3-7ea5-596c-afe1-48a559206244)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ddb0f0b3-7ea5-596c-afe1-48a559206244)
 
 ---
 

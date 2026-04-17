@@ -12,7 +12,7 @@ The Box Secure Sharing Assistant is an intelligent Uplizd workflow that automate
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/87e1975f-5375-52ef-8226-d6986f06f419)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/87e1975f-5375-52ef-8226-d6986f06f419)
 
 ---
 

@@ -12,7 +12,7 @@ The Invoice Readiness Checker is an intelligent Uplizd workflow that automates t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/046dd7e0-e5f1-5c65-9c06-9198d9b43755)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/046dd7e0-e5f1-5c65-9c06-9198d9b43755)
 
 ---
 

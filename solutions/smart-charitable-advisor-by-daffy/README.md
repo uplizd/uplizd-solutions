@@ -12,7 +12,7 @@ The Smart Charitable Advisor is an intelligent Uplizd workflow that provides per
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d0f64343-eda5-58e2-b8b4-20430174eefd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d0f64343-eda5-58e2-b8b4-20430174eefd)
 
 ---
 

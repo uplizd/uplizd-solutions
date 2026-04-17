@@ -12,7 +12,7 @@ The Customer Insights Generator is an intelligent Uplizd workflow designed to ag
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/847e6791-de2d-594b-bbfc-acf558c2f522)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/847e6791-de2d-594b-bbfc-acf558c2f522)
 
 ---
 

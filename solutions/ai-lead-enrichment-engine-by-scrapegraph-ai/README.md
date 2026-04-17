@@ -12,7 +12,7 @@ The AI Lead Enrichment Engine by ScrapeGraph AI streamlines your sales pipeline 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c79e36a-90b4-53b0-897c-32310dc777f1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c79e36a-90b4-53b0-897c-32310dc777f1)
 
 ---
 

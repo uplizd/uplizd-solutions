@@ -12,7 +12,7 @@ The DeFi Whale Activity Monitor is an automated Uplizd AI workflow designed to t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a5c78dca-1238-5ee9-98af-24ea5cd39f99)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a5c78dca-1238-5ee9-98af-24ea5cd39f99)
 
 ---
 

@@ -12,7 +12,7 @@ The Mobile App Intelligence Agent leverages the APIVerve platform to automate co
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/706fb053-19ca-5973-b222-89ce1e58bbb2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/706fb053-19ca-5973-b222-89ce1e58bbb2)
 
 ---
 

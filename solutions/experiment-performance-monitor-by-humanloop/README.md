@@ -12,7 +12,7 @@ The Experiment Performance Monitor is an automated Uplizd AI workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ca443119-0daf-57dd-8c44-cb975560ec96)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ca443119-0daf-57dd-8c44-cb975560ec96)
 
 ---
 

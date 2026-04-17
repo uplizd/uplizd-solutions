@@ -12,7 +12,7 @@ The Pipeline Health Monitor by Uplizd provides automated oversight of your sales
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1f1bb426-fdf3-53df-8cea-4561dcce98eb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1f1bb426-fdf3-53df-8cea-4561dcce98eb)
 
 ---
 

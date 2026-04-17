@@ -12,7 +12,7 @@ The Smart Meeting Recorder (Uplizd) streamlines meeting operations by automatica
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/671b5ab5-eb00-552e-9206-84d573a55e9c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/671b5ab5-eb00-552e-9206-84d573a55e9c)
 
 ---
 

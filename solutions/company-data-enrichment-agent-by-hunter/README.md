@@ -14,7 +14,7 @@ The Company Data Enrichment Agent leverages the Hunter API via the Composio Tool
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/company-data-enrichment-agent-by-hunter)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/company-data-enrichment-agent-by-hunter)
 
 ---
 

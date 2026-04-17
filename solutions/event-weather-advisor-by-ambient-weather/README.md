@@ -12,7 +12,7 @@ The Event Weather Advisor is an intelligent Uplizd workflow that integrates real
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09057668-fac5-56d6-80ef-8c0ea058f6ef)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09057668-fac5-56d6-80ef-8c0ea058f6ef)
 
 ---
 

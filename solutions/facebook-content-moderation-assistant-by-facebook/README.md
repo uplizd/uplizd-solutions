@@ -12,7 +12,7 @@ The Facebook Content Moderation Assistant is an intelligent Uplizd workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84f5de6d-f2a0-5d82-9265-6d7ea2cafa11)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84f5de6d-f2a0-5d82-9265-6d7ea2cafa11)
 
 ---
 

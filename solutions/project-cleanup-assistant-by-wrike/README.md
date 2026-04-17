@@ -12,7 +12,7 @@ The Project Cleanup Assistant is an intelligent Uplizd workflow designed to stre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2933ee20-cb24-5120-af6b-4f46660236ec)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2933ee20-cb24-5120-af6b-4f46660236ec)
 
 ---
 

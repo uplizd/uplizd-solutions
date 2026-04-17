@@ -12,7 +12,7 @@ The Smart Fee Manager by Uplizd is an intelligent workflow designed to automate 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bea3061a-af7e-57e1-9a60-9fc2d95c6833)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bea3061a-af7e-57e1-9a60-9fc2d95c6833)
 
 ---
 

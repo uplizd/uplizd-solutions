@@ -12,7 +12,7 @@ The File Asset Manager (Uplizd) workflow automates the categorization, metadata 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3bc85d8d-7c4b-5c91-b350-44853792e81a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3bc85d8d-7c4b-5c91-b350-44853792e81a)
 
 ---
 

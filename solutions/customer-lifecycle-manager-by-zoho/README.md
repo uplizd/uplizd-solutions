@@ -12,7 +12,7 @@ The Customer Lifecycle Manager is an intelligent Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/07c7bf0c-e9c8-58e9-a75f-482b74f006e1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/07c7bf0c-e9c8-58e9-a75f-482b74f006e1)
 
 ---
 

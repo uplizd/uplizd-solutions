@@ -12,7 +12,7 @@ The Multi-Asset Correlation Intelligence workflow leverages EODHD APIs to provid
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cd27c47-4ceb-5c1a-8be9-3b4d8192d5fd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cd27c47-4ceb-5c1a-8be9-3b4d8192d5fd)
 
 ---
 

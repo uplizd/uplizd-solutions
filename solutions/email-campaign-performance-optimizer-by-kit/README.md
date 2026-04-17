@@ -12,7 +12,7 @@ The Email Campaign Performance Optimizer is an intelligent Uplizd workflow that 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c42d9b8-a395-56a7-b3fb-a9b04ac17a16)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c42d9b8-a395-56a7-b3fb-a9b04ac17a16)
 
 ---
 

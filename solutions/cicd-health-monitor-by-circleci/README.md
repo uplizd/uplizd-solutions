@@ -12,7 +12,7 @@ The CI/CD Health Monitor is an intelligent Uplizd workflow that provides real-ti
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f99ca3ae-dec5-5cc6-91cf-7120563d2f04)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f99ca3ae-dec5-5cc6-91cf-7120563d2f04)
 
 ---
 

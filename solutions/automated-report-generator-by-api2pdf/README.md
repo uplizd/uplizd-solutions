@@ -12,7 +12,7 @@ The Automated Report Generator by API2PDF is an intelligent Uplizd workflow that
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b54f6cdb-4323-5bff-bdec-a8e8b89ce266)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b54f6cdb-4323-5bff-bdec-a8e8b89ce266)
 
 ---
 

@@ -12,7 +12,7 @@ The Resume Screening Agent is an intelligent Uplizd workflow designed to automat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1ea9eb3a-c399-52eb-98bd-9579f0fc3573)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1ea9eb3a-c399-52eb-98bd-9579f0fc3573)
 
 ---
 

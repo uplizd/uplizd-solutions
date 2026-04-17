@@ -12,7 +12,7 @@ The Contract Generator by PDFLess is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c9b3266f-1c5f-5fc1-8d0b-ed71e142eb6c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c9b3266f-1c5f-5fc1-8d0b-ed71e142eb6c)
 
 ---
 

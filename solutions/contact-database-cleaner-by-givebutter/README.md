@@ -12,7 +12,7 @@ The Contact Database Cleaner by Givebutter is an intelligent Uplizd AI workflow 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed58deb0-b163-5e0e-8e46-7aeacf73c4be)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed58deb0-b163-5e0e-8e46-7aeacf73c4be)
 
 ---
 

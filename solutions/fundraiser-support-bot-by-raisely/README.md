@@ -12,7 +12,7 @@ The Fundraiser Support Bot by Raisely is an intelligent automation workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c0ce3c6a-e0ff-5cc1-8624-6eb2cb83d204)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c0ce3c6a-e0ff-5cc1-8624-6eb2cb83d204)
 
 ---
 

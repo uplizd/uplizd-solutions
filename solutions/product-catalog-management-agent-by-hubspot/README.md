@@ -12,7 +12,7 @@ The Product Catalog Management Agent streamlines e-commerce operations by automa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9e03943c-7972-5cdd-a8b1-9e0d1972858f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9e03943c-7972-5cdd-a8b1-9e0d1972858f)
 
 ---
 

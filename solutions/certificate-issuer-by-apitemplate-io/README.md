@@ -14,7 +14,7 @@ The Certificate Issuer workflow automates the creation, personalization, and sec
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/certificate-issuer-by-apitemplate-io)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/certificate-issuer-by-apitemplate-io)
 
 ---
 

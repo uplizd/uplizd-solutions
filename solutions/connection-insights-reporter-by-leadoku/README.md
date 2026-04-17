@@ -12,7 +12,7 @@ The Connection Insights Reporter is an automated Uplizd AI workflow that synthes
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/39f8d3f5-0c8a-538c-aebd-3c3601e64006)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/39f8d3f5-0c8a-538c-aebd-3c3601e64006)
 
 ---
 

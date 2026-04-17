@@ -12,7 +12,7 @@ The Event Location Coordinator is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36a7ecc2-bf4a-5a06-8c09-d7aac8b690d4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36a7ecc2-bf4a-5a06-8c09-d7aac8b690d4)
 
 ---
 

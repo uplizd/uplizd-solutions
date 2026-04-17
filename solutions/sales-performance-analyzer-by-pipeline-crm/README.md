@@ -12,7 +12,7 @@ The Sales Performance Analyzer is an intelligent Uplizd workflow designed to tra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d6a552d0-63a3-5fba-8937-799594797443)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d6a552d0-63a3-5fba-8937-799594797443)
 
 ---
 

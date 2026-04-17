@@ -12,7 +12,7 @@ The Content Backup Guardian is an intelligent Uplizd workflow that automates the
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f4b8a9cd-d1cc-545d-b18a-e08abf2228bc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f4b8a9cd-d1cc-545d-b18a-e08abf2228bc)
 
 ---
 

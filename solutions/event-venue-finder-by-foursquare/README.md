@@ -12,7 +12,7 @@ The Event Venue Finder (Uplizd) is an AI-powered workflow that automates the dis
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3cc9ca53-d450-5ad6-aeca-75fb100f9428)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3cc9ca53-d450-5ad6-aeca-75fb100f9428)
 
 ---
 

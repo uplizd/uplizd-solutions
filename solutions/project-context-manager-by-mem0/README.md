@@ -12,7 +12,7 @@ The Project Context Manager by Mem0 is an intelligent workflow designed to captu
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a6a09d28-eb14-56e4-8365-6598bd1f2f07)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a6a09d28-eb14-56e4-8365-6598bd1f2f07)
 
 ---
 

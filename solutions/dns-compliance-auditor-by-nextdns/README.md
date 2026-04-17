@@ -12,7 +12,7 @@ The DNS Compliance Auditor by NextDNS is an intelligent Uplizd workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c13d092a-4c26-5cc8-b429-fe206e2f7e69)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c13d092a-4c26-5cc8-b429-fe206e2f7e69)
 
 ---
 

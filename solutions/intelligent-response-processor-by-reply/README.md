@@ -12,7 +12,7 @@ The Intelligent Response Processor is an Uplizd AI workflow designed to streamli
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0e8868e8-6972-5b89-91d9-3e4a0ef1650d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0e8868e8-6972-5b89-91d9-3e4a0ef1650d)
 
 ---
 

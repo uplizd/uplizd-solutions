@@ -12,7 +12,7 @@ The Smart Feedback Follow-up Agent is an intelligent workflow designed to bridge
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dbd39d15-a5b4-5485-a77b-7683f413fb23)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dbd39d15-a5b4-5485-a77b-7683f413fb23)
 
 ---
 

@@ -12,7 +12,7 @@ The Contact Sync Manager is an intelligent Uplizd workflow that automates the ex
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3e777c02-ddbb-5928-af25-d8ec30d689fb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3e777c02-ddbb-5928-af25-d8ec30d689fb)
 
 ---
 

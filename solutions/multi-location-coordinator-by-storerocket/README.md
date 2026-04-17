@@ -12,7 +12,7 @@ The Multi-Location Coordinator is an intelligent Uplizd workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49e54e09-d480-5445-b5ee-3b8cc3cbc6f9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49e54e09-d480-5445-b5ee-3b8cc3cbc6f9)
 
 ---
 

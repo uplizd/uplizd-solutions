@@ -12,7 +12,7 @@ The Email List Cleaner Agent is an intelligent Uplizd workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d06f58a5-4d62-5759-8cc8-a9823eba966a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d06f58a5-4d62-5759-8cc8-a9823eba966a)
 
 ---
 

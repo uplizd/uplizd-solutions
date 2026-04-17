@@ -12,7 +12,7 @@ The Box AI Document Assistant is an automated workflow that bridges the gap betw
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d1e4bd61-9fd2-5bf0-8d8a-d4f01655727e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d1e4bd61-9fd2-5bf0-8d8a-d4f01655727e)
 
 ---
 

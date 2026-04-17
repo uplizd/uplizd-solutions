@@ -12,7 +12,7 @@ The Deal Pipeline Monitor is an intelligent Uplizd workflow designed to provide 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b722f91b-a450-5643-8a69-9d131ab26544)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b722f91b-a450-5643-8a69-9d131ab26544)
 
 ---
 

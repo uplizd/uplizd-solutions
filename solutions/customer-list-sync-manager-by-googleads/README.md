@@ -12,7 +12,7 @@ The Customer List Sync Manager is an intelligent Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7f2b54ea-155d-5f4c-b496-1fa429ff879a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7f2b54ea-155d-5f4c-b496-1fa429ff879a)
 
 ---
 

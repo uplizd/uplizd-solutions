@@ -13,7 +13,7 @@ The Refund Tax Reconciliation Agent automates the complex process of verifying, 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a3fe67d5-674b-587c-ae45-3bd6b6f4d7eb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a3fe67d5-674b-587c-ae45-3bd6b6f4d7eb)
 
 ---
 

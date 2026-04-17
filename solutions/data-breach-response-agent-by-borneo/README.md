@@ -12,7 +12,7 @@ The Data Breach Response Agent is an automated security workflow designed to det
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cad7de09-cd5d-5b51-a958-77ab28fdc7a9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cad7de09-cd5d-5b51-a958-77ab28fdc7a9)
 
 ---
 

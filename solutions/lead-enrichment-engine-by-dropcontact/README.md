@@ -12,7 +12,7 @@ The Lead Enrichment Engine is an intelligent Uplizd workflow that automates the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b3d3ad4b-c11c-5339-8913-e478140bf8ae)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b3d3ad4b-c11c-5339-8913-e478140bf8ae)
 
 ---
 

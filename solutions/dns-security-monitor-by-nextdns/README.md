@@ -12,7 +12,7 @@ The DNS Security Monitor (Uplizd) is an automated AI workflow designed to provid
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9233cc93-9752-5cab-9027-886ef9f0c3de)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9233cc93-9752-5cab-9027-886ef9f0c3de)
 
 ---
 

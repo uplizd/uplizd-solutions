@@ -12,7 +12,7 @@ The Research Data Processor is an intelligent Uplizd workflow designed to stream
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b8531b23-1646-5da0-baaf-0df88376d2c8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b8531b23-1646-5da0-baaf-0df88376d2c8)
 
 ---
 

@@ -12,7 +12,7 @@ The Model Optimizer (Uplizd) is an automated AI workflow designed to analyze tas
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bf8243dc-5e4e-5669-9d26-e53605008b0e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bf8243dc-5e4e-5669-9d26-e53605008b0e)
 
 ---
 

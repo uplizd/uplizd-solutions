@@ -13,7 +13,7 @@ The Product Mockup Generator is an intelligent Uplizd workflow that automates th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4259ed86-d895-5f81-82f2-c53b0ee92777)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4259ed86-d895-5f81-82f2-c53b0ee92777)
 
 ---
 

@@ -12,7 +12,7 @@ The Sneaker Price Monitor is an automated AI workflow designed for resellers and
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/18148118-e7aa-5be9-b102-0e87808699d7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/18148118-e7aa-5be9-b102-0e87808699d7)
 
 ---
 

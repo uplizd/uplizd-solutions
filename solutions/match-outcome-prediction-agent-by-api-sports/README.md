@@ -12,7 +12,7 @@ The Match Outcome Prediction Agent leverages real-time sports data and historica
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e6ed6ae-5e2a-5e94-82a5-1b516e182927)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e6ed6ae-5e2a-5e94-82a5-1b516e182927)
 
 ---
 

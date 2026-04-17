@@ -12,7 +12,7 @@ The Lead Qualification Agent by Close is an intelligent workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/587aba72-c1d0-58f5-8816-60f6c1548dd2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/587aba72-c1d0-58f5-8816-60f6c1548dd2)
 
 ---
 

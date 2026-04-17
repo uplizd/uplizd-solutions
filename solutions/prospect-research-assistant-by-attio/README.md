@@ -12,7 +12,7 @@ The Prospect Research Assistant is an intelligent Uplizd workflow that automates
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d3dd261f-cb57-517e-b313-52a731a9f553)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d3dd261f-cb57-517e-b313-52a731a9f553)
 
 ---
 

@@ -12,7 +12,7 @@ The Geographic Targeting Optimizer is an intelligent Uplizd workflow that analyz
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7841d37b-15a1-5cda-939e-360c61aac72c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7841d37b-15a1-5cda-939e-360c61aac72c)
 
 ---
 

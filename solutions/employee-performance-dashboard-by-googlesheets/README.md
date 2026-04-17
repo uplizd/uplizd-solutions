@@ -12,7 +12,7 @@ The Employee Performance Dashboard (Uplizd) workflow automates the aggregation o
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1c225276-1f0b-5087-9b01-f396194cd98d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1c225276-1f0b-5087-9b01-f396194cd98d)
 
 ---
 

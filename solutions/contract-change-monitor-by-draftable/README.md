@@ -12,7 +12,7 @@ The Contract Change Monitor by Draftable is an intelligent Uplizd workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/78005242-26a7-57b8-bd0d-3fb997be4b4e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/78005242-26a7-57b8-bd0d-3fb997be4b4e)
 
 ---
 

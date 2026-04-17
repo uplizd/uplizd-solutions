@@ -12,7 +12,7 @@ The Customer Win-Back Direct Mail Agent is an intelligent workflow designed to a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eba20d4c-c276-5ae2-bc54-59aa11a8df24)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eba20d4c-c276-5ae2-bc54-59aa11a8df24)
 
 ---
 

@@ -12,7 +12,7 @@ The ServiceM8 Payment Processor by Uplizd automates the end-to-end workflow of c
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2836c1dc-f37a-5895-9426-c2141c39340e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2836c1dc-f37a-5895-9426-c2141c39340e)
 
 ---
 

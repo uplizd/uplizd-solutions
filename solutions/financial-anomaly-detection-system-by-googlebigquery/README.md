@@ -12,7 +12,7 @@ The Financial Anomaly Detection System is an intelligent Uplizd workflow that le
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/67186053-93af-5e86-a595-fa0687572d30)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/67186053-93af-5e86-a595-fa0687572d30)
 
 ---
 

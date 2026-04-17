@@ -12,7 +12,7 @@ The Export Status Monitor (Uplizd) is an automated AI workflow designed to track
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc93b029-4447-5522-bd70-bc3de8081101)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc93b029-4447-5522-bd70-bc3de8081101)
 
 ---
 

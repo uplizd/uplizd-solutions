@@ -12,7 +12,7 @@ The Document Reranking with Jina Reranker workflow enhances search accuracy by r
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea3d8573-ddfa-57e9-8e51-1d92077e814d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea3d8573-ddfa-57e9-8e51-1d92077e814d)
 
 ---
 

@@ -12,7 +12,7 @@ The Market Opportunity Scout is an intelligent Uplizd workflow that leverages th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ec796501-4c4f-5a50-9b10-a2dfc805f091)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ec796501-4c4f-5a50-9b10-a2dfc805f091)
 
 ---
 

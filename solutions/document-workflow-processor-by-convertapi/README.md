@@ -12,7 +12,7 @@ The Document Workflow Processor is an intelligent Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ae9722cf-993e-5b0a-9848-c8a6ac989f22)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ae9722cf-993e-5b0a-9848-c8a6ac989f22)
 
 ---
 

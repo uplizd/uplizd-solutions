@@ -12,7 +12,7 @@ The Customer Call Analyzer (Uplizd) workflow leverages advanced speech-to-text a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f5770535-94f5-5773-8e9e-61de1cc7b5c7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f5770535-94f5-5773-8e9e-61de1cc7b5c7)
 
 ---
 

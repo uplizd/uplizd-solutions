@@ -12,7 +12,7 @@ The Smart Meeting Scheduler is an intelligent Uplizd AI workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4f128e4-5c1a-5b4f-b2c5-501ca463f14e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4f128e4-5c1a-5b4f-b2c5-501ca463f14e)
 
 ---
 

@@ -12,7 +12,7 @@ The Customer Support Triage Agent by Superchat streamlines your helpdesk operati
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5d9d6dc9-8b6d-55ad-8b13-da54922ba7b2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5d9d6dc9-8b6d-55ad-8b13-da54922ba7b2)
 
 ---
 

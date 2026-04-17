@@ -12,7 +12,7 @@ The Sales Lead Phone Enrichment Agent automates the verification and enrichment 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0ea1e537-c00b-5491-bbfb-03e130b4a912)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0ea1e537-c00b-5491-bbfb-03e130b4a912)
 
 ---
 

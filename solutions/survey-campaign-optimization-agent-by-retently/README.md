@@ -12,7 +12,7 @@ The Survey Campaign Optimization Agent leverages Uplizd AI workflows to analyze 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/68ee1a0c-5e40-56fc-8c82-d1ae48a96ba0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/68ee1a0c-5e40-56fc-8c82-d1ae48a96ba0)
 
 ---
 

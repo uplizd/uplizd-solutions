@@ -15,7 +15,7 @@ A Uplizd AI workflow that acts as a personal productivity assistant, intelligent
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cca2adbf-2c17-5fac-83e0-5b301ef7fb54)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cca2adbf-2c17-5fac-83e0-5b301ef7fb54)
 
 ---
 

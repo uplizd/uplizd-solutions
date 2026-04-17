@@ -12,7 +12,7 @@ The Sales Call Performance Optimizer is an intelligent Uplizd workflow that auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61a0ed3c-28c6-5571-bc67-e4ede74ae410)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61a0ed3c-28c6-5571-bc67-e4ede74ae410)
 
 ---
 

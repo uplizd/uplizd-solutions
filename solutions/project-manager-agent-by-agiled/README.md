@@ -12,7 +12,7 @@ The Project Manager Agent is an intelligent Uplizd workflow designed to automate
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/55c03a01-f19d-5a84-84c8-874281b49e3c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/55c03a01-f19d-5a84-84c8-874281b49e3c)
 
 ---
 

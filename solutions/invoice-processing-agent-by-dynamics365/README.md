@@ -12,7 +12,7 @@ The Invoice Processing Agent is an intelligent Uplizd workflow designed to autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/023ec618-71c4-5e68-a675-a45f197b0563)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/023ec618-71c4-5e68-a675-a45f197b0563)
 
 ---
 

@@ -12,7 +12,7 @@ The Meeting Notes Processor by Uplizd streamlines your post-meeting workflow by 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ca242ea4-f171-5844-a7de-178b13cb7f5c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ca242ea4-f171-5844-a7de-178b13cb7f5c)
 
 ---
 

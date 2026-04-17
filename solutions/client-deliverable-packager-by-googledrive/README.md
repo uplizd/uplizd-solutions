@@ -12,7 +12,7 @@ The Client Deliverable Packager is an automated Uplizd AI workflow designed to s
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0bb38db7-a9ba-5748-b616-3235053ea764)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0bb38db7-a9ba-5748-b616-3235053ea764)
 
 ---
 

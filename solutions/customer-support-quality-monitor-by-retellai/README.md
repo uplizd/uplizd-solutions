@@ -12,7 +12,7 @@ The Customer Support Quality Monitor is an intelligent Uplizd workflow that leve
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2bb5eb71-aac1-5ef1-afd3-a0e08932beb8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2bb5eb71-aac1-5ef1-afd3-a0e08932beb8)
 
 ---
 

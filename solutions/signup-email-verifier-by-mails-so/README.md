@@ -12,7 +12,7 @@ The Signup Email Verifier is an automated Uplizd workflow designed to eliminate 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0af3714a-1e8f-5521-80d0-b4c52531ea37)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0af3714a-1e8f-5521-80d0-b4c52531ea37)
 
 ---
 

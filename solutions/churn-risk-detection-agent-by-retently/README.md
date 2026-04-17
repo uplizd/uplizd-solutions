@@ -12,7 +12,7 @@ The Churn Risk Detection Agent by Retently is an automated AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/churn-risk-detection-agent-by-retently)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/churn-risk-detection-agent-by-retently)
 
 ---
 

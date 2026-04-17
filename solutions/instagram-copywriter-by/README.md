@@ -12,7 +12,7 @@ The Instagram Copywriter (Uplizd) workflow automates the creation of high-engage
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f7694557-4322-56ac-8485-eee3c5198d5b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f7694557-4322-56ac-8485-eee3c5198d5b)
 
 ---
 

@@ -12,7 +12,7 @@ The Customer Credit Manager (Uplizd) is an intelligent AI workflow designed to s
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/381ab41b-ebce-5a99-9b57-82931de8f32e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/381ab41b-ebce-5a99-9b57-82931de8f32e)
 
 ---
 

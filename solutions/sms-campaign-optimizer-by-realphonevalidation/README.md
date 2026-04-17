@@ -12,7 +12,7 @@ The SMS Campaign Optimizer is an automated Uplizd workflow designed to maximize 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77f00b6c-af8c-59e8-9f3e-ca814e8b86c2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77f00b6c-af8c-59e8-9f3e-ca814e8b86c2)
 
 ---
 

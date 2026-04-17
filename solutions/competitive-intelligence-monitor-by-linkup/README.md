@@ -12,7 +12,7 @@ The Competitive Intelligence Monitor is an automated AI workflow designed to tra
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc064213-e5f5-5eda-b1ee-2760039b57da)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc064213-e5f5-5eda-b1ee-2760039b57da)
 
 ---
 

@@ -12,7 +12,7 @@ The Customer Advocate Identifier workflow leverages AI to scan customer interact
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/99b0a324-8471-5873-a5df-b54f2b8ff0cd)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/99b0a324-8471-5873-a5df-b54f2b8ff0cd)
 
 ---
 

@@ -12,7 +12,7 @@ The Booking Insights Reporter is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/02771e14-f9f3-595e-b21d-47870b78510b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/02771e14-f9f3-595e-b21d-47870b78510b)
 
 ---
 

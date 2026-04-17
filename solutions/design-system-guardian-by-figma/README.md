@@ -12,7 +12,7 @@ The Design System Guardian is an intelligent Uplizd workflow that continuously m
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3c6b0828-ac16-5b63-8c1c-12de7ab211a0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3c6b0828-ac16-5b63-8c1c-12de7ab211a0)
 
 ---
 

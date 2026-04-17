@@ -12,7 +12,7 @@ The Product Launch Campaign Orchestrator is an intelligent Uplizd workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b57c1b28-fe6f-5805-9afd-ad1dcf72d31b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b57c1b28-fe6f-5805-9afd-ad1dcf72d31b)
 
 ---
 

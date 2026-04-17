@@ -12,7 +12,7 @@ The Behavioral Email Campaign Trigger is an intelligent Uplizd workflow that mon
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f89ad87a-7b7a-5b6d-8cce-8437f595d4dc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f89ad87a-7b7a-5b6d-8cce-8437f595d4dc)
 
 ---
 

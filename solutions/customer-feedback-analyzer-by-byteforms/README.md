@@ -12,7 +12,7 @@ The Customer Feedback Analyzer by Byteforms is an intelligent Uplizd workflow th
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8dafd4c6-380f-57e6-bb07-9e085536ae87)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8dafd4c6-380f-57e6-bb07-9e085536ae87)
 
 ---
 

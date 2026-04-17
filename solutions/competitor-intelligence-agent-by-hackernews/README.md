@@ -12,7 +12,7 @@ The Competitor Intelligence Agent leverages the Composio Toolset to monitor Hack
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7e6c69d3-3289-5b3e-962b-e9e25ffb9306)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7e6c69d3-3289-5b3e-962b-e9e25ffb9306)
 
 ---
 

@@ -12,7 +12,7 @@ The Real-time Image Processing Agent automates complex visual data workflows by 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12431da7-f504-5028-8e4e-0f7a4a62e880)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12431da7-f504-5028-8e4e-0f7a4a62e880)
 
 ---
 

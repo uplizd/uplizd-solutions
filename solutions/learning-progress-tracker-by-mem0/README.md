@@ -12,7 +12,7 @@ The Learning Progress Tracker (Uplizd) is an AI-powered workflow designed to hel
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fca0bd24-f0fd-5c0f-8298-c7f3b9b0dbe2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fca0bd24-f0fd-5c0f-8298-c7f3b9b0dbe2)
 
 ---
 

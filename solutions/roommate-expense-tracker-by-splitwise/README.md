@@ -12,7 +12,7 @@ The Roommate Expense Tracker by Uplizd is an intelligent AI workflow that automa
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/53c9c2f2-94e2-53d6-a8b6-e4f534820ee9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/53c9c2f2-94e2-53d6-a8b6-e4f534820ee9)
 
 ---
 

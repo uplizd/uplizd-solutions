@@ -12,7 +12,7 @@ The Lead Capture Agent by Parseur is an intelligent workflow designed to automat
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/804feca1-d863-5aab-b72b-8926f50f58d2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/804feca1-d863-5aab-b72b-8926f50f58d2)
 
 ---
 

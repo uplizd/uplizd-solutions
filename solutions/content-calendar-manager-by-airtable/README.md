@@ -12,7 +12,7 @@ The Content Calendar Manager is an intelligent Uplizd workflow that streamlines 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/573cb914-9162-5e10-bc53-e14825291572)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/573cb914-9162-5e10-bc53-e14825291572)
 
 ---
 

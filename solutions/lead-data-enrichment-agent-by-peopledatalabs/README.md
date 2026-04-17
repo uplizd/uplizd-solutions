@@ -12,7 +12,7 @@ The Lead Data Enrichment Agent by Uplizd automates the process of transforming s
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b9b8228c-f05c-5733-8a17-bc10b5edeb6b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b9b8228c-f05c-5733-8a17-bc10b5edeb6b)
 
 ---
 

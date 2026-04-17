@@ -12,7 +12,7 @@ The Competitor Intelligence Agent by Semrush is an automated workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/957ae84b-73fd-55e7-8149-da2e0a01c31c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/957ae84b-73fd-55e7-8149-da2e0a01c31c)
 
 ---
 

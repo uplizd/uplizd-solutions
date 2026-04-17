@@ -12,7 +12,7 @@ The Policy Data Enricher by Uplizd automates the ingestion and enhancement of in
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7811f3a8-3f5e-57a3-b45a-e7a9a258af8c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7811f3a8-3f5e-57a3-b45a-e7a9a258af8c)
 
 ---
 

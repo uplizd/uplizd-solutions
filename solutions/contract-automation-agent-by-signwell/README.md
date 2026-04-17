@@ -12,7 +12,7 @@ The Contract Automation Agent streamlines the legal operations lifecycle by inte
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34fe8818-79c4-56cb-85b9-c37c1e83e96c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34fe8818-79c4-56cb-85b9-c37c1e83e96c)
 
 ---
 

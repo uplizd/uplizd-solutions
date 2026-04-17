@@ -12,7 +12,7 @@ The Invoice Payment Tracker is an intelligent Uplizd AI workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36e72a24-4fc1-5689-ac0a-fa531463d883)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36e72a24-4fc1-5689-ac0a-fa531463d883)
 
 ---
 

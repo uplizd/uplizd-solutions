@@ -12,7 +12,7 @@ The Multi-Bot Manager is an intelligent Uplizd workflow designed to streamline t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/51406912-7d4d-5865-b8f0-f9e0d12d0d1c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/51406912-7d4d-5865-b8f0-f9e0d12d0d1c)
 
 ---
 

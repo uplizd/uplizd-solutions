@@ -12,7 +12,7 @@ The Service Territory Analyzer is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7a45137e-cff2-5718-988e-6a7a680c008b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7a45137e-cff2-5718-988e-6a7a680c008b)
 
 ---
 

@@ -12,7 +12,7 @@ The Automated Invoice Generator is an Uplizd AI workflow designed to transform r
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9915d9b6-4213-590c-8c76-ac19fcd5fa40)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9915d9b6-4213-590c-8c76-ac19fcd5fa40)
 
 ---
 

@@ -12,7 +12,7 @@ The Property Lifecycle Manager by Apaleo is an intelligent automation workflow d
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/948d37be-8534-5a87-aeb1-2b7f2f5e2abe)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/948d37be-8534-5a87-aeb1-2b7f2f5e2abe)
 
 ---
 

@@ -12,7 +12,7 @@ The Automated Sales Qualification Caller (Uplizd) leverages advanced voice AI to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3e0fce0-4c71-519e-b1f1-4e685545adbf)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3e0fce0-4c71-519e-b1f1-4e685545adbf)
 
 ---
 

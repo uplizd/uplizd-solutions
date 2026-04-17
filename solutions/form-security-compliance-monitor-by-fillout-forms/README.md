@@ -12,7 +12,7 @@ The Form Security Compliance Monitor is an intelligent Uplizd AI workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a5919252-6fbc-59ca-9a9a-a1afed4be83c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a5919252-6fbc-59ca-9a9a-a1afed4be83c)
 
 ---
 

@@ -10,5 +10,5 @@ Create seamless onboarding experiences for new subscribers
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c64a32f0-4543-5e28-96bc-1d28e3ba1d98)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c64a32f0-4543-5e28-96bc-1d28e3ba1d98)
 

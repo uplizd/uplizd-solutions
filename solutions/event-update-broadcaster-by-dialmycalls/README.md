@@ -13,7 +13,7 @@ The Event Update Broadcaster is an automated workflow designed to streamline eve
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ac473e19-be73-5544-a69c-5690e5f26f16)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ac473e19-be73-5544-a69c-5690e5f26f16)
 
 ---
 

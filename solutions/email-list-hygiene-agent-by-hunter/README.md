@@ -12,7 +12,7 @@ The Email List Hygiene Agent is an intelligent Uplizd workflow designed to maint
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b705539c-68de-58f1-b016-e1b7cbe551fb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b705539c-68de-58f1-b016-e1b7cbe551fb)
 
 ---
 

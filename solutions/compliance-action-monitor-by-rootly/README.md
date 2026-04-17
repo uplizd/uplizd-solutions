@@ -12,7 +12,7 @@ The Compliance Action Monitor is an intelligent Uplizd workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34fb1d76-8daf-50de-94d4-7763d6425815)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34fb1d76-8daf-50de-94d4-7763d6425815)
 
 ---
 

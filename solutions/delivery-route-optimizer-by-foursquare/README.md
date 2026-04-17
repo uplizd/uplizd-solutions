@@ -12,7 +12,7 @@ The Delivery Route Optimizer is an Uplizd AI workflow designed to streamline log
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/delivery-route-optimizer-by-foursquare)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/delivery-route-optimizer-by-foursquare)
 
 ---
 

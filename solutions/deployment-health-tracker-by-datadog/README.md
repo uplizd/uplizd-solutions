@@ -12,7 +12,7 @@ The Deployment Health Tracker is an intelligent Uplizd workflow that monitors re
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36c22fb2-601b-5658-ad60-3cb0c955b67d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36c22fb2-601b-5658-ad60-3cb0c955b67d)
 
 ---
 

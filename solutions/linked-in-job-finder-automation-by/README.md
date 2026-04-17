@@ -12,7 +12,7 @@ The LinkedIn Job Finder Automation by Uplizd leverages AI to monitor, filter, an
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cb1f8a36-8e3c-575b-904d-a2b8261ebbf4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cb1f8a36-8e3c-575b-904d-a2b8261ebbf4)
 
 ---
 

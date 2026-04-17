@@ -12,7 +12,7 @@ The Make Localization Setup Agent streamlines the deployment of global automatio
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d0ed50c-cdf5-5d18-b731-9ba224bb94fc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d0ed50c-cdf5-5d18-b731-9ba224bb94fc)
 
 ---
 

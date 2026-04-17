@@ -12,7 +12,7 @@ The Expense Report Agent by Affinda is an intelligent Uplizd workflow that autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c55af76c-3587-5334-b5ac-5800a901d92b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c55af76c-3587-5334-b5ac-5800a901d92b)
 
 ---
 

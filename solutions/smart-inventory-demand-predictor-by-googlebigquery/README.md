@@ -12,7 +12,7 @@ The Smart Inventory Demand Predictor (Uplizd) leverages AI to analyze historical
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fec85c20-4f6f-5ff4-aa35-f1f2cd92d13c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fec85c20-4f6f-5ff4-aa35-f1f2cd92d13c)
 
 ---
 

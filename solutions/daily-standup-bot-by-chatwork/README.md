@@ -12,7 +12,7 @@ The Daily Standup Bot by Chatwork streamlines team communication by automating t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/18a29d99-f521-5a8d-acf2-0abfe5b02b21)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/18a29d99-f521-5a8d-acf2-0abfe5b02b21)
 
 ---
 

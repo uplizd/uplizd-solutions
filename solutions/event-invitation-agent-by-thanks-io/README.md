@@ -12,7 +12,7 @@ The Event Invitation Agent is an Uplizd AI workflow designed to streamline the c
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/62aaba73-000a-5cf4-80d5-88f94f0ec231)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/62aaba73-000a-5cf4-80d5-88f94f0ec231)
 
 ---
 

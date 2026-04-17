@@ -12,7 +12,7 @@ The Snowflake Cost Optimization Agent is an intelligent Uplizd workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7b824efe-b0ef-5d4d-9109-30113a02496d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7b824efe-b0ef-5d4d-9109-30113a02496d)
 
 ---
 

@@ -12,7 +12,7 @@ The Affiliate Performance Monitor (Uplizd) is an automated AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cc71492-3efa-52af-89ae-a909b58f0976)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cc71492-3efa-52af-89ae-a909b58f0976)
 
 ---
 

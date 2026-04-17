@@ -12,7 +12,7 @@ The Smart Email Alias Manager is an intelligent Uplizd workflow that automates t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d7654149-79e8-5619-95b5-88d9a3712147)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d7654149-79e8-5619-95b5-88d9a3712147)
 
 ---
 

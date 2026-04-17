@@ -12,7 +12,7 @@ The Lead Qualification Bot is an intelligent Uplizd workflow that leverages the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/68ff36a2-cfa4-559d-a021-2fb4b6c5de01)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/68ff36a2-cfa4-559d-a021-2fb4b6c5de01)
 
 ---
 

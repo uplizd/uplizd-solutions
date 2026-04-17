@@ -12,7 +12,7 @@ The Incident Auto-Responder by ServiceNow (Uplizd) streamlines IT operations by 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5bf375c4-9671-5409-884b-9e3ad10f29fc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5bf375c4-9671-5409-884b-9e3ad10f29fc)
 
 ---
 

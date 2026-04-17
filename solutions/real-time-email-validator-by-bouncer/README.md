@@ -12,7 +12,7 @@ The Real-Time Email Validator by Bouncer is an intelligent Uplizd workflow that 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d13cc6e-dd75-5e93-ad95-1ead6681e1dc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d13cc6e-dd75-5e93-ad95-1ead6681e1dc)
 
 ---
 

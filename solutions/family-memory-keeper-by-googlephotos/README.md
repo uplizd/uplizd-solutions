@@ -12,7 +12,7 @@ The Family Memory Keeper by Uplizd is an intelligent AI workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d612ed57-62cc-52a1-93c5-f1dd973fdc75)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d612ed57-62cc-52a1-93c5-f1dd973fdc75)
 
 ---
 

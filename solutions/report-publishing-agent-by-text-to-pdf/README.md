@@ -12,7 +12,7 @@ The Report Publishing Agent streamlines the documentation workflow by automatica
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1e93de5d-5cfc-509b-8267-da44748cb7ef)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1e93de5d-5cfc-509b-8267-da44748cb7ef)
 
 ---
 

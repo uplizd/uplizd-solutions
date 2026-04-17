@@ -13,7 +13,7 @@ The 24/7 Customer Support Voice Assistant by Synthflow AI enables businesses to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/10a7f7d4-f5f2-5858-880b-b8d34ed3f4c0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/10a7f7d4-f5f2-5858-880b-b8d34ed3f4c0)
 
 ---
 

@@ -12,7 +12,7 @@ The Anthropic Usage Intelligence Monitor is an automated AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d373c628-6043-525a-916b-50dd0c8494cc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d373c628-6043-525a-916b-50dd0c8494cc)
 
 ---
 

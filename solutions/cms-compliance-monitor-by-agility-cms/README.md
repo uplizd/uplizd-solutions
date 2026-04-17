@@ -12,7 +12,7 @@ The CMS Compliance Monitor is an intelligent Uplizd AI workflow designed to auto
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/80f779a2-b7c6-5702-b3da-fc6146d16a7f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/80f779a2-b7c6-5702-b3da-fc6146d16a7f)
 
 ---
 

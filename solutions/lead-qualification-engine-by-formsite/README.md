@@ -12,7 +12,7 @@ The Lead Qualification Engine by Uplizd streamlines your sales pipeline by autom
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1f68e0e4-f98d-518f-a4a5-c6548d19e9c3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1f68e0e4-f98d-518f-a4a5-c6548d19e9c3)
 
 ---
 

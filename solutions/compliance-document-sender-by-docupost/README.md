@@ -12,7 +12,7 @@ The Compliance Document Sender is an intelligent Uplizd AI workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/08110976-f16f-5a3f-8fa4-72d4fa9d9105)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/08110976-f16f-5a3f-8fa4-72d4fa9d9105)
 
 ---
 

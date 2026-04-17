@@ -12,7 +12,7 @@ The Multi-Site SEO Reporter is an automated Uplizd AI workflow designed to aggre
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/32a0c44b-b8cc-5b45-90e8-b8cb7aa883cc)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/32a0c44b-b8cc-5b45-90e8-b8cb7aa883cc)
 
 ---
 

@@ -12,7 +12,7 @@ The Crypto Market Reporter is an automated Uplizd AI workflow that aggregates re
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3f10e946-1175-5bf7-989d-ef0e66ca3902)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3f10e946-1175-5bf7-989d-ef0e66ca3902)
 
 ---
 

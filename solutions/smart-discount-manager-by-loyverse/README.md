@@ -12,7 +12,7 @@ The Smart Discount Manager is an intelligent Uplizd workflow designed to streaml
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/466f9996-fc33-571f-9823-94ec1e70cc70)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/466f9996-fc33-571f-9823-94ec1e70cc70)
 
 ---
 

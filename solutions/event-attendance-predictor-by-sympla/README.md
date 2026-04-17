@@ -12,7 +12,7 @@ The Event Attendance Predictor (Uplizd) is an intelligent workflow designed to f
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a496a9f7-ed18-527d-aa54-a7de1438893d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a496a9f7-ed18-527d-aa54-a7de1438893d)
 
 ---
 

@@ -12,7 +12,7 @@ The Document Compliance Monitor is an intelligent Uplizd workflow designed to au
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c51b720b-6996-5bae-af5a-f60dd6d8af6a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c51b720b-6996-5bae-af5a-f60dd6d8af6a)
 
 ---
 

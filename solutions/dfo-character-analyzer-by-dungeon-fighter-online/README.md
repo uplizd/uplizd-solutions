@@ -12,7 +12,7 @@ The DFO Character Analyzer is an intelligent Uplizd workflow designed to streaml
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/69de7181-e106-58f4-b925-d82bda807254)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/69de7181-e106-58f4-b925-d82bda807254)
 
 ---
 

@@ -12,7 +12,7 @@ The Account Intelligence Gatherer (Uplizd) is an automated AI workflow designed 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9d88a48a-1ccc-5b2d-9a5f-d05028aeb19c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9d88a48a-1ccc-5b2d-9a5f-d05028aeb19c)
 
 ---
 

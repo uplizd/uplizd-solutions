@@ -12,7 +12,7 @@ The Deadline Escalation Manager is an intelligent Uplizd workflow designed to pr
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d3e64da-7f0f-542e-8bb3-2835c2bd7585)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4d3e64da-7f0f-542e-8bb3-2835c2bd7585)
 
 ---
 

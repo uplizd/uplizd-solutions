@@ -12,7 +12,7 @@ The Sports Content Odds Tracker is an automated Uplizd workflow that bridges the
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a1da397d-345c-50a2-8fee-e3bd9b3e9df8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a1da397d-345c-50a2-8fee-e3bd9b3e9df8)
 
 ---
 

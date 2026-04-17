@@ -12,7 +12,7 @@ The Customer Lifecycle Manager (Uplizd) is an intelligent automation workflow de
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b46b9477-1edd-51b8-ba7e-e2d88dfcf0d4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b46b9477-1edd-51b8-ba7e-e2d88dfcf0d4)
 
 ---
 

@@ -12,7 +12,7 @@ The Customer Expansion Agent is an intelligent Uplizd workflow designed to monit
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/96e01328-4443-5790-96a2-2069fd444b0a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/96e01328-4443-5790-96a2-2069fd444b0a)
 
 ---
 

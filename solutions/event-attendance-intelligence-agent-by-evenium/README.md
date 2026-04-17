@@ -13,7 +13,7 @@ The Event Attendance Intelligence Agent by Evenium streamlines post-event analys
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/976265ee-0a5b-5885-85c3-0e7d73fc9f7d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/976265ee-0a5b-5885-85c3-0e7d73fc9f7d)
 
 ---
 

@@ -12,7 +12,7 @@ The Meeting Action Item Tracker is an intelligent Uplizd workflow that transform
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d371a37b-32ee-593f-8232-ebca557b38ae)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d371a37b-32ee-593f-8232-ebca557b38ae)
 
 ---
 

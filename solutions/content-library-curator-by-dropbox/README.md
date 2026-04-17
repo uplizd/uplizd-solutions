@@ -12,7 +12,7 @@ The Content Library Curator by Dropbox is an intelligent Uplizd AI workflow desi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09412395-bf76-5a0f-832c-010be67df0cb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/09412395-bf76-5a0f-832c-010be67df0cb)
 
 ---
 

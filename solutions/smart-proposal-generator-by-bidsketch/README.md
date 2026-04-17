@@ -12,7 +12,7 @@ The Smart Proposal Generator is an intelligent Uplizd workflow that bridges the 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5f607d11-83d7-5b2a-8d66-9989841e9834)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5f607d11-83d7-5b2a-8d66-9989841e9834)
 
 ---
 

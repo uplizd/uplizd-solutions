@@ -12,7 +12,7 @@ The Giving Portfolio Manager is an intelligent Uplizd workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7f610886-ea5f-5052-ac03-cc9fe7ce32d0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7f610886-ea5f-5052-ac03-cc9fe7ce32d0)
 
 ---
 

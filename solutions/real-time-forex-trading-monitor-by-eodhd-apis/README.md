@@ -12,7 +12,7 @@ The Real-Time Forex Trading Monitor is an intelligent Uplizd workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36bb0c36-7241-5350-98a4-6b8c53fd9489)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36bb0c36-7241-5350-98a4-6b8c53fd9489)
 
 ---
 

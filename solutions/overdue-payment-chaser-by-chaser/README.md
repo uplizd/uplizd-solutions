@@ -12,7 +12,7 @@ The Overdue Payment Chaser by Uplizd is an intelligent AI workflow designed to a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b94941b3-4f74-5789-9f84-3964abf78fe6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b94941b3-4f74-5789-9f84-3964abf78fe6)
 
 ---
 

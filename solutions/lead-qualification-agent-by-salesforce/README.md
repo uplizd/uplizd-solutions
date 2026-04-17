@@ -12,7 +12,7 @@ The Lead Qualification Agent is an intelligent Uplizd workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cd0281c0-d90a-5652-a383-58cb704069d6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cd0281c0-d90a-5652-a383-58cb704069d6)
 
 ---
 

@@ -12,7 +12,7 @@ The Pipeline Health Dashboard Generator is an intelligent Uplizd workflow that a
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a6fcba7f-8548-5f9c-9635-f75dd48ceb79)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a6fcba7f-8548-5f9c-9635-f75dd48ceb79)
 
 ---
 
