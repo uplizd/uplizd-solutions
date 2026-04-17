@@ -17,6 +17,13 @@ A Uplizd AI workflow that ensures your CRM data is perfectly synchronized across
 [![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/8983c74f-735c-567e-99a3-b5f715140908)
 
 ---
+## Category
+
+- **Primary:** CRM & cross-platform data integration
+- **Tags:** `data sync`, `crm`, `integration`, `etl`, `revops`, `salesforce`, `hubspot`, `composio`, `nango`, `uplizd`, `single source of truth`, `data governance`
+- Synchronizes customer records across tools so sales, marketing, and support share one consistent dataset.
+
+---
 ## Who is this for?
 This workflow is essential for organizations using a diverse tech stack that need their customer data to be consistent everywhere:
 
@@ -74,7 +81,7 @@ This workflow is essential for organizations using a diverse tech stack that nee
 1. Click the **Run on Uplizd** CTA button above.
 2. On Uplizd, click **Try out**.
 3. Create a new workspace or open an existing workspace.
-5. Ensure all nodes are connected correctly:
+4. Ensure all nodes are connected correctly:
    - **Chat Input**
    - **Composio Toolset**
    - **Agent**

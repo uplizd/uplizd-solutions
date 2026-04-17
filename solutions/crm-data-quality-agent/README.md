@@ -1,198 +1,130 @@
-
-
-# CRM Data Quality Agent Flow (Uplizd) - Validate, Clean & Enrich CRM Data Automatically
+# CRM Data Quality Agent (Uplizd) - Automate CRM Data Validation, Enrichment, and Hygiene
 
 ## Summary
-A Uplizd AI workflow that receives user input, routes decisions via a CRM Data Quality Agent, executes tools, and returns cleaned CRM-ready output.
+The CRM Data Quality Agent is a specialized Uplizd AI workflow that automates the validation, standardization, and enrichment of customer records. By leveraging the Composio Toolset, it enables teams to maintain a single source of truth, eliminate manual data entry errors, and ensure high-quality pipeline hygiene across CRM platforms like Salesforce and HubSpot.
 
 ---
 
 ## Demo
 
-![Uplizd CRM Data Quality Agent Flow with Composio toolset, agent decision node, chat input, and chat output](image.png)
+![Uplizd CRM Data Quality Agent workflow showing Chat Input, Agent node, Composio Toolset, and Chat Output](image.png)
 
-**Alt text (SEO-ready):** Uplizd CRM Data Quality Agent flow integrating Composio toolset to validate and clean CRM data from chat input to chat output.
+**Alt text (SEO-ready):** Uplizd CRM Data Quality Agent workflow integrating Composio toolset for automated CRM data validation, cleaning, and record enrichment.
 
 ---
+
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/f11a0699-75d6-515a-8877-1e1d7a3625ba/)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/crm-data-quality-agent/)
 
 ---
+
+## Category
+
+**Primary category:** CRM data hygiene
+
+**Secondary tags:** crm, salesforce, hubspot, data validation, data enrichment, pipeline hygiene, composio, ai workflow
+
+This solution bridges the gap between raw customer input and structured CRM records by automating the cleaning and verification process.
+
+---
+
 ## Who is this for?
-This workflow is built for teams and individuals who want to maintain a "Single Source of Truth" without the manual grunt work:
 
-- Sales Operations (SalesOps) & RevOps
+This workflow is designed for teams managing high-volume lead and customer data who need to maintain pristine database integrity:
 
-    - Keep your pipeline clean and ensure sales reps are working with accurate, high-quality lead data.
-
-- Marketing Managers
-
-    - Reduce email bounce rates and improve campaign segmentation by validating contact info before hitting "Send."
-
-- CRM Administrators
-
-    - Automate the tedious tasks of deduplication, formatting, and standardizing records across Salesforce, HubSpot, or Pipedrive.
-
-- Small Business Owners & Startups
-
-    - Leverage enterprise-grade data cleaning tools without needing a dedicated data entry team.
-
-- Data Engineers & Analysts
-
-    - Quickly prototype or automate data validation pipelines using a flexible, AI-driven modular architecture.
+- **Sales Operations (SalesOps)**
+    - Ensure sales reps spend time on validated leads rather than fixing formatting errors or duplicate entries.
+- **Marketing Managers**
+    - Improve campaign deliverability and segmentation accuracy by standardizing contact information at the point of entry.
+- **CRM Administrators**
+    - Reduce the burden of manual data cleanup tasks and enforce consistent data entry standards across the organization.
+- **RevOps Professionals**
+    - Maintain a reliable "Single Source of Truth" to drive accurate forecasting and reporting across the revenue funnel.
 
 ---
 
 ## Features
 
-- **AI Agent Decision Engine**  
-  Uses an LLM-based agent to analyze user requests and decide which action/tool to execute.
-
-- **Tool Execution via Composio**  
-  Integrates with Composio Toolset to trigger external actions (API-based automations).
-
-- **Structured Input → Process → Output Flow**  
-  Chat Input is routed to the agent, processed through tool calls, and returned as Chat Output.
-
-- **CRM Data Quality Focused**  
-  Designed for cleaning, validating, enriching, and standardizing CRM datasets.
-
-- **Modular Uplizd Architecture**  
-  Components can be swapped (model, toolset, output format) without rebuilding the entire workflow.
+- **Intelligent Data Validation**
+    - Automatically checks email formats, phone number lengths, and required fields against CRM schemas.
+- **Automated Record Standardization**
+    - Normalizes company names, job titles, and location data to ensure consistent reporting and searchability.
+- **Composio-Powered Tool Execution**
+    - Seamlessly triggers CRM API actions to update, fetch, or verify records in real-time.
+- **Deduplication Logic**
+    - Identifies and flags potential duplicate records based on fuzzy matching of email, name, or domain.
+- **Flexible Agentic Routing**
+    - Uses an LLM agent to interpret user intent and decide whether to enrich, validate, or update a specific record.
 
 ---
 
 ## Use Cases
 
-- **Validate CRM records**
-  - Detect missing fields (email, phone, company name)
-  - Flag invalid formats (wrong email pattern, phone length)
+**Data Hygiene & Cleanup**
+- Bulk-standardize state and country fields to match ISO formats.
+- Remove redundant whitespace and fix casing issues in contact names.
 
-- **Standardize CRM data**
-  - Normalize company names
-  - Standardize country/state fields
-  - Clean duplicated whitespace and casing issues
+**Lead Validation & Enrichment**
+- Verify email deliverability status before adding a lead to a sales sequence.
+- Enrich incomplete lead profiles with company industry and size data via external APIs.
 
-- **Deduplicate customer records**
-  - Identify potential duplicates based on email/phone/name similarity
-
-- **Enrich CRM lead profiles**
-  - Add metadata such as company industry, size, or domain (depending on tool availability)
-
-- **Automate CRM support operations**
-  - Route requests like “update lead status” or “check customer info” through agent + tool execution
-
+**CRM Maintenance Operations**
+- Automatically flag records missing critical data points for manual review.
+- Trigger status updates based on data quality scores to keep the pipeline healthy.
 
 ---
+
 ## Quick Start
 
 ### 1) Import the Flow into Uplizd
 1. Click the **Run on Uplizd** CTA button above.
-2. On the Uplizd, click **Try out**.
-3. Create a new workspace or open an existing workspace.
-5. Ensure all nodes are connected correctly:
-   - **Chat Input**
-   - **Composio Toolset**
-   - **Agent**
-   - **Chat Output**
+2. Select your target workspace to clone the solution.
+3. Configure your CRM credentials within the Composio Toolset node.
+4. Ensure nodes are connected in the sequence: **Chat Input → Agent → Composio Toolset → Chat Output**.
 
 ### 2) Setup the Nodes
-Verify the workflow structure:
-
-- **Chat Input** → sends user request into the system
-- **Agent** → interprets the request and chooses actions
-- **Composio Toolset** → provides callable tools/APIs
-- **Chat Output** → displays final response to the user
+- **Chat Input**: Receives natural language requests or raw data strings.
+- **Agent**: Analyzes the input and determines the necessary validation or enrichment steps.
+- **Composio Toolset**: Executes the specific CRM API calls (e.g., `update_contact`, `search_lead`).
+- **Chat Output**: Returns the processed, cleaned, or validated result to the user.
 
 ### 3) Run the Flow
-1. Click **Playground** to open Chat Interface
-2. Enter a CRM-related request in Chat Input, for example:
-   - `"Check if this email is valid: john@@gmail.com"`
-   - `"Clean and standardize this customer record"`
-   - `"Find duplicates for this lead list"`
-
-3. Review output in Chat Output.
+1. Open the **Playground** in your Uplizd workspace.
+2. Use one of the following prompts to test the agent:
+   - `"Validate the email address for john.doe@example.co.uk and check if it exists in Salesforce."`
+   - `"Standardize the company name for record ID 12345 and format the phone number."`
+   - `"Check for duplicate leads matching the domain 'acme-corp.com' and flag them for review."`
 
 ---
 
 ## Configuration
 
 ### 1) Language Model (Agent Node)
-The **Agent** node uses:
-
-- **Model:** `gpt-4o-mini` (default in the current flow)
-- **Instruction Prompt:** `You are a CRM Data Quality Agent...`
-
-Recommended instruction pattern:
-
-- Validate data accuracy
-- Standardize formats
-- Provide structured output
-- Call tools only when needed
-- Return clean CRM-ready results
-
-Example agent instruction snippet:
-
-```txt
-You are a CRM Data Quality Agent.
-Your job is to validate, clean, deduplicate, and enrich CRM data.
-When needed, call available tools to verify data or perform updates.
-Always return output in a structured and actionable format.
-````
-
----
+The Agent node acts as the brain of the operation.
+- **Recommended instruction pattern:**
+    - Act as a CRM Data Quality expert.
+    - Prioritize data integrity and schema compliance.
+    - Only call tools when necessary to resolve the user's intent.
 
 ### 2) Composio Toolset Node
-
-The Composio node requires:
-
-* **Composio API Key** (required)
-
-Steps:
-
-1. Open **Composio Toolset** node
-2. Paste your **Composio API Key**
-3. Wait for tools/actions to load successfully
-
-If you see `Error loading actions`, check:
-
-* API key is valid
-* Network access is allowed
-* Composio workspace permissions are correct
-
----
+- **API Key**: Ensure your Composio API key is active and has permissions for your CRM (Salesforce/HubSpot).
+- **Connection Scope**: Limit the toolset scope to only the CRM objects required for your specific cleanup tasks.
 
 ### 3) Tool Availability
-
-Once Composio actions are loaded, the agent can call tools such as:
-
-* CRM record lookup
-* Contact update
-* Data enrichment APIs
-* Validation services
-
-> Actual tools depend on your Composio account and enabled connectors.
-
----
-
-### 4) Input / Output Behavior
-
-* **Input:** free text from user (chat-based)
-* **Output:** cleaned/validated CRM response returned to Chat Output
+- **CRM Search/Lookup**: For identifying existing records.
+- **Update/Patch Tools**: For fixing formatting or missing fields.
+- **Validation Services**: For verifying email/phone/address formats.
 
 ---
 
 ## Related Solutions
 
-* **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
-  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
-
-* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
+- **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
   Orchestrate and monitor data flows across your entire enterprise tech stack.
-
-* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
-  Automatically update deal progress and create follow-up tasks for your sales team.
-
-* **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
+- **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
+  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
+- **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
   Specialized verification and standardization of physical address and location data.
+- **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
+  Automatically update deal progress and create follow-up tasks for your sales team.
