@@ -10,5 +10,5 @@ Automated verification that all cryptocurrency wallets are properly documented
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Wallet Backup Verifier'](https://uplizd.ai/solutions/434423d9-75bd-5b70-ab9b-846343988d8f)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/434423d9-75bd-5b70-ab9b-846343988d8f)
 

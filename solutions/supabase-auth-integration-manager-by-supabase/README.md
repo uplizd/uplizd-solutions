@@ -10,5 +10,5 @@ Streamline third-party authentication setup and management across your Supabase 
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Supabase Auth Integration Manager'](https://uplizd.ai/solutions/9774b520-18fc-5dc8-a479-03cf48057d60)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9774b520-18fc-5dc8-a479-03cf48057d60)
 

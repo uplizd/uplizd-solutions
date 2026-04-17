@@ -10,5 +10,5 @@ Intelligently optimize test app action sequences for maximum efficiency
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Test App Workflow Optimizer'](https://uplizd.ai/solutions/3ef3ed92-7235-5813-91cc-81521e2cde00)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3ef3ed92-7235-5813-91cc-81521e2cde00)
 

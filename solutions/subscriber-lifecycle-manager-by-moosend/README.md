@@ -10,5 +10,5 @@ Intelligently manage subscriber journeys from onboarding to retention
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Subscriber Lifecycle Manager'](https://uplizd.ai/solutions/705f4204-1e15-52b0-ae05-9092a5ccc46c)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/705f4204-1e15-52b0-ae05-9092a5ccc46c)
 

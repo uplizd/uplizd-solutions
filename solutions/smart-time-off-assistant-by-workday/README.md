@@ -10,5 +10,5 @@ Automate time-off requests with balance checking and approval routing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Smart Time-Off Assistant'](https://uplizd.ai/solutions/4b915f7c-cb1f-596f-8584-6fd41297d816)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4b915f7c-cb1f-596f-8584-6fd41297d816)
 

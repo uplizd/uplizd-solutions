@@ -10,5 +10,5 @@ Boost team morale with intelligent kudos distribution and celebration automation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Recognition Amplifier'](https://uplizd.ai/solutions/991ead1c-d7dc-5a95-b5b0-23ba7d009b61)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/991ead1c-d7dc-5a95-b5b0-23ba7d009b61)
 

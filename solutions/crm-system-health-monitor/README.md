@@ -7,7 +7,7 @@ A Uplizd AI workflow that continuously monitors the operational health of your C
 
 ## Demo
 
-![Uplizd CRM System Health Monitor flow tracking CRM performance, integration uptime, and system integrity](image.png)
+![Uplizd CRM System Health Monitor flow tracking CRM performance, integration uptime, and system integrity](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM System Health Monitor providing real-time oversight of CRM system performance and integration reliability.
 
@@ -15,7 +15,7 @@ A Uplizd AI workflow that continuously monitors the operational health of your C
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/84f88cdc-b2be-505e-997e-df55ac88f1c6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/84f88cdc-b2be-505e-997e-df55ac88f1c6)
 
 ---
 

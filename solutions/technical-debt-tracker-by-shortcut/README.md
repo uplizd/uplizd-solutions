@@ -10,5 +10,5 @@ Systematically catalog and prioritize technical debt across your codebase
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Technical Debt Tracker'](https://uplizd.ai/solutions/1b14a82a-fee6-53ef-86d0-1cdaae6c5685)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1b14a82a-fee6-53ef-86d0-1cdaae6c5685)
 

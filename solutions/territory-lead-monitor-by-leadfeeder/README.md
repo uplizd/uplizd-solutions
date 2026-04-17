@@ -10,5 +10,5 @@ Automatically route qualified leads to the right sales representatives by territ
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Territory Lead Monitor'](https://uplizd.ai/solutions/c77235bf-a517-584e-a0e7-2d44f5ee6c88)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c77235bf-a517-584e-a0e7-2d44f5ee6c88)
 

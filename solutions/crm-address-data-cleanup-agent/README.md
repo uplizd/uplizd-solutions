@@ -7,7 +7,7 @@ The CRM Address Data Cleanup Agent is a specialized Uplizd AI workflow that auto
 
 ## Demo
 
-![Uplizd CRM Address Data Cleanup Agent flow verifying and standardizing physical address data in CRM](image.png)
+![Uplizd CRM Address Data Cleanup Agent flow verifying and standardizing physical address data in CRM](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Address Data Cleanup Agent integrating geolocation tools to validate and standardize CRM address information.
 
@@ -15,7 +15,7 @@ The CRM Address Data Cleanup Agent is a specialized Uplizd AI workflow that auto
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/a10870cf-d8d5-596d-b9bb-27b0544584e4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a10870cf-d8d5-596d-b9bb-27b0544584e4)
 
 ---
 

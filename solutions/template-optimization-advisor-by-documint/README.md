@@ -10,5 +10,5 @@ Maximize template efficiency through data-driven insights
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Template Optimization Advisor'](https://uplizd.ai/solutions/d3fd6407-61da-59c4-9358-b00c070c27e5)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d3fd6407-61da-59c4-9358-b00c070c27e5)
 

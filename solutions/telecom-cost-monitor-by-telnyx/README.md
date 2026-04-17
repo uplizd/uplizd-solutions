@@ -10,5 +10,5 @@ Automated telecom spend tracking and budget alerts
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Telecom Cost Monitor'](https://uplizd.ai/solutions/e2eb5861-49c1-5118-b168-9a3c1ee2911e)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e2eb5861-49c1-5118-b168-9a3c1ee2911e)
 

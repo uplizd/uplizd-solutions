@@ -10,5 +10,5 @@ Curate trending technical discussions for team knowledge sharing
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Technical Content Curator'](https://uplizd.ai/solutions/582bf6b1-b0fc-5c4a-b1b0-d4a2d187d7e0)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/582bf6b1-b0fc-5c4a-b1b0-d4a2d187d7e0)
 

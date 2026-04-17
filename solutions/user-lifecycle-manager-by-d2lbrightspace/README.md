@@ -10,5 +10,5 @@ Automate student and faculty account management throughout academic cycles
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'User Lifecycle Manager'](https://uplizd.ai/solutions/d160a433-2642-5297-9799-65d3c1405e17)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d160a433-2642-5297-9799-65d3c1405e17)
 

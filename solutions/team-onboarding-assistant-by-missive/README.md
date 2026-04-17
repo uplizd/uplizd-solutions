@@ -10,5 +10,5 @@ Streamline new team member onboarding with automated welcome sequences
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Onboarding Assistant'](https://uplizd.ai/solutions/4ce7c19b-0bc9-57ac-8b12-fc0b011236dc)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4ce7c19b-0bc9-57ac-8b12-fc0b011236dc)
 

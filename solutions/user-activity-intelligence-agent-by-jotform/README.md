@@ -10,5 +10,5 @@ Monitor team productivity and form usage patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'User Activity Intelligence Agent'](https://uplizd.ai/solutions/7906bc42-d2ca-5688-9839-e4d5e2a2a172)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7906bc42-d2ca-5688-9839-e4d5e2a2a172)
 

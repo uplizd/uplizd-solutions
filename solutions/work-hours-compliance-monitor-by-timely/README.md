@@ -10,5 +10,5 @@ Ensure labor law compliance through automated work hours monitoring
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Work Hours Compliance Monitor'](https://uplizd.ai/solutions/873fb082-9e72-5413-9dbe-f346674628d2)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/873fb082-9e72-5413-9dbe-f346674628d2)
 

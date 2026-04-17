@@ -10,5 +10,5 @@ Provide instant technical support using Stack Exchange knowledge base
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Technical Support Assistant'](https://uplizd.ai/solutions/86d5fce2-6b76-5c04-a867-4d0aae195a79)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/86d5fce2-6b76-5c04-a867-4d0aae195a79)
 

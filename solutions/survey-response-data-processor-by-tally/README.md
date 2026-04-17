@@ -10,5 +10,5 @@ Automatically process and clean survey data for instant analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Survey Response Data Processor'](https://uplizd.ai/solutions/5b44e880-cdfd-58b3-9f63-36d7e4aee68c)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5b44e880-cdfd-58b3-9f63-36d7e4aee68c)
 

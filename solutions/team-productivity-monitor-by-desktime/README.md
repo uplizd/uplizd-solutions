@@ -10,5 +10,5 @@ Automatically track and optimize team productivity patterns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Productivity Monitor'](https://uplizd.ai/solutions/acb462bc-7e06-528c-9c03-9414bb2ba018)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/acb462bc-7e06-528c-9c03-9414bb2ba018)
 

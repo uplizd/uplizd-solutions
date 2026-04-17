@@ -10,5 +10,5 @@ Instant answers to common team questions with smart response automation
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team FAQ Assistant'](https://uplizd.ai/solutions/12e86201-397d-58a9-864d-b611b534a908)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12e86201-397d-58a9-864d-b611b534a908)
 

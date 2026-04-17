@@ -10,5 +10,5 @@ Monitor website compliance and accessibility standards with visual proof
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Website Compliance Monitor'](https://uplizd.ai/solutions/64cfcc69-0675-529e-a713-77def520bbaa)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/64cfcc69-0675-529e-a713-77def520bbaa)
 

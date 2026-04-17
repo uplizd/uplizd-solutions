@@ -10,5 +10,5 @@ Automatically shorten and optimize URLs for social media campaigns
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Media Link Optimizer'](https://uplizd.ai/solutions/d171a4a1-e09e-52b5-905d-30e7c0220b25)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d171a4a1-e09e-52b5-905d-30e7c0220b25)
 

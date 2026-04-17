@@ -10,5 +10,5 @@ Build and optimize transaction-based communication workflows
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Transaction Workflow Builder'](https://uplizd.ai/solutions/717b9196-da6b-544e-ac5e-46ff1387f2a9)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/717b9196-da6b-544e-ac5e-46ff1387f2a9)
 

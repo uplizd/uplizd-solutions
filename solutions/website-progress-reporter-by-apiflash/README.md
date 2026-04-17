@@ -10,5 +10,5 @@ Generate visual progress reports for client websites automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Website Progress Reporter'](https://uplizd.ai/solutions/e99657a2-7051-591a-9a7a-40aabd1639a0)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e99657a2-7051-591a-9a7a-40aabd1639a0)
 

@@ -7,7 +7,7 @@ The CRM Data Hygienist is a specialized Uplizd AI workflow designed to automate 
 
 ## Demo
 
-![Uplizd CRM Data Hygienist flow performing deep contact and company data enrichment in CRM](image.png)
+![Uplizd CRM Data Hygienist flow performing deep contact and company data enrichment in CRM](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Data Hygienist using specialized tools to enrich and clean CRM records for maximum sales and marketing effectiveness.
 
@@ -15,7 +15,7 @@ The CRM Data Hygienist is a specialized Uplizd AI workflow designed to automate 
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/da6576a5-97e4-5a49-9939-459021561deb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/da6576a5-97e4-5a49-9939-459021561deb)
 
 ---
 

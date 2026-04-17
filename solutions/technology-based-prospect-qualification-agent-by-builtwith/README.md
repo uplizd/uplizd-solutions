@@ -10,5 +10,5 @@ Automatically qualify leads based on their technology infrastructure
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Technology-Based Prospect Qualification Agent'](https://uplizd.ai/solutions/8e67aa72-df02-59f1-a4b9-b23c1cbb5079)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8e67aa72-df02-59f1-a4b9-b23c1cbb5079)
 

@@ -10,5 +10,5 @@ Automate vendor contract creation and approval workflows
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Vendor Agreement Processor'](https://uplizd.ai/solutions/8255920a-c884-5d3c-a6b5-e523775f2092)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8255920a-c884-5d3c-a6b5-e523775f2092)
 

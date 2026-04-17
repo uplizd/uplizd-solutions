@@ -10,5 +10,5 @@ Intelligently create and manage synthetic tests for critical user journeys
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Synthetic Test Optimizer'](https://uplizd.ai/solutions/5e6e6fee-2cc4-5f72-9d1c-05b62a8938a9)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5e6e6fee-2cc4-5f72-9d1c-05b62a8938a9)
 

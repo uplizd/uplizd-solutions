@@ -10,5 +10,5 @@ Automate store location data management and user access control
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Store Locator Manager'](https://uplizd.ai/solutions/6d09d70a-fa61-548c-997b-3864c51ee19b)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6d09d70a-fa61-548c-997b-3864c51ee19b)
 

@@ -10,5 +10,5 @@ Track and analyze your YouTube channel's growth metrics automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'YouTube Channel Growth Analytics Agent'](https://uplizd.ai/solutions/c7425530-1f6c-5718-a801-07b9c5bb0191)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c7425530-1f6c-5718-a801-07b9c5bb0191)
 

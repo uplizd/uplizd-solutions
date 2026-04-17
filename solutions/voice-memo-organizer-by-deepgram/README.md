@@ -10,5 +10,5 @@ Transform voice notes into organized, searchable text documents
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Voice Memo Organizer'](https://uplizd.ai/solutions/3606b562-a8a9-5749-a6bf-cba4c339bff6)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3606b562-a8a9-5749-a6bf-cba4c339bff6)
 

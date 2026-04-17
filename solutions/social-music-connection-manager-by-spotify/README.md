@@ -10,5 +10,5 @@ Automatically follow friends' playlists and discover music through your network
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Music Connection Manager'](https://uplizd.ai/solutions/ef098e7a-574d-564e-9a7f-f127d0203a81)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ef098e7a-574d-564e-9a7f-f127d0203a81)
 

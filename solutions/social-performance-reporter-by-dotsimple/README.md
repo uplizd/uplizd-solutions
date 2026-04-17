@@ -10,5 +10,5 @@ Generate comprehensive social media performance reports automatically
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Social Performance Reporter'](https://uplizd.ai/solutions/97c7d98d-efbd-5c52-bf47-cb4bcc039608)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/97c7d98d-efbd-5c52-bf47-cb4bcc039608)
 

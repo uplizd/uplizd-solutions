@@ -10,5 +10,5 @@ Intelligently route and prioritize customer support requests via WhatsApp
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'WhatsApp Support Triage Agent'](https://uplizd.ai/solutions/d71816bf-a713-54bf-bae8-b4e9da5e453e)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d71816bf-a713-54bf-bae8-b4e9da5e453e)
 

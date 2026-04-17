@@ -10,5 +10,5 @@ Keep stakeholders informed with automated epic and story updates
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Stakeholder Communication Hub'](https://uplizd.ai/solutions/6aa46022-45b0-5410-8858-79a556ef5fef)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6aa46022-45b0-5410-8858-79a556ef5fef)
 

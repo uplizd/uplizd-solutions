@@ -10,5 +10,5 @@ Automatically handle subscription changes and access updates
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Subscription Lifecycle Manager'](https://uplizd.ai/solutions/96b50722-affe-572c-9379-288ea5a1db5c)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/96b50722-affe-572c-9379-288ea5a1db5c)
 

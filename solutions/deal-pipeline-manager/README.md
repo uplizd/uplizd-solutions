@@ -8,14 +8,14 @@ A Uplizd AI workflow that monitors deal stages, updates progress, and automatica
 
 ## Demo
 
-![Uplizd Deal Pipeline Manager flow monitoring deal stages and creating follow-up tasks automatically](image.png)
+![Uplizd Deal Pipeline Manager flow monitoring deal stages and creating follow-up tasks automatically](../image.png)
 
 **Alt text (SEO-ready):** Uplizd Deal Pipeline Manager integrating CRM toolsets to automate deal stage progress and follow-up task creation.
 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/0b7bdce2-561f-5bff-8c70-562b1b0ed531)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b7bdce2-561f-5bff-8c70-562b1b0ed531)
 
 ---
 ## Category

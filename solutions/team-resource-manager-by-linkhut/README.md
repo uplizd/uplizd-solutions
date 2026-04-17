@@ -10,5 +10,5 @@ Curate and share team resources with smart categorization
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-**[Launch 'Team Resource Manager'](https://uplizd.ai/solutions/af508170-fdf1-52ed-8deb-961db7b95de0)**
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/af508170-fdf1-52ed-8deb-961db7b95de0)
 
