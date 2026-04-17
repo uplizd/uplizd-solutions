@@ -1,0 +1,14 @@
+# 🚀 Ethereum Network Health Reporter
+
+## 📝 Solution Description
+Real-time network insights and health reports for blockchain analysts
+
+## 🏷️ Metadata
+- **Category:** Medical
+- **Use Case:** Others
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a2f9be09-be60-5526-a9d2-0a7e6192113d)
+

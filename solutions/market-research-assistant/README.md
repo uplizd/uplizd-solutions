@@ -8,14 +8,14 @@ The Market Research Assistant is a specialized Uplizd AI workflow designed to au
 
 ## Demo
 
-![Market Research Assistant flow performing domain search and company profiling](image.png)
+![Market Research Assistant flow performing domain search and company profiling](../image.png)
 
 **Alt text:** Uplizd Market Research Assistant workflow showing an AI agent utilizing BigPicture.io tools to discover official domains and extract detailed company metrics for automated reporting.
 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/5612058a-c8fb-483d-951f-5d23770e99f2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5612058a-c8fb-483d-951f-5d23770e99f2)
 
 ---
 ## Who is this for?

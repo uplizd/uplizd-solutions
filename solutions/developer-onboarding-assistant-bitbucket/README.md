@@ -7,7 +7,7 @@ An Uplizd AI workflow that automates the technical onboarding process for new te
 
 ## Demo
 
-![Uplizd Developer Onboarding Assistant flow creating repositories and onboarding issues](image.png)
+![Uplizd Developer Onboarding Assistant flow creating repositories and onboarding issues](../image.png)
 
 **Alt text:** Uplizd Developer Onboarding Assistant integrating Bitbucket toolsets to automate repository creation and onboarding task setup.
 

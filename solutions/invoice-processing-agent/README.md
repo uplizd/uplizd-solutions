@@ -8,7 +8,7 @@ An Uplizd AI workflow for accounts payable automation that extracts and routes c
 
 ## Demo
 
-![Uplizd Invoice Processing Agent flow extracting PDF data and routing to accounting systems](image.png)
+![Uplizd Invoice Processing Agent flow extracting PDF data and routing to accounting systems](../image.png)
 
 **Alt text:** Uplizd Invoice Processing Agent integrating Parseur toolsets to automate financial document extraction and system synchronization.
 

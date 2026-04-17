@@ -1,0 +1,14 @@
+# 🚀 Meeting Notes Processor
+
+## 📝 Solution Description
+Transform meeting transcripts into structured CRM updates
+
+## 🏷️ Metadata
+- **Category:** Operations
+- **Use Case:** Meetings
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ca242ea4-f171-5844-a7de-178b13cb7f5c)
+

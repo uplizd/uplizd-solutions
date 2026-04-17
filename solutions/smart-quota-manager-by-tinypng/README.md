@@ -1,0 +1,14 @@
+# 🚀 Smart Quota Manager
+
+## 📝 Solution Description
+Optimize image compression while intelligently managing API usage limits
+
+## 🏷️ Metadata
+- **Category:** Operations
+- **Use Case:** Others
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1ee02a8d-2812-5700-aaa0-b9f71feb05a7)
+

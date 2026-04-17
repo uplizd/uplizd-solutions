@@ -8,7 +8,7 @@ An Uplizd AI workflow designed to analyze team performance and identify producti
 
 ## Demo
 
-![Uplizd Team Productivity Monitor flow analyzing Clockify time tracking and team performance](image.png)
+![Uplizd Team Productivity Monitor flow analyzing Clockify time tracking and team performance](../image.png)
 
 **Alt text:** Uplizd Team Productivity Monitor integrating Clockify toolsets to automate team performance analysis and resource optimization reporting.
 

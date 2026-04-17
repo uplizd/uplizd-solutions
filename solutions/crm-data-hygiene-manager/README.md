@@ -7,7 +7,7 @@ A Uplizd AI workflow that acts as a continuous "cleanup crew" for your CRM, auto
 
 ## Demo
 
-![Uplizd CRM Data Hygiene Manager flow identifying and fixing data decay and formatting errors in CRM](image.png)
+![Uplizd CRM Data Hygiene Manager flow identifying and fixing data decay and formatting errors in CRM](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Data Hygiene Manager scanning and cleaning CRM records to maintain high data quality and system hygiene.
 

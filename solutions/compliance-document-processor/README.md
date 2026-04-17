@@ -8,7 +8,7 @@ An Uplizd AI workflow for regulatory technology (RegTech) designed to automate t
 
 ## Demo
 
-![Uplizd Compliance Document Processor flow analyzing regulatory documents and matching entities](image.png)
+![Uplizd Compliance Document Processor flow analyzing regulatory documents and matching entities](../image.png)
 
 **Alt text:** Uplizd Compliance Document Processor integrating Rosette Text Analytics toolsets to automate KYC, sanctions screening, and multilingual entity matching.
 

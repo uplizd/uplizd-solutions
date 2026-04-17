@@ -8,7 +8,7 @@ An Uplizd AI workflow designed to transform client briefs and raw project data i
 
 ## Demo
 
-![Uplizd Business Proposal Generator flow converting briefs into formatted Google Docs](image.png)
+![Uplizd Business Proposal Generator flow converting briefs into formatted Google Docs](../image.png)
 
 **Alt text:** Uplizd Business Proposal Generator integrating Google Docs toolsets to automate document creation and professional formatting.
 

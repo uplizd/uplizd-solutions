@@ -1,0 +1,14 @@
+# 🚀 User Behavior Anomaly Detector
+
+## 📝 Solution Description
+Instantly detect unusual user behavior patterns and potential issues
+
+## 🏷️ Metadata
+- **Category:** Operations
+- **Use Case:** Others
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0590fb9a-3684-5c09-9fc0-ce00b649c21f)
+

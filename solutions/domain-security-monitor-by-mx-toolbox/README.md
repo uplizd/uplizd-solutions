@@ -1,0 +1,14 @@
+# 🚀 Domain Security Monitor
+
+## 📝 Solution Description
+Automated domain security and DNS health surveillance
+
+## 🏷️ Metadata
+- **Category:** Engineering
+- **Use Case:** Web Scrapers
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1c2eae70-7dc3-56cc-b27f-4af4cae4b5a4)
+

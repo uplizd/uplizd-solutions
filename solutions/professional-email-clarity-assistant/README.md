@@ -8,14 +8,14 @@ An intelligent Uplizd AI workflow designed to help professionals elevate their b
 
 ## Demo
 
-![Professional Email Clarity Assistant flow refining an email draft](image.png)
+![Professional Email Clarity Assistant flow refining an email draft](../image.png)
 
 **Alt text:** Uplizd Professional Email Clarity Assistant workflow featuring a structured agent that analyzes, validates, and polishes email drafts using a real-time dictionary tool.
 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/8ddddfe3-73dc-4e33-a8f4-b1f25f39ce4e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8ddddfe3-73dc-4e33-a8f4-b1f25f39ce4e)
 
 ---
 ## Who is this for?

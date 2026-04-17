@@ -1,0 +1,14 @@
+# 🚀 Real-time Image Processing Agent
+
+## 📝 Solution Description
+Process images instantly when events occur in your system
+
+## 🏷️ Metadata
+- **Category:** Operations
+- **Use Case:** Others
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/12431da7-f504-5028-8e4e-0f7a4a62e880)
+

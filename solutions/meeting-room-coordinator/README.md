@@ -8,7 +8,7 @@ An Uplizd AI workflow for automated office management that handles meeting room 
 
 ## Demo
 
-![Uplizd Meeting Room Coordinator flow managing Slack bookings and resolving room conflicts](image.png)
+![Uplizd Meeting Room Coordinator flow managing Slack bookings and resolving room conflicts](../image.png)
 
 **Alt text:** Uplizd Meeting Room Coordinator integrating Slackbot toolsets to automate office scheduling and booking notifications.
 

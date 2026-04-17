@@ -8,14 +8,14 @@ A Uplizd AI workflow that continuously monitors the quality and validity of emai
 
 ## Demo
 
-![Uplizd CRM Email Data Quality Monitor flow monitoring email validity and protecting sender reputation in CRM](image.png)
+![Uplizd CRM Email Data Quality Monitor flow monitoring email validity and protecting sender reputation in CRM](../image.png)
 
 **Alt text (SEO-ready):** Uplizd CRM Email Data Quality Monitor verifying email addresses in real-time to maintain high deliverability and engagement.
 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/d15badea-680d-5a50-9bb6-c6126c925000)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d15badea-680d-5a50-9bb6-c6126c925000)
 
 ---
 ## Who is this for?

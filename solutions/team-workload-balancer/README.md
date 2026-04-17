@@ -7,14 +7,14 @@ A Uplizd AI workflow that intelligently monitors team capacity and distributes l
 
 ## Demo
 
-![Uplizd Team Workload Balancer flow intelligently distributing leads and tasks across the team](image.png)
+![Uplizd Team Workload Balancer flow intelligently distributing leads and tasks across the team](../image.png)
 
 **Alt text (SEO-ready):** Uplizd Team Workload Balancer monitoring team capacity and distributing incoming work to ensure optimal performance and balance.
 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/94c98256-c706-5fd1-a6b7-5ee43214cf92)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/94c98256-c706-5fd1-a6b7-5ee43214cf92)
 
 ---
 ## Who is this for?

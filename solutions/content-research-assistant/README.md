@@ -8,14 +8,14 @@ The Content Research Assistant is an advanced Uplizd agent designed for content 
 
 ## Demo
 
-![Content Research Assistant workflow showing Apify integration for automated scraping and trend analysis](image.png)
+![Content Research Assistant workflow showing Apify integration for automated scraping and trend analysis](../image.png)
 
 **Alt text:** Uplizd Content Research Assistant workflow illustrating an AI agent utilizing Apify tools to monitor platforms, store dataset results, and generate content strategy reports.
 
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/e91b52bc-dbe5-4af2-87b3-bdd50516717f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e91b52bc-dbe5-4af2-87b3-bdd50516717f)
 
 ---
 ## Who is this for?

@@ -1,0 +1,14 @@
+# 🚀 Email List Cleaner
+
+## 📝 Solution Description
+Automatically clean and verify email lists before campaigns
+
+## 🏷️ Metadata
+- **Category:** Operations
+- **Use Case:** Emails
+
+## 🔗 Solution Access
+You can find the live solution or the primary resource at the link below:
+
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/faaa9404-0726-5885-bb59-b9b372466d4a)
+
