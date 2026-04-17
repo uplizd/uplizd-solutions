@@ -6,13 +6,13 @@ The Account Intelligence Gatherer (Uplizd) is an automated AI workflow designed 
 ---
 
 ## Demo
-![Account Intelligence Gatherer workflow showing data flow from Chat Input to Dropcontact enrichment and CRM update](../image.png)
+![Account Intelligence Gatherer workflow showing data flow from Chat Input to Dropcontact enrichment and CRM update](image.png)
 **Alt text (SEO-ready):** Account Intelligence Gatherer Uplizd workflow, automated B2B lead enrichment, Dropcontact CRM integration, sales intelligence automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9d88a48a-1ccc-5b2d-9a5f-d05028aeb19c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9d88a48a-1ccc-5b2d-9a5f-d05028aeb19c)
 
 ---
 

@@ -6,13 +6,13 @@ The Competitive Price Monitoring Agent is an automated Uplizd workflow designed 
 ---
 
 ## Demo
-![Competitive Price Monitoring Agent dashboard showing real-time price tracking and alert triggers](../image.png)
+![Competitive Price Monitoring Agent dashboard showing real-time price tracking and alert triggers](image.png)
 **Alt text (SEO-ready):** Competitive Price Monitoring Agent dashboard showing real-time price tracking, automated web scraping, and competitor alert triggers on the Uplizd platform.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba985721-680b-5160-87fe-16e908662e1a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba985721-680b-5160-87fe-16e908662e1a)
 
 ---
 

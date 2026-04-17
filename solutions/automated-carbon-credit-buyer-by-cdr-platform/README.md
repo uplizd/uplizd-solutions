@@ -6,13 +6,13 @@ The Automated Carbon Credit Buyer (Uplizd) is an intelligent workflow designed t
 ---
 
 ## Demo
-![Automated Carbon Credit Buyer workflow interface showing agent-driven procurement logic](../image.png)
+![Automated Carbon Credit Buyer workflow interface showing agent-driven procurement logic](image.png)
 **Alt text (SEO-ready):** Automated Carbon Credit Buyer workflow interface showing Uplizd agent-driven procurement logic and CDR platform integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d969ae38-0ace-5952-8640-d52f26a503d5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d969ae38-0ace-5952-8640-d52f26a503d5)
 
 ---
 

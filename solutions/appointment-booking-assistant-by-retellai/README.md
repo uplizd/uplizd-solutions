@@ -6,13 +6,13 @@ The Appointment Booking Assistant is an intelligent Uplizd workflow that leverag
 ---
 
 ## Demo
-![Appointment Booking Assistant workflow diagram showing voice input processing, calendar lookup, and confirmation](../image.png)
+![Appointment Booking Assistant workflow diagram showing voice input processing, calendar lookup, and confirmation](image.png)
 **Alt text (SEO-ready):** Appointment Booking Assistant Uplizd workflow, automated voice scheduling, RetellAI voice agent integration, and real-time calendar synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9e0ce95d-82f1-5823-886c-effc02ab0c47)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/9e0ce95d-82f1-5823-886c-effc02ab0c47)
 
 ---
 

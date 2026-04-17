@@ -6,13 +6,13 @@ The Automated Course Setup Assistant is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![Automated Course Setup Assistant workflow diagram showing Chat Input, Agent, Google Classroom integration, and Chat Output](../image.png)
+![Automated Course Setup Assistant workflow diagram showing Chat Input, Agent, Google Classroom integration, and Chat Output](image.png)
 **Alt text (SEO-ready):** Automated Course Setup Assistant workflow diagram showing Chat Input, Agent, Google Classroom integration, and Chat Output for streamlined education operations on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/68a859f2-00d6-564b-83be-393469eddbc6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/68a859f2-00d6-564b-83be-393469eddbc6)
 
 ---
 

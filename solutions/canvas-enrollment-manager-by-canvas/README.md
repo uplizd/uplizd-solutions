@@ -6,13 +6,13 @@ The Canvas Enrollment Manager by Uplizd automates the lifecycle of student cours
 ---
 
 ## Demo
-![Canvas Enrollment Manager workflow showing automated student data sync from CRM to Canvas LMS](../image.png)
+![Canvas Enrollment Manager workflow showing automated student data sync from CRM to Canvas LMS](image.png)
 **Alt text (SEO-ready):** Canvas Enrollment Manager workflow for automated student data synchronization, LMS course access provisioning, and Uplizd AI-driven enrollment management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a7f98505-59aa-5586-88f7-25b6b8218e55)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a7f98505-59aa-5586-88f7-25b6b8218e55)
 
 ---
 

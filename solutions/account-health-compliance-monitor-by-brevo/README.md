@@ -6,13 +6,13 @@ The Account Health Compliance Monitor (Uplizd) is an automated workflow designed
 ---
 
 ## Demo
-![Account Health Compliance Monitor dashboard showing real-time Brevo sender reputation scores and automated compliance alerts](../image.png)
+![Account Health Compliance Monitor dashboard showing real-time Brevo sender reputation scores and automated compliance alerts](image.png)
 **Alt text (SEO-ready):** Account Health Compliance Monitor dashboard showing real-time Brevo sender reputation scores and automated compliance alerts for Uplizd email workflow automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/63ccd582-8a03-50db-86c5-7a7ddf7f16f6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/63ccd582-8a03-50db-86c5-7a7ddf7f16f6)
 
 ---
 

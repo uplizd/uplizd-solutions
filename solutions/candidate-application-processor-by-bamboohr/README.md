@@ -6,13 +6,13 @@ The Candidate Application Processor is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Candidate Application Processor workflow showing automated screening and BambooHR integration](../image.png)
+![Candidate Application Processor workflow showing automated screening and BambooHR integration](image.png)
 **Alt text (SEO-ready):** Candidate Application Processor (Uplizd) workflow for automated recruiting, BambooHR candidate screening, and applicant communication.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d0aa3e34-a0aa-541f-b5a4-2cbcb17d250f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d0aa3e34-a0aa-541f-b5a4-2cbcb17d250f)
 
 ---
 

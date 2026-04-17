@@ -6,13 +6,13 @@ The Automated List Hygiene Manager is an AI-driven workflow that synchronizes wi
 ---
 
 ## Demo
-![Automated List Hygiene Manager workflow showing Moosend integration and data cleaning nodes](../image.png)
+![Automated List Hygiene Manager workflow showing Moosend integration and data cleaning nodes](image.png)
 **Alt text (SEO-ready):** Automated List Hygiene Manager (Uplizd) workflow for Moosend email list cleaning, subscriber data hygiene, and automated marketing list optimization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a13c0214-db22-5878-9f1e-cf5c5d61abaa)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a13c0214-db22-5878-9f1e-cf5c5d61abaa)
 
 ---
 

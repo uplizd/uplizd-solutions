@@ -10,5 +10,5 @@ Research and qualify leads by analyzing their company websites
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77702830-2fcd-5488-a288-9d10b7dac311)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77702830-2fcd-5488-a288-9d10b7dac311)
 

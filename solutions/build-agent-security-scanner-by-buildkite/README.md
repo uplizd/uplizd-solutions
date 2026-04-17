@@ -6,13 +6,13 @@ The Build Agent Security Scanner is an automated Uplizd workflow designed to sec
 ---
 
 ## Demo
-![Build Agent Security Scanner dashboard showing real-time vulnerability alerts and agent compliance status](../image.png)
+![Build Agent Security Scanner dashboard showing real-time vulnerability alerts and agent compliance status](image.png)
 **Alt text (SEO-ready):** Build Agent Security Scanner dashboard displaying Uplizd workflow automation, CI/CD vulnerability tracking, and infrastructure compliance monitoring.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a8977cdc-c724-5b00-a877-df16c266e7f7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a8977cdc-c724-5b00-a877-df16c266e7f7)
 
 ---
 

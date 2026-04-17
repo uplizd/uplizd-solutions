@@ -6,13 +6,13 @@ The Apollo Smart Task Creator is an intelligent Uplizd workflow that automatical
 ---
 
 ## Demo
-![Apollo Smart Task Creator workflow diagram showing Apollo.io data ingestion, AI task generation, and CRM synchronization](../image.png)
+![Apollo Smart Task Creator workflow diagram showing Apollo.io data ingestion, AI task generation, and CRM synchronization](image.png)
 **Alt text (SEO-ready):** Apollo Smart Task Creator workflow diagram showing Apollo.io data ingestion, AI task generation, and CRM synchronization within the Uplizd platform.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4520736-a22f-584b-b3d8-328329f069c0)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4520736-a22f-584b-b3d8-328329f069c0)
 
 ---
 

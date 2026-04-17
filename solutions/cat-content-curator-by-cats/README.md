@@ -6,13 +6,13 @@ The Cat Content Curator is an intelligent Uplizd AI workflow designed to automat
 ---
 
 ## Demo
-![Cat Content Curator workflow showing automated content discovery and social media scheduling](../image.png)
+![Cat Content Curator workflow showing automated content discovery and social media scheduling](image.png)
 **Alt text (SEO-ready):** Cat Content Curator Uplizd workflow for automated social media content discovery, feline media aggregation, and AI-powered content scheduling.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed9f7788-d2f2-57dc-b3da-25bc7f0254be)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIFDRE6o+0tLwAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABCSURBVEjHY2AYBaNgFIyCUUAK+A81AA0D4v8P1AAGw0g1AAGw0g1AAGw0g1AAGw0g1AAGw0g1AAGw0g1AAGw0g1AAAM1oB92534+sAAAAAElFTkSuQmCC)](https://uplizd.ai/solutions/ed9f7788-d2f2-57dc-b3da-25bc7f0254be)
 
 ---
 

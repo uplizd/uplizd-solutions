@@ -6,13 +6,13 @@ The Campaign Performance Monitor by Uplizd is an intelligent AI workflow designe
 ---
 
 ## Demo
-![Campaign Performance Monitor dashboard showing real-time ad spend and conversion metrics](../image.png)
+![Campaign Performance Monitor dashboard showing real-time ad spend and conversion metrics](image.png)
 **Alt text (SEO-ready):** Campaign Performance Monitor dashboard showing real-time ad spend, conversion metrics, and Uplizd AI workflow integration for Google Ads optimization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1b529691-95e8-59e3-9687-439ddfcb77c6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1b529691-95e8-59e3-9687-439ddfcb77c6)
 
 ---
 

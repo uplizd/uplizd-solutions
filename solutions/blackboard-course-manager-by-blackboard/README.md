@@ -6,13 +6,13 @@ The Blackboard Course Manager by Uplizd automates the lifecycle of academic cour
 ---
 
 ## Demo
-![Blackboard Course Manager workflow showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](../image.png)
+![Blackboard Course Manager workflow showing Chat Input, Agent, Composio Toolset, and Chat Output nodes](image.png)
 **Alt text (SEO-ready):** Blackboard Course Manager Uplizd workflow, automated LMS course setup, Blackboard API integration, and academic workflow automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34d8ba53-bbe8-5e79-b3a9-dcb2009faa52)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34d8ba53-bbe8-5e79-b3a9-dcb2009faa52)
 
 ---
 

@@ -6,7 +6,7 @@ The Calendar Analytics Reporter is an intelligent Uplizd workflow that transform
 ---
 
 ## Demo
-![Calendar Analytics Reporter dashboard showing meeting density and time distribution charts](../image.png)
+![Calendar Analytics Reporter dashboard showing meeting density and time distribution charts](image.png)
 **Alt text (SEO-ready):** Calendar Analytics Reporter dashboard showing meeting density and time distribution charts for Uplizd AI workflow and calendar data integration.
 
 ---

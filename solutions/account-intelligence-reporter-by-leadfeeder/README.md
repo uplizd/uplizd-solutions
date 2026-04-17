@@ -6,13 +6,13 @@ The Account Intelligence Reporter (Uplizd) workflow automates the extraction and
 ---
 
 ## Demo
-![Account Intelligence Reporter workflow dashboard showing Leadfeeder data integration and automated report generation](../image.png)
+![Account Intelligence Reporter workflow dashboard showing Leadfeeder data integration and automated report generation](image.png)
 **Alt text (SEO-ready):** Uplizd Account Intelligence Reporter workflow, automating Leadfeeder data synthesis for sales intelligence and account-based marketing pipeline growth.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ca85555b-5b18-5b50-9677-58bcaf9fa178)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAHAAABAAABAAAA//8DABJkAAU=)](https://uplizd.ai/solutions/ca85555b-5b18-5b50-9677-58bcaf9fa178)
 
 ---
 

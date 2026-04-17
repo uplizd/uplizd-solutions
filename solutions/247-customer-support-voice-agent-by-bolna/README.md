@@ -6,13 +6,13 @@ The 24/7 Customer Support Voice Agent (Uplizd) provides an automated, always-on 
 ---
 
 ## Demo
-![24/7 Customer Support Voice Agent workflow diagram showing voice input, Bolna processing, and CRM integration](../image.png)
+![24/7 Customer Support Voice Agent workflow diagram showing voice input, Bolna processing, and CRM integration](image.png)
 **Alt text (SEO-ready):** Uplizd 24/7 Customer Support Voice Agent workflow diagram, automated voice support integration, Bolna AI voice processing, and real-time customer service automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5fcb27fb-5829-5cac-a68f-5e3ca3ba0386)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5fcb27fb-5829-5cac-a68f-5e3ca3ba0386)
 
 ---
 

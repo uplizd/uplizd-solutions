@@ -6,13 +6,13 @@ The Address Verification Agent is an intelligent Uplizd workflow designed to aut
 ---
 
 ## Demo
-![Address Verification Agent workflow interface showing input, validation, and output nodes](../image.png)
+![Address Verification Agent workflow interface showing input, validation, and output nodes](image.png)
 **Alt text (SEO-ready):** Address Verification Agent workflow in Uplizd, demonstrating automated address validation, CRM data hygiene, and real-time data synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0378d634-ee90-576f-a00c-857796583c81)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0378d634-ee90-576f-a00c-857796583c81)
 
 ---
 

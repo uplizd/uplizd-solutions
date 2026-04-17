@@ -6,13 +6,13 @@ The AI Model Cost Optimizer is an automated workflow designed to maximize operat
 ---
 
 ## Demo
-![AI Model Cost Optimizer workflow showing intelligent routing from Chat Input to Agent and Composio Toolset](../image.png)
+![AI Model Cost Optimizer workflow showing intelligent routing from Chat Input to Agent and Composio Toolset](image.png)
 **Alt text (SEO-ready):** AI Model Cost Optimizer workflow diagram showing automated LLM routing, cost management, and Composio Toolset integration for optimized inference.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eae3aa16-78c8-5aa6-bf04-cc437ab6d3f2)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eae3aa16-78c8-5aa6-bf04-cc437ab6d3f2)
 
 ---
 

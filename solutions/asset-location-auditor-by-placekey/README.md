@@ -6,13 +6,13 @@ The Asset Location Auditor is an intelligent Uplizd workflow that automates the 
 ---
 
 ## Demo
-![Asset Location Auditor workflow diagram showing Placekey integration for physical inventory verification](../image.png)
+![Asset Location Auditor workflow diagram showing Placekey integration for physical inventory verification](image.png)
 **Alt text (SEO-ready):** Uplizd Asset Location Auditor workflow, automated inventory verification, Placekey data integration, physical asset tracking, and operations data hygiene.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8e95288-2b1a-5ded-ac64-6f43402a17cc)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8e95288-2b1a-5ded-ac64-6f43402a17cc)
 
 ---
 

@@ -6,13 +6,13 @@ The Automated Loan Underwriter (Uplizd) workflow leverages AI to ingest, parse, 
 ---
 
 ## Demo
-![Automated Loan Underwriter workflow interface showing document ingestion, data extraction, and risk scoring nodes](../image.png)
+![Automated Loan Underwriter workflow interface showing document ingestion, data extraction, and risk scoring nodes](image.png)
 **Alt text (SEO-ready):** Automated Loan Underwriter workflow interface showing document ingestion, data extraction, and risk scoring nodes for Uplizd AI-powered financial processing.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49d7d287-e2cf-519b-8f86-f2c969d0fae4)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/49d7d287-e2cf-519b-8f86-f2c969d0fae4)
 
 ---
 

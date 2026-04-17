@@ -6,13 +6,13 @@ The App Data Backup Manager is an intelligent Uplizd workflow designed to automa
 ---
 
 ## Demo
-![App Data Backup Manager workflow interface showing automated data synchronization and backup status logs](../image.png)
+![App Data Backup Manager workflow interface showing automated data synchronization and backup status logs](image.png)
 **Alt text (SEO-ready):** App Data Backup Manager Uplizd workflow, automated data synchronization, Backendless backup integration, and data recovery pipeline.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fe364fc4-8dd6-5a3e-8c18-01e3d02c0cd7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAKAAABAAAB)](https://uplizd.ai/solutions/fe364fc4-8dd6-5a3e-8c18-01e3d02c0cd7)
 
 ---
 

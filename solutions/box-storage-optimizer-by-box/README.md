@@ -6,13 +6,13 @@ The Box Storage Optimizer is an automated AI workflow designed to streamline clo
 ---
 
 ## Demo
-![Box Storage Optimizer workflow interface showing file cleanup and storage analysis nodes](../image.png)
+![Box Storage Optimizer workflow interface showing file cleanup and storage analysis nodes](image.png)
 **Alt text (SEO-ready):** Box Storage Optimizer workflow interface showing automated file cleanup, storage analysis, and cloud data management using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/96948f53-41c6-5230-99ef-680d0a368bb8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/96948f53-41c6-5230-99ef-680d0a368bb8)
 
 ---
 

@@ -6,13 +6,13 @@ The Business Intelligence Analyst workflow leverages the Uplizd AI engine to tra
 ---
 
 ## Demo
-![Business Intelligence Analyst dashboard showing automated data visualization and trend analysis](../image.png)
+![Business Intelligence Analyst dashboard showing automated data visualization and trend analysis](image.png)
 **Alt text (SEO-ready):** Business Intelligence Analyst dashboard showing automated data visualization, trend analysis, and Uplizd AI workflow integration for enterprise data reporting.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/730633cb-8465-5962-9aeb-6564866022dd)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/730633cb-8465-5962-9aeb-6564866022dd)
 
 ---
 

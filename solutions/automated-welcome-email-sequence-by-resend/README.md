@@ -6,13 +6,13 @@ The Automated Welcome Email Sequence is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![Uplizd workflow diagram showing a new signup trigger leading to an automated email sequence via Resend](../image.png)
+![Uplizd workflow diagram showing a new signup trigger leading to an automated email sequence via Resend](image.png)
 **Alt text (SEO-ready):** Uplizd automated welcome email sequence workflow using Resend for personalized user onboarding and email marketing automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f5c49a4d-72ed-5a6b-abbe-f9d5d89fd2cb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f5c49a4d-72ed-5a6b-abbe-f9d5d89fd2cb)
 
 ---
 

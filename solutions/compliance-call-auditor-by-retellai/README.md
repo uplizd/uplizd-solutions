@@ -6,13 +6,13 @@ The Compliance Call Auditor (Uplizd) is an automated AI workflow designed to tra
 ---
 
 ## Demo
-![Compliance Call Auditor workflow interface showing RetellAI integration and automated audit logs](../image.png)
+![Compliance Call Auditor workflow interface showing RetellAI integration and automated audit logs](image.png)
 **Alt text (SEO-ready):** Compliance Call Auditor Uplizd workflow showing RetellAI voice integration, automated audit analysis, and regulatory risk management dashboard.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/af6bee2e-63af-5682-aca3-fd760b054c74)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/af6bee2e-63af-5682-aca3-fd760b054c74)
 
 ---
 

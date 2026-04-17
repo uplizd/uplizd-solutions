@@ -6,13 +6,13 @@ The Client Portal Generator by v0 enables teams to instantly provision and custo
 ---
 
 ## Demo
-![Client Portal Generator workflow showing automated portal provisioning and branding configuration](../image.png)
+![Client Portal Generator workflow showing automated portal provisioning and branding configuration](image.png)
 **Alt text (SEO-ready):** Client Portal Generator Uplizd workflow for automated branding, portal provisioning, and client project management using AI and Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8aed6374-4349-5a80-be84-9e9c51d35310)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8aed6374-4349-5a80-be84-9e9c51d35310)
 
 ---
 

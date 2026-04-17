@@ -6,13 +6,13 @@ The Bulk Import Orchestrator (Uplizd) automates the ingestion and validation of 
 ---
 
 ## Demo
-![Bulk Import Orchestrator workflow showing file ingestion, AI mapping, and CRM synchronization](../image.png)
+![Bulk Import Orchestrator workflow showing file ingestion, AI mapping, and CRM synchronization](image.png)
 **Alt text (SEO-ready):** Bulk Import Orchestrator workflow for automated CRM data ingestion, AI-powered field mapping, and pipeline synchronization using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0e226002-f2cd-5c63-9dc7-f8630467825a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-0e226002--f2cd--5c63--9dc7--f8630467825a-blue)](https://uplizd.ai/solutions/0e226002-f2cd-5c63-9dc7-f8630467825a)
 
 ---
 

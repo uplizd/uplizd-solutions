@@ -6,13 +6,13 @@ The Client Website Approval Assistant is an automated Uplizd workflow that strea
 ---
 
 ## Demo
-![Client Website Approval Assistant workflow showing ScreenshotOne integration for visual design sign-off](../image.png)
+![Client Website Approval Assistant workflow showing ScreenshotOne integration for visual design sign-off](image.png)
 **Alt text (SEO-ready):** Client Website Approval Assistant workflow using ScreenshotOne for automated website visual documentation, design feedback, and stakeholder approval tracking on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/320b77cb-56d7-5c1c-8dd8-245d53f6f2b5)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAG5JREFUSEtjYBgFo2AUjIJRMApGATkBAAEAAAE=)](https://uplizd.ai/solutions/320b77cb-56d7-5c1c-8dd8-245d53f6f2b5)
 
 ---
 

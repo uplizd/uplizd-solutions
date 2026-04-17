@@ -6,13 +6,13 @@ The Churn Risk Detection Agent by Retently is an automated AI workflow designed 
 ---
 
 ## Demo
-![Churn Risk Detection Agent workflow showing data ingestion from Retently and automated alert triggers](../image.png)
+![Churn Risk Detection Agent workflow showing data ingestion from Retently and automated alert triggers](image.png)
 **Alt text (SEO-ready):** Churn Risk Detection Agent workflow by Retently for automated NPS analysis, customer sentiment tracking, and churn prevention on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/churn-risk-detection-agent-by-retently)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/churn-risk-detection-agent-by-retently)
 
 ---
 

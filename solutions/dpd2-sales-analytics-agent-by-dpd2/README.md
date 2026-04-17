@@ -1,14 +1,111 @@
-# 🚀 DPD2 Sales Analytics Agent
+# DPD2 Sales Analytics Agent (Uplizd) - Automated storefront reporting and customer insights
 
-## 📝 Solution Description
-Automated sales reporting and customer insights from your DPD2 storefront
+## Summary
+The DPD2 Sales Analytics Agent is an intelligent Uplizd workflow designed to automate the extraction, analysis, and reporting of sales data from your DPD2 storefront. By leveraging the Composio Toolset to interface with your e-commerce backend, this agent provides real-time visibility into revenue trends, product performance, and customer purchasing behavior, eliminating manual data entry and ensuring your sales team has a single source of truth for pipeline velocity and growth strategy.
 
-## 🏷️ Metadata
-- **Category:** Sales
-- **Use Case:** Others
+---
 
-## 🔗 Solution Access
-You can find the live solution or the primary resource at the link below:
+## Demo
+![DPD2 Sales Analytics Agent workflow dashboard showing automated revenue reporting and customer insight generation](image.png)
+**Alt text (SEO-ready):** Uplizd DPD2 Sales Analytics Agent workflow for automated e-commerce reporting, sales data integration, and customer insight generation.
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d825af78-4e63-5d52-8844-875afbfc3f59)
+---
 
+## 🚀 Run on Uplizd
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAKwP///z+GgW4wGgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGAAD+9w/72Y015wAAAABJRU5ErkJggg==)](https://uplizd.ai/solutions/d825af78-4e63-5d52-8844-875afbfc3f59)
+
+---
+
+## Category
+- **Primary category:** Sales automation
+- **Secondary tags:** `dpd2`, `sales analytics`, `e-commerce`, `data sync`, `revenue tracking`, `customer insights`, `composio`, `ai workflow`
+This solution streamlines e-commerce operations by bridging the gap between raw DPD2 sales data and actionable business intelligence.
+
+---
+
+## Who is this for?
+This solution is built for revenue-focused teams looking to optimize their digital storefront performance through automated data analysis.
+
+- **Sales Operations Manager**
+    - Automates the generation of weekly sales performance reports without manual spreadsheet consolidation.
+- **E-commerce Store Owner**
+    - Gains immediate visibility into top-performing products and emerging customer buying trends.
+- **Growth Marketer**
+    - Identifies high-value customer segments based on historical purchase data to refine targeting strategies.
+- **Business Analyst**
+    - Uses real-time data exports to track revenue velocity and identify potential bottlenecks in the checkout funnel.
+
+---
+
+## Features
+- **Automated Data Extraction**
+    - Seamlessly pulls raw transaction logs and customer records from DPD2 using the Composio Toolset.
+- **Real-Time Revenue Tracking**
+    - Monitors daily, weekly, and monthly sales performance metrics to provide instant financial snapshots.
+- **Customer Behavior Analysis**
+    - Segments customers based on purchase frequency and order value to highlight high-intent buyers.
+- **Actionable Insight Generation**
+    - Translates complex sales data into plain-language summaries and strategic recommendations for the team.
+- **Pipeline Velocity Monitoring**
+    - Tracks the time between customer visits and completed transactions to optimize the conversion funnel.
+
+---
+
+## Use Cases
+**Revenue Performance Reporting**
+- Generate automated end-of-week summaries comparing current sales volume against historical benchmarks.
+- Identify top-selling product categories to inform inventory management and promotional planning.
+
+**Customer Intelligence**
+- Extract lists of repeat customers to facilitate targeted loyalty campaigns and personalized outreach.
+- Analyze average order value (AOV) trends to identify opportunities for upselling or bundling products.
+
+**Operational Efficiency**
+- Sync DPD2 sales data directly into your CRM or internal dashboard to maintain a unified view of customer interactions.
+- Automate the notification process for high-value transactions to ensure immediate follow-up by the sales team.
+
+---
+
+## Quick Start
+### 1) Import the Flow into Uplizd
+1. Click the "Run on Uplizd" badge above to navigate to the solution page.
+2. Select "Import Flow" to add the DPD2 Sales Analytics Agent to your workspace.
+3. Authenticate your DPD2 account within the Composio integration settings.
+4. Ensure nodes are correctly connected: **Chat Input → Agent → Composio Toolset → Chat Output**.
+
+### 2) Setup the Nodes
+- **Chat Input**: Receives your natural language queries regarding sales performance.
+- **Agent**: Processes your request and determines the necessary data retrieval steps.
+- **Composio Toolset**: Executes secure API calls to your DPD2 storefront to fetch required data.
+- **Chat Output**: Delivers the analyzed report or insight directly to your interface.
+
+### 3) Run the Flow
+Use the Playground to test the agent with prompts such as:
+- `Summarize the total revenue generated by the DPD2 store over the last 30 days.`
+- `Which three products have the highest sales volume this week?`
+- `Identify our top 5 customers by total lifetime order value.`
+
+---
+
+## Configuration
+### 1) Language Model (Agent Node)
+The agent acts as a specialized data analyst. 
+- Focus on accuracy when interpreting financial figures.
+- Prioritize clear, concise summaries for executive-level reporting.
+- Maintain a professional, analytical tone in all generated outputs.
+
+### 2) Composio Toolset Node
+- Requires a valid DPD2 API key with read-only access to sales and customer endpoints.
+- Ensure the connection scope is set to allow data retrieval for reporting purposes.
+
+### 3) Tool Availability
+- **Sales Retrieval**: Fetch order history, transaction totals, and timestamps.
+- **Product Analysis**: Query product catalogs and individual item performance metrics.
+- **Customer Data**: Access contact details and purchase frequency statistics.
+
+---
+
+## Related Solutions
+- [../account-intelligence-reporter-by-leadfeeder/README.md](../account-intelligence-reporter-by-leadfeeder/README.md) - Generate comprehensive account intelligence reports for your sales team.
+- [../crm-data-sync-agent/README.md](../crm-data-sync-agent/README.md) - Synchronize customer data across multiple platforms to ensure data hygiene.
+- [../deal-pipeline-manager/README.md](../deal-pipeline-manager/README.md) - Manage and track sales pipeline stages to improve conversion rates.

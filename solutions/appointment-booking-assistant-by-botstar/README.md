@@ -6,13 +6,13 @@ The Appointment Booking Assistant is an intelligent Uplizd workflow that automat
 ---
 
 ## Demo
-![Appointment Booking Assistant workflow diagram showing Chat Input connected to an Agent, Composio Toolset, and Chat Output](../image.png)
+![Appointment Booking Assistant workflow diagram showing Chat Input connected to an Agent, Composio Toolset, and Chat Output](image.png)
 **Alt text (SEO-ready):** Appointment Booking Assistant workflow diagram showing Chat Input connected to an Agent, Composio Toolset, and Chat Output for automated scheduling and calendar management on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3178511-5e07-586a-8e9b-c9de91769e0b)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3178511-5e07-586a-8e9b-c9de91769e0b)
 
 ---
 

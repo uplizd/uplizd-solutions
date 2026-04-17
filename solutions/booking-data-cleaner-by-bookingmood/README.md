@@ -6,13 +6,13 @@ The Booking Data Cleaner (Uplizd) is an automated AI workflow designed to mainta
 ---
 
 ## Demo
-![Booking Data Cleaner workflow interface displaying automated data validation and cleanup nodes](../image.png)
+![Booking Data Cleaner workflow interface displaying automated data validation and cleanup nodes](image.png)
 **Alt text (SEO-ready):** Booking Data Cleaner Uplizd workflow for automated CRM data hygiene, database record standardization, and booking sync integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e20d09ce-62ae-5297-9400-2bdfc3be2c69)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e20d09ce-62ae-5297-9400-2bdfc3be2c69)
 
 ---
 

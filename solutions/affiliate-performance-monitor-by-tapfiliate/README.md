@@ -6,13 +6,13 @@ The Affiliate Performance Monitor (Uplizd) is an automated AI workflow designed 
 ---
 
 ## Demo
-![Affiliate Performance Monitor dashboard showing real-time conversion tracking and commission analytics](../image.png)
+![Affiliate Performance Monitor dashboard showing real-time conversion tracking and commission analytics](image.png)
 **Alt text (SEO-ready):** Affiliate Performance Monitor dashboard showing real-time conversion tracking, commission analytics, and Tapfiliate integration workflow on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cc71492-3efa-52af-89ae-a909b58f0976)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6cc71492-3efa-52af-89ae-a909b58f0976)
 
 ---
 

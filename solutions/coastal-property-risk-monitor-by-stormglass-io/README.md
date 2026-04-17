@@ -6,13 +6,13 @@ The Coastal Property Risk Monitor is an automated Uplizd AI workflow designed to
 ---
 
 ## Demo
-![Coastal Property Risk Monitor workflow dashboard showing real-time weather and tide data integration](../image.png)
+![Coastal Property Risk Monitor workflow dashboard showing real-time weather and tide data integration](image.png)
 **Alt text (SEO-ready):** Coastal Property Risk Monitor dashboard showing real-time weather, tide data, and risk assessment alerts via Uplizd AI workflow and Stormglass.io integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba7cbaa8-d762-55a6-ac5d-383c813dfe1c)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/ba7cbaa8-d762-55a6-ac5d-383c813dfe1c)
 
 ---
 

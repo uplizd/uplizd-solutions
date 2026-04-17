@@ -10,5 +10,5 @@ Monitor survey performance and automatically optimize for higher response rates
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fe08deda-9f3e-5c4d-b965-2b1320162b5f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fe08deda-9f3e-5c4d-b965-2b1320162b5f)
 

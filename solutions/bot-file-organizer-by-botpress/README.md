@@ -6,13 +6,13 @@ The Bot File Organizer (Uplizd) is an intelligent automation workflow designed t
 ---
 
 ## Demo
-![Bot File Organizer dashboard showing automated file categorization and cleanup logs](../image.png)
+![Bot File Organizer dashboard showing automated file categorization and cleanup logs](image.png)
 **Alt text (SEO-ready):** Bot File Organizer dashboard showing automated file categorization and cleanup logs for Uplizd AI workflows and Botpress asset management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a422710e-2a19-57d4-af55-31a714f5a3a5)
+[![](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/a422710e-2a19-57d4-af55-31a714f5a3a5)
 
 ---
 

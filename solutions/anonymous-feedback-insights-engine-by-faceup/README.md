@@ -6,13 +6,13 @@ The Anonymous Feedback Insights Engine is an AI-powered workflow designed to pro
 ---
 
 ## Demo
-![Anonymous Feedback Insights Engine workflow dashboard showing feedback categorization and sentiment analysis](../image.png)
+![Anonymous Feedback Insights Engine workflow dashboard showing feedback categorization and sentiment analysis](image.png)
 **Alt text (SEO-ready):** Uplizd Anonymous Feedback Insights Engine workflow dashboard showing feedback categorization, sentiment analysis, and workplace risk reporting using Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea469cde-055c-5acc-b1e8-34b977c4f980)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJMMiAxMnYxMGgyMFYxMkwxMiAyem0wIDE4bC04LThWNGg4djhINHY0bDgtOHY0eiIvPjwvc3ZnPg==)](https://uplizd.ai/solutions/ea469cde-055c-5acc-b1e8-34b977c4f980)
 
 ---
 

@@ -6,13 +6,13 @@ The Automated Bug Triage Agent streamlines software development lifecycles by au
 ---
 
 ## Demo
-![Automated Bug Triage Agent workflow interface showing BugHerd integration and AI-driven priority routing](../image.png)
+![Automated Bug Triage Agent workflow interface showing BugHerd integration and AI-driven priority routing](image.png)
 **Alt text (SEO-ready):** Automated Bug Triage Agent workflow interface showing BugHerd integration and AI-driven priority routing for Uplizd automated issue management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/385a5647-08bd-5e8a-b67e-198518493d31)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/385a5647-08bd-5e8a-b67e-198518493d31)
 
 ---
 

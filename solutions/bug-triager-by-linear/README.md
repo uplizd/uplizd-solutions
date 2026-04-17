@@ -6,7 +6,7 @@ The Bug Triager (Uplizd) workflow streamlines software development lifecycles by
 ---
 
 ## Demo
-![Bug Triager workflow dashboard showing automated ticket categorization and Linear integration](../image.png)
+![Bug Triager workflow dashboard showing automated ticket categorization and Linear integration](image.png)
 **Alt text (SEO-ready):** Bug Triager workflow dashboard showing automated ticket categorization and Linear integration for software development teams on Uplizd.
 
 ---

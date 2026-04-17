@@ -6,13 +6,13 @@ The Compliance Audit Data Agent streamlines the complex process of gathering, no
 ---
 
 ## Demo
-![Compliance Audit Data Agent workflow dashboard showing automated data collection from Elasticsearch and compliance report generation](../image.png)
+![Compliance Audit Data Agent workflow dashboard showing automated data collection from Elasticsearch and compliance report generation](image.png)
 **Alt text (SEO-ready):** Compliance Audit Data Agent workflow dashboard showing automated data collection from Elasticsearch and compliance report generation within the Uplizd platform.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77c8c5da-3609-50c7-bc6b-db680fcfd22b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/77c8c5da-3609-50c7-bc6b-db680fcfd22b)
 
 ---
 

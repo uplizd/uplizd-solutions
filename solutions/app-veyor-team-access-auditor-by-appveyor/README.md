@@ -6,13 +6,13 @@ The AppVeyor Team Access Auditor is an intelligent Uplizd workflow designed to s
 ---
 
 ## Demo
-![AppVeyor Team Access Auditor workflow diagram showing automated security checks and permission reporting](../image.png)
+![AppVeyor Team Access Auditor workflow diagram showing automated security checks and permission reporting](image.png)
 **Alt text (SEO-ready):** AppVeyor Team Access Auditor workflow diagram showing automated security checks, permission reporting, and user access monitoring via Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2bea05bd-cb16-5b5b-9a55-04b8ecd6bfe8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2bea05bd-cb16-5b5b-9a55-04b8ecd6bfe8)
 
 ---
 

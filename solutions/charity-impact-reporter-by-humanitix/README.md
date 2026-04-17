@@ -6,7 +6,7 @@ The Charity Impact Reporter is an intelligent Uplizd workflow that bridges the g
 ---
 
 ## Demo
-![Charity Impact Reporter workflow dashboard showing Humanitix data integration and automated impact report generation](../image.png)
+![Charity Impact Reporter workflow dashboard showing Humanitix data integration and automated impact report generation](image.png)
 **Alt text (SEO-ready):** Charity Impact Reporter dashboard showing Uplizd workflow automation, Humanitix data integration, and automated impact report generation for non-profits.
 
 ---

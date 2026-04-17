@@ -6,13 +6,13 @@ The Blackboard Group Formation Agent streamlines academic administration by auto
 ---
 
 ## Demo
-![Blackboard Group Formation Agent workflow screenshot showing student data processing and group assignment logic](../image.png)
+![Blackboard Group Formation Agent workflow screenshot showing student data processing and group assignment logic](image.png)
 **Alt text (SEO-ready):** Blackboard Group Formation Agent workflow for automated student grouping, LMS data management, and academic collaboration using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/73b2cad3-6a34-5707-a594-4d4c34bfb83d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blackboard--group--formation--agent-blue?logo=uplizd)](https://uplizd.ai/solutions/73b2cad3-6a34-5707-a594-4d4c34bfb83d)
 
 ---
 

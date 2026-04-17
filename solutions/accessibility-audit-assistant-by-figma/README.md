@@ -6,13 +6,13 @@ The Accessibility Audit Assistant by Uplizd streamlines the design-to-developmen
 ---
 
 ## Demo
-![Accessibility Audit Assistant dashboard showing automated Figma layer analysis and compliance reporting](../image.png)
+![Accessibility Audit Assistant dashboard showing automated Figma layer analysis and compliance reporting](image.png)
 **Alt text (SEO-ready):** Accessibility Audit Assistant by Uplizd, automated Figma design audit, WCAG compliance checker, AI-powered design workflow, and accessibility remediation tool.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/128b087e-e848-58c9-8303-666f660f37c7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/128b087e-e848-58c9-8303-666f660f37c7)
 
 ---
 

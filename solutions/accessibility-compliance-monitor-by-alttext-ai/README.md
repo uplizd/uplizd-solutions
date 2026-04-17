@@ -6,13 +6,13 @@ The Accessibility Compliance Monitor is an intelligent Uplizd workflow that auto
 ---
 
 ## Demo
-![Accessibility Compliance Monitor workflow showing automated alt text auditing and remediation](../image.png)
+![Accessibility Compliance Monitor workflow showing automated alt text auditing and remediation](image.png)
 **Alt text (SEO-ready):** Accessibility Compliance Monitor by Uplizd, automated alt text auditing workflow, AI-powered web accessibility scanner, digital asset compliance tool, and WCAG remediation pipeline.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d65bac6c-9e03-54c5-8b73-3012af3aca4b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d65bac6c-9e03-54c5-8b73-3012af3aca4b)
 
 ---
 

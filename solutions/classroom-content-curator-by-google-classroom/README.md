@@ -6,13 +6,13 @@ The Classroom Content Curator is an intelligent Uplizd AI workflow designed to s
 ---
 
 ## Demo
-![Classroom Content Curator workflow showing automated material distribution and Google Classroom integration](../image.png)
+![Classroom Content Curator workflow showing automated material distribution and Google Classroom integration](image.png)
 **Alt text (SEO-ready):** Classroom Content Curator workflow for automated Google Classroom material management, content distribution, and educational resource organization via Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a3ab1efe-446f-5c52-bba8-2d7ed384ac44)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=googleclassroom)](https://uplizd.ai/solutions/a3ab1efe-446f-5c52-bba8-2d7ed384ac44)
 
 ---
 

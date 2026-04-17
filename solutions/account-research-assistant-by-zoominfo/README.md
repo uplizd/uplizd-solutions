@@ -6,13 +6,13 @@ The Account Research Assistant by ZoomInfo is an intelligent Uplizd workflow des
 ---
 
 ## Demo
-![Account Research Assistant workflow showing ZoomInfo data integration and AI-driven profile generation](../image.png)
+![Account Research Assistant workflow showing ZoomInfo data integration and AI-driven profile generation](image.png)
 **Alt text (SEO-ready):** Uplizd Account Research Assistant workflow using ZoomInfo integration for automated B2B sales intelligence and prospect profile generation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a6568608-31e0-5b35-9820-a94ee566d404)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a6568608-31e0-5b35-9820-a94ee566d404)
 
 ---
 

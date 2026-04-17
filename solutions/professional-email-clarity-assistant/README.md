@@ -15,7 +15,7 @@ An intelligent Uplizd AI workflow designed to help professionals elevate their b
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8ddddfe3-73dc-4e33-a8f4-b1f25f39ce4e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8ddddfe3-73dc-4e33-a8f4-b1f25f39ce4e)
 
 ---
 ## Who is this for?

@@ -6,13 +6,13 @@ The Business Location Scout (Uplizd) is an automated AI workflow that leverages 
 ---
 
 ## Demo
-![Business Location Scout workflow interface showing Census Bureau data integration and site analysis results](../image.png)
+![Business Location Scout workflow interface showing Census Bureau data integration and site analysis results](image.png)
 **Alt text (SEO-ready):** Business Location Scout workflow interface showing Census Bureau data integration and site analysis results for Uplizd AI-driven market research.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8960245-3d55-5c8a-a2d0-ab7215e88ab9)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8960245-3d55-5c8a-a2d0-ab7215e88ab9)
 
 ---
 

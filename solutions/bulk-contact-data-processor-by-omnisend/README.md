@@ -6,13 +6,13 @@ The Bulk Contact Data Processor is an Uplizd AI workflow designed to streamline 
 ---
 
 ## Demo
-![Bulk Contact Data Processor workflow showing automated contact import, validation, and CRM sync steps](../image.png)
+![Bulk Contact Data Processor workflow showing automated contact import, validation, and CRM sync steps](image.png)
 **Alt text (SEO-ready):** Bulk Contact Data Processor workflow in Uplizd, featuring automated CRM contact validation, Omnisend data synchronization, and AI-driven lead hygiene.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/662d9256-d9d2-5fb7-be2e-084d5d125f74)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/662d9256-d9d2-5fb7-be2e-084d5d125f74)
 
 ---
 

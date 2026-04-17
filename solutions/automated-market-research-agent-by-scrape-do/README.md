@@ -6,13 +6,13 @@ The Automated Market Research Agent leverages the Composio Toolset to perform de
 ---
 
 ## Demo
-![Automated Market Research Agent workflow showing web scraping and data synthesis nodes](../image.png)
+![Automated Market Research Agent workflow showing web scraping and data synthesis nodes](image.png)
 **Alt text (SEO-ready):** Automated Market Research Agent by Scrape.do for real-time web data extraction, market intelligence, and AI-driven competitive analysis on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfef8554-db2c-589b-aa59-3ab8ad06ffce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfef8554-db2c-589b-aa59-3ab8ad06ffce)
 
 ---
 

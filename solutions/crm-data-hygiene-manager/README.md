@@ -14,7 +14,14 @@ A Uplizd AI workflow that acts as a continuous "cleanup crew" for your CRM, auto
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/8ae36f06-4dc8-5f19-8c30-3830e5e1ff27/)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/8ae36f06-4dc8-5f19-8c30-3830e5e1ff27)
+
+---
+## Category
+
+- **Primary:** CRM data quality & hygiene automation
+- **Tags:** `data hygiene`, `crm`, `data quality`, `deduplication`, `formatting`, `gdpr`, `compliance`, `composio`, `uplizd`, `marketing operations`, `sales operations`
+- Automates cleanup and validation so CRMs stay accurate, campaign-ready, and free of silent data decay.
 
 ---
 ## Who is this for?
@@ -74,7 +81,7 @@ This workflow is built for organizations that struggle with "data rot" and want 
 1. Click the **Run on Uplizd** CTA button above.
 2. On Uplizd, click **Try out**.
 3. Create a new workspace or open an existing workspace.
-5. Ensure all nodes are connected correctly:
+4. Ensure all nodes are connected correctly:
    - **Chat Input**
    - **Composio Toolset**
    - **Agent**

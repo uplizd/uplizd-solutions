@@ -6,13 +6,13 @@ The Client Brand Onboarder by Brandfetch automates the collection, validation, a
 ---
 
 ## Demo
-![Uplizd workflow diagram showing the Client Brand Onboarder process from Chat Input to Brandfetch asset retrieval and final output](../image.png)
+![Uplizd workflow diagram showing the Client Brand Onboarder process from Chat Input to Brandfetch asset retrieval and final output](image.png)
 **Alt text (SEO-ready):** Uplizd Client Brand Onboarder workflow using Brandfetch integration for automated asset collection and brand identity synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1515700c-355e-5dd3-aa73-7196115c6ad1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1515700c-355e-5dd3-aa73-7196115c6ad1)
 
 ---
 

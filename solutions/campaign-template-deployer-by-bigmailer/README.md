@@ -6,13 +6,13 @@ The Campaign Template Deployer (Uplizd) streamlines marketing operations by auto
 ---
 
 ## Demo
-![Campaign Template Deployer workflow showing BigMailer integration and automated template distribution](../image.png)
+![Campaign Template Deployer workflow showing BigMailer integration and automated template distribution](image.png)
 **Alt text (SEO-ready):** Campaign Template Deployer workflow for BigMailer, automating email template deployment, marketing operations, and multi-brand campaign management on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8bcd7f7e-6de7-5f6b-84d1-f0a606bd1c3a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AMKFRQ0k345yQAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABCSURBVEjHY2AYBaNgFIyCUUAK+A8DAwMDAx4w4v8fBgaG/0D8H4o/gPj/o/g/lP8H4v9Q/h+K/0Pxfyj+D8X/oQAA0+0J+d323+wAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/8bcd7f7e-6de7-5f6b-84d1-f0a606bd1c3a)
 
 ---
 

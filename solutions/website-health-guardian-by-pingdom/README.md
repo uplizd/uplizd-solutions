@@ -10,5 +10,5 @@ Proactive website monitoring and instant incident response
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/052b7dfe-00b0-5285-ae72-75fc840bea22)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/052b7dfe-00b0-5285-ae72-75fc840bea22)
 

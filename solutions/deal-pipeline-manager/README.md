@@ -15,7 +15,14 @@ A Uplizd AI workflow that monitors deal stages, updates progress, and automatica
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b7bdce2-561f-5bff-8c70-562b1b0ed531)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b7bdce2-561f-5bff-8c70-562b1b0ed531)
+
+---
+## Category
+
+- **Primary:** Sales pipeline automation
+- **Tags:** `crm`, `sales`, `pipeline`, `deal stages`, `follow-ups`, `salesforce`, `hubspot`, `pipedrive`, `composio`, `uplizd`, `revops`, `sales operations`
+- Keeps deal progression and follow-up tasks aligned so revenue teams sell more and manually update CRM less.
 
 ---
 ## Who is this for?
@@ -75,7 +82,7 @@ This workflow is built for sales teams who want to maintain an active, accurate 
 1. Click the **Run on Uplizd** CTA button above.
 2. On Uplizd, click **Try out**.
 3. Create a new workspace or open an existing workspace.
-5. Ensure all nodes are connected correctly:
+4. Ensure all nodes are connected correctly:
    - **Chat Input**
    - **Composio Toolset**
    - **Agent**
@@ -128,8 +135,8 @@ The agent can call tools for:
 * **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
   Orchestrate and monitor data flows across your entire enterprise tech stack.
 
-* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
-  Automatically update deal progress and create follow-up tasks for your sales team.
+* **[Deal Opportunity Tracker](../deal-oppotunity-tracker/README.md)**  
+  Identify and track new sales opportunities in real time from your data streams.
 
 * **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
   Specialized verification and standardization of physical address and location data.

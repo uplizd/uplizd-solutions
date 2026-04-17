@@ -6,13 +6,13 @@ The Auto Ticket Triage Agent leverages Uplizd AI workflows to automatically anal
 ---
 
 ## Demo
-![Auto Ticket Triage Agent workflow diagram showing Zendesk input, AI analysis, and automated ticket routing](../image.png)
+![Auto Ticket Triage Agent workflow diagram showing Zendesk input, AI analysis, and automated ticket routing](image.png)
 **Alt text (SEO-ready):** Auto Ticket Triage Agent workflow for Zendesk, featuring Uplizd AI-driven ticket categorization, priority routing, and automated support operations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5a0a1b59-d623-5909-ab78-ea74ae5605d9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,...)](https://uplizd.ai/solutions/5a0a1b59-d623-5909-ab78-ea74ae5605d9)
 
 ---
 

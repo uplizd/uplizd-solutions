@@ -6,13 +6,13 @@ The Backlink Outreach Intelligence Agent streamlines your SEO strategy by identi
 ---
 
 ## Demo
-![Backlink Outreach Intelligence Agent workflow showing Semrush data integration and automated outreach research](../image.png)
+![Backlink Outreach Intelligence Agent workflow showing Semrush data integration and automated outreach research](image.png)
 **Alt text (SEO-ready):** Backlink Outreach Intelligence Agent workflow, Semrush SEO integration, automated link building and outreach research, Uplizd AI workflow.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f25e6350-c184-5727-957b-627eb3abbe9b)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f25e6350-c184-5727-957b-627eb3abbe9b)
 
 ---
 

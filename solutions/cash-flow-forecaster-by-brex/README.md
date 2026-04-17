@@ -6,7 +6,7 @@ The Cash Flow Forecaster by Uplizd is an intelligent AI workflow that synthesize
 ---
 
 ## Demo
-![Cash Flow Forecaster dashboard showing predictive liquidity trends and automated account reconciliation](../image.png)
+![Cash Flow Forecaster dashboard showing predictive liquidity trends and automated account reconciliation](image.png)
 **Alt text (SEO-ready):** Cash Flow Forecaster dashboard showing predictive liquidity trends and automated account reconciliation via Uplizd AI workflow and Composio integrations.
 
 ---

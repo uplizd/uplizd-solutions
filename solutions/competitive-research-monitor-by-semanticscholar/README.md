@@ -6,13 +6,13 @@ The Competitive Research Monitor is an automated Uplizd AI workflow designed to 
 ---
 
 ## Demo
-![Competitive Research Monitor dashboard showing real-time tracking of competitor research papers and industry trends](../image.png)
+![Competitive Research Monitor dashboard showing real-time tracking of competitor research papers and industry trends](image.png)
 **Alt text (SEO-ready):** Competitive Research Monitor Uplizd workflow for tracking competitor research, market intelligence, and industry trends using Semantic Scholar and AI automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bf6d1162-b57c-5fb7-8bd0-fe26213cc0ce)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIFDRE6m31YyQAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABkSURBVEjHY2AYBfQAAAPAAAEG6f8AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/bf6d1162-b57c-5fb7-8bd0-fe26213cc0ce)
 
 ---
 

@@ -6,13 +6,13 @@ The AI Content Generator by Replicate is a powerful Uplizd workflow that leverag
 ---
 
 ## Demo
-![AI Content Generator workflow interface showing Replicate model integration for automated content drafting](../image.png)
+![AI Content Generator workflow interface showing Replicate model integration for automated content drafting](image.png)
 **Alt text (SEO-ready):** AI Content Generator interface for automated marketing copy, blog drafting, and multi-model content creation using Uplizd and Replicate.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba544ceb-b2bc-5d51-886c-5e9d94dfbb92)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ba544ceb-b2bc-5d51-886c-5e9d94dfbb92)
 
 ---
 

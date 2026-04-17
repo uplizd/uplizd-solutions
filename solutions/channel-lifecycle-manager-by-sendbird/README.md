@@ -6,13 +6,13 @@ The Channel Lifecycle Manager (Uplizd) is an intelligent automation workflow des
 ---
 
 ## Demo
-![Channel Lifecycle Manager workflow showing automated channel creation, member management, and archival processes in Sendbird](../image.png)
+![Channel Lifecycle Manager workflow showing automated channel creation, member management, and archival processes in Sendbird](image.png)
 **Alt text (SEO-ready):** Channel Lifecycle Manager workflow for Sendbird automation, featuring automated channel creation, member management, and archival processes using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3cad8b78-a5e1-5444-84a7-954ffbf4b963)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3cad8b78-a5e1-5444-84a7-954ffbf4b963)
 
 ---
 

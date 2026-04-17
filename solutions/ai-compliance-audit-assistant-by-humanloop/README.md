@@ -6,13 +6,13 @@ The AI Compliance Audit Assistant streamlines the complex process of monitoring,
 ---
 
 ## Demo
-![AI Compliance Audit Assistant dashboard showing automated audit logs and model drift alerts](../image.png)
+![AI Compliance Audit Assistant dashboard showing automated audit logs and model drift alerts](image.png)
 **Alt text (SEO-ready):** AI Compliance Audit Assistant dashboard for automated regulatory tracking, model drift monitoring, and audit log generation on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f86ce956-004e-57e6-80f2-42ed41a0f972)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f86ce956-004e-57e6-80f2-42ed41a0f972)
 
 ---
 

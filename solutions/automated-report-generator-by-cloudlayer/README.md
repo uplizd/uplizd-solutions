@@ -6,13 +6,13 @@ The Automated Report Generator by Cloudlayer is an intelligent Uplizd workflow d
 ---
 
 ## Demo
-![Automated Report Generator workflow interface showing data input, Cloudlayer processing, and PDF output](../image.png)
+![Automated Report Generator workflow interface showing data input, Cloudlayer processing, and PDF output](image.png)
 **Alt text (SEO-ready):** Automated Report Generator workflow in Uplizd, featuring Cloudlayer integration for automated PDF document creation and data-to-report processing.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1c480bde-0fcc-5f98-9401-e3923e8bf641)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1c480bde-0fcc-5f98-9401-e3923e8bf641)
 
 ---
 

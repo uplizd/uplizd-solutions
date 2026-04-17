@@ -6,7 +6,7 @@ The Asset Maintenance Tracker is an intelligent Uplizd workflow designed to brid
 ---
 
 ## Demo
-![Asset Maintenance Tracker workflow dashboard showing automated service ticket generation and asset health status updates](../image.png)
+![Asset Maintenance Tracker workflow dashboard showing automated service ticket generation and asset health status updates](image.png)
 **Alt text (SEO-ready):** Asset Maintenance Tracker workflow dashboard showing automated service ticket generation and asset health status updates within the Uplizd platform and RepairShopr integration.
 
 ---

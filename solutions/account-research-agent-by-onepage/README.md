@@ -6,13 +6,13 @@ The Account Research Agent is an intelligent workflow designed to automate the c
 ---
 
 ## Demo
-![Account Research Agent workflow diagram showing data ingestion from OnePage CRM and AI-driven report generation](../image.png)
+![Account Research Agent workflow diagram showing data ingestion from OnePage CRM and AI-driven report generation](image.png)
 **Alt text (SEO-ready):** Account Research Agent workflow diagram showing data ingestion from OnePage CRM and AI-driven report generation, powered by Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/44bfe9e2-5bdf-5f13-b94b-0c831560f272)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/44bfe9e2-5bdf-5f13-b94b-0c831560f272)
 
 ---
 

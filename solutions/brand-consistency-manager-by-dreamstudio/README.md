@@ -6,13 +6,13 @@ The Brand Consistency Manager is an intelligent Uplizd workflow designed to ensu
 ---
 
 ## Demo
-![Brand Consistency Manager workflow diagram showing AI agent validating content against brand guidelines](../image.png)
+![Brand Consistency Manager workflow diagram showing AI agent validating content against brand guidelines](image.png)
 **Alt text (SEO-ready):** Brand Consistency Manager Uplizd workflow for automated content auditing, visual brand alignment, and AI-driven marketing compliance.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8c4e1ead-3048-5447-bd90-d96940216494)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8c4e1ead-3048-5447-bd90-d96940216494)
 
 ---
 

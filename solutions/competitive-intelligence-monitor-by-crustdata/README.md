@@ -6,13 +6,13 @@ The Competitive Intelligence Monitor by Crustdata is an automated AI workflow de
 ---
 
 ## Demo
-![Competitive Intelligence Monitor dashboard showing real-time competitor data tracking and market signal alerts](../image.png)
+![Competitive Intelligence Monitor dashboard showing real-time competitor data tracking and market signal alerts](image.png)
 **Alt text (SEO-ready):** Competitive Intelligence Monitor by Uplizd showing real-time competitor data tracking, market signal alerts, and web scraping workflow integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/20c9fa0f-f107-5db5-9426-54d36269d35d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/20c9fa0f-f107-5db5-9426-54d36269d35d)
 
 ---
 

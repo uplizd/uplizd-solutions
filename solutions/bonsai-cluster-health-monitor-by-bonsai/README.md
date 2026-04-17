@@ -6,7 +6,7 @@ The Bonsai Cluster Health Monitor is an intelligent Uplizd AI workflow designed 
 ---
 
 ## Demo
-![Bonsai Cluster Health Monitor dashboard showing real-time node status and latency alerts](../image.png)
+![Bonsai Cluster Health Monitor dashboard showing real-time node status and latency alerts](image.png)
 **Alt text (SEO-ready):** Bonsai Cluster Health Monitor dashboard showing real-time node status, latency alerts, and infrastructure performance metrics within the Uplizd AI workflow.
 
 ---

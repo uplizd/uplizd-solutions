@@ -6,13 +6,13 @@ The Campaign Performance Optimizer is an intelligent Uplizd workflow that bridge
 ---
 
 ## Demo
-![Campaign Performance Optimizer workflow dashboard showing data analysis and automated email drafting](../image.png)
+![Campaign Performance Optimizer workflow dashboard showing data analysis and automated email drafting](image.png)
 **Alt text (SEO-ready):** Campaign Performance Optimizer dashboard by Uplizd, showing automated marketing data analysis, Mailchimp integration, and AI-driven campaign optimization workflow.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b822a91a-6398-528c-b8af-23cdfd3a5af8)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAG5JREFUSEtjYBgFo2AUjIJRMApGATkBAAEAAAE=)](https://uplizd.ai/solutions/b822a91a-6398-528c-b8af-23cdfd3a5af8)
 
 ---
 

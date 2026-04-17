@@ -6,7 +6,7 @@ The Client Board Provisioner (Uplizd) automates the creation of dedicated projec
 ---
 
 ## Demo
-![Client Board Provisioner workflow showing automated board creation and permission mapping in monday.com](../image.png)
+![Client Board Provisioner workflow showing automated board creation and permission mapping in monday.com](image.png)
 **Alt text (SEO-ready):** Uplizd Client Board Provisioner workflow automating monday.com board creation, client access permissions, and project onboarding tasks.
 
 ---

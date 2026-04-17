@@ -6,13 +6,13 @@ The Carbon Neutrality Goal Optimizer is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![Carbon Neutrality Goal Optimizer workflow dashboard showing emission tracking and reduction strategy nodes](../image.png)
+![Carbon Neutrality Goal Optimizer workflow dashboard showing emission tracking and reduction strategy nodes](image.png)
 **Alt text (SEO-ready):** Carbon Neutrality Goal Optimizer Uplizd workflow dashboard for ESG tracking, sustainability reporting, and automated emission reduction strategy implementation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/06df0b08-a1af-5bed-8c5d-473e6bf1928d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/06df0b08-a1af-5bed-8c5d-473e6bf1928d)
 
 ---
 

@@ -6,13 +6,13 @@ The Client Meeting Orchestrator (Uplizd) is an intelligent automation workflow d
 ---
 
 ## Demo
-![Client Meeting Orchestrator workflow showing automated scheduling and follow-up triggers in the Uplizd builder](../image.png)
+![Client Meeting Orchestrator workflow showing automated scheduling and follow-up triggers in the Uplizd builder](image.png)
 **Alt text (SEO-ready):** Client Meeting Orchestrator workflow automation for ClickMeeting, CRM scheduling, and automated follow-up sequences on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/891776ea-d08f-54f3-b0f8-6e41359d5bb6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/891776ea-d08f-54f3-b0f8-6e41359d5bb6)
 
 ---
 

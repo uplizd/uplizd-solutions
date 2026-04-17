@@ -6,13 +6,13 @@ The Build Failure Detective is an intelligent Uplizd AI workflow designed to str
 ---
 
 ## Demo
-![Build Failure Detective dashboard showing automated log analysis and suggested code fixes](../image.png)
+![Build Failure Detective dashboard showing automated log analysis and suggested code fixes](image.png)
 **Alt text (SEO-ready):** Build Failure Detective Uplizd workflow showing automated CI/CD log analysis, CircleCI error detection, and AI-driven resolution suggestions.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36cf73f8-1e85-5de5-9432-96356db3c25e)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/36cf73f8-1e85-5de5-9432-96356db3c25e)
 
 ---
 

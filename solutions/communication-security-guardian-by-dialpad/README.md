@@ -6,13 +6,13 @@ The Communication Security Guardian is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Communication Security Guardian workflow interface showing call filtering and policy enforcement nodes](../image.png)
+![Communication Security Guardian workflow interface showing call filtering and policy enforcement nodes](image.png)
 **Alt text (SEO-ready):** Communication Security Guardian Uplizd workflow for automated call filtering, Dialpad security policy enforcement, and AI-driven communication protection.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/221fb43f-62ef-52a3-bd88-83ced1727480)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/221fb43f-62ef-52a3-bd88-83ced1727480)
 
 ---
 

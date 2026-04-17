@@ -6,14 +6,14 @@ The Call Analytics Reporting Agent by Callingly leverages Uplizd AI workflows to
 ---
 
 ## Demo
-![Call Analytics Reporting Agent dashboard showing automated call performance metrics and trend analysis](../image.png)
+![Call Analytics Reporting Agent dashboard showing automated call performance metrics and trend analysis](image.png)
 
 **Alt text (SEO-ready):** Call Analytics Reporting Agent dashboard showing automated call performance metrics, trend analysis, Uplizd AI workflow, and Callingly data integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b2cc03d-1b5e-5353-815d-eb7aa6689158)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b2cc03d-1b5e-5353-815d-eb7aa6689158)
 
 ---
 

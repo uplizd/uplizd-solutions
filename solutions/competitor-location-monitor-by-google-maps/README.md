@@ -6,13 +6,13 @@ The Competitor Location Monitor is an automated Uplizd AI workflow designed to t
 ---
 
 ## Demo
-![Competitor Location Monitor workflow dashboard showing Google Maps integration and data extraction nodes](../image.png)
+![Competitor Location Monitor workflow dashboard showing Google Maps integration and data extraction nodes](image.png)
 **Alt text (SEO-ready):** Competitor location monitoring dashboard showing Uplizd AI workflow, Google Maps data extraction, and market intelligence integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3ddee740-fa19-5595-a086-cd19c954d144)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3ddee740-fa19-5595-a086-cd19c954d144)
 
 ---
 

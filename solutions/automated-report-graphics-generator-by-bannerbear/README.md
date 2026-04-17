@@ -6,13 +6,13 @@ The Automated Report Graphics Generator is an intelligent Uplizd workflow that b
 ---
 
 ## Demo
-![Automated Report Graphics Generator workflow showing data input, Bannerbear processing, and final image output](../image.png)
+![Automated Report Graphics Generator workflow showing data input, Bannerbear processing, and final image output](image.png)
 **Alt text (SEO-ready):** Automated Report Graphics Generator workflow in Uplizd using Bannerbear for data visualization, infographic creation, and automated reporting.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6f328ee0-6af2-5b9e-8894-900391912844)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6f328ee0-6af2-5b9e-8894-900391912844)
 
 ---
 

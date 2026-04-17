@@ -6,7 +6,7 @@ The Ad Trend Tracking Agent is an automated workflow designed to monitor, analyz
 ---
 
 ## Demo
-![Ad Trend Tracking Agent dashboard showing real-time creative pattern analysis and trend alerts](../image.png)
+![Ad Trend Tracking Agent dashboard showing real-time creative pattern analysis and trend alerts](image.png)
 **Alt text (SEO-ready):** Ad Trend Tracking Agent dashboard showing real-time creative pattern analysis and trend alerts for Uplizd AI workflow and marketing intelligence.
 
 ---

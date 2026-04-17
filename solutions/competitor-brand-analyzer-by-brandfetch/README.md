@@ -6,13 +6,13 @@ The Competitor Brand Analyzer is an intelligent Uplizd workflow that leverages t
 ---
 
 ## Demo
-![Competitor Brand Analyzer workflow showing Brandfetch integration and automated asset extraction](../image.png)
+![Competitor Brand Analyzer workflow showing Brandfetch integration and automated asset extraction](image.png)
 **Alt text (SEO-ready):** Competitor Brand Analyzer Uplizd workflow using Brandfetch for automated brand asset extraction, visual identity tracking, and competitive intelligence.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c4613bc-74a2-5a02-9f94-831ba626e380)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c4613bc-74a2-5a02-9f94-831ba626e380)
 
 ---
 

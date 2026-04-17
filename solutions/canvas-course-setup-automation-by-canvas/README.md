@@ -6,13 +6,13 @@ The Canvas Course Setup Automation workflow enables educators and instructional 
 ---
 
 ## Demo
-![Canvas Course Setup Automation workflow interface showing automated module and assignment creation](../image.png)
+![Canvas Course Setup Automation workflow interface showing automated module and assignment creation](image.png)
 **Alt text (SEO-ready):** Canvas Course Setup Automation workflow for LMS management, featuring automated module creation, assignment scheduling, and Uplizd AI integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c781bf2f-ebad-5bc4-9589-0c50080ab243)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c781bf2f-ebad-5bc4-9589-0c50080ab243)
 
 ---
 

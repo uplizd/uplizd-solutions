@@ -6,14 +6,14 @@ The Airtable Data Explorer is an intelligent AI workflow designed to bridge the 
 ---
 
 ## Demo
-![Airtable Data Explorer workflow interface showing the connection between Chat Input, Agent, and Airtable via Composio](../image.png)
+![Airtable Data Explorer workflow interface showing the connection between Chat Input, Agent, and Airtable via Composio](image.png)
 
 **Alt text (SEO-ready):** Airtable Data Explorer by Uplizd showing AI-powered database querying, data extraction, and automated reporting workflow using Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d6204a3f-348e-52c2-b493-8c79c53d2421)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d6204a3f-348e-52c2-b493-8c79c53d2421)
 
 ---
 

@@ -6,13 +6,13 @@ The Affiliate Program Cleanup Agent is an intelligent workflow designed to autom
 ---
 
 ## Demo
-![Affiliate Program Cleanup Agent workflow showing Tapfiliate integration nodes and data filtering logic](../image.png)
+![Affiliate Program Cleanup Agent workflow showing Tapfiliate integration nodes and data filtering logic](image.png)
 **Alt text (SEO-ready):** Affiliate Program Cleanup Agent by Uplizd for automated Tapfiliate database hygiene, partner lifecycle management, and CRM data synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc526552-acea-5b02-a27f-62c113a840d2)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDTAQ6y71LwAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDZ4AAAA+SURBVEjHY2AYBaNgFIyCUUAHAAABAAAB)](https://uplizd.ai/solutions/fc526552-acea-5b02-a27f-62c113a840d2)
 
 ---
 

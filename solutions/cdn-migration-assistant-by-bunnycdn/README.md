@@ -6,13 +6,13 @@ The CDN Migration Assistant is an intelligent Uplizd workflow designed to stream
 ---
 
 ## Demo
-![CDN Migration Assistant workflow interface showing automated asset transfer and configuration sync nodes](../image.png)
+![CDN Migration Assistant workflow interface showing automated asset transfer and configuration sync nodes](image.png)
 **Alt text (SEO-ready):** Uplizd CDN Migration Assistant workflow showing automated asset transfer, BunnyCDN configuration sync, and infrastructure migration pipeline.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3213315a-36ff-548c-92bf-8d5394183baa)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/3213315a-36ff-548c-92bf-8d5394183baa)
 
 ---
 

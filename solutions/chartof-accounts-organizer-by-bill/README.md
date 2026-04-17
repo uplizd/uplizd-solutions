@@ -6,13 +6,13 @@ The Chart of Accounts Organizer is an intelligent Uplizd workflow designed to au
 ---
 
 ## Demo
-![Chart of Accounts Organizer workflow showing automated categorization and QuickBooks integration](../image.png)
+![Chart of Accounts Organizer workflow showing automated categorization and QuickBooks integration](image.png)
 **Alt text (SEO-ready):** Chart of Accounts Organizer Uplizd workflow for automated financial data hygiene and QuickBooks account categorization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/149c6182-a4c2-51f0-a580-5e94437341f2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-149c6182--a4c2--51f0--a580--5e94437341f2-blue)](https://uplizd.ai/solutions/149c6182-a4c2-51f0-a580-5e94437341f2)
 
 ---
 

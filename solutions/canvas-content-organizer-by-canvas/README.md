@@ -6,13 +6,13 @@ The Canvas Content Organizer is an intelligent automation workflow designed to b
 ---
 
 ## Demo
-![Canvas Content Organizer workflow showing automated module structuring and navigation cleanup](../image.png)
+![Canvas Content Organizer workflow showing automated module structuring and navigation cleanup](image.png)
 **Alt text (SEO-ready):** Canvas Content Organizer workflow for automated course module structuring, navigation cleanup, and LMS data management using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d0f7e60b-4fbc-5759-a5c6-47184dc59b11)
+[![](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/d0f7e60b-4fbc-5759-a5c6-47184dc59b11)
 
 ---
 

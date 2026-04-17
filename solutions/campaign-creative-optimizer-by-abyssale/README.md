@@ -6,13 +6,13 @@ The Campaign Creative Optimizer is an Uplizd AI workflow designed to streamline 
 ---
 
 ## Demo
-![Campaign Creative Optimizer workflow dashboard showing Abyssale integration](../image.png)
+![Campaign Creative Optimizer workflow dashboard showing Abyssale integration](image.png)
 **Alt text (SEO-ready):** Campaign Creative Optimizer workflow in Uplizd showing automated image generation, Abyssale integration, and marketing asset testing pipeline.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4dabc4f4-2dae-50e8-97b9-98a7c98a23cf)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABMmlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjaY2BgnuFv4P8BAQAA//8DAwB9AwIA)](https://uplizd.ai/solutions/4dabc4f4-2dae-50e8-97b9-98a7c98a23cf)
 
 ---
 

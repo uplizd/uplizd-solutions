@@ -6,13 +6,13 @@ The API Token Manager (Uplizd) automates the lifecycle of sensitive credentials,
 ---
 
 ## Demo
-![API Token Manager workflow dashboard showing automated rotation and security status updates](../image.png)
+![API Token Manager workflow dashboard showing automated rotation and security status updates](image.png)
 **Alt text (SEO-ready):** API Token Manager (Uplizd) workflow dashboard showing automated credential rotation, security monitoring, and Codacy integration for secure development pipelines.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ce6c3c50-1c33-58ad-aa92-240ae33e042d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ce6c3c50-1c33-58ad-aa92-240ae33e042d)
 
 ---
 

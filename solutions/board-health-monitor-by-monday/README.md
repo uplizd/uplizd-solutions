@@ -6,13 +6,13 @@ The Board Health Monitor is an intelligent Uplizd workflow designed to maintain 
 ---
 
 ## Demo
-![Board Health Monitor dashboard showing automated cleanup status and item audit logs](../image.png)
+![Board Health Monitor dashboard showing automated cleanup status and item audit logs](image.png)
 **Alt text (SEO-ready):** Board Health Monitor dashboard showing automated cleanup status and item audit logs for Monday.com project management optimization using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1fad3fd8-2e46-57d2-86ca-e917d792741b)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1fad3fd8-2e46-57d2-86ca-e917d792741b)
 
 ---
 

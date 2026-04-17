@@ -6,13 +6,13 @@ The Automation Team Orchestrator (Uplizd) streamlines incident response and oper
 ---
 
 ## Demo
-![Automation Team Orchestrator workflow diagram showing PagerDuty incident ingestion, AI-driven routing, and team notification](../image.png)
+![Automation Team Orchestrator workflow diagram showing PagerDuty incident ingestion, AI-driven routing, and team notification](image.png)
 **Alt text (SEO-ready):** Automation Team Orchestrator workflow diagram showing PagerDuty incident ingestion, AI-driven routing, and team notification via Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7a8ee74c-8fb6-59a2-82e5-a9b54812be84)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7a8ee74c-8fb6-59a2-82e5-a9b54812be84)
 
 ---
 

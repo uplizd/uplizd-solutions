@@ -6,13 +6,13 @@ The Client Onboarding Workflow by Uplizd automates the transition from prospect 
 ---
 
 ## Demo
-![Client Onboarding Workflow dashboard showing automated Trello card creation and status updates](../image.png)
+![Client Onboarding Workflow dashboard showing automated Trello card creation and status updates](image.png)
 **Alt text (SEO-ready):** Client Onboarding Workflow dashboard showing automated Trello card creation and status updates for Uplizd AI-driven project management and CRM integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5fe0438d-b129-5d0b-90db-0ee6019d6db3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5fe0438d-b129-5d0b-90db-0ee6019d6db3)
 
 ---
 

@@ -6,13 +6,13 @@ The Apollo Lead Qualification Engine is an intelligent Uplizd workflow that auto
 ---
 
 ## Demo
-![Apollo Lead Qualification Engine workflow showing Chat Input, Agent, Apollo integration, and Chat Output nodes](../image.png)
+![Apollo Lead Qualification Engine workflow showing Chat Input, Agent, Apollo integration, and Chat Output nodes](image.png)
 **Alt text (SEO-ready):** Apollo Lead Qualification Engine workflow for automated lead enrichment, sales pipeline scoring, and CRM data synchronization using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/535a96c2-23d7-5eca-80bc-6e8faf9c6d54)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/535a96c2-23d7-5eca-80bc-6e8faf9c6d54)
 
 ---
 

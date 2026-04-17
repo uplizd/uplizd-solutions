@@ -6,13 +6,13 @@ The Community Moderation Assistant is an intelligent Uplizd workflow designed to
 ---
 
 ## Demo
-![Community Moderation Assistant workflow dashboard showing message filtering and automated Discord response nodes](../image.png)
+![Community Moderation Assistant workflow dashboard showing message filtering and automated Discord response nodes](image.png)
 **Alt text (SEO-ready):** Community Moderation Assistant Uplizd workflow for Discord server moderation, automated content filtering, and AI-driven rule enforcement.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7b841785-9063-5a7a-a17c-28b1609e427d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7b841785-9063-5a7a-a17c-28b1609e427d)
 
 ---
 

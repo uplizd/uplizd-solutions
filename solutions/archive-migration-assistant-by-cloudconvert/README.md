@@ -6,14 +6,14 @@ The Archive Migration Assistant is an intelligent Uplizd workflow designed to au
 ---
 
 ## Demo
-![Archive Migration Assistant workflow diagram showing file source to cloud destination via CloudConvert](../image.png)
+![Archive Migration Assistant workflow diagram showing file source to cloud destination via CloudConvert](image.png)
 
 **Alt text (SEO-ready):** Archive Migration Assistant workflow diagram showing file source to cloud destination via CloudConvert integration for automated data migration on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bc685acf-bea1-57ac-a93f-40d8f7165321)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAHAAABAAABAAAA//8DAP//q6gH/wAAAP///wD///8A////AP///wD///8A////AP///wD///8A//8A454H+QAAAAA=)](https://uplizd.ai/solutions/bc685acf-bea1-57ac-a93f-40d8f7165321)
 
 ---
 

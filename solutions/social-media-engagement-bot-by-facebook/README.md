@@ -10,5 +10,5 @@ Automatically engage with your audience across Facebook posts and comments
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b8d6825-63ff-527d-b0c7-ce9b9bd88e17)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0b8d6825-63ff-527d-b0c7-ce9b9bd88e17)
 

@@ -6,13 +6,13 @@ The Campaign Health Monitor (Uplizd) is an automated AI workflow designed to tra
 ---
 
 ## Demo
-![Campaign Health Monitor dashboard showing real-time performance metrics and automated alert triggers](../image.png)
+![Campaign Health Monitor dashboard showing real-time performance metrics and automated alert triggers](image.png)
 **Alt text (SEO-ready):** Campaign Health Monitor dashboard showing real-time performance metrics, Uplizd marketing automation, and automated alert triggers for campaign optimization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9f2c6832-f690-5fc5-8805-c77e58b33a93)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9f2c6832-f690-5fc5-8805-c77e58b33a93)
 
 ---
 

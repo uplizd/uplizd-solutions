@@ -6,13 +6,13 @@ The Client Project Organizer by Everhour is an intelligent workflow designed to 
 ---
 
 ## Demo
-![Client Project Organizer workflow showing automated project creation and Everhour task synchronization](../image.png)
+![Client Project Organizer workflow showing automated project creation and Everhour task synchronization](image.png)
 **Alt text (SEO-ready):** Client Project Organizer workflow by Uplizd, automating project structure and task management with Everhour integration for streamlined operations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1c6f2b5e-b834-53d9-b4f6-f8cefe51086d)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-Launch%20Solution-blue)](https://uplizd.ai/solutions/1c6f2b5e-b834-53d9-b4f6-f8cefe51086d)
 
 ---
 

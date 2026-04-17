@@ -6,13 +6,13 @@ The AI Scheduling Chatbot with GPT-4, Calendly, and Gmail is an autonomous workf
 ---
 
 ## Demo
-![AI Chatbot interface showing a conversation flow with GPT-4, Calendly integration, and Gmail email confirmation](../image.png)
+![AI Chatbot interface showing a conversation flow with GPT-4, Calendly integration, and Gmail email confirmation](image.png)
 **Alt text (SEO-ready):** Uplizd AI scheduling chatbot workflow using GPT-4, Calendly for meeting bookings, and Gmail for automated email notifications.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2f488a20-3c8c-593f-8fb5-a6b5e18c8302)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2f488a20-3c8c-593f-8fb5-a6b5e18c8302)
 
 ---
 

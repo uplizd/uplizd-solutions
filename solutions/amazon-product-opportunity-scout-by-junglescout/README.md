@@ -6,13 +6,13 @@ The Amazon Product Opportunity Scout is an intelligent Uplizd workflow that leve
 ---
 
 ## Demo
-![Amazon Product Opportunity Scout dashboard showing niche analysis and sales velocity metrics](../image.png)
+![Amazon Product Opportunity Scout dashboard showing niche analysis and sales velocity metrics](image.png)
 **Alt text (SEO-ready):** Amazon Product Opportunity Scout dashboard showing niche analysis, sales velocity metrics, and market intelligence powered by Uplizd and JungleScout.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/afae5223-ea48-50a2-ad87-578728600e4c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/afae5223-ea48-50a2-ad87-578728600e4c)
 
 ---
 

@@ -6,14 +6,14 @@ The Client Onboarding Assistant automates the complex process of initializing ne
 ---
 
 ## Demo
-![Client Onboarding Assistant workflow interface showing automated Webex space creation and welcome message dispatch](../image.png)
+![Client Onboarding Assistant workflow interface showing automated Webex space creation and welcome message dispatch](image.png)
 
 **Alt text (SEO-ready):** Client Onboarding Assistant Uplizd workflow, automated Webex space creation, customer onboarding automation, AI-driven client setup, Composio integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/874be03b-3404-513c-8f6a-1fc48b78a858)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/874be03b-3404-513c-8f6a-1fc48b78a858)
 
 ---
 

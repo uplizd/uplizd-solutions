@@ -6,13 +6,13 @@ The Competitor Analysis Monitor is an intelligent Uplizd workflow that tracks an
 ---
 
 ## Demo
-![Competitor Analysis Monitor workflow showing Leadfeeder data integration and AI-driven insights](../image.png)
+![Competitor Analysis Monitor workflow showing Leadfeeder data integration and AI-driven insights](image.png)
 **Alt text (SEO-ready):** Uplizd Competitor Analysis Monitor workflow using Leadfeeder integration for real-time sales intelligence and competitive tracking.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8972f14b-91c0-59df-b4e1-d6d74d8e4dd2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8972f14b-91c0-59df-b4e1-d6d74d8e4dd2)
 
 ---
 

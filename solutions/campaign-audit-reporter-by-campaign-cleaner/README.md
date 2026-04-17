@@ -6,13 +6,13 @@ The Campaign Audit Reporter is an intelligent Uplizd workflow designed to stream
 ---
 
 ## Demo
-![Campaign Audit Reporter workflow showing automated analysis of email campaign metrics and compliance status](../image.png)
+![Campaign Audit Reporter workflow showing automated analysis of email campaign metrics and compliance status](image.png)
 **Alt text (SEO-ready):** Campaign Audit Reporter Uplizd workflow for automated email marketing compliance, performance analysis, and data hygiene.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9e5d39ea-eba2-514c-8b8c-a436b421b733)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9e5d39ea-eba2-514c-8b8c-a436b421b733)
 
 ---
 

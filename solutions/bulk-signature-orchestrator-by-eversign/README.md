@@ -6,7 +6,7 @@ The Bulk Signature Orchestrator streamlines high-volume document workflows by au
 ---
 
 ## Demo
-![Bulk Signature Orchestrator workflow showing document distribution and status tracking](../image.png)
+![Bulk Signature Orchestrator workflow showing document distribution and status tracking](image.png)
 **Alt text (SEO-ready):** Bulk Signature Orchestrator workflow for automated document signing, Eversign integration, and real-time status tracking on Uplizd.
 
 ---

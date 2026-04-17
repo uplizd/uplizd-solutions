@@ -6,7 +6,7 @@ The AI Newsletter Draft Creator is an intelligent Uplizd workflow designed to st
 ---
 
 ## Demo
-![AI Newsletter Draft Creator workflow diagram showing content aggregation, AI drafting, and final output](../image.png)
+![AI Newsletter Draft Creator workflow diagram showing content aggregation, AI drafting, and final output](image.png)
 **Alt text (SEO-ready):** AI Newsletter Draft Creator workflow by Uplizd for automated content curation, newsletter drafting, and marketing operations integration.
 
 ---

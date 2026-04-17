@@ -14,7 +14,14 @@ A Uplizd AI workflow that scans your incoming data streams to identify and track
 ---
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7faffaae-188c-54e2-9493-af1a7dd3ee4c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7faffaae-188c-54e2-9493-af1a7dd3ee4c)
+
+---
+## Category
+
+- **Primary:** Sales opportunity & lead intelligence
+- **Tags:** `opportunities`, `leads`, `bdr`, `crm`, `sales`, `intent signals`, `hubspot`, `salesforce`, `composio`, `uplizd`, `growth`, `pipeline`
+- Surfaces and tracks new revenue opportunities so teams respond faster and top-of-funnel stays visible.
 
 ---
 ## Who is this for?
@@ -74,7 +81,7 @@ This workflow is designed for high-growth sales teams and business developers ta
 1. Click the **Run on Uplizd** CTA button above.
 2. On Uplizd, click **Try out**.
 3. Create a new workspace or open an existing workspace.
-5. Ensure all nodes are connected correctly:
+4. Ensure all nodes are connected correctly:
    - **Chat Input**
    - **Composio Toolset**
    - **Agent**

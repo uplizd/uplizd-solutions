@@ -6,13 +6,13 @@ The Brand Protection Sentinel is an automated Uplizd AI workflow designed to saf
 ---
 
 ## Demo
-![Brand Protection Sentinel workflow diagram showing SSLMate Cert Spotter API integration and automated alert routing](../image.png)
+![Brand Protection Sentinel workflow diagram showing SSLMate Cert Spotter API integration and automated alert routing](image.png)
 **Alt text (SEO-ready):** Brand Protection Sentinel Uplizd workflow for SSL certificate monitoring, fraud detection, and automated security alerts using SSLMate Cert Spotter API.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/59d8f6cd-64e7-55d8-b672-afad63c3f467)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/59d8f6cd-64e7-55d8-b672-afad63c3f467)
 
 ---
 

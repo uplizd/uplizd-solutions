@@ -6,13 +6,13 @@ The Automated Course Creator by D2L Brightspace is an intelligent Uplizd workflo
 ---
 
 ## Demo
-![Automated Course Creator workflow interface showing AI-driven module generation and D2L Brightspace integration](../image.png)
+![Automated Course Creator workflow interface showing AI-driven module generation and D2L Brightspace integration](image.png)
 **Alt text (SEO-ready):** Uplizd Automated Course Creator workflow interface showing AI-driven module generation and D2L Brightspace integration for streamlined educational content management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7e6699b7-d230-5f8e-93c1-1d62df10dc9c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue?logo=uplizd)](https://uplizd.ai/solutions/7e6699b7-d230-5f8e-93c1-1d62df10dc9c)
 
 ---
 

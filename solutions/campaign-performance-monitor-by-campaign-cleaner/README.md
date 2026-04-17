@@ -6,13 +6,13 @@ The Campaign Performance Monitor is an automated Uplizd workflow designed to pro
 ---
 
 ## Demo
-![Campaign Performance Monitor dashboard showing real-time email campaign metrics and automated performance alerts](../image.png)
+![Campaign Performance Monitor dashboard showing real-time email campaign metrics and automated performance alerts](image.png)
 **Alt text (SEO-ready):** Campaign Performance Monitor dashboard showing real-time email campaign metrics, Uplizd workflow automation, and marketing performance alerts.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0575133d-02b3-54b4-9c0f-846f78aaec8d)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLFzQo35459wAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAAkSURBVHjaY2BgYPgPxH8wYAAhYJg4gB4wYgA0wJgB0wB84QAAk+0D/z8Q/g8AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/0575133d-02b3-54b4-9c0f-846f78aaec8d)
 
 ---
 

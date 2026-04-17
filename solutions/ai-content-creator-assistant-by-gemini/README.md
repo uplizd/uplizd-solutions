@@ -6,7 +6,7 @@ The AI Content Creator Assistant by Gemini is an intelligent workflow designed t
 ---
 
 ## Demo
-![AI Content Creator Assistant workflow diagram showing Gemini processing inputs and distributing to social channels](../image.png)
+![AI Content Creator Assistant workflow diagram showing Gemini processing inputs and distributing to social channels](image.png)
 **Alt text (SEO-ready):** AI Content Creator Assistant workflow diagram showing Gemini processing inputs and distributing to social channels via Uplizd and Composio.
 
 ---

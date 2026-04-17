@@ -6,13 +6,13 @@ The AI Model Cost Monitor is an automated Uplizd workflow designed to provide re
 ---
 
 ## Demo
-![AI Model Cost Monitor dashboard showing real-time token usage and cost analytics for OpenRouter integrations](../image.png)
+![AI Model Cost Monitor dashboard showing real-time token usage and cost analytics for OpenRouter integrations](image.png)
 **Alt text (SEO-ready):** AI Model Cost Monitor dashboard showing real-time token usage and cost analytics for OpenRouter integrations on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2cd28d53-521d-5d50-858a-559dd81d98f9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2cd28d53-521d-5d50-858a-559dd81d98f9)
 
 ---
 

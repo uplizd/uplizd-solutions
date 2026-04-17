@@ -6,13 +6,13 @@ The Client Sustainability Impact Reporter by More Trees is an automated Uplizd A
 ---
 
 ## Demo
-![Uplizd workflow dashboard showing the Client Sustainability Impact Reporter generating a PDF report for a client based on carbon offset data.](../image.png)
+![Uplizd workflow dashboard showing the Client Sustainability Impact Reporter generating a PDF report for a client based on carbon offset data.](image.png)
 **Alt text (SEO-ready):** Uplizd AI workflow for automated sustainability impact reporting, featuring data integration with More Trees for ESG and carbon offset metrics.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c70b522e-4bec-55bc-8b9d-22f85c1d51ee)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c70b522e-4bec-55bc-8b9d-22f85c1d51ee)
 
 ---
 

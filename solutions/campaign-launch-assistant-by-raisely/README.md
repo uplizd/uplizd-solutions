@@ -6,14 +6,14 @@ The Campaign Launch Assistant by Raisely is an intelligent AI workflow designed 
 ---
 
 ## Demo
-![Campaign Launch Assistant workflow interface showing automated Raisely configuration nodes](../image.png)
+![Campaign Launch Assistant workflow interface showing automated Raisely configuration nodes](image.png)
 
 **Alt text (SEO-ready):** Campaign Launch Assistant Uplizd workflow for automated fundraising campaign setup, Raisely integration, and campaign validation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dbf5aafc-c613-5d78-be41-e1ac8dcc0e35)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dbf5aafc-c613-5d78-be41-e1ac8dcc0e35)
 
 ---
 

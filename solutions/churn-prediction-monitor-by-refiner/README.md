@@ -6,13 +6,13 @@ The Churn Prediction Monitor is an intelligent Uplizd workflow designed to analy
 ---
 
 ## Demo
-![Churn Prediction Monitor dashboard showing at-risk customer alerts and engagement trends](../image.png)
+![Churn Prediction Monitor dashboard showing at-risk customer alerts and engagement trends](image.png)
 **Alt text (SEO-ready):** Uplizd Churn Prediction Monitor workflow dashboard displaying customer risk scores, survey response analysis, and automated retention alerts for SaaS platforms.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c6ec6881-ed85-5ddc-b696-9d139cdf8daf)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAG5JREFUSEtjZKAQMFKooJGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgQAA5+oD6a7h52cAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/c6ec6881-ed85-5ddc-b696-9d139cdf8daf)
 
 ---
 

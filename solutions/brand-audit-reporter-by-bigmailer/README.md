@@ -6,13 +6,13 @@ The Brand Audit Reporter is an intelligent Uplizd workflow that automates the as
 ---
 
 ## Demo
-![Brand Audit Reporter workflow showing the integration between Chat Input, Agent, BigMailer, and Chat Output](../image.png)
+![Brand Audit Reporter workflow showing the integration between Chat Input, Agent, BigMailer, and Chat Output](image.png)
 **Alt text (SEO-ready):** Brand Audit Reporter workflow in Uplizd showing automated email infrastructure analysis and BigMailer permission auditing.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6bc0feb9-4214-54e6-a8fc-95909256bbe1)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIFDRE6513d+QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lP9zH5AAAAEElEQVQ4y2P8z8AABGAgGAAADgIB/5j+Q50AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/6bc0feb9-4214-54e6-a8fc-95909256bbe1)
 
 ---
 

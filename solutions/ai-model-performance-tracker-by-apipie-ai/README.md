@@ -6,13 +6,13 @@ The AI Model Performance Tracker is an automated Uplizd workflow designed to mon
 ---
 
 ## Demo
-![AI Model Performance Tracker dashboard showing latency spikes and accuracy trends](../image.png)
+![AI Model Performance Tracker dashboard showing latency spikes and accuracy trends](image.png)
 **Alt text (SEO-ready):** AI Model Performance Tracker dashboard displaying real-time latency spikes, accuracy trends, and Uplizd workflow integration for automated model monitoring.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/65c97217-2cfe-5ffa-86a0-31b857d0130e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/65c97217-2cfe-5ffa-86a0-31b857d0130e)
 
 ---
 

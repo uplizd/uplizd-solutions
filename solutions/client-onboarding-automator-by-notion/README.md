@@ -6,7 +6,7 @@ The Client Onboarding Automator is an intelligent Uplizd workflow designed to el
 ---
 
 ## Demo
-![Client Onboarding Automator workflow screenshot showing Notion workspace provisioning and checklist generation](../image.png)
+![Client Onboarding Automator workflow screenshot showing Notion workspace provisioning and checklist generation](image.png)
 **Alt text (SEO-ready):** Client Onboarding Automator workflow in Uplizd, showing automated Notion workspace setup, checklist generation, and CRM integration for seamless client onboarding.
 
 ---

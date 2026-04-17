@@ -6,13 +6,13 @@ The AI Prospect Research Assistant is an automated workflow that streamlines the
 ---
 
 ## Demo
-![AI Prospect Research Assistant workflow dashboard showing automated data enrichment and prospect report generation](../image.png)
+![AI Prospect Research Assistant workflow dashboard showing automated data enrichment and prospect report generation](image.png)
 **Alt text (SEO-ready):** AI Prospect Research Assistant workflow dashboard showing automated data enrichment and prospect report generation via Uplizd and PeopleDataLabs integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/a1d328a9-380f-53ac-8e80-5ee4c67abd2b)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-Launch%20Solution-blue)](https://uplizd.ai/solutions/a1d328a9-380f-53ac-8e80-5ee4c67abd2b)
 
 ---
 

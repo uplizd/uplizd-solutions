@@ -6,13 +6,13 @@ The Client Consultation Manager is an intelligent Uplizd workflow designed to au
 ---
 
 ## Demo
-![Client Consultation Manager workflow interface showing automated booking and calendar synchronization](../image.png)
+![Client Consultation Manager workflow interface showing automated booking and calendar synchronization](image.png)
 **Alt text (SEO-ready):** Client Consultation Manager Uplizd workflow, automated calendar booking, Calendly CRM integration, and scheduling automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/64eae9e7-661e-5fd5-9fa2-d08f85138f74)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/64eae9e7-661e-5fd5-9fa2-d08f85138f74)
 
 ---
 

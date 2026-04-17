@@ -6,13 +6,13 @@ The Compliance Dashboard Generator is an intelligent Uplizd AI workflow designed
 ---
 
 ## Demo
-![Compliance Dashboard Generator workflow visualizing anonymous incident reports into executive summaries](../image.png)
+![Compliance Dashboard Generator workflow visualizing anonymous incident reports into executive summaries](image.png)
 **Alt text (SEO-ready):** Compliance Dashboard Generator workflow for Uplizd, automating executive reporting, data visualization, and risk analysis using anonymous incident data.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b440bd26-7333-565e-a346-c674ebd11a0a)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAHAAABAAABAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEA1v8D/w==)](https://uplizd.ai/solutions/b440bd26-7333-565e-a346-c674ebd11a0a)
 
 ---
 

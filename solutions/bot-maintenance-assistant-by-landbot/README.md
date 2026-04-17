@@ -6,13 +6,13 @@ The Bot Maintenance Assistant is an intelligent Uplizd workflow designed to stre
 ---
 
 ## Demo
-![Bot Maintenance Assistant workflow interface showing automated cleanup nodes and Landbot integration](../image.png)
+![Bot Maintenance Assistant workflow interface showing automated cleanup nodes and Landbot integration](image.png)
 **Alt text (SEO-ready):** Bot Maintenance Assistant Uplizd workflow for automated Landbot cleanup, chatbot hygiene, and conversational flow optimization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed289749-7472-57ca-a6b6-75cc3294d43c)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed289749-7472-57ca-a6b6-75cc3294d43c)
 
 ---
 

@@ -6,14 +6,14 @@ The Automated Correspondence Manager leverages Uplizd AI workflows to streamline
 ---
 
 ## Demo
-![Automated Correspondence Manager workflow showing Chat Input, Agent processing, Composio Toolset integration, and Chat Output](../image.png)
+![Automated Correspondence Manager workflow showing Chat Input, Agent processing, Composio Toolset integration, and Chat Output](image.png)
 
 **Alt text (SEO-ready):** Automated Correspondence Manager workflow in Uplizd showing AI-driven communication, Composio toolset integration, and automated chat output for business operations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea23f171-c0b7-5314-83cf-89e634bb8e98)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ea23f171-c0b7-5314-83cf-89e634bb8e98)
 
 ---
 

@@ -6,13 +6,13 @@ The CI Pipeline Monitor (Uplizd) is an intelligent workflow designed to provide 
 ---
 
 ## Demo
-![CI Pipeline Monitor dashboard showing real-time build status and automated Slack alerts](../image.png)
+![CI Pipeline Monitor dashboard showing real-time build status and automated Slack alerts](image.png)
 **Alt text (SEO-ready):** CI Pipeline Monitor dashboard showing real-time build status and automated Slack alerts for Uplizd CI/CD workflow automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/be5cec33-69ee-5a48-948a-825246d833f7)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/be5cec33-69ee-5a48-948a-825246d833f7)
 
 ---
 

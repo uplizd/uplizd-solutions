@@ -6,13 +6,13 @@ The Calendar Health Monitor is an intelligent Uplizd workflow designed to audit,
 ---
 
 ## Demo
-![Calendar Health Monitor workflow showing Google Calendar integration and AI-driven scheduling analysis](../image.png)
+![Calendar Health Monitor workflow showing Google Calendar integration and AI-driven scheduling analysis](image.png)
 **Alt text (SEO-ready):** Calendar Health Monitor Uplizd AI workflow for Google Calendar optimization, meeting density analysis, and automated scheduling hygiene.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/00436f72-d1bf-5e0e-9bac-a86f52186d55)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AMKFAwz5L743QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lQTC4zPMXFAAAAKElEQVQ4y2NgGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgAAMA5iAABQ03l7AAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/00436f72-d1bf-5e0e-9bac-a86f52186d55)
 
 ---
 

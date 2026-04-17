@@ -6,13 +6,13 @@ The Competitive Intelligence Tracker by ZoomInfo is an automated AI workflow des
 ---
 
 ## Demo
-![Competitive Intelligence Tracker workflow dashboard showing real-time competitor monitoring and account alerts](../image.png)
+![Competitive Intelligence Tracker workflow dashboard showing real-time competitor monitoring and account alerts](image.png)
 **Alt text (SEO-ready):** Competitive Intelligence Tracker workflow dashboard showing real-time competitor monitoring, ZoomInfo data integration, and automated account alerts on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b9a32a4d-1d4c-5eb4-a49f-7c44d9fcf669)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIVDREa5P/5+wAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAIElEQVR42mP8z8AARsBw1AAGjIDh/4P4G4w4QG0HAAAD/wQf+w603QAAAABJRU5ErkJggg==)](https://uplizd.ai/solutions/b9a32a4d-1d4c-5eb4-a49f-7c44d9fcf669)
 
 ---
 

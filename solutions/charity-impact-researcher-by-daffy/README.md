@@ -6,13 +6,13 @@ The Charity Impact Researcher is an intelligent Uplizd workflow designed to stre
 ---
 
 ## Demo
-![Charity Impact Researcher dashboard showing automated nonprofit vetting and impact analysis](../image.png)
+![Charity Impact Researcher dashboard showing automated nonprofit vetting and impact analysis](image.png)
 **Alt text (SEO-ready):** Charity Impact Researcher Uplizd workflow for automated nonprofit due diligence, impact assessment, and philanthropic data integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f53a171c-002f-5b33-b8b3-6b7a7538f095)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f53a171c-002f-5b33-b8b3-6b7a7538f095)
 
 ---
 

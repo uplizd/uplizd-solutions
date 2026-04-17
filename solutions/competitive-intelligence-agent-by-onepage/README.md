@@ -6,13 +6,13 @@ The Competitive Intelligence Agent by OnePage is an automated workflow that moni
 ---
 
 ## Demo
-![Competitive Intelligence Agent workflow dashboard showing real-time competitor data analysis and market positioning insights](../image.png)
+![Competitive Intelligence Agent workflow dashboard showing real-time competitor data analysis and market positioning insights](image.png)
 **Alt text (SEO-ready):** Competitive Intelligence Agent by Uplizd, automated market research workflow, competitor tracking and data analysis using Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/971c03f6-58f8-5326-9224-1013713fa56d)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJMMiAxMnYxMGgyMFYxMkwxMiAyem0wIDE4bC04LThWNGg4djE2eiIvPjwvc3ZnPg==)](https://uplizd.ai/solutions/971c03f6-58f8-5326-9224-1013713fa56d)
 
 ---
 

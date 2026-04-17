@@ -6,13 +6,13 @@ The Bulk Certification Issuer workflow automates the end-to-end process of gener
 ---
 
 ## Demo
-![Bulk Certification Issuer workflow diagram showing automated data processing from participant list to Accredible certificate generation](../image.png)
+![Bulk Certification Issuer workflow diagram showing automated data processing from participant list to Accredible certificate generation](image.png)
 **Alt text (SEO-ready):** Uplizd Bulk Certification Issuer workflow for automated Accredible certificate generation, participant data processing, and credential distribution.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f22703ed-d673-5a0c-996f-9e1a4b3e12af)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f22703ed-d673-5a0c-996f-9e1a4b3e12af)
 
 ---
 

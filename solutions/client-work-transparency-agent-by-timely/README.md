@@ -6,13 +6,13 @@ The Client Work Transparency Agent is an automated Uplizd workflow designed to b
 ---
 
 ## Demo
-![Client Work Transparency Agent workflow showing data flow from Timely to client communication channels](../image.png)
+![Client Work Transparency Agent workflow showing data flow from Timely to client communication channels](image.png)
 **Alt text (SEO-ready):** Client Work Transparency Agent workflow diagram showing real-time project progress and time tracking data synchronization via Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9254297b-c418-55a4-b1c4-1107688575ce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9254297b-c418-55a4-b1c4-1107688575ce)
 
 ---
 

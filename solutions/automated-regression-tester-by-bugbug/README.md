@@ -6,13 +6,13 @@ The Automated Regression Tester (Uplizd) is an intelligent AI workflow designed 
 ---
 
 ## Demo
-![Automated Regression Tester workflow diagram showing integration between Chat Input, AI Agent, Bugbug testing tools, and Chat Output](../image.png)
+![Automated Regression Tester workflow diagram showing integration between Chat Input, AI Agent, Bugbug testing tools, and Chat Output](image.png)
 **Alt text (SEO-ready):** Automated Regression Tester workflow for Uplizd, featuring Bugbug integration for continuous software testing, QA automation, and CI/CD pipeline validation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/db759f79-327b-5817-a337-d9be7900d4c1)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/db759f79-327b-5817-a337-d9be7900d4c1)
 
 ---
 

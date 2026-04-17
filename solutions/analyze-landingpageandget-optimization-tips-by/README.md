@@ -6,13 +6,13 @@ The Analyze Landing Page and Get Optimization Tips workflow leverages Uplizd AI 
 ---
 
 ## Demo
-![Uplizd AI workflow analyzing a landing page for conversion optimization and UX improvements](../image.png)
+![Uplizd AI workflow analyzing a landing page for conversion optimization and UX improvements](image.png)
 **Alt text (SEO-ready):** Uplizd AI workflow for landing page analysis, conversion rate optimization, UX auditing, and marketing performance insights.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e8e56d5-13a0-582f-b3f5-d028b2e362c9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6e8e56d5-13a0-582f-b3f5-d028b2e362c9)
 
 ---
 

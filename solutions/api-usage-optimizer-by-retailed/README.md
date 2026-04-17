@@ -6,13 +6,13 @@ The API Usage Optimizer by Retailed is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![API Usage Optimizer dashboard showing real-time consumption metrics and threshold alerts](../image.png)
+![API Usage Optimizer dashboard showing real-time consumption metrics and threshold alerts](image.png)
 **Alt text (SEO-ready):** Uplizd API Usage Optimizer dashboard for Retailed, showing real-time consumption metrics, automated threshold alerts, and infrastructure cost management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/634ac588-d08e-54ce-a15f-a1b0325c8e4e)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/634ac588-d08e-54ce-a15f-a1b0325c8e4e)
 
 ---
 

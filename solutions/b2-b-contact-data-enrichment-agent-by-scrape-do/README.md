@@ -6,13 +6,13 @@ The B2B Contact Data Enrichment Agent is an automated workflow designed to strea
 ---
 
 ## Demo
-![B2B Contact Data Enrichment Agent workflow showing input, Scrape.do processing, and CRM output](../image.png)
+![B2B Contact Data Enrichment Agent workflow showing input, Scrape.do processing, and CRM output](image.png)
 **Alt text (SEO-ready):** B2B Contact Data Enrichment Agent workflow using Uplizd and Scrape.do for automated lead intelligence and CRM data synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ac76ee76-0e67-5496-a1f2-a2c297e37c7d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ac76ee76-0e67-5496-a1f2-a2c297e37c7d)
 
 ---
 

@@ -6,13 +6,13 @@ The Amplitude Cohort Manager is an intelligent Uplizd workflow designed to autom
 ---
 
 ## Demo
-![Amplitude Cohort Manager workflow showing user segment ingestion and Amplitude API synchronization](../image.png)
+![Amplitude Cohort Manager workflow showing user segment ingestion and Amplitude API synchronization](image.png)
 **Alt text (SEO-ready):** Amplitude Cohort Manager workflow in Uplizd for automated user segmentation, behavioral cohort syncing, and product analytics optimization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0f22a35b-5d1a-5651-af2d-9013a2e9785d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0f22a35b-5d1a-5651-af2d-9013a2e9785d)
 
 ---
 

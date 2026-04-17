@@ -6,13 +6,13 @@ The Call Center Analytics Agent leverages Uplizd AI workflows to ingest, transcr
 ---
 
 ## Demo
-![Call Center Analytics Agent dashboard showing sentiment trends and agent performance metrics](../image.png)
+![Call Center Analytics Agent dashboard showing sentiment trends and agent performance metrics](image.png)
 **Alt text (SEO-ready):** Call Center Analytics Agent dashboard showing sentiment trends, agent performance metrics, and automated support ticket insights on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cb2ac817-af82-5fa7-9f35-73c6568b48ff)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAG5JREFUSEtjYBgFo2AUjIJRMApGATkBAAEAAAE=)](https://uplizd.ai/solutions/cb2ac817-af82-5fa7-9f35-73c6568b48ff)
 
 ---
 

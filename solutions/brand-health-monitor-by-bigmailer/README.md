@@ -6,13 +6,13 @@ The Brand Health Monitor by BigMailer is an automated Uplizd AI workflow designe
 ---
 
 ## Demo
-![Brand Health Monitor workflow dashboard showing automated email performance alerts and deliverability metrics](../image.png)
+![Brand Health Monitor workflow dashboard showing automated email performance alerts and deliverability metrics](image.png)
 **Alt text (SEO-ready):** Brand Health Monitor Uplizd workflow dashboard for email deliverability tracking, BigMailer integration, and automated performance alerts.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/23edccd6-7ed6-5414-b7a3-10a92bf104b2)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/23edccd6-7ed6-5414-b7a3-10a92bf104b2)
 
 ---
 

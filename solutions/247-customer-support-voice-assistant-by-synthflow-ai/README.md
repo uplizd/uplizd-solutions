@@ -6,14 +6,14 @@ The 24/7 Customer Support Voice Assistant by Synthflow AI enables businesses to 
 ---
 
 ## Demo
-![24/7 Customer Support Voice Assistant workflow diagram showing voice input processing, Synthflow AI agent logic, and automated response output](../image.png)
+![24/7 Customer Support Voice Assistant workflow diagram showing voice input processing, Synthflow AI agent logic, and automated response output](image.png)
 
 **Alt text (SEO-ready):** Uplizd 24/7 Customer Support Voice Assistant workflow, AI voice agent automation, Synthflow AI integration, and automated customer service pipeline.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/10a7f7d4-f5f2-5858-880b-b8d34ed3f4c0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/10a7f7d4-f5f2-5858-880b-b8d34ed3f4c0)
 
 ---
 

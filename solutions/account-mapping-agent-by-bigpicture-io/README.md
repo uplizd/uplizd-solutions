@@ -6,13 +6,13 @@ The Account Mapping Agent is an intelligent Uplizd workflow designed to automate
 ---
 
 ## Demo
-![Account Mapping Agent workflow diagram showing CRM data integration and hierarchy visualization](../image.png)
+![Account Mapping Agent workflow diagram showing CRM data integration and hierarchy visualization](image.png)
 **Alt text (SEO-ready):** Account Mapping Agent workflow diagram showing CRM data integration and hierarchy visualization for Uplizd automated account relationship management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f95d161b-ccd8-50be-b604-f8c12059c173)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLFj4Q89245QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDZ4AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfoCxQWDiQ5V15WAAAALUlEQVQ4y2P8z8AARkBCwAATQhYfA0YNGDUg1IBRA0YNGDUg1IBRA0YNGDUg1IAAAJ5uBf8y6/4AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/f95d161b-ccd8-50be-b604-f8c12059c173)
 
 ---
 

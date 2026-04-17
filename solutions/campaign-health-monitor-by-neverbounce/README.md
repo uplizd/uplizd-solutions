@@ -6,13 +6,13 @@ The Campaign Health Monitor (Uplizd) is an automated AI workflow designed to mai
 ---
 
 ## Demo
-![Campaign Health Monitor workflow dashboard showing email list validation status and NeverBounce integration nodes](../image.png)
+![Campaign Health Monitor workflow dashboard showing email list validation status and NeverBounce integration nodes](image.png)
 **Alt text (SEO-ready):** Campaign Health Monitor Uplizd workflow showing email list validation, NeverBounce integration, and automated deliverability reporting.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/campaign-health-monitor-by-neverbounce)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/campaign-health-monitor-by-neverbounce)
 
 ---
 

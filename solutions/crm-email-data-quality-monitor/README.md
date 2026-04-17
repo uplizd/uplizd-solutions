@@ -1,135 +1,138 @@
-
 # CRM Email Data Quality Monitor (Uplizd) - Safeguard Your Email Deliverability
 
 ## Summary
-A Uplizd AI workflow that continuously monitors the quality and validity of email addresses in your CRM, protecting your sender reputation and ensuring high engagement rates for your marketing and sales outreach.
+The Uplizd CRM Email Data Quality Monitor is an automated AI workflow that continuously audits, validates, and cleans your CRM email database, ensuring high deliverability rates, protecting your sender reputation, and maintaining a clean pipeline for your marketing and sales outreach.
 
 ---
 
 ## Demo
 
-![Uplizd CRM Email Data Quality Monitor flow monitoring email validity and protecting sender reputation in CRM](../image.png)
+![Uplizd CRM Email Data Quality Monitor dashboard showing real-time email validation and CRM record updates](image.png)
 
-**Alt text (SEO-ready):** Uplizd CRM Email Data Quality Monitor verifying email addresses in real-time to maintain high deliverability and engagement.
+**Alt text (SEO-ready):** Uplizd CRM Email Data Quality Monitor verifying email addresses in real-time to maintain high deliverability and engagement across CRM platforms.
 
 ---
+
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d15badea-680d-5a50-9bb6-c6126c925000)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/d15badea-680d-5a50-9bb6-c6126c925000)
 
 ---
+
+## Category
+
+**Primary category:** Data hygiene
+**Secondary tags:** crm, email marketing, deliverability, data quality, sales operations, automation, composio, ai workflow
+
+This solution bridges the gap between raw CRM contact data and high-performance email outreach by automating the identification and removal of invalid or risky email addresses.
+
+---
+
 ## Who is this for?
-This workflow is a must-have for teams that rely on email communication as their primary channel for growth and customer success:
 
-- Email Marketing Managers
-    - Keep your bounce rates low and your deliverability high by cleaning lists before every major broadcast.
+This workflow is designed for teams that prioritize high-quality communication and data integrity:
 
-- Sales Operations (SalesOps)
-    - Ensure your sales reps are never sending emails to invalid or "risky" addresses.
-
-- Growth Engineers
-    - Automate the validation of new emails collected via sign-ups, webinars, and lead magnets.
-
-- Customer Success Managers
-    - Maintain accurate contact methods for your critical account stakeholders to ensure proactive communication.
+- **Email Marketing Managers**
+    - Maintain high sender reputation and inbox placement by scrubbing lists before every major campaign.
+- **Sales Operations (SalesOps)**
+    - Prevent sales reps from wasting time on dead-end leads by ensuring contact data is verified at the point of entry.
+- **Growth Engineers**
+    - Automate the validation of new leads collected via web forms, webinars, and lead magnets to prevent database decay.
+- **Customer Success Managers**
+    - Ensure critical account stakeholders are reachable by monitoring the health of contact records for key accounts.
 
 ---
 
 ## Features
 
-- **Real-time Email Verification**  
-  Checks for syntax errors, domain validity, and MX record presence for every email address.
+- **Real-time Email Verification**
+  Performs syntax, domain, and MX record checks to confirm an email address is active and capable of receiving mail.
 
-- **Non-Deliverable Detection**  
-  Flags "Hard Bounce" candidates and disposable/temporary email addresses for removal.
+- **Disposable Email Detection**
+  Automatically flags and filters out temporary or "burner" email addresses that negatively impact engagement metrics.
 
-- **Catch-all & Role-based Flagging**  
-  Identifies "info@", "sales@", and catch-all domains that often lead to lower engagement and higher spam risk.
+- **Catch-all & Role-based Flagging**
+  Identifies generic addresses (e.g., info@, sales@) that often lead to lower conversion rates and higher spam risk.
 
-- **Automated Bounce Prevention**  
-  Integrates with your CRM to automatically unsubscribe or flag invalid emails before they are picked up by your mailer.
+- **Automated CRM Sync**
+  Seamlessly updates CRM fields or tags to reflect the validation status of a contact, preventing manual data entry errors.
 
-- **Deliverability Health Dashboard**  
-  Provides a high-level view of your CRM's email health, including percentages of valid, risky, and invalid addresses.
+- **Deliverability Health Reporting**
+  Generates actionable insights on your CRM's email health, highlighting trends in data decay and contact quality.
 
 ---
 
 ## Use Cases
 
-- **Pre-Campaign Scrubbing**
-  - Run a quick scan on a marketing segment of 10,000 leads and remove all invalid entries before sending.
-  - Identify and fix minor typos in common domains (e.g., "@gnail.com" to "@gmail.com").
+**Pre-Campaign List Scrubbing**
+- Execute a bulk scan on a target segment of 5,000+ leads to remove invalid entries before a major product launch.
+- Correct common domain typos (e.g., "@gnail.com" to "@gmail.com") to recover potentially lost leads.
 
-- **Inbound Lead Validation**
-  - Instantly verify the email of every person who downloads a whitepaper or registers for a trial.
-  - Block or flag temporary email services (e.g., Mailinator, Yopmail) at the point of ingestion.
+**Inbound Lead Validation**
+- Instantly verify the email address of every new lead captured via landing pages or sign-up forms.
+- Block or quarantine temporary email services at the point of ingestion to keep your database pristine.
 
-- **Historical Database Cleanup**
-  - Perform a monthly scan of the entire CRM to identify emails that have become invalid over time (e.g., person left the company).
-  - Clean up legacy lists that haven't been emailed in over 6 months to prevent spam traps.
+**Historical Database Maintenance**
+- Run a monthly audit of your entire CRM to identify contacts that have become invalid due to employee turnover or company domain changes.
+- Archive or flag legacy contacts that have not been engaged in over 6 months to prevent spam traps and bounce spikes.
 
 ---
+
 ## Quick Start
 
 ### 1) Import the Flow into Uplizd
 1. Click the **Run on Uplizd** CTA button above.
-2. On Uplizd, click **Try out**.
-3. Create a new workspace or open an existing workspace.
-5. Ensure all nodes are connected correctly:
-   - **Chat Input**
-   - **Composio Toolset**
-   - **Agent**
-   - **Chat Output**
+2. Select **Try out** to launch the workflow in your Uplizd environment.
+3. Authenticate your CRM and email validation tool connectors.
+4. Ensure nodes are connected: **Chat Input** → **Agent** → **Composio Toolset** → **Chat Output**.
 
 ### 2) Setup the Nodes
-Verify the workflow structure:
-
-- **Chat Input** → receives email data or a scan request for a specific CRM list.
-- **Agent** → manages the validation logic and interprets verification results.
-- **Composio Toolset** → provides tools for email verification services and CRM updates.
-- **Chat Output** → summary of email quality metrics and records flagged.
+- **Chat Input**: Receives the trigger for a scan request or a specific CRM list ID.
+- **Agent**: Analyzes the email data, interprets validation results, and decides on the appropriate CRM action.
+- **Composio Toolset**: Executes the API calls to your email verification service and performs the write-back to your CRM.
+- **Chat Output**: Returns a summary report of the scan, including counts of valid, invalid, and risky emails found.
 
 ### 3) Run the Flow
-1. Click **Playground** to open Chat Interface.
+1. Open the **Playground** to interact with the workflow.
 2. Enter a request such as:
-   - `"Verify this list of 100 emails and flag any and all 'risky' addresses"`
-   - `"How many invalid emails are currently in the 'Unqualified Leads' view?"`
-   - `"Scrub the 'Monthly Newsletter' segment for potential bounces"`
+   - `"Verify the 'New Leads' list and flag any invalid addresses in the CRM."`
+   - `"How many risky or disposable emails are currently in our database?"`
+   - `"Scrub the 'Q3 Newsletter' segment and remove all addresses with invalid MX records."`
 
 ---
 
 ## Configuration
 
 ### 1) Language Model (Agent Node)
-The **Agent** node is tuned for deliverability standards and technical email validation.
+The **Agent** node is configured to act as a data quality specialist.
 
 Recommended instruction pattern:
-- Prioritize sender reputation and deliverability
-- Be aggressive in flagging known "risky" patterns (e.g., disposables, catch-alls)
-- Provide clear explanations for why an email is flagged as "Invalid" or "Risky"
+- Focus on maintaining high deliverability and low bounce rates.
+- Aggressively flag "risky" patterns like catch-alls and temporary domains.
+- Provide clear, concise summaries of actions taken during the validation process.
 
 ### 2) Composio Toolset Node
-Requires your **Composio API Key** and a connection to email verification APIs and your CRM.
+Requires your **Composio API Key** and authorized connections to your email verification provider (e.g., ZeroBounce, Hunter) and your CRM (e.g., Salesforce, HubSpot).
 
 ### 3) Tool Availability
-The agent can call tools for:
-- Real-time email SMTP verification
-- Domain and MX record lookup
-- Bulk CRM record updates (flagging/unsubscribing)
-- Deliverability reporting and analytics
+The agent is equipped with the following capabilities:
+- SMTP-based email verification
+- Domain/MX record lookup
+- Bulk CRM record update/tagging
+- Data reporting and analysis tools
 
 ---
 
 ## Related Solutions
 
 * **[CRM Data Hygiene Manager](../crm-data-hygiene-manager/README.md)**  
-  Continuous maintenance to ensure your CRM stays clean, organized, and free of data rot.
+  Comprehensive maintenance to ensure your CRM remains organized, standardized, and free of data rot.
 
-* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
-  Orchestrate and monitor data flows across your entire enterprise tech stack.
+* **[CRM Data Sync Agent](../crm-data-sync-agent/README.md)**  
+  Orchestrate and monitor data synchronization flows across your entire enterprise tech stack.
 
 * **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
-  Automatically update deal progress and create follow-up tasks for your sales team.
+  Automatically update deal progress and create follow-up tasks based on CRM activity.
 
 * **[CRM Address Data Cleanup Agent](../crm-address-data-cleanup-agent/README.md)**  
-  Specialized verification and standardization of physical address and location data.
+  Specialized verification and standardization of physical address and location data for better logistics.

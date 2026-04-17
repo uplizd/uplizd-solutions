@@ -6,13 +6,13 @@ The Blackboard Grade Analytics Agent is an intelligent workflow designed to stre
 ---
 
 ## Demo
-![Blackboard Grade Analytics Agent dashboard showing student performance trends and automated intervention alerts](../image.png)
+![Blackboard Grade Analytics Agent dashboard showing student performance trends and automated intervention alerts](image.png)
 **Alt text (SEO-ready):** Blackboard Grade Analytics Agent dashboard showing student performance trends, automated intervention alerts, and Uplizd AI workflow integration for academic data management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0dd1c265-8801-5da3-bf0e-e223beda3069)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0dd1c265-8801-5da3-bf0e-e223beda3069)
 
 ---
 

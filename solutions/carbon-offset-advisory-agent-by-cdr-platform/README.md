@@ -6,13 +6,13 @@ The Carbon Offset Advisory Agent is an automated Uplizd AI workflow designed to 
 ---
 
 ## Demo
-![Carbon Offset Advisory Agent workflow interface showing AI-driven project analysis and purchasing recommendations](../image.png)
+![Carbon Offset Advisory Agent workflow interface showing AI-driven project analysis and purchasing recommendations](image.png)
 **Alt text (SEO-ready):** Carbon Offset Advisory Agent workflow in Uplizd, featuring AI-powered sustainability consulting, carbon removal project analysis, and automated procurement integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1a183b0b-599b-5fd7-bd4b-5703b476b425)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1a183b0b-599b-5fd7-bd4b-5703b476b425)
 
 ---
 

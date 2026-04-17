@@ -6,13 +6,13 @@ The Appointment Reminder Agent is an intelligent Uplizd workflow designed to min
 ---
 
 ## Demo
-![Appointment Reminder Agent workflow interface showing the connection between Chat Input, Agent, DialMyCalls toolset, and Chat Output nodes.](../image.png)
+![Appointment Reminder Agent workflow interface showing the connection between Chat Input, Agent, DialMyCalls toolset, and Chat Output nodes.](image.png)
 **Alt text (SEO-ready):** Appointment Reminder Agent workflow in Uplizd, featuring DialMyCalls integration for automated voice and SMS scheduling reminders.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f92fc897-6aca-5acb-a37a-87c8aa952f5d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f92fc897-6aca-5acb-a37a-87c8aa952f5d)
 
 ---
 

@@ -6,7 +6,7 @@ The Brainstorm Synthesis Agent leverages AI to ingest raw brainstorming data, au
 ---
 
 ## Demo
-![Brainstorm Synthesis Agent workflow showing idea clustering and prioritization in Mural](../image.png)
+![Brainstorm Synthesis Agent workflow showing idea clustering and prioritization in Mural](image.png)
 **Alt text (SEO-ready):** Brainstorm Synthesis Agent by Uplizd for automated idea clustering, concept prioritization, and Mural workflow integration.
 
 ---

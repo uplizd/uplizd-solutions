@@ -6,13 +6,13 @@ The Code Reference Tracker is an intelligent Uplizd AI workflow designed to scan
 ---
 
 ## Demo
-![Code Reference Tracker dashboard showing active and stale feature flag usage across repositories](../image.png)
+![Code Reference Tracker dashboard showing active and stale feature flag usage across repositories](image.png)
 **Alt text (SEO-ready):** Code Reference Tracker dashboard showing active and stale feature flag usage across repositories for Uplizd automated code auditing and feature flag management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/347a00de-50f3-5efe-a395-27dc1138c5f9)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AMKFRQ5X5l/JgAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lQ4ucJ6AAAAElJREFUOE9jYBgFo2AUjIJRMApGATkBAAEAAAE=)](https://uplizd.ai/solutions/347a00de-50f3-5efe-a395-27dc1138c5f9)
 
 ---
 

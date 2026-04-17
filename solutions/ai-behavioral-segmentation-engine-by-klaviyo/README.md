@@ -6,13 +6,13 @@ The AI Behavioral Segmentation Engine leverages Uplizd workflows to analyze cust
 ---
 
 ## Demo
-![AI Behavioral Segmentation Engine workflow diagram showing data flow from Klaviyo through the Uplizd agent to segment output](../image.png)
+![AI Behavioral Segmentation Engine workflow diagram showing data flow from Klaviyo through the Uplizd agent to segment output](image.png)
 **Alt text (SEO-ready):** AI Behavioral Segmentation Engine workflow for Klaviyo, showing automated customer data processing, segment creation, and Uplizd AI integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/28c02a82-4238-5a3e-81c5-f4722dad53c1)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/28c02a82-4238-5a3e-81c5-f4722dad53c1)
 
 ---
 

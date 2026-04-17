@@ -6,13 +6,13 @@ The Bulk QR Cleanup Manager is an intelligent Uplizd workflow designed to automa
 ---
 
 ## Demo
-![Bulk QR Cleanup Manager workflow interface showing automated QR code status verification and deletion logic](../image.png)
+![Bulk QR Cleanup Manager workflow interface showing automated QR code status verification and deletion logic](image.png)
 **Alt text (SEO-ready):** Bulk QR Cleanup Manager workflow for automated QR code maintenance, Beaconstac integration, and Uplizd campaign hygiene.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4dcfd0a8-c249-5c87-a888-baa20ec350fb)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4dcfd0a8-c249-5c87-a888-baa20ec350fb)
 
 ---
 

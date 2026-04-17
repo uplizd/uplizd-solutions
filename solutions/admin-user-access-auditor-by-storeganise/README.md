@@ -6,13 +6,13 @@ The Admin User Access Auditor is an intelligent Uplizd workflow designed to stre
 ---
 
 ## Demo
-![Admin User Access Auditor workflow dashboard showing automated security audit logs and user permission status](../image.png)
+![Admin User Access Auditor workflow dashboard showing automated security audit logs and user permission status](image.png)
 **Alt text (SEO-ready):** Admin User Access Auditor workflow for automated security auditing, user permission management, and platform access control using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9f71f5db-0d8a-524d-9ea3-79abe1bc6409)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJMMiAxMmgydjEwaDZ2LTZoNHY2aDZsLTItMTBIMjJMMTIgMnoiLz48L3N2Zz4=)](https://uplizd.ai/solutions/9f71f5db-0d8a-524d-9ea3-79abe1bc6409)
 
 ---
 

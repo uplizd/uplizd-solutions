@@ -6,13 +6,13 @@ The Brand Asset Manager by Abyssale is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Brand Asset Manager workflow interface showing automated asset tagging and distribution](../image.png)
+![Brand Asset Manager workflow interface showing automated asset tagging and distribution](image.png)
 **Alt text (SEO-ready):** Brand Asset Manager Uplizd workflow for automated visual content governance, brand consistency, and asset distribution using Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfa5a7c6-044a-5a4a-929e-95d0b6184de3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/dfa5a7c6-044a-5a4a-929e-95d0b6184de3)
 
 ---
 

@@ -6,13 +6,13 @@ The Brand Compliance Guardian is an intelligent Uplizd workflow designed to auto
 ---
 
 ## Demo
-![Brand Compliance Guardian workflow interface showing automated proposal analysis and style enforcement](../image.png)
+![Brand Compliance Guardian workflow interface showing automated proposal analysis and style enforcement](image.png)
 **Alt text (SEO-ready):** Brand Compliance Guardian Uplizd workflow for automated proposal auditing, brand standard enforcement, and Better Proposals integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/01101e1a-574b-5583-a8dd-9018b26fd484)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDwc549419QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABCSURBVEjHY2AYBaNgFIyCUUAKwP///z8DkYABxP8H8P8/A5GAAcT/B/D/PyMRgAHE/wfw/z8jkYABxP8H8P8/IxEAAK68D/G/2/4AAAAASUVORK5CYII=)](https://uplizd.ai/solutions/01101e1a-574b-5583-a8dd-9018b26fd484)
 
 ---
 

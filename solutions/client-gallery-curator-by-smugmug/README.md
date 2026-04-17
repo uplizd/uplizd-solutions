@@ -6,13 +6,13 @@ The Client Gallery Curator by Uplizd automates the organization and preparation 
 ---
 
 ## Demo
-![Workflow diagram showing the Client Gallery Curator processing raw image uploads into structured SmugMug albums](../image.png)
+![Workflow diagram showing the Client Gallery Curator processing raw image uploads into structured SmugMug albums](image.png)
 **Alt text (SEO-ready):** Uplizd Client Gallery Curator workflow automating SmugMug album organization, asset categorization, and professional photography delivery.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed041d55-9f37-5f2e-baca-7d37ae1b019d)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ed041d55-9f37-5f2e-baca-7d37ae1b019d)
 
 ---
 

@@ -6,13 +6,13 @@ The Chat Insight Extractor is an intelligent Uplizd workflow designed to process
 ---
 
 ## Demo
-![Chat Insight Extractor workflow diagram showing transcript input, AI analysis, and action item output](../image.png)
+![Chat Insight Extractor workflow diagram showing transcript input, AI analysis, and action item output](image.png)
 **Alt text (SEO-ready):** Chat Insight Extractor Uplizd workflow diagram for automated meeting analysis, transcript processing, and action item extraction using Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b167580d-d79f-5811-955a-9b896b3bde05)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b167580d-d79f-5811-955a-9b896b3bde05)
 
 ---
 

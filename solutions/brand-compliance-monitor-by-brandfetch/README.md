@@ -6,13 +6,13 @@ The Brand Compliance Monitor is an automated AI workflow designed to ensure cons
 ---
 
 ## Demo
-![Brand Compliance Monitor dashboard showing automated asset verification and compliance alerts](../image.png)
+![Brand Compliance Monitor dashboard showing automated asset verification and compliance alerts](image.png)
 **Alt text (SEO-ready):** Brand Compliance Monitor dashboard showing automated asset verification, brand identity audit, and compliance alerts using Uplizd and Brandfetch.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/491bd1c8-a9a7-5843-92ea-8ae71671bb09)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/491bd1c8-a9a7-5843-92ea-8ae71671bb09)
 
 ---
 

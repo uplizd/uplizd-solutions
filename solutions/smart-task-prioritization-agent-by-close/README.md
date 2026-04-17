@@ -10,5 +10,5 @@ Intelligently prioritize and organize daily tasks based on deal value and urgenc
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c71fdae8-0f0b-59af-8f8e-995227152556)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c71fdae8-0f0b-59af-8f8e-995227152556)
 

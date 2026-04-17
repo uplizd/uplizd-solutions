@@ -6,13 +6,13 @@ The Brand Compliance Checker is an intelligent Uplizd workflow designed to autom
 ---
 
 ## Demo
-![Brand Compliance Checker workflow interface showing visual analysis and guideline verification](../image.png)
+![Brand Compliance Checker workflow interface showing visual analysis and guideline verification](image.png)
 **Alt text (SEO-ready):** Brand Compliance Checker (Uplizd) workflow for automated marketing asset verification, visual guideline enforcement, and AI-driven brand integrity management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c399e960-6301-50ad-9f26-a6486ebdf3ac)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c399e960-6301-50ad-9f26-a6486ebdf3ac)
 
 ---
 

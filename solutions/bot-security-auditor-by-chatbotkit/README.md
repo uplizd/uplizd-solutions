@@ -6,13 +6,13 @@ The Bot Security Auditor (Uplizd) is an automated workflow designed to continuou
 ---
 
 ## Demo
-![Bot Security Auditor workflow dashboard showing real-time security alerts and permission audit logs](../image.png)
+![Bot Security Auditor workflow dashboard showing real-time security alerts and permission audit logs](image.png)
 **Alt text (SEO-ready):** Bot Security Auditor dashboard showing real-time security alerts, permission audit logs, and Uplizd automated chatbot security workflow.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ad581351-3434-5aa5-bd39-2abf7cc29786)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ad581351-3434-5aa5-bd39-2abf7cc29786)
 
 ---
 

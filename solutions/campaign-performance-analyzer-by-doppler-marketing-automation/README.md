@@ -6,13 +6,13 @@ The Campaign Performance Analyzer is an intelligent Uplizd workflow that ingests
 ---
 
 ## Demo
-![Campaign Performance Analyzer dashboard showing email open rates, click-through metrics, and AI-generated optimization insights](../image.png)
+![Campaign Performance Analyzer dashboard showing email open rates, click-through metrics, and AI-generated optimization insights](image.png)
 **Alt text (SEO-ready):** Campaign Performance Analyzer Uplizd workflow dashboard showing email marketing metrics, performance analytics, and AI-driven optimization insights via Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/485cbfa3-e62a-52bb-9faf-2ebdc99d1ff1)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIFDRE6m+J77gAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lP4JeIDQAAADxJREFUOE9jYBgFwxAAw0A0GgYGBgYGhgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGAAD+4wH/5O7q6gAAAABJRU5ErkJggg==)](https://uplizd.ai/solutions/485cbfa3-e62a-52bb-9faf-2ebdc99d1ff1)
 
 ---
 

@@ -6,13 +6,13 @@ The Automated Image Processing Pipeline (Uplizd) streamlines visual content work
 ---
 
 ## Demo
-![Automated Image Processing Pipeline workflow showing AI model integration and image transformation steps](../image.png)
+![Automated Image Processing Pipeline workflow showing AI model integration and image transformation steps](image.png)
 **Alt text (SEO-ready):** Automated Image Processing Pipeline workflow using Uplizd, AI model integration, and Composio for scalable image enhancement and transformation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7fd6e9c5-c41a-58b3-b1a4-ecccc7293e43)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7fd6e9c5-c41a-58b3-b1a4-ecccc7293e43)
 
 ---
 

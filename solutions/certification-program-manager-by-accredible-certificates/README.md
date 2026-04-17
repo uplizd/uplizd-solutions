@@ -6,13 +6,13 @@ The Certification Program Manager by Uplizd automates the end-to-end lifecycle o
 ---
 
 ## Demo
-![Certification Program Manager workflow showing enrollment, curriculum tracking, and Accredible credential issuance](../image.png)
+![Certification Program Manager workflow showing enrollment, curriculum tracking, and Accredible credential issuance](image.png)
 **Alt text (SEO-ready):** Certification Program Manager workflow by Uplizd for automated credentialing, Accredible integration, and participant tracking.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4fa03333-153c-5d92-8843-25aa5d3613fe)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/4fa03333-153c-5d92-8843-25aa5d3613fe)
 
 ---
 

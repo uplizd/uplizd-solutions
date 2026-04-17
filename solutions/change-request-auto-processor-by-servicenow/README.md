@@ -6,13 +6,13 @@ The Change Request Auto-Processor is an intelligent Uplizd workflow designed to 
 ---
 
 ## Demo
-![Change Request Auto-Processor workflow interface showing ServiceNow integration nodes](../image.png)
+![Change Request Auto-Processor workflow interface showing ServiceNow integration nodes](image.png)
 **Alt text (SEO-ready):** Change Request Auto-Processor workflow in Uplizd, automating ServiceNow change management, IT service request routing, and approval workflows.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e8c6544f-766f-535e-a1b2-a568c066b580)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e8c6544f-766f-535e-a1b2-a568c066b580)
 
 ---
 

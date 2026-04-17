@@ -6,13 +6,13 @@ The CDN Infrastructure Manager (Uplizd) automates the provisioning, configuratio
 ---
 
 ## Demo
-![CDN Infrastructure Manager dashboard showing automated edge rule deployment and cache status monitoring](../image.png)
+![CDN Infrastructure Manager dashboard showing automated edge rule deployment and cache status monitoring](image.png)
 **Alt text (SEO-ready):** CDN Infrastructure Manager dashboard showing automated edge rule deployment and cache status monitoring for Uplizd AI workflows and BunnyCDN integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7217e11c-ac37-5189-8a74-df77f27c780b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7217e11c-ac37-5189-8a74-df77f27c780b)
 
 ---
 

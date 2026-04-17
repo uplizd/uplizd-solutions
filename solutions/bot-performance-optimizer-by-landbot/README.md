@@ -6,7 +6,7 @@ The Bot Performance Optimizer is an intelligent Uplizd workflow designed to moni
 ---
 
 ## Demo
-![Bot Performance Optimizer workflow dashboard showing real-time conversation analytics and automated optimization triggers](../image.png)
+![Bot Performance Optimizer workflow dashboard showing real-time conversation analytics and automated optimization triggers](image.png)
 **Alt text (SEO-ready):** Bot Performance Optimizer dashboard showing Uplizd workflow for chatbot analytics, conversation flow optimization, and automated A/B testing.
 
 ---

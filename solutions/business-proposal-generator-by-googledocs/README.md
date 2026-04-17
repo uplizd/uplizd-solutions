@@ -6,13 +6,13 @@ The Business Proposal Generator (Uplizd) is an intelligent AI workflow designed 
 ---
 
 ## Demo
-![Business Proposal Generator workflow interface showing Google Docs integration](../image.png)
+![Business Proposal Generator workflow interface showing Google Docs integration](image.png)
 **Alt text (SEO-ready):** Business Proposal Generator (Uplizd) workflow interface showing automated document creation, Google Docs integration, and AI-driven proposal drafting.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/005ac9f3-e913-5a4a-8eee-5a3e5e90f97f)
+[![](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/005ac9f3-e913-5a4a-8eee-5a3e5e90f97f)
 
 ---
 

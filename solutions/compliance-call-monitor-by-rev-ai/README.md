@@ -6,13 +6,13 @@ The Compliance Call Monitor is an intelligent Uplizd workflow that automates the
 ---
 
 ## Demo
-![Compliance Call Monitor workflow interface showing automated transcription and regulatory flag analysis](../image.png)
+![Compliance Call Monitor workflow interface showing automated transcription and regulatory flag analysis](image.png)
 **Alt text (SEO-ready):** Compliance Call Monitor Uplizd AI workflow for automated regulatory voice call auditing and risk detection using Rev AI and Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/86113d61-e098-58d0-8a23-3d1e68466a2b)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/86113d61-e098-58d0-8a23-3d1e68466a2b)
 
 ---
 

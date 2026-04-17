@@ -6,13 +6,13 @@ The Automated Follow-up Coordinator is an Uplizd AI workflow designed to streaml
 ---
 
 ## Demo
-![Automated Follow-up Coordinator workflow diagram showing survey input, agent processing, and CRM action execution](../image.png)
+![Automated Follow-up Coordinator workflow diagram showing survey input, agent processing, and CRM action execution](image.png)
 **Alt text (SEO-ready):** Automated Follow-up Coordinator Uplizd workflow for CRM data synchronization, lead nurturing, and automated customer follow-up actions.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cf56f7c2-3938-5e45-90d6-d193438757d6)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/cf56f7c2-3938-5e45-90d6-d193438757d6)
 
 ---
 

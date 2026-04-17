@@ -6,13 +6,13 @@ The Client Escalation Monitor is an intelligent Uplizd workflow designed to iden
 ---
 
 ## Demo
-![Client Escalation Monitor workflow diagram showing Chatwork input, AI analysis, and automated routing](../image.png)
+![Client Escalation Monitor workflow diagram showing Chatwork input, AI analysis, and automated routing](image.png)
 **Alt text (SEO-ready):** Client Escalation Monitor workflow diagram showing Chatwork input, AI analysis, and automated routing for Uplizd AI-driven support automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b738ec83-4515-5d84-8735-304aa4581931)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b738ec83-4515-5d84-8735-304aa4581931)
 
 ---
 

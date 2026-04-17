@@ -6,13 +6,13 @@ The Competitor Intelligence Agent is an automated workflow designed to streamlin
 ---
 
 ## Demo
-![Competitor Intelligence Agent workflow dashboard showing SerpApi search nodes and data analysis pipeline](../image.png)
+![Competitor Intelligence Agent workflow dashboard showing SerpApi search nodes and data analysis pipeline](image.png)
 **Alt text (SEO-ready):** Competitor Intelligence Agent dashboard showing automated market research, SerpApi data extraction, and competitive analysis workflow on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d256611-712b-5326-b624-e0bc85157e87)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d256611-712b-5326-b624-e0bc85157e87)
 
 ---
 

@@ -6,13 +6,13 @@ The Bulk LinkedIn Profile Processor is an intelligent Uplizd workflow that autom
 ---
 
 ## Demo
-![Bulk LinkedIn Profile Processor workflow showing data extraction from LinkedIn to CRM](../image.png)
+![Bulk LinkedIn Profile Processor workflow showing data extraction from LinkedIn to CRM](image.png)
 **Alt text (SEO-ready):** Uplizd workflow for bulk LinkedIn profile processing, contact data extraction, and lead enrichment using AeroLeads and Composio integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2706f7e6-716a-520c-8d8e-bb76a338dca1)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2706f7e6-716a-520c-8d8e-bb76a338dca1)
 
 ---
 

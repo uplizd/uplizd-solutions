@@ -6,13 +6,13 @@ The CMS Migration Assistant is an intelligent Uplizd workflow designed to automa
 ---
 
 ## Demo
-![CMS Migration Assistant workflow showing content mapping and synchronization between CMS platforms](../image.png)
+![CMS Migration Assistant workflow showing content mapping and synchronization between CMS platforms](image.png)
 **Alt text (SEO-ready):** CMS Migration Assistant workflow for automated content synchronization, data mapping, and migration between CMS platforms using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c38156a-ad32-5e94-97ce-ec6fd403485c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0c38156a-ad32-5e94-97ce-ec6fd403485c)
 
 ---
 

@@ -6,7 +6,7 @@ The Automated Invoice Mailer by DocuPost is an intelligent Uplizd workflow desig
 ---
 
 ## Demo
-![Automated Invoice Mailer workflow interface showing document processing and DocuPost integration](../image.png)
+![Automated Invoice Mailer workflow interface showing document processing and DocuPost integration](image.png)
 **Alt text (SEO-ready):** Automated Invoice Mailer workflow in Uplizd, featuring DocuPost integration for physical document processing and automated billing delivery.
 
 ---

@@ -6,13 +6,13 @@ The Client Billing Performance Analyzer is an intelligent Uplizd workflow design
 ---
 
 ## Demo
-![Client Billing Performance Analyzer workflow showing Zoho Invoice data integration and AI-driven financial reporting](../image.png)
+![Client Billing Performance Analyzer workflow showing Zoho Invoice data integration and AI-driven financial reporting](image.png)
 **Alt text (SEO-ready):** Client Billing Performance Analyzer workflow, Uplizd AI automation, Zoho Invoice data integration, financial reporting, and revenue cycle management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b215963a-ed88-561f-a7af-38a4f5333b36)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b215963a-ed88-561f-a7af-38a4f5333b36)
 
 ---
 

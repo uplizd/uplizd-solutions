@@ -6,13 +6,13 @@ The Academic Impact Tracker is an automated Uplizd workflow designed to monitor,
 ---
 
 ## Demo
-![Academic Impact Tracker workflow showing citation data retrieval and analysis](../image.png)
+![Academic Impact Tracker workflow showing citation data retrieval and analysis](image.png)
 **Alt text (SEO-ready):** Academic Impact Tracker Uplizd workflow for automated citation analysis, research influence monitoring, and Semantic Scholar data integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7c352a89-9dec-5b97-99a8-5ee81e5a4046)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7c352a89-9dec-5b97-99a8-5ee81e5a4046)
 
 ---
 

@@ -6,13 +6,13 @@ The Campaign Performance Optimizer by Uplizd is an intelligent AI workflow desig
 ---
 
 ## Demo
-![Campaign Performance Optimizer dashboard showing automated email engagement metrics and optimization suggestions](../image.png)
+![Campaign Performance Optimizer dashboard showing automated email engagement metrics and optimization suggestions](image.png)
 **Alt text (SEO-ready):** Campaign Performance Optimizer dashboard showing automated email engagement metrics, Klaviyo integration, and AI-driven content optimization for Uplizd workflows.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/05fb8ffe-4cf2-58e1-928a-2767de4c7cbc)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/05fb8ffe-4cf2-58e1-928a-2767de4c7cbc)
 
 ---
 

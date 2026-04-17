@@ -6,7 +6,7 @@ The Automated Performance Monitor is an intelligent Uplizd workflow that continu
 ---
 
 ## Demo
-![Automated Performance Monitor dashboard showing real-time latency metrics and alert triggers](../image.png)
+![Automated Performance Monitor dashboard showing real-time latency metrics and alert triggers](image.png)
 **Alt text (SEO-ready):** Automated Performance Monitor dashboard showing real-time latency metrics and alert triggers for Uplizd API health workflows and BlazeMeter integrations.
 
 ---

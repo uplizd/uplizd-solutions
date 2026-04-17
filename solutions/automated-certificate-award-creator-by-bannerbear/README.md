@@ -6,13 +6,13 @@ The Automated Certificate Award Creator (Uplizd) is an intelligent workflow desi
 ---
 
 ## Demo
-![Automated Certificate and Award generation workflow showing Chat Input, Agent, Bannerbear integration, and Chat Output nodes](../image.png)
+![Automated Certificate and Award generation workflow showing Chat Input, Agent, Bannerbear integration, and Chat Output nodes](image.png)
 **Alt text (SEO-ready):** Automated certificate generation workflow on Uplizd using Bannerbear for personalized award creation and automated document delivery.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d92da89-6e1f-5a84-af96-e3760c4e376a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/8d92da89-6e1f-5a84-af96-e3760c4e376a)
 
 ---
 

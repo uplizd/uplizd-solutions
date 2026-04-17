@@ -6,13 +6,13 @@ The CallPage Performance Monitor (Uplizd) provides an automated workflow to trac
 ---
 
 ## Demo
-![CallPage Performance Monitor dashboard showing real-time conversion metrics and agent-driven alerts](../image.png)
+![CallPage Performance Monitor dashboard showing real-time conversion metrics and agent-driven alerts](image.png)
 **Alt text (SEO-ready):** CallPage Performance Monitor dashboard displaying real-time widget conversion metrics, Uplizd workflow automation, and CallPage analytics integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/106f4c62-9374-595c-8ee0-600b9df0558f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/106f4c62-9374-595c-8ee0-600b9df0558f)
 
 ---
 

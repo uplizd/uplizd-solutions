@@ -6,13 +6,13 @@ The Bonsai Incident Response Assistant is an intelligent Uplizd workflow designe
 ---
 
 ## Demo
-![Bonsai Incident Response Assistant workflow dashboard showing automated alert analysis and remediation steps](../image.png)
+![Bonsai Incident Response Assistant workflow dashboard showing automated alert analysis and remediation steps](image.png)
 **Alt text (SEO-ready):** Bonsai Incident Response Assistant dashboard showing Uplizd AI workflow for automated Elasticsearch incident diagnosis, remediation, and Composio tool integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8ddf4f9-3234-5640-86fd-4390862c7a89)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f8ddf4f9-3234-5640-86fd-4390862c7a89)
 
 ---
 

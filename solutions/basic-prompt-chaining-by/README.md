@@ -6,13 +6,13 @@ The Basic Prompt Chaining solution enables complex AI reasoning by linking seque
 ---
 
 ## Demo
-![Basic Prompt Chaining workflow diagram showing sequential node connections from Chat Input to Agent to Chat Output](../image.png)
+![Basic Prompt Chaining workflow diagram showing sequential node connections from Chat Input to Agent to Chat Output](image.png)
 **Alt text (SEO-ready):** Basic Prompt Chaining workflow in Uplizd showing sequential AI agent processing, prompt orchestration, and automated text pipeline integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1116060e-d060-50c7-8011-f92349e7319f)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVEhLY2AYBaNgFIyCUUAKwP///z8G0gB2dHQ0A20A20B2dHQ0A20A20B2dHQ0A20A20B2dHQ0A20A20B2dHQ0AAAM4Q0l+C7J6gAAAABJRU5ErkJggg==)](https://uplizd.ai/solutions/1116060e-d060-50c7-8011-f92349e7319f)
 
 ---
 

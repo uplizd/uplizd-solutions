@@ -6,13 +6,13 @@ The CMS Content Auditor is an intelligent Uplizd workflow designed to streamline
 ---
 
 ## Demo
-![CMS Content Auditor workflow dashboard showing automated content scanning and compliance reporting](../image.png)
+![CMS Content Auditor workflow dashboard showing automated content scanning and compliance reporting](image.png)
 **Alt text (SEO-ready):** CMS Content Auditor Uplizd workflow for automated content quality, SEO compliance, and headless CMS data hygiene.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61373690-669e-5b00-9240-85d69edfcd52)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/61373690-669e-5b00-9240-85d69edfcd52)
 
 ---
 

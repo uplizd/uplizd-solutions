@@ -6,13 +6,13 @@ The Client Cleanup Manager is an intelligent Uplizd workflow designed to streaml
 ---
 
 ## Demo
-![Client Cleanup Manager workflow showing Everhour integration for automated data archiving](../image.png)
+![Client Cleanup Manager workflow showing Everhour integration for automated data archiving](image.png)
 **Alt text (SEO-ready):** Client Cleanup Manager (Uplizd) workflow for automated Everhour data hygiene, client archiving, and workspace optimization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5be72e17-5972-5c8a-9cad-2cd4d333e348)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5be72e17-5972-5c8a-9cad-2cd4d333e348)
 
 ---
 

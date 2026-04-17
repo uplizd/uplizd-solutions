@@ -6,13 +6,13 @@ The Competitor Link Intelligence solution enables marketing and growth teams to 
 ---
 
 ## Demo
-![Competitor Link Intelligence workflow dashboard showing real-time short link tracking and competitor campaign analysis](../image.png)
+![Competitor Link Intelligence workflow dashboard showing real-time short link tracking and competitor campaign analysis](image.png)
 **Alt text (SEO-ready):** Competitor Link Intelligence workflow dashboard showing real-time short link tracking and competitor campaign analysis using Uplizd and Composio.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/781dee59-6f1f-547b-b56f-19949898989b)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/781dee59-6f1f-547b-b56f-19949898989b)
 
 ---
 

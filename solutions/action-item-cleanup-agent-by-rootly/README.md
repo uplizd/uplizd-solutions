@@ -6,13 +6,13 @@ The Action Item Cleanup Agent is an intelligent workflow designed to streamline 
 ---
 
 ## Demo
-![Action Item Cleanup Agent workflow interface showing automated task filtering and archival logic](../image.png)
+![Action Item Cleanup Agent workflow interface showing automated task filtering and archival logic](image.png)
 **Alt text (SEO-ready):** Uplizd Action Item Cleanup Agent workflow interface showing automated task filtering, archival logic, and task management integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eadfb174-717a-51a9-bfbb-47a6ebeb70a3)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-Launch_Solution-blue)](https://uplizd.ai/solutions/eadfb174-717a-51a9-bfbb-47a6ebeb70a3)
 
 ---
 

@@ -6,13 +6,13 @@ The AI Testimonial Curator by Endorsal is an intelligent workflow designed to st
 ---
 
 ## Demo
-![AI Testimonial Curator workflow showing Endorsal integration and automated categorization](../image.png)
+![AI Testimonial Curator workflow showing Endorsal integration and automated categorization](image.png)
 **Alt text (SEO-ready):** AI Testimonial Curator workflow by Uplizd, automating social proof collection, Endorsal data integration, and marketing content categorization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f2fc5ff6-460d-5d44-98cf-cfc9052baf18)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f2fc5ff6-460d-5d44-98cf-cfc9052baf18)
 
 ---
 

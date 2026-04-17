@@ -6,13 +6,13 @@ The Cat Breed Advisory Agent is an AI-powered workflow designed to provide perso
 ---
 
 ## Demo
-![Cat Breed Advisory Agent workflow interface showing breed recommendation logic and care data retrieval](../image.png)
+![Cat Breed Advisory Agent workflow interface showing breed recommendation logic and care data retrieval](image.png)
 **Alt text (SEO-ready):** Cat Breed Advisory Agent workflow interface showing breed recommendation logic and care data retrieval for Uplizd AI-driven pet management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e1341c41-d4a3-547b-a471-32b14fef0031)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e1341c41-d4a3-547b-a471-32b14fef0031)
 
 ---
 

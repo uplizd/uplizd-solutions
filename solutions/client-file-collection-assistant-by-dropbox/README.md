@@ -6,7 +6,7 @@ The Client File Collection Assistant is an intelligent Uplizd workflow designed 
 ---
 
 ## Demo
-![Client File Collection Assistant workflow showing Dropbox integration and automated file sorting](../image.png)
+![Client File Collection Assistant workflow showing Dropbox integration and automated file sorting](image.png)
 **Alt text (SEO-ready):** Uplizd Client File Collection Assistant workflow automating Dropbox document requests and file organization for improved data management.
 
 ---

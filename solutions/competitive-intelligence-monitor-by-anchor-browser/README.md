@@ -6,13 +6,13 @@ The Competitive Intelligence Monitor is an automated Uplizd workflow designed to
 ---
 
 ## Demo
-![Competitive Intelligence Monitor dashboard showing real-time competitor tracking and web data extraction](../image.png)
+![Competitive Intelligence Monitor dashboard showing real-time competitor tracking and web data extraction](image.png)
 **Alt text (SEO-ready):** Competitive Intelligence Monitor Uplizd workflow for real-time market tracking, competitor web scraping, and automated business intelligence analysis.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/70f484bd-dc53-5ee7-bb5e-26a82f294535)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLFzQk5q3s7QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lPUEckHcJUAAAAW0lEQVR42mP8z8AARkBx4P///zM0NjaG/wH5h4GBgQFIwP///zM0NjaG/wH5h4GBgQFIwP///zM0NjaG/wH5h4GBgQFIwP///zM0NjaG/wH5h4GBgQFIwP8AAJ44D41z71JkAAAAAElFTkSuQmCC)](https://uplizd.ai/solutions/70f484bd-dc53-5ee7-bb5e-26a82f294535)
 
 ---
 

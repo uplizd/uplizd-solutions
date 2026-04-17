@@ -6,13 +6,13 @@ The Client Relationship Monitor is an intelligent Uplizd workflow designed to tr
 ---
 
 ## Demo
-![Client Relationship Monitor workflow dashboard showing engagement scores and risk alerts](../image.png)
+![Client Relationship Monitor workflow dashboard showing engagement scores and risk alerts](image.png)
 **Alt text (SEO-ready):** Client Relationship Monitor dashboard in Uplizd showing engagement scores, risk alerts, and automated CRM data synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c2fa0da-7057-5e8a-b885-ab058ac742aa)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5c2fa0da-7057-5e8a-b885-ab058ac742aa)
 
 ---
 

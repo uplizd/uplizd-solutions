@@ -6,13 +6,13 @@ The Account Relationship Builder is an intelligent Uplizd workflow designed to a
 ---
 
 ## Demo
-![Account Relationship Builder workflow diagram showing Dynamics 365 integration and automated data enrichment](../image.png)
+![Account Relationship Builder workflow diagram showing Dynamics 365 integration and automated data enrichment](image.png)
 **Alt text (SEO-ready):** Account Relationship Builder Uplizd workflow for Dynamics 365 CRM data enrichment, account mapping, and automated stakeholder relationship management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/0379353c-4ffb-50a7-be2c-cc211c786094)
+[![](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDTAk57oP+wAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAIElEQVR42mP8z8AARsBw1AAGMIIhDkYQZAAjGOKgBwAAlQ8D/a/15/sAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/0379353c-4ffb-50a7-be2c-cc211c786094)
 
 ---
 

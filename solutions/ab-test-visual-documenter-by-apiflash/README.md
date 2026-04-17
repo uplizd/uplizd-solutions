@@ -6,13 +6,13 @@ The A/B Test Visual Documenter is an automated Uplizd AI workflow designed to st
 ---
 
 ## Demo
-![A/B Test Visual Documenter workflow showing automated screenshot capture and documentation](../image.png)
+![A/B Test Visual Documenter workflow showing automated screenshot capture and documentation](image.png)
 **Alt text (SEO-ready):** A/B Test Visual Documenter workflow in Uplizd, demonstrating automated screenshot capture, visual documentation, and integration with ApiFlash for A/B testing analysis.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f4731716-5966-5acd-b2db-904f1844bb30)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f4731716-5966-5acd-b2db-904f1844bb30)
 
 ---
 

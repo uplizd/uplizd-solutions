@@ -6,7 +6,7 @@ The Automated Search Index Manager is an AI-powered workflow designed to synchro
 ---
 
 ## Demo
-![Automated Search Index Manager workflow showing Chat Input, Agent, Algolia Composio Toolset, and Chat Output nodes](../image.png)
+![Automated Search Index Manager workflow showing Chat Input, Agent, Algolia Composio Toolset, and Chat Output nodes](image.png)
 **Alt text (SEO-ready):** Automated Search Index Manager workflow in Uplizd, featuring Algolia integration for real-time search index synchronization and AI-driven data optimization.
 
 ---

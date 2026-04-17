@@ -6,13 +6,13 @@ The Bot Health Monitor (Uplizd) is an intelligent automation workflow designed t
 ---
 
 ## Demo
-![Bot Health Monitor dashboard showing real-time uptime, response latency, and automated error resolution logs](../image.png)
+![Bot Health Monitor dashboard showing real-time uptime, response latency, and automated error resolution logs](image.png)
 **Alt text (SEO-ready):** Bot Health Monitor dashboard displaying real-time chatbot uptime, latency metrics, and automated error resolution logs for Uplizd AI workflows.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/858406bb-c40b-5636-a5ef-c1ef6b4c824c)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/858406bb-c40b-5636-a5ef-c1ef6b4c824c)
 
 ---
 

@@ -6,13 +6,13 @@ The Campaign Performance Monitor is an automated Uplizd AI workflow designed to 
 ---
 
 ## Demo
-![Campaign Performance Monitor dashboard showing real-time outreach metrics and conversion trends](../image.png)
+![Campaign Performance Monitor dashboard showing real-time outreach metrics and conversion trends](image.png)
 **Alt text (SEO-ready):** Campaign Performance Monitor dashboard showing real-time outreach metrics, HeyReach integration, and automated conversion trend analysis on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f1d7d156-66da-5018-b31a-322155330f1f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/f1d7d156-66da-5018-b31a-322155330f1f)
 
 ---
 

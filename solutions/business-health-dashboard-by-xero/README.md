@@ -6,13 +6,13 @@ The Business Health Dashboard (Uplizd) provides a centralized, automated workflo
 ---
 
 ## Demo
-![Business Health Dashboard workflow showing Xero integration and automated financial reporting](../image.png)
+![Business Health Dashboard workflow showing Xero integration and automated financial reporting](image.png)
 **Alt text (SEO-ready):** Business Health Dashboard (Uplizd) workflow for automated financial reporting, Xero data integration, and real-time business performance monitoring.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5ad6d301-1d4e-5a07-b74f-de314f97529f)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/5ad6d301-1d4e-5a07-b74f-de314f97529f)
 
 ---
 

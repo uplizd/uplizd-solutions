@@ -6,7 +6,7 @@ The AI Workflow Debugger (Uplizd) provides a comprehensive diagnostic environmen
 ---
 
 ## Demo
-![AI Workflow Debugger interface showing real-time node execution logs and error diagnostics](../image.png)
+![AI Workflow Debugger interface showing real-time node execution logs and error diagnostics](image.png)
 **Alt text (SEO-ready):** AI Workflow Debugger interface showing real-time node execution logs and error diagnostics for Uplizd AI workflows and Composio tool integrations.
 
 ---

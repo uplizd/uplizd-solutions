@@ -6,13 +6,13 @@ The Company Policy Document Creator is an intelligent Uplizd workflow designed t
 ---
 
 ## Demo
-![Company Policy Document Creator workflow interface showing Google Docs integration and AI policy drafting](../image.png)
+![Company Policy Document Creator workflow interface showing Google Docs integration and AI policy drafting](image.png)
 **Alt text (SEO-ready):** Company Policy Document Creator (Uplizd) workflow interface for automated policy drafting and Google Docs integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/63f5cae5-090a-523e-b477-34197331f9e0)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/63f5cae5-090a-523e-b477-34197331f9e0)
 
 ---
 

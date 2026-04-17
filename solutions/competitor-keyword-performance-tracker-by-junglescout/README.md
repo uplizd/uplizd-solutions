@@ -6,13 +6,13 @@ The Competitor Keyword Performance Tracker is an automated Uplizd AI workflow de
 ---
 
 ## Demo
-![Competitor Keyword Performance Tracker dashboard showing keyword ranking fluctuations and competitor share of voice](../image.png)
+![Competitor Keyword Performance Tracker dashboard showing keyword ranking fluctuations and competitor share of voice](image.png)
 **Alt text (SEO-ready):** Competitor Keyword Performance Tracker dashboard showing keyword ranking fluctuations, search volume trends, and competitor share of voice analysis within the Uplizd AI workflow.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c771009b-e6c7-5f9a-852c-d5293dc82284)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c771009b-e6c7-5f9a-852c-d5293dc82284)
 
 ---
 

@@ -10,5 +10,5 @@ Track technical specification changes and impact analysis
 ## 🔗 Solution Access
 You can find the live solution or the primary resource at the link below:
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/716f86ab-0ebe-55a7-a33d-8b18e6ba6247)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/716f86ab-0ebe-55a7-a33d-8b18e6ba6247)
 

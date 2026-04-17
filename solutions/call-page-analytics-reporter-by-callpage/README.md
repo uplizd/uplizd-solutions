@@ -6,13 +6,13 @@ The CallPage Analytics Reporter is an intelligent Uplizd workflow designed to au
 ---
 
 ## Demo
-![CallPage Analytics Reporter workflow showing data extraction from CallPage and automated report generation](../image.png)
+![CallPage Analytics Reporter workflow showing data extraction from CallPage and automated report generation](image.png)
 **Alt text (SEO-ready):** CallPage Analytics Reporter workflow in Uplizd, showing automated call data extraction, lead conversion analysis, and performance reporting integrations.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d4db2e54-948b-577f-9a3c-a86c91f4ad13)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,...)](https://uplizd.ai/solutions/d4db2e54-948b-577f-9a3c-a86c91f4ad13)
 
 ---
 

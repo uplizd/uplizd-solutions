@@ -6,13 +6,13 @@ The Channel Performance Monitor (Uplizd) is an automated AI workflow designed to
 ---
 
 ## Demo
-![Channel Performance Monitor dashboard showing booking conversion rates and channel distribution metrics](../image.png)
+![Channel Performance Monitor dashboard showing booking conversion rates and channel distribution metrics](image.png)
 **Alt text (SEO-ready):** Channel Performance Monitor dashboard showing booking conversion rates and channel distribution metrics for Lodgify users, powered by Uplizd AI workflows.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/410ecef7-4087-53dc-8509-a7e104c5279f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/410ecef7-4087-53dc-8509-a7e104c5279f)
 
 ---
 

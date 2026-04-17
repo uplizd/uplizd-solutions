@@ -6,13 +6,13 @@ The Automated Client Onboarding solution leverages the Uplizd AI workflow to ins
 ---
 
 ## Demo
-![Automated Client Onboarding workflow showing CRM data integration with PandaDoc document generation](../image.png)
+![Automated Client Onboarding workflow showing CRM data integration with PandaDoc document generation](image.png)
 **Alt text (SEO-ready):** Automated Client Onboarding workflow using Uplizd, PandaDoc, and CRM integrations for seamless document generation and pipeline velocity.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c4f1895e-d949-568e-9c17-7bd818964660)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c4f1895e-d949-568e-9c17-7bd818964660)
 
 ---
 

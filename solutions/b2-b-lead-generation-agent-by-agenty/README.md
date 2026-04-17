@@ -6,13 +6,13 @@ The B2B Lead Generation Agent by Agenty is a powerful Uplizd workflow designed t
 ---
 
 ## Demo
-![B2B Lead Generation Agent workflow showing web extraction nodes and CRM integration](../image.png)
+![B2B Lead Generation Agent workflow showing web extraction nodes and CRM integration](image.png)
 **Alt text (SEO-ready):** B2B Lead Generation Agent workflow by Agenty for automated sales prospecting, web scraping, and CRM data enrichment on Uplizd.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6d16cc1a-d980-5a84-b70c-2bd0fd585677)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6d16cc1a-d980-5a84-b70c-2bd0fd585677)
 
 ---
 

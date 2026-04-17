@@ -6,13 +6,13 @@ The API Key Provisioner by DigiCert is an intelligent Uplizd workflow that autom
 ---
 
 ## Demo
-![API Key Provisioner workflow showing the automated sequence from Chat Input to DigiCert credential generation and secure output](../image.png)
+![API Key Provisioner workflow showing the automated sequence from Chat Input to DigiCert credential generation and secure output](image.png)
 **Alt text (SEO-ready):** API Key Provisioner workflow for automated credential management, Uplizd AI agent, DigiCert integration, and secure API key scoping.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c54017ff-842f-5ef9-9492-c59b3d3b12c0)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c54017ff-842f-5ef9-9492-c59b3d3b12c0)
 
 ---
 

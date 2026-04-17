@@ -6,13 +6,13 @@ The Automated Survey Research Agent leverages AI-driven voice and text interacti
 ---
 
 ## Demo
-![Automated Survey Research Agent workflow showing Chat Input, AI Agent, Composio Toolset, and Chat Output nodes](../image.png)
+![Automated Survey Research Agent workflow showing Chat Input, AI Agent, Composio Toolset, and Chat Output nodes](image.png)
 **Alt text (SEO-ready):** Automated Survey Research Agent workflow on Uplizd for market research, customer feedback collection, and AI-driven data synthesis.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b9faf02-df6d-5d7f-9254-c10ad22d4cc5)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/9b9faf02-df6d-5d7f-9254-c10ad22d4cc5)
 
 ---
 

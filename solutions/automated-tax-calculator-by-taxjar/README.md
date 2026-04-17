@@ -6,13 +6,13 @@ The Automated Tax Calculator by TaxJar is an intelligent Uplizd workflow that au
 ---
 
 ## Demo
-![Automated Tax Calculator workflow interface showing tax calculation nodes and TaxJar integration](../image.png)
+![Automated Tax Calculator workflow interface showing tax calculation nodes and TaxJar integration](image.png)
 **Alt text (SEO-ready):** Automated Tax Calculator workflow in Uplizd using TaxJar integration for real-time sales tax compliance and financial data accuracy.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/fc8e78cc-e7cf-523f-90c0-98dfba08399b)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDTA64614+QAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lMPeJc2QAAACxJREFUOE9jZGBg+A/Ew0BMAwN+g/gPBiMhGg00DkY1Gg00DkY1Gg00DkY1Gg0AAL+8A/H3/65yAAAAAElFTkSuQmCC)](https://uplizd.ai/solutions/fc8e78cc-e7cf-523f-90c0-98dfba08399b)
 
 ---
 

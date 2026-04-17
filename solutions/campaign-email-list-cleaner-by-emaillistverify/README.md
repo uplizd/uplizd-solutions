@@ -6,13 +6,13 @@ The Campaign Email List Cleaner (Uplizd) is an automated workflow designed to sa
 ---
 
 ## Demo
-![Campaign Email List Cleaner workflow diagram showing email input, verification agent, and cleaned output](../image.png)
+![Campaign Email List Cleaner workflow diagram showing email input, verification agent, and cleaned output](image.png)
 **Alt text (SEO-ready):** Campaign Email List Cleaner workflow for Uplizd, automating email verification, marketing list hygiene, and bounce rate reduction using the Composio Toolset.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e76bf586-c1a1-53c1-a714-ecb21a6ce453)
+[![](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMTJoM3Y5aDZ2LTdoMnY3aDZ2LTloM0wxMiAyeiIvPjwvc3ZnPg==)](https://uplizd.ai/solutions/e76bf586-c1a1-53c1-a714-ecb21a6ce453)
 
 ---
 

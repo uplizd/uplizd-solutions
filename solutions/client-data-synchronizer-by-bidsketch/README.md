@@ -6,13 +6,13 @@ The Client Data Synchronizer (Uplizd) is an intelligent automation workflow desi
 ---
 
 ## Demo
-![Client Data Synchronizer workflow diagram showing Bidsketch integration with CRM systems](../image.png)
+![Client Data Synchronizer workflow diagram showing Bidsketch integration with CRM systems](image.png)
 **Alt text (SEO-ready):** Client Data Synchronizer (Uplizd) workflow diagram showing Bidsketch and CRM data integration for automated client record synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6757415d-865d-5b23-aded-cbb13d5f8c60)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/6757415d-865d-5b23-aded-cbb13d5f8c60)
 
 ---
 

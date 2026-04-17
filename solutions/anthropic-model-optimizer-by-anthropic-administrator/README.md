@@ -6,13 +6,13 @@ The Anthropic Model Optimizer is an intelligent Uplizd AI workflow designed to d
 ---
 
 ## Demo
-![Anthropic Model Optimizer workflow showing model selection logic and API routing](../image.png)
+![Anthropic Model Optimizer workflow showing model selection logic and API routing](image.png)
 **Alt text (SEO-ready):** Anthropic Model Optimizer Uplizd workflow for automated Claude model selection, cost optimization, and AI performance management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/34b2db58-e5e1-56ab-810a-77a4bce83b94)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AQLDTAQ6t3y+wAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDZ4AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfoAQsMExn4V6aMAAAAKklEQVR4nGNgGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFAMAAL4AAAGJ62YAAAAASUVORK5CYII=)](https://uplizd.ai/solutions/34b2db58-e5e1-56ab-810a-77a4bce83b94)
 
 ---
 

@@ -6,13 +6,13 @@ The API Key Lifecycle Manager automates the security-critical process of rotatin
 ---
 
 ## Demo
-![API Key Lifecycle Manager workflow showing ngrok integration and automated rotation](../image.png)
+![API Key Lifecycle Manager workflow showing ngrok integration and automated rotation](image.png)
 **Alt text (SEO-ready):** API Key Lifecycle Manager by Uplizd, ngrok security automation, automated API key rotation, Composio workflow, and infrastructure security management.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eec54af7-0d67-5407-b253-64b58cd3edb8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/eec54af7-0d67-5407-b253-64b58cd3edb8)
 
 ---
 

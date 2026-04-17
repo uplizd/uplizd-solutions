@@ -6,13 +6,13 @@ The Code Review Validator by Uplizd is an intelligent AI workflow that cross-ref
 ---
 
 ## Demo
-![Code Review Validator workflow interface showing an agent validating a pull request comment against Stack Exchange data](../image.png)
+![Code Review Validator workflow interface showing an agent validating a pull request comment against Stack Exchange data](image.png)
 **Alt text (SEO-ready):** Code Review Validator workflow by Uplizd, automated code quality assurance, Stack Exchange integration, AI-powered engineering feedback.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2885a64c-df3a-5f74-aced-f8960f8b8ca8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2885a64c-df3a-5f74-aced-f8960f8b8ca8)
 
 ---
 

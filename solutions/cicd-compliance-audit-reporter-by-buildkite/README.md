@@ -6,13 +6,13 @@ The CI/CD Compliance Audit Reporter is an automated Uplizd AI workflow designed 
 ---
 
 ## Demo
-![CI/CD Compliance Audit Reporter dashboard showing automated pipeline security scan results and policy violation alerts](../image.png)
+![CI/CD Compliance Audit Reporter dashboard showing automated pipeline security scan results and policy violation alerts](image.png)
 **Alt text (SEO-ready):** CI/CD Compliance Audit Reporter by Uplizd, automated pipeline security scanning, Buildkite infrastructure governance, and compliance monitoring workflow.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/410f42e6-5ee0-5a1d-8fc1-1ee48c10caab)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on_Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/410f42e6-5ee0-5a1d-8fc1-1ee48c10caab)
 
 ---
 

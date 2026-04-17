@@ -6,13 +6,13 @@ The Automated Sales Qualification Caller (Uplizd) leverages advanced voice AI to
 ---
 
 ## Demo
-![Automated Sales Qualification Caller workflow diagram showing Bolna voice agent integration with CRM tools](../image.png)
+![Automated Sales Qualification Caller workflow diagram showing Bolna voice agent integration with CRM tools](image.png)
 **Alt text (SEO-ready):** Automated Sales Qualification Caller workflow using Uplizd, Bolna voice AI, and CRM integrations for real-time lead screening.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3e0fce0-4c71-519e-b1f1-4e685545adbf)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e3e0fce0-4c71-519e-b1f1-4e685545adbf)
 
 ---
 

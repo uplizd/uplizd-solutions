@@ -6,13 +6,13 @@ The AI Talent Matching Engine (Uplizd) leverages intelligent agent workflows to 
 ---
 
 ## Demo
-![AI Talent Matching Engine workflow diagram showing candidate data ingestion, skill extraction, and Workday profile matching](../image.png)
+![AI Talent Matching Engine workflow diagram showing candidate data ingestion, skill extraction, and Workday profile matching](image.png)
 **Alt text (SEO-ready):** AI Talent Matching Engine by Uplizd, automated candidate screening, Workday integration, recruitment workflow, talent acquisition automation.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d513aca8-a4b4-5903-866f-b9a586d027a9)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/d513aca8-a4b4-5903-866f-b9a586d027a9)
 
 ---
 

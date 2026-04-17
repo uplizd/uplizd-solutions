@@ -6,13 +6,13 @@ The AI Research Assistant (Uplizd) leverages the power of Perplexity AI to trans
 ---
 
 ## Demo
-![AI Research Assistant workflow diagram showing Chat Input, Perplexity Agent, and Output](../image.png)
+![AI Research Assistant workflow diagram showing Chat Input, Perplexity Agent, and Output](image.png)
 **Alt text (SEO-ready):** AI Research Assistant workflow for automated web research, real-time data synthesis, and knowledge retrieval using Uplizd and Perplexity AI.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/91c5368e-b457-5897-a77a-2952ab679371)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-Launch%20Solution-blue)](https://uplizd.ai/solutions/91c5368e-b457-5897-a77a-2952ab679371)
 
 ---
 

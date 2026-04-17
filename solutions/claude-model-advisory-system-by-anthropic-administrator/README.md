@@ -6,13 +6,13 @@ The Claude Model Advisory System is an intelligent Uplizd workflow designed to a
 ---
 
 ## Demo
-![Claude Model Advisory System interface showing model recommendation logic and technical constraint analysis](../image.png)
+![Claude Model Advisory System interface showing model recommendation logic and technical constraint analysis](image.png)
 **Alt text (SEO-ready):** Claude Model Advisory System Uplizd workflow interface showing AI model recommendation, technical constraint analysis, and Anthropic Claude integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/57713b13-8e66-5396-bc2b-f0ec0b160b22)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAG5JREFUSEtjYBgFo2AUjIJRMApGATkBAAEAAAE=)](https://uplizd.ai/solutions/57713b13-8e66-5396-bc2b-f0ec0b160b22)
 
 ---
 

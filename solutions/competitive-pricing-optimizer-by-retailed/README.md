@@ -6,13 +6,13 @@ The Competitive Pricing Optimizer is an intelligent Uplizd workflow designed to 
 ---
 
 ## Demo
-![Competitive Pricing Optimizer workflow dashboard showing real-time competitor data integration and automated price adjustment triggers](../image.png)
+![Competitive Pricing Optimizer workflow dashboard showing real-time competitor data integration and automated price adjustment triggers](image.png)
 **Alt text (SEO-ready):** Competitive Pricing Optimizer workflow dashboard showing real-time competitor data integration and automated price adjustment triggers on the Uplizd platform.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1464e59b-c805-508b-afcb-6a0073656a6f)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/1464e59b-c805-508b-afcb-6a0073656a6f)
 
 ---
 

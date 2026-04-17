@@ -6,13 +6,13 @@ The Branded Caller ID Trust Agent is an automated workflow designed to manage, v
 ---
 
 ## Demo
-![Branded Caller ID Trust Agent workflow diagram showing the integration between Chat Input, Agent, CallerAPI Toolset, and Chat Output](../image.png)
+![Branded Caller ID Trust Agent workflow diagram showing the integration between Chat Input, Agent, CallerAPI Toolset, and Chat Output](image.png)
 **Alt text (SEO-ready):** Branded Caller ID Trust Agent workflow diagram showing the integration between Chat Input, Agent, CallerAPI Toolset, and Chat Output for verified business communication.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/42a72224-188c-50af-89b9-93cb2ad68c83)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/42a72224-188c-50af-89b9-93cb2ad68c83)
 
 ---
 

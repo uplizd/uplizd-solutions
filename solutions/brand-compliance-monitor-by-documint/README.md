@@ -6,7 +6,7 @@ The Brand Compliance Monitor is an automated AI workflow designed to ensure orga
 ---
 
 ## Demo
-![Brand Compliance Monitor workflow dashboard showing automated document scanning and compliance reporting](../image.png)
+![Brand Compliance Monitor workflow dashboard showing automated document scanning and compliance reporting](image.png)
 **Alt text (SEO-ready):** Brand Compliance Monitor workflow dashboard showing automated document scanning, brand standard enforcement, and Documint integration for Uplizd AI.
 
 ---

@@ -6,13 +6,13 @@ The Affiliate Payment Automation Agent by Uplizd streamlines the end-to-end affi
 ---
 
 ## Demo
-![Affiliate Payment Automation Agent workflow showing Tapfiliate integration and automated payout processing](../image.png)
+![Affiliate Payment Automation Agent workflow showing Tapfiliate integration and automated payout processing](image.png)
 **Alt text (SEO-ready):** Affiliate Payment Automation Agent by Uplizd for automated commission processing, financial data sync, and Tapfiliate integration.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/755b45a9-db87-5ed7-813c-42dfea691094)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/755b45a9-db87-5ed7-813c-42dfea691094)
 
 ---
 

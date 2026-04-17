@@ -6,13 +6,13 @@ The Bulk Certification Manager is an intelligent Uplizd workflow designed to str
 ---
 
 ## Demo
-![Uplizd Bulk Certification Manager workflow interface showing automated data processing and certificate issuance](../image.png)
+![Uplizd Bulk Certification Manager workflow interface showing automated data processing and certificate issuance](image.png)
 **Alt text (SEO-ready):** Uplizd Bulk Certification Manager workflow interface showing automated data processing and certificate issuance, integrating Certifier for high-volume credential management and data synchronization.
 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7fb369dc-6544-5e44-b4e6-d01334ed7c1a)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/7fb369dc-6544-5e44-b4e6-d01334ed7c1a)
 
 ---
 
