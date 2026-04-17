@@ -12,7 +12,7 @@ The Lead Researcher Agent is an Uplizd workflow that turns a handful of identifi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/marketplace/lead-researcher-agent)
 
 ---
 
