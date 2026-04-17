@@ -1,7 +1,76 @@
-# 🚀 Uplizd Solutions Directory
-
-A comprehensive collection of **2,500+ pre-built solution templates** designed to help [Uplizd](https://uplizd.ai) users unlock the full potential of the platform. Whether you're automating workflows, streamlining operations, or supercharging your sales pipeline — there's a template ready for you.
-
+# Uplizd
+ 
+**Build, Connect, Deploy, and Scale True AI Agents on One Unified Infrastructure.**
+ 
+Uplizd is an enterprise-grade AI agent platform that replaces fragmented AI stacks with a unified orchestration layer — so teams can build, deploy, and iterate without becoming their own integration vendor.
+ 
+[![Website](https://img.shields.io/badge/Website-uplizd.ai-blue)](https://uplizd.ai)
+[![Integrations](https://img.shields.io/badge/Integrations-10%2C000%2B-green)](https://uplizd.ai/solutions)
+[![License](https://img.shields.io/badge/License-Proprietary-lightgrey)](https://uplizd.ai/licensing/)
+ 
+---
+ 
+## Why Uplizd?
+ 
+Stop wrestling with fragile stacks. Uplizd gives you:
+ 
+- **Visual & Code Harmony** — Prototype on a visual canvas, or drop into code for full customization.
+- **True Agents, Not Triggers** — Autonomous multi-step reasoning, not if/then automations.
+- **Universal Connectivity** — Integrate your entire stack via MCP and APIs. 10,000+ components ready.
+- **Deploy with Confidence** — Built-in governance, security, and scalability from day one.
+---
+ 
+## Platform Capabilities
+ 
+### Orchestration
+Unified runtime for multi-step and multi-agent workflows with any LLM. Swap providers without rewriting logic. No model lock-in.
+ 
+### Integrations
+Connect your entire stack into a single agentic layer — 10,000+ tools, APIs, and MCP servers across 58 industries. Built-in support for Claude, OpenAI, GPT-4o, Mistral, and custom local models.
+ 
+### Governance
+Enterprise-ready with SSO, human-in-the-loop approvals, RBAC, and audit logs. Built-in compliance and security guardrails for every agent. SOC 2 Type II.
+ 
+### LLM Routing & Caching
+Semantic caching to reduce repeated model calls. Per-team usage budgets for predictable AI spend. Intelligent routing across providers based on cost, latency, and availability.
+ 
+### Observability & Debugging
+Full production traces, p95 latency tracking, error rates, and retry logic — all visible in one place.
+ 
+---
+ 
+## Use Cases
+ 
+| Domain | What Uplizd Does |
+|---|---|
+| **IT Ops** | Enrich tickets, triage alerts by SLA, automate provisioning with full audit context |
+| **Security & Compliance** | Classify findings, generate evidence, handle review gates, maintain immutable audit trails |
+| **RevOps & Sales** | Score and enrich leads, route to reps, generate follow-up drafts, sync to CRM |
+| **Customer Support** | RAG-enabled answers, sentiment-based routing, escalation when AI confidence is low |
+ 
+---
+ 
+## Deployment Options
+ 
+Uplizd runs where your data needs to live:
+ 
+- **Managed Cloud** — Fastest time to value, fully managed by Uplizd.
+- **Private VPC** — Data stays in your own cloud account.
+- **On-Premises** — Ships to your Kubernetes cluster via Helm charts.
+Same product. Same governance. You choose where it runs.
+ 
+---
+ 
+## Integrations
+ 
+10,000+ integrations across 58 industries, including:
+ 
+`OpenAI` `Anthropic` `Cohere` `Mistral` `Salesforce` `HubSpot` `GitHub` `Slack` `Stripe` `AWS` `Jira` `Notion` `PostgreSQL` `MongoDB` `Kafka` `Kubernetes`
+ 
+→ [Browse all integrations](https://uplizd.ai/solutions)
+ 
+Need something custom? [Talk to us](https://uplizd.ai) — we build additional components for your needs.
+ 
 ---
 
 ## 📂 Quick Access Solutions Catalog
@@ -9,7 +78,7 @@ A comprehensive collection of **2,500+ pre-built solution templates** designed t
 Access our most popular solution templates by category:
 
 <details>
-<summary><b>Data (57 solutions)</b></summary>
+<summary><b>Data</b></summary>
 
 - [Invoice Processing Agent](./solutions/invoice-processing-agent)
 - [Compliance Document Processor](./solutions/compliance-document-processor)
@@ -72,7 +141,7 @@ Access our most popular solution templates by category:
 </details>
 
 <details>
-<summary><b>Engineering (22 solutions)</b></summary>
+<summary><b>Engineering</b></summary>
 
 - [A/B Test Visual Documenter](./solutions/ab-test-visual-documenter-by-apiflash)
 - [AI Model Performance Tracker](./solutions/ai-model-performance-tracker-by-apipie-ai)
@@ -100,7 +169,7 @@ Access our most popular solution templates by category:
 </details>
 
 <details>
-<summary><b>Finance (30 solutions)</b></summary>
+<summary><b>Finance</b></summary>
 
 - [Deal Pipeline Manager](./solutions/deal-pipeline-manager)
 - [Deal Opportunity Tracker](./solutions/deal-oppotunity-tracker)
@@ -135,7 +204,7 @@ Access our most popular solution templates by category:
 </details>
 
 <details>
-<summary><b>Legal (17 solutions)</b></summary>
+<summary><b>Legal</b></summary>
 
 - [Accessibility Compliance Generator](./solutions/accessibility-compliance-generator-by-aivoov)
 - [Accessibility Compliance Monitor](./solutions/accessibility-compliance-monitor-by-alttext-ai)
@@ -158,7 +227,7 @@ Access our most popular solution templates by category:
 </details>
 
 <details>
-<summary><b>Marketing (111 solutions)</b></summary>
+<summary><b>Marketing</b></summary>
 
 - [A/B Test Optimizer](./solutions/ab-test-optimizer-by-mixpanel)
 - [A/B Test Performance Analyzer](./solutions/ab-test-performance-analyzer-by-microsoft-clarity)
@@ -275,7 +344,7 @@ Access our most popular solution templates by category:
 </details>
 
 <details>
-<summary><b>Operations (192 solutions)</b></summary>
+<summary><b>Operations</b></summary>
 
 - [Workforce Onboarding Automator](./solutions/workforce-onboarding-automator)
 - [Team Productivity Monitor](./solutions/team-productivity-monitor)
@@ -470,74 +539,7 @@ Access our most popular solution templates by category:
 </details>
 
 <details>
-<summary><b>Other (61 solutions)</b></summary>
-
-- [24/7 Customer Support Chatbot](./solutions/247-customer-support-chatbot-by-botstar)
-- [Account Research Assistant](./solutions/account-research-assistant-by-zoominfo)
-- [AI Model Cost Optimizer](./solutions/ai-model-cost-optimizer-by-apipie-ai)
-- [AI Newsletter Draft Creator](./solutions/ai-newsletter-draft-creator-by-curated)
-- [Apollo Hiring Signal Detector](./solutions/apollo-hiring-signal-detector-by-apollo)
-- [Application Performance Insights Agent](./solutions/application-performance-insights-agent-by-elasticsearch)
-- [ATS Resume Creator](./solutions/ats-resume-creator-ats-aware-by)
-- [Audiobook Production Pipeline](./solutions/audiobook-production-pipeline-by-elevenlabs)
-- [Auto Ticket Triage Agent](./solutions/auto-ticket-triage-agent-by-freshdesk)
-- [Automated Content Cleanup Assistant](./solutions/automated-content-cleanup-assistant-by-ayrshare)
-- [Automated Market Research Agent](./solutions/automated-market-research-agent-by-scrape-do)
-- [Autoresponder Optimizer](./solutions/autoresponder-optimizer-by-dotsimple)
-- [Billing Compliance Checker](./solutions/billing-compliance-checker-by-altoviz)
-- [Brand Reputation Guardian](./solutions/brand-reputation-guardian-by-zenserp)
-- [BTCPay Merchant Onboarding Agent](./solutions/btc-pay-merchant-onboarding-agent-by-btcpay-server)
-- [Bulk Contact Data Processor](./solutions/bulk-contact-data-processor-by-omnisend)
-- [Campaign Performance Optimizer](./solutions/campaign-performance-optimizer-by-emelia)
-- [Certificate Issuer](./solutions/certificate-issuer-by-apitemplate-io)
-- [Certificate Issuer](./solutions/certificate-issuer-by-pdf-api-io)
-- [Company Data Enrichment Agent](./solutions/company-data-enrichment-agent-by-hunter)
-- [Competitive Intelligence Agent](./solutions/competitive-intelligence-agent-by-hunter)
-- [Competitive Intelligence Monitor](./solutions/competitive-intelligence-monitor-by-agentql)
-- [Competitive Intelligence Monitor](./solutions/competitive-intelligence-monitor-by-exa)
-- [Competitive Intelligence Monitor](./solutions/competitive-intelligence-monitor-by-firecrawl)
-- [Competitive Intelligence Monitor](./solutions/competitive-intelligence-monitor-by-linkhut)
-- [Competitive Intelligence Monitor](./solutions/competitive-intelligence-monitor-by-textrazor)
-- [Competitive Intelligence Scout](./solutions/competitive-intelligence-scout-by-yousearch)
-- [Competitive Intelligence Scout](./solutions/competitive-intelligence-scout-by-zenserp)
-- [Competitive Research Monitor](./solutions/competitive-research-monitor-by-semanticscholar)
-- [Competitor Intelligence Agent](./solutions/competitor-intelligence-agent-by-hackernews)
-- [Competitor Intelligence Agent](./solutions/competitor-intelligence-agent-by-serpapi)
-- [Competitor Location Monitor](./solutions/competitor-location-monitor-by-google-maps)
-- [Competitor Price Monitor](./solutions/competitor-price-monitor-by-diffbot)
-- [Competitor Visual Tracker](./solutions/competitor-visual-tracker-by-apiflash)
-- [Competitor Website Monitor](./solutions/competitor-website-monitor-by-browserless)
-- [Compliance Certification Tracker](./solutions/compliance-certification-tracker-by-certifier)
-- [Contact Data Cleanup Agent](./solutions/contact-data-cleanup-agent)
-- [Content Research Assistant](./solutions/content-research-assistant)
-- [CRM Address Data Cleanup Agent](./solutions/crm-address-data-cleanup-agent)
-- [CRM Data Cleaner](./solutions/crm-data-cleaner)
-- [CRM Data Hygiene Manager](./solutions/crm-data-hygiene-manager)
-- [CRM Data Hygienist](./solutions/crm-data-hygienist)
-- [CRM Data Quality Agent Flow](./solutions/crm-data-quality-agent)
-- [CRM Data Sync Agent](./solutions/crm-data-sync-agent)
-- [CRM Data Sync Manager](./solutions/crm-data-sync-manager)
-- [CRM Email Data Quality Monitor](./solutions/crm-email-data-quality-monitor)
-- [CRM Permissions Analyzer](./solutions/crm-permissions-analyzer)
-- [CRM System Health Monitor](./solutions/crm-system-health-monitor)
-- [Deal Opportunity Tracker](./solutions/deal-oppotunity-tracker)
-- [Deal Pipeline Manager](./solutions/deal-pipeline-manager)
-- [Event Attendee Manager](./solutions/event-attendee-manager)
-- [Event Registration Email Checker](./solutions/event-registration-email-checker)
-- [Market Research Assistant](./solutions/market-research-assistant)
-- [Professional Email Clarity Assistant](./solutions/professional-email-clarity-assistant)
-- [Research Insight Synthesizer](./solutions/research-insight-synthesizer)
-- [Smart Task Management Agent](./solutions/smart-task-management-agent)
-- [Team Workload Balancer](./solutions/team-workload-balancer)
-- [Academic Writing Precision Assistant](./solutions/academic-writing-precision-assistant-by-dictionary-api)
-- [Adaptive Learning Curriculum Builder](./solutions/adaptive-learning-curriculum-builder-by-perplexityai)
-- [AI Research Assistant](./solutions/ai-research-assistant-by-perplexityai)
-- [AI-Powered Meeting Scheduler](./solutions/ai-powered-meeting-schedulerwith-g-calendar-by)
-
-</details>
-
-<details>
-<summary><b>Sales (47 solutions)</b></summary>
+<summary><b>Sales</b></summary>
 
 - [Account Expansion Identifier](./solutions/account-expansion-identifier-by-crustdata)
 - [Account Intelligence Gatherer](./solutions/account-intelligence-gatherer-by-dropcontact)
@@ -590,7 +592,7 @@ Access our most popular solution templates by category:
 </details>
 
 <details>
-<summary><b>Support (17 solutions)</b></summary>
+<summary><b>Support</b></summary>
 
 - [Event Registration Email Checker](./solutions/event-registration-email-checker)
 - [Event Attendee Manager](./solutions/event-attendee-manager)
@@ -612,35 +614,23 @@ Access our most popular solution templates by category:
 
 </details>
 
-
-## 📖 What Is This Repository?
-
-This repository serves as a **template catalog** for the Uplizd platform. Each solution is organized into its own directory under [`solutions/`](./solutions/), complete with a dedicated `README.md` containing:
-
-- **Title** — A descriptive name for the solution
-- **Direct Link** — One-click access to the live solution
-- **Description** — A brief summary of what the solution does and how it helps
-
-The goal is to give users a versatile set of starting points so they can quickly discover, explore, and adopt solutions that fit their needs — without building from scratch.
-
+ 
+## Security & Privacy
+ 
+- HIPAA posture documented in Uplizd's privacy policy
+- ISO 27001-aligned security management
+- RBAC with scoped access and isolated environments per team
+- Full audit log with immutable trace for every workflow action
+- SOC 2 Type II certified
+Security documentation and architecture guidance are available during evaluation.
+ 
 ---
-
-## 🗂️ Solution Categories
-
-Templates span a wide range of business functions:
-
-| Category | Examples |
-|---|---|
-| **Sales** | Automated Lead Qualifier, Apollo Lead Qualification Engine, Sales Performance Reporter, ... |
-| **Marketing** | Instagram Content Scheduler, AB Test Optimizer, AI Newsletter Draft Creator, ... |
-| **Operations** | Delivery Route Optimizer, Inventory Barcode Manager, Asset Maintenance Tracker, ... |
-| **Support** | 24/7 Customer Support Assistant, Auto Ticket Triage Agent, Customer Support Bot Manager, ... |
-| **Engineering** | AI Model Benchmarker, CI/CD Compliance Audit Reporter, App Performance Monitor, ... |
-| **Finance** | Automated Tax Calculator, Automated Invoice Generator, Expense Report Automation Agent, ... |
-| **Data** | App Data Backup Manager, CRM Data Cleanup Agent, Data Analysis Automator, ... |
-| **Legal** | Contract Analysis Agent, AI Compliance Audit Assistant, ... |
-| **Product** | Client Onboarding Automator, Customer Feedback Analyzer, Feature Roadmap Agent, ... |
-| **HR** | AI Talent Matching Engine, Automated Employee Onboarding Agent, Employee Performance Tracker, ... |
+ 
+## Getting Started
+ 
+1. **[Start Building](https://uplizd.ai)** — Sign up and launch your first agent on the managed platform.
+2. **[View Integrations](https://uplizd.ai/solutions)** — Browse 10,000+ pre-built components.
+3. **[Talk to Experts](https://uplizd.ai)** — Need an end-to-end application? Our team builds it for you.
 ---
 
 ## 📂 Repository Structure
@@ -659,7 +649,7 @@ solutions-introduction/
 ```
 
 ---
-
+ 
 ## ⚡ Quick Start
 
 ### Browse Solutions
@@ -699,8 +689,9 @@ We welcome contributions! If you have a solution that could be improved or want 
 Contributions of all types are welcome, from minor typo fixes to entirely new solution templates!
 
 ---
+ 
+## License
+ 
+Uplizd is a proprietary platform maintained by [Uplizd](https://uplizd.ai).  
+Please refer to the [licensing terms](https://uplizd.ai/licensing/) for usage rights and deployment options.
 
-## 📄 License
-
-This project is maintained by [Uplizd](https://uplizd.ai). 
-Please refer to the company's [licensing terms](https://uplizd.ai/licensing/) for more information.
