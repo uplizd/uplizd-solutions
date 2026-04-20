@@ -1,136 +1,138 @@
-# Daily Standup Bot (ChatFAI) - Create Immersive AI Narratives
+# Daily Standup Bot (Uplizd) - Automate team syncs and status reporting
 
 ## Summary
-An Uplizd AI workflow designed for game masters, facilitators, and writers to generate immersive, character-accurate roleplay scenarios. By leveraging ChatFAI character data, it creates narrative-consistent situations, plot hooks, and interaction guidelines that stay true to individual character personalities and motivations.
+The Daily Standup Bot is an Uplizd AI workflow designed to streamline team communication by automating the collection, synthesis, and reporting of daily status updates. By integrating directly with your project management and messaging tools, it eliminates manual check-ins, ensures pipeline velocity, and provides a single source of truth for engineering and product teams.
 
 ---
 
 ## Demo
 
-![Uplizd Daily Standup Bot flow analyzing characters and creating narrative plot hooks](../image.png)
+![Uplizd Daily Standup Bot interface showing automated status collection and team summary generation](../image.png)
 
-**Alt text:** Uplizd Daily Standup Bot integrating ChatFAI toolsets to automate character research and scenario generation.
+**Alt text (SEO-ready):** Uplizd Daily Standup Bot automating team status updates and project tracking via Composio integrations and AI workflow.
 
 ---
+
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/18a29d99-f521-5a8d-acf2-0abfe5b02b21/)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/daily-standup-bot/)
 
 ---
+
+## Category
+
+**Primary category:** Team Operations
+
+**Secondary tags:** daily standup, automation, project management, team sync, productivity, composio, ai workflow, status reporting
+
+This solution optimizes team collaboration by transforming fragmented status updates into structured, actionable project insights.
+
+---
+
 ## Who is this for?
-This workflow is built for creative professionals and hobbyists looking to enhance their roleplay and storytelling sessions:
 
-- **Game Masters & Facilitators**
-    - Quickly bootstrap deep, character-driven sessions without hours of manual preparation.
+This workflow is built for fast-moving teams who need to maintain alignment without the overhead of long, manual meetings:
 
-- **Creative Writers & Narrative Designers**
-    - Explore character dynamics, conflicts, and plot possibilities using Al-driven character research.
+- **Engineering Managers**
+    - Gain immediate visibility into blockers and progress without interrupting developer flow.
 
-- **Roleplay Communities & Servers**
-    - Standardize the quality of starter scenarios for new members and ongoing campaigns.
+- **Product Managers**
+    - Aggregate daily progress across multiple workstreams to keep stakeholders informed.
 
-- **Content Creators**
-    - Generate unique interactions and story prompts for audiences and interactive streaming.
+- **Project Leads**
+    - Automatically identify stalled tasks and ensure team resources are allocated effectively.
+
+- **Remote/Distributed Teams**
+    - Standardize asynchronous reporting to bridge time zones and maintain consistent team rhythm.
 
 ---
 
 ## Features
 
-- **Deep Character Research**  
-  Uses the ChatFAI toolset to retrieve comprehensive personality profiles, backgrounds, and traits for any selected character.
+- **Automated Status Collection**
+    - Triggers daily prompts via messaging platforms to gather updates from team members in real-time.
 
-- **Dynamic Interaction Analysis**  
-  Analyzes character data to identify potential conflicts, shared interests, and shared motivations that drive interesting gameplay.
+- **Intelligent Synthesis**
+    - Uses the Agent node to summarize individual updates into a cohesive team report, highlighting key achievements.
 
-- **Immersive Setting Generation**  
-  Creates detailed settings and initial conflicts tailored specifically to the characters involved in the session.
+- **Blocker Identification**
+    - Automatically flags dependencies or issues mentioned in updates, notifying the relevant leads immediately.
 
-- **Structured Plot Hooks**  
-  Generates multiple narrative directions and character-specific goals to ensure the story never stalls.
+- **Seamless CRM/Tool Integration**
+    - Leverages the Composio Toolset to sync status updates directly into project management boards.
 
-- **Dialogue & Mannerism Guidelines**  
-  Provides sample opening dialogue and key behavioral patterns to help facilitators maintain character voice.
-
-- **Comprehensive Facilitation Support**  
-  Offers tips for resolving conflicts and maintaining consistency, ensuring an authentic experience for all participants.
+- **Customizable Reporting Templates**
+    - Tailors the output format to match your team’s preferred structure, whether for Slack, email, or internal dashboards.
 
 ---
 
 ## Use Cases
 
-- **Campaign Kickstart**
-  - Generate a complex starting situation for a group of established characters in a new setting.
-  - Automatically provide GMs with character-specific motivations for the first encounter.
+**Team Alignment & Sync**
+- Automatically compile daily progress reports for the entire engineering department.
+- Ensure all team members are aligned on sprint goals and daily priorities.
 
-- **One-Shot Session Planning**
-  - Quickly produce a self-contained roleplay scenario for temporary events or training exercises.
-  - Ensure even obscure characters are played with narrative accuracy.
+**Blocker Management**
+- Detect and escalate technical blockers mentioned in status updates to prevent project delays.
+- Track the resolution status of flagged issues across multiple work days.
 
-- **Narrative Conflict Resolution**
-  - Use the agent to analyze why two characters might clash and generate plot-driven ways to resolve or escalate the tension.
-  - Maintain historical consistency during long-running campaigns.
+**Project Tracking**
+- Sync daily progress directly into project management tools like Jira or Linear.
+- Generate end-of-week summaries based on the aggregated daily status data.
 
 ---
+
 ## Quick Start
 
 ### 1) Import the Flow into Uplizd
 1. Click the **Run on Uplizd** CTA button above.
-2. On Uplizd, click **Try out**.
-3. Create a new workspace or open an existing workspace.
-4. Ensure all nodes are connected correctly:
-   - **Chat Input**
-   - **ChatFAI - Toolset Nodes**
-   - **Agent**
-   - **Chat Output**
+2. On Uplizd, click **Try out** to clone the template.
+3. Connect your messaging and project management accounts via the integration settings.
+4. Ensure nodes are connected correctly: **Chat Input → Agent → Composio Toolset → Chat Output**.
 
 ### 2) Setup the Nodes
-Verify the workflow structure:
-
-- **Chat Input** → receives character names and scenario requests.
-- **Agent** → coordinates the 4-step generation workflow (Research -> Analysis -> Generation -> Facilitation).
-- **ChatFAI Toolset** → provides the deep character data needed for narrative consistency.
-- **Chat Output** → presents the completed scenario, hooks, and dialogue guidelines.
+- **Chat Input**: Receives raw status updates from team members.
+- **Agent**: Processes text, identifies blockers, and formats the summary.
+- **Composio Toolset**: Connects to your project management tools to log updates.
+- **Chat Output**: Delivers the final synthesized report to your team channel.
 
 ### 3) Run the Flow
-1. Click **Playground** to open Chat Interface.
+1. Click **Playground** to test the bot.
 2. Enter a request such as:
-   - `"Generate a roleplay scenario involving Character A and Character B in a rainy neon city"`
-   - `"Research Character X and give me 3 plot hooks for their first meeting with a rival"`
-   - `"Create an immersive opening dialogue for a fantasy tavern encounter"`
+   - `"Summarize today's standup updates for the frontend team."`
+   - `"Identify all blockers mentioned in the last 24 hours of status updates."`
+   - `"Generate a status report for the current sprint based on recent team inputs."`
 
 ---
 
 ## Configuration
 
 ### 1) Language Model (Agent Node)
-The **Agent** node is pre-configured with a specialized workflow for narrative design and character consistency.
+The Agent acts as the central intelligence for parsing and summarizing team communication.
 
-Recommended instruction pattern:
-- Focus on character motivations and internal conflicts.
-- Ensure settings are descriptive and atmospheric.
-- Maintain the authentic voice and personality traits of all involved characters.
+**Recommended instruction pattern:**
+- Prioritize identifying "blockers" and "next steps" over general progress.
+- Maintain a professional, concise tone suitable for team-wide reporting.
+- Ensure all output is formatted as a structured list for readability.
 
-### 2) ChatFAI Toolset Nodes
-Requires your **Composio API Key** and a synchronized connection to your **ChatFAI** account to access character data.
+### 2) Composio Toolset Node
+Requires your **Composio API Key** and authorized connections to your specific project management and messaging platforms (e.g., Slack, Jira, GitHub).
 
 ### 3) Tool Availability
 The agent can call tools for:
-- Character profile retrieval
-- Trait and motivation analysis
-- Narrative context verification
+- Fetching recent messages from team channels.
+- Updating task status in project management software.
+- Sending summary notifications to designated stakeholders.
 
 ---
 
 ## Related Solutions
 
-* **[CRM Data Sync Manager](../crm-data-sync-manager/README.md)**  
-  Orchestrate and monitor data flows across your entire enterprise tech stack.
+* **[Workflow Health Monitor](../workflow-health-monitor/README.md)**  
+  Track the performance and reliability of your automated team workflows.
 
-* **[Deal Pipeline Manager](../deal-pipeline-manager/README.md)**  
-  Automatically update deal progress and create follow-up tasks for your sales team.
+* **[Action Item Prioritizer](../action-item-prioritizer-by-rootly/README.md)**  
+  Automatically rank and assign tasks based on urgency and team capacity.
 
-* **[Contact Sync Manager](../contact-sync-manager/README.md)**  
-  Maintain accurate team contact information and track membership changes across Chatwork.
-
-* **[Daily Standup Bot](../daily-standup-bot/README.md)**  
-  Create immersive, character-driven narratives and plot hooks using AI research.
+* **[CRM Data Sync Agent](../crm-data-sync-agent/README.md)**  
+  Maintain data consistency across your sales and project management platforms.
