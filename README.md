@@ -11,7 +11,6 @@ Uplizd is an enterprise-grade AI agent platform that replaces fragmented AI stac
 --- 
 
 ![Uplizd](img/landing.png)
-**Alt text (Uplizd):** Build, Connect, Deploy, and Scale True Multiple AI Agents on One Unified Infrastructure. Get Long-term Value.
 
 ---
  
