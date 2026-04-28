@@ -1,6 +1,6 @@
 # Uplizd
  
-**Build, Connect, Deploy, and Scale True AI Agents on One Unified Infrastructure.**
+**Build, Connect, Deploy, and Scale True Multiple AI Agents on One Unified Infrastructure. Get Long-term Value.**
  
 Uplizd is an enterprise-grade AI agent platform that replaces fragmented AI stacks with a unified orchestration layer — so teams can build, deploy, and iterate without becoming their own integration vendor.
  
@@ -8,13 +8,18 @@ Uplizd is an enterprise-grade AI agent platform that replaces fragmented AI stac
 [![Integrations](https://img.shields.io/badge/Integrations-10%2C000%2B-green)](https://uplizd.ai/solutions)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey)](https://uplizd.ai/licensing/)
  
+--- 
+
+![Uplizd](img/landing.png)
+**Alt text (Uplizd):** Build, Connect, Deploy, and Scale True Multiple AI Agents on One Unified Infrastructure. Get Long-term Value.
+
 ---
  
 ## Why Uplizd?
  
 Stop wrestling with fragile stacks. Uplizd gives you:
  
-- **Visual & Code Harmony** — Prototype on a visual canvas, or drop into code for full customization.
+- **Visual & Code** — Prototype on a visual canvas, or drop into code for full customization.
 - **True Agents, Not Triggers** — Autonomous multi-step reasoning, not if/then automations.
 - **Universal Connectivity** — Integrate your entire stack via MCP and APIs. 10,000+ components ready.
 - **Deploy with Confidence** — Built-in governance, security, and scalability from day one.
