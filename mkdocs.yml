@@ -1,0 +1,56 @@
+site_name: Uplizd Solutions
+site_description: Build, connect, and deploy multi-agent AI systems on a unified stack. Connect models and tools via MCP, control cost with caching and budgets, and scale securely from prototype to enterprise.
+site_author: Uplizd
+# Set this to your Pages URL for correct canonicals/sitemap in production, e.g.
+# https://<org-or-user>.github.io/<repo>/solutions/
+site_url: https://uplizd.github.io/uplizd-solutions/
+
+repo_name: uplizd-solutions
+repo_url: https://github.com/uplizd/uplizd-solutions
+edit_uri: ""
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.png
+  language: en
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - awesome-pages
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  generator: false
