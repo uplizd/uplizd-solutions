@@ -15,7 +15,7 @@ The CRM Data Quality Agent is a specialized Uplizd AI workflow that automates th
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/crm-data-quality-agent/)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/f11a0699-75d6-515a-8877-1e1d7a3625ba/)
 
 ---
 

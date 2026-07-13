@@ -12,7 +12,7 @@ The Multi-Site Operations Dashboard by Storeganise provides a centralized, real-
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/multi-site-operations-dashboard-by-storeganise)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/c857e73e-fa29-5e70-adde-d4ce31106adb)
 
 ---
 

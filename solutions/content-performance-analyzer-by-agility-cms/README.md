@@ -12,7 +12,7 @@ The Content Performance Analyzer by Agility CMS is an intelligent Uplizd workflo
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/content-performance-analyzer-by-agility-cms)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/95a2b6a1-a775-5970-a1aa-a187d873dd85)
 
 ---
 

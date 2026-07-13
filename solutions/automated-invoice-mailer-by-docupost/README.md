@@ -12,7 +12,7 @@ The Automated Invoice Mailer by DocuPost is an intelligent Uplizd workflow desig
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/automated-invoice-mailer-by-docupost)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/6a0183ac-640a-5a18-a2d1-2084966826fe)
 
 ---
 

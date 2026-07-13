@@ -12,7 +12,7 @@ The Email Account Compliance Monitor is an intelligent Uplizd AI workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue)](https://uplizd.ai/solutions/email-account-compliance-monitor-by-sendloop)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue)](https://uplizd.ai/solutions/323d833a-9c8b-580b-a208-764cbdc926cb)
 
 ---
 

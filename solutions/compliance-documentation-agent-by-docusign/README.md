@@ -12,7 +12,7 @@ The Compliance Documentation Agent streamlines the collection, verification, and
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/compliance-documentation-agent-by-docusign)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/c7125f6c-f50b-5f00-aada-35e7b8c82805)
 
 ---
 

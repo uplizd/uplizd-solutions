@@ -12,7 +12,7 @@ The Admin User Onboarding Assistant automates the complex process of provisionin
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/admin-user-onboarding-assistant-by-storeganise)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/7a1d9393-dc8b-5ecb-aadc-74b73064c1b1)
 
 ---
 

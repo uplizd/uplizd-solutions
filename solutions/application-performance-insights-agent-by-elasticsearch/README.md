@@ -12,7 +12,7 @@ The Application Performance Insights Agent leverages ElasticSearch data to provi
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/application-performance-insights-agent-by-elasticsearch)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2d6a019a-eec6-577f-be08-f3848237d74e)
 
 ---
 

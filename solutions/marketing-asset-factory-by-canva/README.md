@@ -12,7 +12,7 @@ The Marketing Asset Factory is an intelligent Uplizd workflow that streamlines t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/marketing-asset-factory-by-canva)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/e4649f40-bdec-50b3-b665-af9414d3e315)
 
 ---
 

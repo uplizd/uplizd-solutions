@@ -12,7 +12,7 @@ The Emergency Response Dispatcher is an intelligent Uplizd workflow designed to 
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/emergency-response-dispatcher-by-maintainx)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/e10c8fbf-eb1e-5d0a-9595-043116cefd6f)
 
 ---
 

@@ -12,7 +12,7 @@ The Relationship Mapping Agent is an intelligent Uplizd workflow designed to aut
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/relationship-mapping-agent-by-folk)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/13cc23c6-dc87-56ca-8f31-81583a98faf4)
 
 ---
 

@@ -12,7 +12,7 @@ The BTCPay Merchant Onboarding Agent streamlines the complex process of setting 
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/btc-pay-merchant-onboarding-agent-by-btcpay-server)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/2abc5189-44db-5b53-a774-fef453e8b5f4)
 
 ---
 

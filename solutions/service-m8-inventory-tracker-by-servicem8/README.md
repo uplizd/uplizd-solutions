@@ -12,7 +12,7 @@ The ServiceM8 Inventory Tracker is an intelligent Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/service-m8-inventory-tracker-by-servicem8)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/468ba6e7-15e9-57c9-b429-73e6c1b0ea40)
 
 ---
 

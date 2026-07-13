@@ -12,7 +12,7 @@ The Competitive Ad Intelligence Agent by Adyntel empowers marketing teams to mon
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/competitive-ad-intelligence-agent-by-adyntel)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/4bbc797c-18d4-543f-a3a4-9146b758c467)
 
 ---
 

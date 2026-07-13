@@ -12,7 +12,7 @@ The Autoresponder Optimizer by DotSimple is an AI-driven workflow designed to re
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/autoresponder-optimizer-by-dotsimple)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/7615b461-8889-5269-bfe5-8aadb61fc08b)
 
 ---
 

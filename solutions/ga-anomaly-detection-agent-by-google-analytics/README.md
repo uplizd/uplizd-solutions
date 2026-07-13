@@ -13,7 +13,7 @@ The GA Anomaly Detection Agent is an intelligent workflow designed to monitor Go
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://uplizd.ai/assets/badge/run-on-uplizd.svg)](https://uplizd.ai/solutions/ga-anomaly-detection-agent-by-google-analytics)
+[![Run on Uplizd](https://uplizd.ai/assets/badge/run-on-uplizd.svg)](https://uplizd.ai/solutions/03765906-89f6-5fa3-a5f3-afeb2b05cd87)
 
 ---
 

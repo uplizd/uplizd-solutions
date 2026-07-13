@@ -12,7 +12,7 @@ The Release Coordinator by Jira is an intelligent Uplizd workflow designed to au
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/release-coordinator-by-jira)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/7058a6e5-ac03-53b8-9ef9-84f19339afb8)
 
 ---
 
