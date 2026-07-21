@@ -15,7 +15,7 @@ The Workforce Onboarding Automator is an Uplizd AI workflow designed to simplify
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/09f9c50b-fc7e-5513-8959-62213ddc85a/)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/09f9c50b-fc7e-5513-8959-6f2213ddc85a/)
 
 ---
 

@@ -15,7 +15,7 @@ The Daily Standup Bot is an Uplizd AI workflow designed to streamline team commu
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/daily-standup-bot/)
+[![Run on Uplizd](https://img.shields.io/badge/RUN%20ON%20UPLIZD-blue?style=for-the-badge&logo=lightning)](https://uplizd.ai/solutions/18a29d99-f521-5a8d-acf2-0abfe5b02b21/)
 
 ---
 

@@ -12,7 +12,7 @@ The AI Content Creator Assistant by Gemini is an intelligent workflow designed t
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/ai-content-creator-assistant-by-gemini)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/31d06d42-7f82-5acc-8031-bbafdcc7399c)
 
 ---
 

@@ -12,7 +12,7 @@ The Deal Document Organizer by Zoho Bigin is an intelligent Uplizd workflow that
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/deal-document-organizer-by-zoho-bigin)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/54bfed5c-c5d1-5dea-b524-35a2fd8b6d95)
 
 ---
 

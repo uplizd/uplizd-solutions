@@ -12,7 +12,7 @@ The Smart Monitoring Configurator is an AI-driven workflow that automates the de
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/smart-monitoring-configurator-by-sentry)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/9c3794f6-9019-5d29-bb50-67cc85602872)
 
 ---
 

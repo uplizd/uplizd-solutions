@@ -13,7 +13,7 @@ The Bonsai Cluster Health Monitor is an intelligent Uplizd AI workflow designed 
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/bonsai-cluster-health-monitor)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/ae96b5e2-b6f2-5793-9b3d-c3ea434b6e19)
 
 ---
 

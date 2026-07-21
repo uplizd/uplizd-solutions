@@ -12,7 +12,7 @@ The Customer Tier Migration Agent automates the complex process of upgrading or 
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/customer-tier-migration-agent-by-plain)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/9665de0f-d08b-5fd5-82da-4167a56254b0)
 
 ---
 

@@ -12,7 +12,7 @@ The Action Item Prioritizer is an automated Uplizd AI workflow designed to strea
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/action-item-prioritizer-by-rootly)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/9c26e46c-6caa-5231-81cb-348cfba9709f)
 
 ---
 

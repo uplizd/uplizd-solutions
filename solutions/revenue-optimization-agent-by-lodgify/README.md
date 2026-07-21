@@ -12,7 +12,7 @@ The Revenue Optimization Agent is an intelligent Uplizd workflow designed to hel
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/revenue-optimization-agent-by-lodgify)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/e98889de-2824-5312-9a63-507c947fdaf8)
 
 ---
 

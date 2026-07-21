@@ -13,7 +13,7 @@ The Certificate Issuer (Uplizd) is an automated AI workflow designed to streamli
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/certificate-issuer-by-pdf-api-io)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/c706888a-8cc5-5a66-8ebb-50957444d516)
 
 ---
 

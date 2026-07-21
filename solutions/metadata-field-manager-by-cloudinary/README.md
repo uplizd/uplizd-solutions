@@ -12,7 +12,7 @@ The Metadata Field Manager (Uplizd) is an intelligent automation workflow design
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/metadata-field-manager-by-cloudinary)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/bc466a37-0046-522a-808a-32b6dcb551e1)
 
 ---
 

@@ -12,7 +12,7 @@ The AI Newsletter Draft Creator is an intelligent Uplizd workflow designed to st
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-blue)](https://uplizd.ai/solutions/ai-newsletter-draft-creator-by-curated)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on%20Uplizd-blue)](https://uplizd.ai/solutions/808842df-9df3-5ae1-a8a2-a3e91e9cb137)
 
 ---
 

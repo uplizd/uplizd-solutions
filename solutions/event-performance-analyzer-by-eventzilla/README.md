@@ -13,7 +13,7 @@ The Event Performance Analyzer is an intelligent Uplizd workflow designed to str
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/event-performance-analyzer-by-eventzilla)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/5d2ef298-f793-5b6b-886a-bc567f2f1222)
 
 ---
 

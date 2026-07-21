@@ -12,7 +12,7 @@ The Smart Testimonial Collector is an intelligent Uplizd AI workflow designed to
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/smart-testimonial-collector-by-endorsal)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/828955ed-5387-5d96-bcc4-2f4c0c668651)
 
 ---
 

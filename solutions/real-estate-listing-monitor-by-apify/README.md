@@ -13,7 +13,7 @@ The Real Estate Listing Monitor is an automated Uplizd AI workflow that tracks n
 ---
 
 ## 🚀 Run on Uplizd
-[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/real-estate-listing-monitor-by-apify)
+[![](https://img.shields.io/badge/Run_on-Uplizd-blue)](https://uplizd.ai/solutions/8e2958f0-ccb3-505f-91a3-4798349579e1)
 
 ---
 

@@ -12,7 +12,7 @@ The Email Campaign Compliance Auditor is an intelligent Uplizd workflow designed
 ---
 
 ## 🚀 Run on Uplizd
-[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue)](https://uplizd.ai/solutions/email-campaign-compliance-auditor-by-benchmark-email)
+[![Run on Uplizd](https://img.shields.io/badge/Run%20on-Uplizd-blue)](https://uplizd.ai/solutions/e716b538-c36e-5ce9-823e-b3d13cb0310f)
 
 ---
 

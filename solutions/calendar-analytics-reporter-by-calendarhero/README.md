@@ -13,7 +13,7 @@ The Calendar Analytics Reporter is an intelligent Uplizd workflow that transform
 
 ## 🚀 Run on Uplizd
 
-[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/calendar-analytics-reporter-by-calendarhero)
+[![Run on Uplizd](https://img.shields.io/badge/Run_on-Uplizd-blue?logo=uplizd)](https://uplizd.ai/solutions/b6dd73f0-0f4d-54bc-9b9a-14e3d0366ff7)
 
 ---
 
